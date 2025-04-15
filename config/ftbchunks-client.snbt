@@ -133,30 +133,30 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:squid": true
-			"irons_spellbooks:necromancer": true
-			"minecraft:turtle": true
-			"minecraft:bat": true
-			"minecraft:spider": true
-			"minecraft:witch": true
-			"knightquest:swampman": true
-			"minecraft:chicken": true
-			"minecraft:pufferfish": false
-			"minecraft:tropical_fish": false
 			"darkdoppelganger:dark_doppelganger": true
-			"minecraft:creeper": true
 			"minecraft:salmon": false
 			"creeperoverhaul:ocean_creeper": true
-			"creeperoverhaul:cave_creeper": true
-			"minecraft:glow_squid": true
-			"minecraft:enderman": true
 			"minecraft:cod": false
-			"minecraft:zombie": true
-			"enderzoology:enderminy": true
-			"minecraft:skeleton": true
 			"minecraft:zombie_villager": true
-			"seacreeps:sea_creep": true
+			"minecraft:pufferfish": false
+			"minecraft:chicken": true
+			"minecraft:witch": true
+			"minecraft:enderman": true
+			"minecraft:creeper": true
+			"minecraft:bat": true
+			"minecraft:squid": true
 			"minecraft:sheep": true
+			"minecraft:zombie": true
+			"knightquest:swampman": true
+			"minecraft:spider": true
+			"minecraft:tropical_fish": false
+			"irons_spellbooks:necromancer": true
+			"minecraft:glow_squid": true
+			"creeperoverhaul:cave_creeper": true
+			"minecraft:skeleton": true
+			"minecraft:turtle": true
+			"seacreeps:sea_creep": true
+			"enderzoology:enderminy": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
