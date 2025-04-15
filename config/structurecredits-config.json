@@ -12,6 +12,9 @@
   ],
   "dontShow": [
     "minecraft:plains_village",
-    "minecraft:desert_village"
+    "minecraft:desert_village",
+    "taxbt:structure_trader_ocean",
+    "create_ltab:spruce_structures",
+    "nova_structures:tavern_snowy"
   ]
 }

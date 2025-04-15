@@ -1,0 +1,3 @@
+/kill
+/locate structure adventuredungeons:coldlair
+/tp @s -5760 ~ -464

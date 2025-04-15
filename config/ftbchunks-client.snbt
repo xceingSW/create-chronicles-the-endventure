@@ -133,34 +133,69 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"knightquest:swampman": true
-			"minecraft:zombie": true
-			"enderzoology:wither_witch": true
-			"minecraft:skeleton": true
-			"minecraft:glow_squid": true
-			"minecraft:pig": true
-			"minecraft:cod": false
-			"minecraft:salmon": false
-			"minecraft:sheep": true
-			"seacreeps:sea_creep": true
-			"minecraft:turtle": true
-			"minecraft:witch": true
+			"enderzoology:enderminy": true
+			"creeperoverhaul:cave_creeper": true
 			"minecraft:enderman": true
-			"mobs_of_mythology:kobold_warrior": true
+			"minecraft:zombie": true
+			"minecraft:cow": true
+			"alshanex_familiars:mage_pet": true
+			"minecraft:wolf": true
+			"minecraft:chicken": true
+			"minecraft:llama": true
+			"artifacts:mimic": true
+			"towers_of_chaos:lus": true
+			"minecraft:skeleton_horse": true
+			"minecraft:bat": true
+			"endermanoverhaul:cave_enderman": true
+			"mobs_of_mythology:kobold": true
+			"cataclysm:deepling": true
+			"minecraft:turtle": true
+			"minecraft:glow_squid": true
 			"minecraft:squid": true
+			"minecraft:cod": false
+			"creeperoverhaul:beach_creeper": true
+			"enderzoology:concussion_creeper": true
+			"endermanoverhaul:badlands_enderman": true
+			"minecraft:husk": true
+			"variantsandventures:murk": true
+			"minecraft:wandering_trader": true
+			"enderzoology:infested_zombie": true
+			"minecraft:stray": true
+			"darkdoppelganger:dark_doppelganger": true
+			"knightquest:ghosty": true
+			"cataclysm:deepling_brute": true
+			"minecraft:skeleton": true
+			"minecraft:creeper": true
+			"minecraft:salmon": false
 			"enderzoology:wither_cat": true
 			"minecraft:spider": true
-			"minecraft:tropical_fish": false
-			"minecraft:bat": true
-			"irons_spellbooks:necromancer": true
-			"minecraft:pufferfish": false
-			"darkdoppelganger:dark_doppelganger": true
+			"mobs_of_mythology:kobold_warrior": true
+			"minecraft:rabbit": true
+			"creeperoverhaul:snowy_creeper": true
+			"minecraft:parrot": true
+			"minecraft:dolphin": true
+			"minecraft:allay": true
+			"minecraft:axolotl": true
+			"cataclysm:lionfish": true
+			"minecraft:witch": true
 			"creeperoverhaul:ocean_creeper": true
-			"minecraft:creeper": true
-			"creeperoverhaul:cave_creeper": true
-			"enderzoology:enderminy": true
+			"knightquest:swampman": true
+			"irons_spellbooks:necromancer": true
+			"enderzoology:wither_witch": true
+			"minecraft:villager": true
+			"enderzoology:fallen_knight": true
+			"seacreeps:sea_creep": true
+			"variantsandventures:gelid": true
+			"cataclysm:deepling_angler": true
+			"minecraft:sheep": true
+			"minecraft:tropical_fish": false
+			"minecraft:pufferfish": false
+			"minecraft:fox": true
+			"minecraft:wither_skeleton": true
+			"minecraft:pig": true
+			"seacreeps:deep_sea_creep": true
 			"minecraft:zombie_villager": true
-			"minecraft:chicken": true
+			"minecraft:drowned": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

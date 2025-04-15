@@ -39,13 +39,25 @@
     "modId": "alchemists_garden",
     "version": "9.1"
   },
+  "allthewizardgear-1.21.1-1.1.9.jar": {
+    "modId": "allthewizardgear",
+    "version": "1.21.1-1.1.9"
+  },
   "almanac-1.21.x-neoforge-1.0.2.jar": {
     "modId": "almanac",
     "version": "1.0.2"
   },
+  "alshanex_familiars-1.21.1_v1.1.2_HotFix.jar": {
+    "modId": "alshanex_familiars",
+    "version": "1.21.1_v1.1.2_HotFix"
+  },
   "alternate_current-mc1.21-1.9.0.jar": {
     "modId": "alternate_current",
     "version": "1.9.0"
+  },
+  "amber-neoforge-1.21.1-3.0.0+1.21.1.jar": {
+    "modId": "amber",
+    "version": "3.0.0+1.21.1"
   },
   "AmbientSounds_NEOFORGE_v6.1.8_mc1.21.1.jar": {
     "modId": "ambientsounds",
@@ -175,6 +187,10 @@
     "modId": "bosses_of_mass_destruction",
     "version": "1.3.2"
   },
+  "bonded-neoforge-1.21.1-1.2.2+1.21.1.jar": {
+    "modId": "bonded",
+    "version": "1.2.2+1.21.1"
+  },
   "bookshelf-neoforge-1.21.1-21.1.57.jar": {
     "modId": "bookshelf",
     "version": "21.1.57"
@@ -243,6 +259,10 @@
     "modId": "chipped",
     "version": "4.0.2"
   },
+  "chisel-neoforge-2.0.0+mc1.21.1.jar": {
+    "modId": "chisel",
+    "version": "2.0.0+mc1.21.1"
+  },
   "chunkactivitytracker-neoforge-1.0.1-1.21.1.jar": {
     "modId": "chunkactivitytracker",
     "version": "1.0.1"
@@ -310,14 +330,6 @@
   "coroutil-neoforge-1.21.0-1.3.8.jar": {
     "modId": "coroutil",
     "version": "1.21.0-1.3.8"
-  },
-  "corpse-neoforge-1.21.1-1.1.5.jar": {
-    "modId": "corpse",
-    "version": "1.21.1-1.1.5"
-  },
-  "corpsecurioscompat-1.21.1-NeoForge-2.2.2.jar": {
-    "modId": "corpsecurioscompat",
-    "version": "2.2.2"
   },
   "cosmeticarmorreworked-1.21.1-v1-neoforge.jar": {
     "modId": "cosmeticarmorreworked",
@@ -422,6 +434,10 @@
     "modId": "cristellib",
     "version": "1.2.8"
   },
+  "cryonicconfig-neoforge-1.0.0+mc1.21.4.jar": {
+    "modId": "cryonicconfig",
+    "version": "1.0.0+mc1.21.4"
+  },
   "crystal_chronicles-0.0.5-alpha.jar": {
     "modId": "crystal_chronicles",
     "version": "0.0.5-alpha"
@@ -433,10 +449,6 @@
   "curios-neoforge-9.4.2+1.21.1.jar": {
     "modId": "curios",
     "version": "9.4.2+1.21.1"
-  },
-  "Dangerous NeoForge - 1.21.1 v1.3.2.jar": {
-    "modId": "dangerous",
-    "version": "1.2.1"
   },
   "darkdoppelganger-3.0.1-1.21.1.jar": {
     "modId": "darkdoppelganger",
@@ -557,6 +569,10 @@
     "modId": "enchantmentlevelcapindicator",
     "version": "1.1"
   },
+  "enchantmentmachine-1.21.1-1.1.5-beta.1.jar": {
+    "modId": "enchantmentmachine",
+    "version": "1.1.5-beta.1"
+  },
   "enchdesc-neoforge-1.21.1-21.1.7.jar": {
     "modId": "enchdesc",
     "version": "21.1.7"
@@ -580,10 +596,6 @@
   "EquipmentCompare-1.21.1-neoforge-1.3.13.jar": {
     "modId": "equipmentcompare",
     "version": "1.3.13"
-  },
-  "etheria-0.1.8.jar": {
-    "modId": "etheria",
-    "version": "0.1.8"
   },
   "eventslib-1.0.56.jar": {
     "modId": "eventslib",
@@ -613,6 +625,10 @@
     "modId": "extra_mod_integrations",
     "version": "1.0.2+1.21.1"
   },
+  "extra_weapons-3.5-neoforge-1.21.1.jar": {
+    "modId": "extra_weapons",
+    "version": "3.4.1"
+  },
   "fancymenu_neoforge_3.5.0_MC_1.21.1.jar": {
     "modId": "fancymenu",
     "version": "3.5.0"
@@ -624,6 +640,10 @@
   "FarmersDelight-1.21.1-1.2.7.jar": {
     "modId": "farmersdelight",
     "version": "1.2.7"
+  },
+  "FarmersStructures-1.0.1-1.21.1_neoforge.jar": {
+    "modId": "farmers_structures",
+    "version": "1.0.0"
   },
   "farmingforblockheads-neoforge-1.21.1-21.1.8.jar": {
     "modId": "farmingforblockheads",
@@ -656,6 +676,10 @@
   "foodeffecttooltips+neoforge-1.21.1-1.4.0.jar": {
     "modId": "foodeffecttooltips",
     "version": "1.4.0"
+  },
+  "ForgeConfigAPIPort-v21.1.3-1.21.1-NeoForge.jar": {
+    "modId": "forgeconfigapiport",
+    "version": "21.1.3"
   },
   "FramedBlocks-10.3.1.jar": {
     "modId": "framedblocks",
@@ -709,6 +733,10 @@
     "modId": "guideme",
     "version": "21.1.8"
   },
+  "hearts_bottle-1.0.2-neoforge-1.21.1.jar": {
+    "modId": "hearts_bottle",
+    "version": "1.0.0"
+  },
   "Highlighter-1.21-neoforge-1.1.11.jar": {
     "modId": "highlighter",
     "version": "1.1.11"
@@ -740,6 +768,14 @@
   "immersive_aircraft-1.2.2+1.21.1-neoforge.jar": {
     "modId": "immersive_aircraft",
     "version": "1.2.2+1.21.1"
+  },
+  "immersivecaves-1.4.2-neoforge-1.21.1.jar": {
+    "modId": "immersivecaves",
+    "version": "1.4.2"
+  },
+  "ImmersiveUI-NEOFORGE-0.3.0.jar": {
+    "modId": "immersiveui",
+    "version": "0.3.0"
   },
   "Incendium_1.21.x_v5.4.4.jar": {
     "modId": "incendium",
@@ -854,6 +890,10 @@
     "modId": "melody",
     "version": "1.0.10"
   },
+  "memory_of_the_past-1.6.2-neoforge-1.21.1.jar": {
+    "modId": "memory_of_the_past",
+    "version": "1.6.2"
+  },
   "memorysettings-1.21-5.9.jar": {
     "modId": "memorysettings",
     "version": "5.9"
@@ -873,6 +913,10 @@
   "modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar": {
     "modId": "modernworldcreation",
     "version": "2.0.1"
+  },
+  "modonomicon-1.21.1-neoforge-1.114.1.jar": {
+    "modId": "modonomicon",
+    "version": "1.114.1"
   },
   "molten_vents-1.21.1-2.0.9.jar": {
     "modId": "molten_vents",
@@ -922,6 +966,10 @@
     "modId": "notenoughanimations",
     "version": "1.9.3"
   },
+  "OctoLib-NEOFORGE-0.5.0.1.jar": {
+    "modId": "octolib",
+    "version": "0.5.0.1"
+  },
   "Oh-The-Biomes-Weve-Gone-NeoForge-2.3.13.jar": {
     "modId": "biomeswevegone",
     "version": "2.3.13"
@@ -929,6 +977,10 @@
   "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.10.jar": {
     "modId": "ohthetreesyoullgrow",
     "version": "5.0.10"
+  },
+  "omni_util-1.0.2.jar": {
+    "modId": "omni_util",
+    "version": "1.0.2"
   },
   "OpenBlocksTrophies-1.21-5.1.6.jar": {
     "modId": "obtrophies",
@@ -1030,6 +1082,10 @@
     "modId": "refurbished_furniture",
     "version": "1.0.12"
   },
+  "reinforced_construction-1.1.0-neoforge-1.21.1.jar": {
+    "modId": "reinforced_construction",
+    "version": "1.1.0"
+  },
   "reliquary-1.21.1-2.0.48.1255.jar": {
     "modId": "reliquary",
     "version": "2.0.48"
@@ -1053,6 +1109,10 @@
   "rpg_companions_tiny_dragons-0.0.5-neoforge-1.21.1.jar": {
     "modId": "rpg_companions_tiny_dragons",
     "version": "0.0.5"
+  },
+  "rpg_health_overhaul-1.3-neoforge-1.21.1.jar": {
+    "modId": "rpg_health_overhaul",
+    "version": "1.3"
   },
   "rubinated_nether-1.3.1c.jar": {
     "modId": "rubinated_nether",
@@ -1081,6 +1141,10 @@
   "simpleplanes-1.21.1-5.3.6.jar": {
     "modId": "simpleplanes",
     "version": "5.3.6"
+  },
+  "simplylight-1.5.3+1.21.1-b4.jar": {
+    "modId": "simplylight",
+    "version": "1.5.3"
   },
   "simplyswords-neoforge-1.60.11-1.21.1.jar": {
     "modId": "simplyswords",
@@ -1234,6 +1298,10 @@
     "modId": "terrablender",
     "version": "4.1.0.8"
   },
+  "thaumon-neoforge-2.3.0+1.21.jar": {
+    "modId": "thaumon",
+    "version": "2.3.0+1.21"
+  },
   "the_pillager_legion_-1.7.3-neoforge-1.21.1.jar": {
     "modId": "the_pillager_legion_",
     "version": "1.7.3"
@@ -1250,6 +1318,10 @@
     "modId": "torchmaster",
     "version": "21.1.5-beta"
   },
+  "towers_of_chaos-1.0.1-neoforge-1.21.1.jar": {
+    "modId": "towers_of_chaos",
+    "version": "1.0.0"
+  },
   "TravelersTitles-1.21.1-NeoForge-5.1.3.jar": {
     "modId": "travelerstitles",
     "version": "1.21.1-NeoForge-5.1.3"
@@ -1257,6 +1329,10 @@
   "treasuredistance-1.0.jar": {
     "modId": "treasuredistance",
     "version": "1.0"
+  },
+  "trinketsandbaubles-1.2.3.jar": {
+    "modId": "trinketsandbaubles",
+    "version": "1.2.3"
   },
   "trophymanager-1.21.1-2.2.4.jar": {
     "modId": "trophymanager",
@@ -1313,6 +1389,10 @@
   "yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar": {
     "modId": "yet_another_config_lib_v3",
     "version": "3.6.6+1.21.1-neoforge"
+  },
+  "youre-in-grave-danger-neoforge-2.0.11.jar": {
+    "modId": "yigd",
+    "version": "2.0.11"
   },
   "YungsApi-1.21.1-NeoForge-5.1.4.jar": {
     "modId": "yungsapi",
