@@ -7,14 +7,6 @@
     "modId": "lets_forge_ancient_bricks",
     "version": "20"
   },
-  "accessories-neoforge-1.1.0-beta.35+1.21.1.jar": {
-    "modId": "accessories",
-    "version": "1.1.0-beta.35+1.21.1"
-  },
-  "accessorify-1.3.5+1.21.1.jar": {
-    "modId": "accessorify",
-    "version": "1.3.5"
-  },
   "additional_lights-neoforge-1.21-2.1.9.jar": {
     "modId": "additional_lights",
     "version": "2.1.9"
@@ -66,6 +58,10 @@
   "Archeological-neoforge-1.21.1-1.1.0.jar": {
     "modId": "archeological",
     "version": "1.1.0"
+  },
+  "architectury-13.0.8-neoforge.jar": {
+    "modId": "architectury",
+    "version": "13.0.8"
   },
   "arkane domains neoforge-1.21.1.jar": {
     "modId": "arkane_domains",
@@ -211,9 +207,9 @@
     "modId": "champions",
     "version": "1.21.1-2.1.11.0"
   },
-  "chat_heads-0.13.16-neoforge-1.21.jar": {
+  "chat_heads-0.13.17-neoforge-1.21.jar": {
     "modId": "chat_heads",
-    "version": "0.13.16"
+    "version": "0.13.17"
   },
   "cherishedworlds-neoforge-10.1.1+1.21.1.jar": {
     "modId": "cherishedworlds",
@@ -327,13 +323,13 @@
     "modId": "create_confectionery",
     "version": "1.1.0"
   },
-  "create-dragons-plus-1.3.1.jar": {
+  "create-dragons-plus-1.3.2.jar": {
     "modId": "create_dragons_plus",
-    "version": "1.3.1"
+    "version": "1.3.2"
   },
-  "create-enchantment-industry-2.0.5.jar": {
+  "create-enchantment-industry-2.0.6.jar": {
     "modId": "create_enchantment_industry",
-    "version": "2.0.5"
+    "version": "2.0.6"
   },
   "create-stuff-additions1.21.1_v2.1.0d.jar": {
     "modId": "create_sa",
@@ -637,6 +633,22 @@
     "modId": "framework",
     "version": "0.9.4"
   },
+  "ftb-chunks-neoforge-2101.1.8.jar": {
+    "modId": "ftbchunks",
+    "version": "2101.1.8"
+  },
+  "ftb-library-neoforge-2101.1.12.jar": {
+    "modId": "ftblibrary",
+    "version": "2101.1.12"
+  },
+  "ftb-quests-neoforge-2101.1.8.jar": {
+    "modId": "ftbquests",
+    "version": "2101.1.8"
+  },
+  "ftb-teams-neoforge-2101.1.2.jar": {
+    "modId": "ftbteams",
+    "version": "2101.1.2"
+  },
   "furnitury-2.1704-neoforge-1.21.1.jar": {
     "modId": "furnitury",
     "version": "2.1704-neoforge-1.21.1"
@@ -724,6 +736,10 @@
   "Jade-1.21.1-NeoForge-15.10.0.jar": {
     "modId": "jade",
     "version": "15.10.0+neoforge"
+  },
+  "jei-1.21.1-neoforge-19.21.0.247.jar": {
+    "modId": "jei",
+    "version": "19.21.0.247"
   },
   "jinxedlib-neoforge-1.21.1-1.0.3.jar": {
     "modId": "jinxedlib",
@@ -1014,13 +1030,13 @@
     "modId": "searchables",
     "version": "1.0.2"
   },
-  "showcaseitem-1.21-1.0.1.jar": {
+  "showcaseitem-1.21.1-1.1.0.jar": {
     "modId": "showcaseitem",
-    "version": "1.21-1.0.1"
+    "version": "1.21.1-1.1.0"
   },
-  "simplehats-neoforge-1.21.1-0.4.0.jar": {
-    "modId": "simplehats",
-    "version": "0.4.0"
+  "SimpleDiscordRichPresence-neoforge-87.0.1-build.49+mc1.21.jar": {
+    "modId": "sdrp",
+    "version": "87.0.1-build.49+mc1.21"
   },
   "simpleplanes-1.21.1-5.3.6.jar": {
     "modId": "simpleplanes",
@@ -1078,17 +1094,17 @@
     "modId": "sootychimneys",
     "version": "1.3.3"
   },
-  "sophisticatedbackpacks-1.21.1-3.24.6.1221.jar": {
+  "sophisticatedbackpacks-1.21.1-3.24.7.1223.jar": {
     "modId": "sophisticatedbackpacks",
-    "version": "3.24.6"
+    "version": "3.24.7"
   },
   "sophisticatedbackpackscreateintegration-1.21.1-0.1.0.2.jar": {
     "modId": "sophisticatedbackpackscreateintegration",
     "version": "0.1.0"
   },
-  "sophisticatedcore-1.21.1-1.3.24.947.jar": {
+  "sophisticatedcore-1.21.1-1.3.25.948.jar": {
     "modId": "sophisticatedcore",
-    "version": "1.3.24"
+    "version": "1.3.25"
   },
   "sophisticatedstorage-1.21.1-1.4.19.1118.jar": {
     "modId": "sophisticatedstorage",
@@ -1134,9 +1150,9 @@
     "modId": "supermartijn642corelib",
     "version": "1.1.18+a"
   },
-  "supplementaries-1.21-3.1.5-neoforge.jar": {
+  "supplementaries-1.21-3.1.6-neoforge.jar": {
     "modId": "supplementaries",
-    "version": "1.21-3.1.5"
+    "version": "1.21-3.1.6"
   },
   "survivalhouse-1.2.0-neoforge-1.21.1.jar": {
     "modId": "survivalhouse",
@@ -1170,6 +1186,10 @@
     "modId": "the_pillager_legion_",
     "version": "1.7.3"
   },
+  "too_many_bows-neoforge-1.21-2.0.3.jar": {
+    "modId": "too_many_bows",
+    "version": "1.21-2.0.3"
+  },
   "toofast-1.21.0-0.4.3.5.jar": {
     "modId": "toofast",
     "version": "0.4.3.5"
@@ -1194,7 +1214,7 @@
     "modId": "txnilib",
     "version": "1.0.23"
   },
-  "unofficial_ironspells_1.19.2_1.20.1.jar": {
+  "unofficial_ironspells_1.19.2_1.20.1_1.21.1.jar": {
     "modId": "irons_spells_skill_tree",
     "version": "1.0"
   },
