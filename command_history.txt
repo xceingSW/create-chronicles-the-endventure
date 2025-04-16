@@ -1,3 +1,7 @@
 /kill
 /locate structure adventuredungeons:coldlair
 /tp @s -5760 ~ -464
+/kill
+/locate structure minecraft:village_plains
+/tp @s -8704 ~ -1472
+/locate structure fargostalismans:dungeon2

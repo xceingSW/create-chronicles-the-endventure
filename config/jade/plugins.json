@@ -77,6 +77,10 @@
     "block_properties": false,
     "mod_name": true
   },
+  "iceandfire": {
+    "multipart": true,
+    "dragon": true
+  },
   "balm": {
     "jade": true
   },
@@ -101,8 +105,5 @@
   },
   "camera": {
     "image_frame": true
-  },
-  "corpse": {
-    "corpse": true
   }
 }
