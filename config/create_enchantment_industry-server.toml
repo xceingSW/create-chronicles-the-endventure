@@ -31,15 +31,15 @@
 	#Whether Crushing Wheel killed entities should drop experience.
 	crushingWheelKillDropXp = true
 	#.
-	#Scale for experience dropped from Crushing Wheel killed entities.
-	# Default: 0.3400000035762787
-	# Range: 0.0 ~ 1.0
-	crushingWheelKillDropXpScale = 0.3400000035762787
-	#.
 	#Probability of Crushing Wheel killed entities dropping experience.
 	# Default: 0.30000001192092896
 	# Range: 0.0 ~ 1.0
 	crushingWheelKillDropXpChance = 0.30000001192092896
+	#.
+	#Scale for experience dropped from Crushing Wheel killed entities.
+	# Default: 0.3400000035762787
+	# Range: 0.0 ~ 1.0
+	crushingWheelKillDropXpScale = 0.3400000035762787
 
 		#.
 		#Fine tune the kinetic stats of individual components

@@ -122,8 +122,8 @@
 		compass: true
 		
 		# Enable minimap
-		# Default: true
-		enabled: true
+		# Default: false
+		enabled: false
 		
 		# Show entities on minimap
 		# Default: true
@@ -132,81 +132,7 @@
 		# Show entity heads on minimap
 		# Default: true
 		entity_heads: true
-		entity_icon: {
-			"minecraft:sheep": true
-			"minecraft:iron_golem": true
-			"variantsandventures:gelid": true
-			"cataclysm:deepling_angler": true
-			"seacreeps:sea_creep": true
-			"minecraft:zombie": true
-			"minecraft:wandering_trader": true
-			"minecraft:fox": true
-			"minecraft:spider": true
-			"minecraft:drowned": true
-			"darkdoppelganger:dark_doppelganger": true
-			"minecraft:squid": true
-			"artifacts:mimic": true
-			"minecraft:tropical_fish": false
-			"endermanoverhaul:cave_enderman": true
-			"alchemists_garden:gnome": true
-			"alshanex_familiars:mage_pet": true
-			"minecraft:wither_skeleton": true
-			"minecraft:parrot": true
-			"creeperoverhaul:bamboo_creeper": true
-			"creeperoverhaul:beach_creeper": true
-			"minecraft:creeper": true
-			"minecraft:wolf": true
-			"minecraft:cod": false
-			"minecraft:chicken": true
-			"endermanoverhaul:badlands_enderman": true
-			"minecraft:skeleton_horse": true
-			"minecraft:axolotl": true
-			"alchemists_garden:brown_shroom": true
-			"enderzoology:concussion_creeper": true
-			"cataclysm:deepling_brute": true
-			"knightquest:swampman": true
-			"minecraft:trader_llama": true
-			"enderzoology:infested_zombie": true
-			"minecraft:witch": true
-			"minecraft:pufferfish": false
-			"cataclysm:deepling": true
-			"minecraft:horse": true
-			"minecraft:husk": true
-			"minecraft:enderman": true
-			"minecraft:pig": true
-			"minecraft:stray": true
-			"cataclysm:lionfish": true
-			"creeperoverhaul:cave_creeper": true
-			"knightquest:ghosty": true
-			"minecraft:cow": true
-			"minecraft:rabbit": true
-			"enderzoology:wither_witch": true
-			"minecraft:dolphin": true
-			"mobs_of_mythology:kobold_warrior": true
-			"creeperoverhaul:ocean_creeper": true
-			"minecraft:salmon": false
-			"creeperoverhaul:snowy_creeper": true
-			"towers_of_chaos:lus": true
-			"minecraft:zombie_villager": true
-			"minecraft:llama": true
-			"enderzoology:fallen_mount": true
-			"variantsandventures:murk": true
-			"enderzoology:fallen_knight": true
-			"enderzoology:enderminy": true
-			"minecraft:turtle": true
-			"minecraft:glow_squid": true
-			"mobs_of_mythology:kobold": true
-			"minecraft:cat": true
-			"irons_spellbooks:necromancer": true
-			"minecraft:bat": true
-			"minecraft:villager": true
-			"minecraft:allay": true
-			"minecraft:skeleton": true
-			"creeperoverhaul:dripstone_creeper": true
-			"seacreeps:deep_sea_creep": true
-			"variantsandventures:thicket": true
-			"enderzoology:wither_cat": true
-		}
+		entity_icon: { }
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
 		# Default: 0.5

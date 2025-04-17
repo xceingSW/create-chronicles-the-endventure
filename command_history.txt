@@ -5,3 +5,15 @@
 /locate structure minecraft:village_plains
 /tp @s -8704 ~ -1472
 /locate structure fargostalismans:dungeon2
+/motp reset Volumia
+/motp add level Volumia 5
+/motp reset
+/motp add level Volumia 5
+/motp reset
+/motp add level Volumia 20
+/motp reset
+/motp add level Volumia 20
+/motp add level Volumia 50
+/motp reset Volumia
+/motp add level Volumia 50
+/motp reset Volumia
