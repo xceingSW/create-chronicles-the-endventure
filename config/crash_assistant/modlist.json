@@ -3,10 +3,6 @@
     "modId": "neoforge",
     "version": "neoforge-21.1.147"
   },
-  "[NeoForge] mythsandlegends-0.0.5.1.jar": {
-    "modId": "mythsandlegends",
-    "version": "0.0.5.1"
-  },
   "AdvancementPlaques-1.21.1-neoforge-1.6.8.jar": {
     "modId": "advancementplaques",
     "version": "1.6.8"
@@ -203,17 +199,9 @@
     "modId": "create_pattern_schematics",
     "version": "2.0.6"
   },
-  "create_things_and_misc-4.0-neoforge-1.21.1.jar": {
-    "modId": "create_things_and_misc",
-    "version": "1.0.0"
-  },
   "create_winery-1.6.0-neoforge-1.21.1.jar": {
     "modId": "create_winery",
     "version": "1.6.0"
-  },
-  "createchromaticreturn-1.0.1-neoforge-1.21.1.jar": {
-    "modId": "createchromaticreturn",
-    "version": "1.0.0"
   },
   "createcompounds-1.21.1-NeoForge-1.0.0.jar": {
     "modId": "createcompounds",
@@ -222,9 +210,6 @@
   "createmechanisms-2.1.0.jar": {
     "modId": "createmechanisms",
     "version": "2.1.0"
-  },
-  "createoreexcavation-1.21-1.6.2.jar": {
-    "modId": "createoreexcavation"
   },
   "createteleporters2.4-1.21.1.jar": {
     "modId": "createteleporters",
@@ -349,10 +334,6 @@
   "ftb-teams-neoforge-2101.1.2.jar": {
     "modId": "ftbteams",
     "version": "2101.1.2"
-  },
-  "garnished-2.1.2+1.21.1-neoforged.jar": {
-    "modId": "garnished",
-    "version": "2.1.2"
   },
   "geckolib-neoforge-1.21.1-4.7.5.1.jar": {
     "modId": "geckolib",
@@ -590,10 +571,6 @@
     "modId": "rpg_health_overhaul",
     "version": "1.3"
   },
-  "rustic_engineer-1.1.1-neoforge-1.21.1.jar": {
-    "modId": "rustic_engineer",
-    "version": "1.1.1"
-  },
   "Searchables-neoforge-1.21.1-1.0.2.jar": {
     "modId": "searchables",
     "version": "1.0.2"
@@ -605,10 +582,6 @@
   "SimpleDiscordRichPresence-neoforge-87.0.1-build.49+mc1.21.jar": {
     "modId": "sdrp",
     "version": "87.0.1-build.49+mc1.21"
-  },
-  "simpleplanes-1.21.1-5.3.6.jar": {
-    "modId": "simpleplanes",
-    "version": "5.3.6"
   },
   "skinlayers3d-neoforge-1.7.5-mc1.21.jar": {
     "modId": "skinlayers3d",
