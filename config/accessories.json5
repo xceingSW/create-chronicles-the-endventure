@@ -4,13 +4,13 @@
 		"equipControl": "MUST_NOT_CROUCH",
 		"forceNullRenderReplacement": false,
 		"disableEmptySlotScreenError": false,
-		"showCosmeticAccessories": true,
+		"showCosmeticAccessories": false,
 		"disabledDefaultRenders": []
 	},
 	"screenOptions": {
 		"selectedScreenType": "EXPERIMENTAL_V1",
 		"showUnusedSlots": false,
-		"allowSlotScrolling": true,
+		"allowSlotScrolling": false,
 		"inventoryButtonOffset": {
 			"x": 66,
 			"y": 8
@@ -20,19 +20,19 @@
 			"y": 6
 		},
 		"isDarkMode": false,
-		"showEquippedStackSlotType": true,
+		"showEquippedStackSlotType": false,
 		"entityLooksAtMouseCursor": false,
-		"allowSideBarCraftingGrid": true,
-		"showGroupTabs": true,
+		"allowSideBarCraftingGrid": false,
+		"showGroupTabs": false,
 		"hoveredOptions": {
-			"brightenHovered": true,
-			"cycleBrightness": true,
+			"brightenHovered": false,
+			"cycleBrightness": false,
 			"line": false,
 			"clickbait": false
 		},
 		"unHoveredOptions": {
-			"renderUnHovered": true,
-			"darkenUnHovered": true,
+			"renderUnHovered": false,
+			"darkenUnHovered": false,
 			"darkenedBrightness": 0.5,
 			"darkenedOpacity": 1.0
 		}
