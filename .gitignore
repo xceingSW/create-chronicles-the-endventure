@@ -43,6 +43,7 @@ win_event*
 
 # files
 cherishedworlds-favorites.dat
+command_history.txt
 .curseclient
 usernamecache.json
 usercache.json
