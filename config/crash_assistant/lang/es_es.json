@@ -7,6 +7,7 @@
   "warnings.lib_gl_programmability": "$DEFAULT",
   "gui.oops": "$DEFAULT",
   "warnings.disk_space_ended": "$DEFAULT",
+  "warnings.rubidium": "$DEFAULT",
   "msg.removed_mods": "$DEFAULT",
   "gui.codex_logs_analyser": "$DEFAULT",
   "commands.crash_command_validation_failed": "$DEFAULT",

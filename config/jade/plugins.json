@@ -52,6 +52,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "apothic_spawners": {
+    "spawner": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,
@@ -69,5 +72,17 @@
     "registry_name": "OFF",
     "block_properties": false,
     "mod_name": true
+  },
+  "apotheosis": {
+    "adventure": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "balm": {
+    "jade": true
+  },
+  "apothic_enchanting": {
+    "ench": true
   }
 }

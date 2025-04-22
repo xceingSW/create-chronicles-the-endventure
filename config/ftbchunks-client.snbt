@@ -122,7 +122,7 @@
 		compass: true
 		
 		# Enable minimap
-		# Default: true
+		# Default: false
 		enabled: true
 		
 		# Show entities on minimap
@@ -133,25 +133,26 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
+			"minecraft:zombie_villager": true
+			"minecraft:zombie": true
 			"minecraft:armadillo": true
+			"minecraft:chicken": true
+			"minecraft:cow": true
+			"minecraft:witch": true
+			"minecraft:squid": true
+			"irons_spellbooks:necromancer": true
+			"minecraft:iron_golem": true
+			"irons_spellbooks:archevoker": true
+			"minecraft:spider": true
+			"minecraft:glow_squid": true
 			"minecraft:drowned": true
 			"minecraft:creeper": true
-			"minecraft:salmon": false
-			"minecraft:iron_golem": true
-			"minecraft:squid": true
-			"minecraft:zombie_villager": true
-			"minecraft:spider": true
-			"minecraft:sheep": true
-			"minecraft:chicken": true
 			"minecraft:enderman": true
-			"minecraft:bat": true
+			"minecraft:sheep": true
 			"minecraft:skeleton": true
-			"irons_spellbooks:necromancer": true
-			"irons_spellbooks:archevoker": true
+			"minecraft:salmon": false
 			"minecraft:pig": true
-			"minecraft:zombie": true
-			"minecraft:cow": true
-			"minecraft:glow_squid": true
+			"minecraft:bat": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
