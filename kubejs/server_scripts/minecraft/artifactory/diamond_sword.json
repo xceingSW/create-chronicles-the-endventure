@@ -1,0 +1,30 @@
+{
+  "slots_used": 4,
+  "attunement_levels": [
+    {
+      "modifications": [
+        "invulnerable",
+        "unbreakable",
+        "attribute/minecraft:generic.attack_damage/addition/5/mainhand"
+      ],
+      "requirements": {
+        "items": ["minecraft:diamond_sword", "minecraft:diamond#10", "minecraft:nether_star"]
+      }
+    },
+    {
+      "modifications": [
+        "soulbound",
+        "attribute/minecraft:generic.attack_speed/multiply_base/.5/mainhand",
+        "attribute/minecraft:generic.attack_damage/addition/7/mainhand"
+      ],
+      "requirements": {
+        "xpLevelsConsumed": 45,
+        "xpLevelThreshold": 55,
+        "items": ["minecraft:dragon_egg"]
+      }
+    }
+  ],
+  "use_without_attunement": false,
+  "chance": 0.4,
+  "replace": true
+}
