@@ -55,6 +55,10 @@
   "apothic_spawners": {
     "spawner": true
   },
+  "exposure": {
+    "lightroom": true,
+    "photograph_frame": true
+  },
   "jade_access": {
     "held_item": true,
     "sign": true,
@@ -84,6 +88,9 @@
   },
   "astages": {
     "block_component_provider": true
+  },
+  "camera": {
+    "image_frame": true
   },
   "balm": {
     "jade": true
