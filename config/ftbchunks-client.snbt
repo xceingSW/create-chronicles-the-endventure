@@ -133,76 +133,76 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:ravager": true
-			"minecraft:cave_spider": true
-			"minecraft:parrot": true
-			"minecraft:skeleton": true
-			"minecraft:cat": true
-			"minecraft:silverfish": true
-			"minecraft:armadillo": true
-			"irons_spellbooks:archevoker": true
-			"irons_spellbooks:pyromancer": true
-			"minecraft:pufferfish": false
-			"cataclysm:coralssus": true
-			"minecraft:illusioner": true
-			"minecraft:salmon": false
-			"minecraft:wither_skeleton": true
-			"minecraft:wolf": true
-			"irons_spellbooks:apothecarist": true
-			"minecraft:chicken": true
-			"biomeswevegone:pumpkin_warden": true
-			"minecraft:bogged": true
-			"minecraft:bee": true
-			"minecraft:squid": true
-			"minecraft:polar_bear": true
-			"minecraft:rabbit": true
-			"minecraft:zombie": true
 			"cataclysm:deepling_angler": true
-			"minecraft:pig": true
-			"minecraft:creeper": true
-			"minecraft:panda": true
-			"cataclysm:deepling_warlock": true
-			"cataclysm:deepling_brute": true
-			"irons_spellbooks:necromancer": true
-			"irons_spellbooks:cryomancer": true
-			"minecraft:evoker": true
-			"minecraft:enderman": true
-			"minecraft:donkey": true
-			"minecraft:cod": false
-			"irons_spellbooks:priest": true
-			"minecraft:frog": true
-			"minecraft:llama": true
-			"minecraft:drowned": true
-			"cataclysm:lionfish": true
-			"minecraft:dolphin": true
-			"artifacts:mimic": true
-			"minecraft:sheep": true
-			"minecraft:wandering_trader": true
-			"minecraft:allay": true
-			"minecraft:horse": true
-			"minecraft:turtle": true
-			"minecraft:goat": true
-			"minecraft:bat": true
-			"minecraft:villager": true
+			"minecraft:cave_spider": true
+			"minecraft:cat": true
+			"minecraft:stray": true
 			"minecraft:spider": true
-			"minecraft:fox": true
-			"minecraft:witch": true
-			"minecraft:cow": true
-			"minecraft:elder_guardian": true
 			"minecraft:husk": true
 			"minecraft:slime": true
+			"minecraft:evoker": true
+			"minecraft:chicken": true
 			"cataclysm:deepling_priest": true
-			"minecraft:glow_squid": true
 			"minecraft:tropical_fish": false
 			"biomeswevegone:oddion": true
-			"cataclysm:deepling": true
-			"minecraft:iron_golem": true
-			"minecraft:guardian": true
+			"minecraft:frog": true
+			"irons_spellbooks:priest": true
+			"artifacts:mimic": true
+			"minecraft:parrot": true
 			"minecraft:zombie_villager": true
+			"minecraft:villager": true
+			"minecraft:polar_bear": true
+			"minecraft:zombie": true
+			"minecraft:glow_squid": true
+			"minecraft:llama": true
+			"minecraft:drowned": true
+			"minecraft:squid": true
+			"minecraft:salmon": false
+			"irons_spellbooks:cryomancer": true
+			"cataclysm:deepling_brute": true
+			"minecraft:wolf": true
 			"minecraft:axolotl": true
-			"minecraft:stray": true
-			"minecraft:pillager": true
+			"minecraft:bogged": true
+			"irons_spellbooks:apothecarist": true
+			"cataclysm:coralssus": true
+			"minecraft:cod": false
+			"minecraft:panda": true
+			"minecraft:allay": true
+			"minecraft:cow": true
+			"cataclysm:deepling_warlock": true
+			"minecraft:skeleton": true
+			"minecraft:iron_golem": true
 			"minecraft:vindicator": true
+			"minecraft:pillager": true
+			"minecraft:creeper": true
+			"minecraft:bat": true
+			"minecraft:bee": true
+			"minecraft:horse": true
+			"minecraft:witch": true
+			"minecraft:enderman": true
+			"cataclysm:deepling": true
+			"minecraft:turtle": true
+			"minecraft:rabbit": true
+			"minecraft:fox": true
+			"minecraft:wither_skeleton": true
+			"minecraft:wandering_trader": true
+			"minecraft:guardian": true
+			"irons_spellbooks:archevoker": true
+			"minecraft:pig": true
+			"cataclysm:lionfish": true
+			"minecraft:pufferfish": false
+			"minecraft:elder_guardian": true
+			"minecraft:illusioner": true
+			"minecraft:ravager": true
+			"irons_spellbooks:pyromancer": true
+			"minecraft:donkey": true
+			"minecraft:sheep": true
+			"minecraft:goat": true
+			"irons_spellbooks:necromancer": true
+			"minecraft:armadillo": true
+			"minecraft:silverfish": true
+			"biomeswevegone:pumpkin_warden": true
+			"minecraft:dolphin": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
