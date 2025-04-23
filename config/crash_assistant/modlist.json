@@ -223,10 +223,6 @@
     "modId": "create_sa",
     "version": "2.1.0."
   },
-  "create_ltab-2.7.0.jar": {
-    "modId": "create_ltab",
-    "version": "2.7.0"
-  },
   "createaddition-1.4.2.jar": {
     "modId": "createaddition"
   },
@@ -333,6 +329,14 @@
     "modId": "ferritecore",
     "version": "7.0.2"
   },
+  "formations-1.0.3-neoforge-mc1.21.jar": {
+    "modId": "formations",
+    "version": "1.0.3"
+  },
+  "formationsnether-1.0.5-mc1.21+.jar": {
+    "modId": "formationsnether",
+    "version": "1.0.5"
+  },
   "ftb-chunks-neoforge-2101.1.8.jar": {
     "modId": "ftbchunks",
     "version": "2101.1.8"
@@ -392,6 +396,10 @@
   "Iceberg-1.21.1-neoforge-1.3.2.jar": {
     "modId": "iceberg",
     "version": "1.3.2"
+  },
+  "illagersweararmor-1.21-2.3.1.jar": {
+    "modId": "illagersweararmor",
+    "version": "2.3.1"
   },
   "ImmediatelyFast-NeoForge-1.6.5+1.21.1.jar": {
     "modId": "immediatelyfast",
@@ -489,6 +497,14 @@
   "memorysettings-1.21-5.9.jar": {
     "modId": "memorysettings",
     "version": "5.9"
+  },
+  "mes-1.3.5-1.21.jar": {
+    "modId": "mes",
+    "version": "1.3.5-1.21"
+  },
+  "mns-1.0.8-1.21.jar": {
+    "modId": "mns",
+    "version": "1.0.8-1.21"
   },
   "modernfix-neoforge-5.21.0+mc1.21.1.jar": {
     "modId": "modernfix",
@@ -714,10 +730,6 @@
     "modId": "starterkit",
     "version": "7.4"
   },
-  "Structory_1.21.x_v1.3.10.jar": {
-    "modId": "structory",
-    "version": "1.3.10"
-  },
   "structures_tweaker-1.21.1-NeoForge-1.2.1.jar": {
     "modId": "structures_tweaker",
     "version": "1.2.1"
@@ -729,10 +741,6 @@
   "supplementaries-1.21-3.1.7-neoforge.jar": {
     "modId": "supplementaries",
     "version": "1.21-3.1.7"
-  },
-  "t_and_t-neoforge-fabric-1.13.2.jar": {
-    "modId": "t_and_t",
-    "version": "1.13.2"
   },
   "takesapillage-neoforge-mc1.21.1-1.0.6.jar": {
     "modId": "takesapillage",
@@ -765,6 +773,10 @@
   "usefulhats-neoforge-1.21.1-6.5.1.1.jar": {
     "modId": "usefulhats",
     "version": "1.21.1-6.5.1.1"
+  },
+  "villagesandpillages-neoforge-mc1.21.1-1.0.3.jar": {
+    "modId": "villagesandpillages",
+    "version": "1.0.3"
   },
   "VisualWorkbench-v21.1.0-1.21.1-NeoForge.jar": {
     "modId": "visualworkbench",
