@@ -37,6 +37,7 @@ servers.*
 user-prefs.json
 /data/
 /resourcepacks/
+/xaero/
 win_event*
 
 

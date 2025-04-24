@@ -132,7 +132,15 @@
 		# Show entity heads on minimap
 		# Default: true
 		entity_heads: true
-		entity_icon: { }
+		entity_icon: {
+			"eternal_starlight:nightfall_spider": true
+			"eternal_starlight:ent": true
+			"minecraft:bat": true
+			"eternal_starlight:ratlin": true
+			"eternal_starlight:shadow_snail": true
+			"eternal_starlight:lonestar_skeleton": true
+			"eternal_starlight:tower_squid": true
+		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
 		# Default: 0.5

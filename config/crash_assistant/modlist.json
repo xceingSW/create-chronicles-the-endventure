@@ -255,10 +255,6 @@
     "modId": "create_sa",
     "version": "2.1.0."
   },
-  "Create_Desires-2-Dreams-1.21.1-2.0.0.jar": {
-    "modId": "create_d2d",
-    "version": "2.0.0"
-  },
   "create_mechanical_extruder-1.21.1-2.0.5-6.0.4.jar": {
     "modId": "create_mechanical_extruder",
     "version": "1.21.1-2.0.5-6.0.4"
@@ -344,6 +340,10 @@
   "entityculling-neoforge-1.7.4-mc1.21.jar": {
     "modId": "entityculling",
     "version": "1.7.4"
+  },
+  "eternalstarlight-0.4.2-hotfix+1.21.1+neoforge.jar": {
+    "modId": "eternal_starlight",
+    "version": "0.4.2-hotfix+1.21.1+neoforge"
   },
   "exposure-neoforge-1.21.1-1.9.2.jar": {
     "modId": "exposure",
