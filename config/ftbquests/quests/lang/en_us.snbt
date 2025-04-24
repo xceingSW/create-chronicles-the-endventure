@@ -1,0 +1,703 @@
+{
+	chapter.00B2BB3A1CF3EA69.title: "Chapter X: Applied Energetics 2"
+	chapter.1DBBA282D8932456.title: "Chapter VIII: Building The Rocket"
+	chapter.20497405FCFCFADA.title: "Chapter VII: Infernal Mechanism"
+	chapter.38FE3E0C86FF237B.title: "Chapter V: Steel Mechanism"
+	chapter.53FAA75157389DE5.title: "&eThe End"
+	chapter.6183184A27691A5F.title: "Chapter IX: Calculation Mechanism"
+	chapter.77CB82601BCDCA86.title: "aewe"
+	chapter_group.20996729F10511FA.title: "oldcro"
+	quest.01B1F88F57961B10.quest_desc: [
+		"If you want to make a base outside Earth, you'll need &4Oxygen.&r&l"
+		""
+		"The &6Oxygen Distributor&r is a machine that distributes oxygen in a sealed room. When given water and power, it automatically distributes oxygen."
+		""
+		"The &bWater Pump&r pumps water from an infinite water source below it into the Distributor."
+	]
+	quest.01B1F88F57961B10.title: "Oxygen for your Bases!"
+	quest.02DE3FA28CBAE857.quest_desc: ["The eye of a greedy king faded in solitude. Legend says it will bring infinite fortune to its owner"]
+	quest.02DE3FA28CBAE857.quest_subtitle: "Found in Pillager Outposts"
+	quest.06252C87B61A19F3.quest_desc: [
+		"Before you can carry out an auto-crafting job, you need a device to actually store the request itself along with any interim items for multi-step crafts. This device is known as a &ecrafting CPU&f."
+		""
+		"A crafting CPU is a multiblock structure requiring at least one &bCrafting Storage&f block, optionally along with any other Crafting Unit. The multiblock can be made in any size, but must be a solid cuboid in order to form and function accordingly."
+	]
+	quest.06252C87B61A19F3.quest_subtitle: "Download more RAM"
+	quest.0730951B2B34EA50.quest_desc: [
+		"&6The Encased Mirror&r lets you change the direction of the Light Ray. "
+		""
+		"You can rotate the Encased Mirror to choose the direction you wish the Light Ray to be redirected to. "
+	]
+	quest.078DF329C409A210.quest_desc: [
+		"&6The Optical Source&r transforms &cRotational Power&r into&6 Light rays. &r"
+		""
+		"You can use these Light Rays to transfer Rotational Power optically or to transfer Redstone Signal Optically as well."
+		""
+		"There are 4 types of Light Rays depending on the RPM speed the Optical Source is receiving, with only 1 of the rays being visible."
+		""
+		"&nThe 4 types are:&r"
+		"1-4 RPM = Radio Waves (128 block range) Invisible; "
+		"5 - 16 RPM = Microwave (96 block range) Invisible;"
+		"17 - 64 RPM = Visible Light (64 block range) Visible;"
+		"65 + = Gamma Ray (32 block range) Invisible and deals damage."
+		""
+		"The Light rays can pass Glass Blocks but cannot pass Tinted Glass. Placing a colored Glass in front of the Visible Light, will turn the ray into the color of the glass."
+		""
+		"Also only the Gamma Rays can pass through the Player and Mobs, any other kind of Light Ray will be blocked if a Player/Mob stands in front of it."
+		""
+		"You also have an option to change the Polarization of the Light Ray, the basics of this is that changing this setting will affect how the Light Rays interact with certain blocks."
+	]
+	quest.07FDCB535DE4C4BA.quest_desc: [
+		"&6The Optical Receptor&r converts the &bLight Rays&r that output from the Optical Source back into &dRotational Power&r."
+		""
+		"You need to use an&c Optical Device&r on the &6Optical Receptor&r &nby right-clicking&r with the &cOptical Device&r on the Optical Receptor for it to receive the &bLight Rays.&r"
+	]
+	quest.08277642FD16A56E.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.086223FF8861479F.quest_desc: [
+		"If you're planning to go to space, you'll need a new set of gear for the journey."
+		""
+		"For your first trip to the &3Moon&r, you'll need to make a full&n&a Space Suit.&r&r The &3Moon&r is cold and lacks oxygen, so without a suit, you won't last long."
+		""
+		"To craft &n&cpolymer plates&r&r, the materials can be found in the &aToxic Caves&r from Alex's Caves."
+		""
+		"{ \"text\": \"☞ Click here to learn more.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"52034A3AD5A347C8\" } }"
+	]
+	quest.086223FF8861479F.title: "&aSuiting Up&r"
+	quest.089899282C7F87E4.quest_desc: [
+		"An important concept within AE2 is a technique known as \"&esubnetting&f\", wherein an extra separate ME network (a &esubnetwork&f) acts in conjuction with the main network to perform some specialised function or process."
+		""
+		"What separates a subnetwork from a completely detached separate network is usually the use of the &bQuartz Fiber&f as a cable part. When placed between two otherwise unconnected lengths of cable, the Quartz Fiber transfers no data or channels between the two whatsoever, instead only transmitting power."
+		""
+		"Thus, a subnetwork on the other side of the Fiber can be powered wholly by the main network's power source, without requiring any extra dedicated powergen."
+	]
+	quest.089899282C7F87E4.title: "Forgot to Mention"
+	quest.09C33BB3342632B4.quest_desc: [
+		"In &eThe End&r, you'll find the final boss of Vanilla Minecraft: The &5Ender Dragon&r."
+		""
+		"At the top of each pillar of Obsidian, you'll find an End Crystal that heals the Dragon. Make sure to take those out first! They also do a lot of damage, so make sure to create some distance!"
+		""
+		"Once defeated, a &dDragon Egg&r spawns at the top of the Exit Portal. This cannot be mined like normal blocks, but is affected by gravity. :)"
+	]
+	quest.09C33BB3342632B4.quest_subtitle: "It is time to face the mighty Ender Dragon"
+	quest.09C33BB3342632B4.title: "Enter &ethe end&f"
+	quest.0A6EBBE5CD80EF14.quest_desc: ["Without this eye, the Evoker has no power"]
+	quest.0A6EBBE5CD80EF14.quest_subtitle: "Dropped by Evokers"
+	quest.0AB740B18E5FA805.quest_desc: [
+		"&6The Blast Furnace&r is a multi block machine. Make sure to use the ponder function (pressing W) to see how to build the Blast Furnace."
+		""
+		"If it doesn't work, try breaking the blast furnace output and placing it again. If this still doesn't work, you might be doing something wrong."
+		""
+		"&l&6Tip:&r&r You will generate two types of liquids, Molten Slag and Molten Steel. An easy way to separate them is by using just one Smart Pipe and a List Filter. Using JEI (Just Enough Items) search function, you can drag an item, for example the Molden Steel Bucket into the List Filter and then place the List Filter in the Smart Pipe Filter. This way you can separate both liquids without needing to actually have them first."
+		""
+		"&l&cTroubleshoot:&r&r This multiblock machine might become your arch-enemy. If it doesn’t work after you build like the Ponder (W) tells you. Don’t worry, just break the \"Blast Furnace Output\" block and place it again. If it still doesn’t work, try building it at a different location.  "
+		""
+		"&l&dAutomation Tip:&r&r This machine is a bit tricky to automate. You should use a &9Threshold Switch&r under the Blast Furnace Output and place a Blasting Mixture in the filter slot. Then fine tune the percentage of the Threshold to the following: 20% on the top to turn on the signal and 5% on the bottom to turn off the signal (see the img below). If you input more than 64 items into the Blast Furnace they will be lost.      "
+		""
+		"{image:kubejs:textures/blastfurnace.png width:100 height:100 align:center}"
+		""
+		"{image:kubejs:textures/blastfurnace_switch.png width:130 height:48 align:center}"
+	]
+	quest.0AB740B18E5FA805.title: "Build a blast furnace"
+	quest.0C61389C18B4A2B4.quest_desc: ["A holy talisman said to protect its owner from bad luck"]
+	quest.0C61389C18B4A2B4.quest_subtitle: "Buy it from a master cleric"
+	quest.0CFFF58986CE7733.quest_subtitle: "you know how to make coal don't you? "
+	quest.108EA49E8421CCC7.quest_desc: [""]
+	quest.109FBFA37FF99341.quest_desc: [
+		"AE2 provides devices to manage ME data and move stored items around the world. "
+		""
+		"&bThe ME Interface&r serves as both an input and output device. "
+		""
+		"As an input, it pipes items/fluids into the ME Network. "
+		""
+		"As an output, it can be configured to keep a specified amount of an item in stock, allowing external sources to receive items from the ME Network."
+	]
+	quest.109FBFA37FF99341.title: "The IO"
+	quest.112F3359CF96132C.quest_subtitle: "Better Elytra!"
+	quest.12B028C021E25ED0.quest_desc: ["This takes around &b50 seconds&r per alloy to charge with tesla coil. (with proper energy generation)"]
+	quest.130A80D8B3E4EA98.quest_desc: [
+		"AE2’s &eauto-crafting&r system starts with the &6ME Pattern Provider&r, which holds up to 9 &bpatterns&r for recipes. "
+		""
+		"These &bpatterns&r automate crafting by turning input items into output items. "
+		""
+		"You'll use multiple &3Pattern Providers&r across your base, and the &cPattern Access Terminal&r lets you access all providers on your ME network remotely."
+	]
+	quest.130A80D8B3E4EA98.quest_subtitle: "Order up"
+	quest.130A80D8B3E4EA98.title: "Auto-Crafting"
+	quest.137CC533B864B25F.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.15B4189EFAD4B6E2.quest_desc: [
+		"The &bCrafting Co-Processing Unit&f helps speed up crafting jobs by allowing pattern providers to either send items out to their connected devices faster or to work concurrently to make multiple required ingredients."
+		""
+		"The base AE2 co-processor provides one co-processor \"thread\"."
+	]
+	quest.15B4189EFAD4B6E2.quest_subtitle: "Download more CPU cores"
+	quest.16BF82CCB4624E9C.quest_desc: [
+		"Individual ME devices can also be configured to respond to redstone signals. When upgraded with a &bRedstone Card&f, a device can be configured to do work only when powered with redstone or otherwise as needed."
+		""
+		"This behavour can also apply to entire &osections&r of an ME network by using an &bME Toggle Bus&f. This allows a section of the network on the other side of the bus to come online only when the bus is powered by redstone, or to go offline if using an &einverted&f toggle bus."
+	]
+	quest.16BF82CCB4624E9C.title: "Redstone-Controlled ME"
+	quest.171DB69D600EBD90.quest_desc: [
+		"Arguably the most important aspect of Applied Energistics 2 is its storage system, making use of digital &eStorage Cells&f. These cells are accessible through either an &eME Chest&r for single cells, or an &eME Drive&r for multiple cells."
+		""
+		"The &bME Chest&f holds a single Cell at a time, which can then be read from and written to from any other terminal on the same network. The ME Chest itself also provides its own terminal screen on the top with specific access only to the cell it contains."
+		""
+		"The &bME Drive&f can hold up to 10 assorted Storage Cells in the space of a single block and a single ME channel. However, it does not provide its own terminal screen, requiring some external terminal elsewhere on the network for storage access."
+	]
+	quest.171DB69D600EBD90.quest_subtitle: "Items as a file system"
+	quest.171DB69D600EBD90.title: "The Storage"
+	quest.184B9A5F983FA7A5.quest_desc: ["Although it shows a Honey Bottle, you need to actually use a&n Honey Bucket with filling by spout.&r&c "]
+	quest.1C89D285F0501472.quest_desc: ["No information about this eye"]
+	quest.1C89D285F0501472.quest_subtitle: "small chance to get it when enchanting"
+	quest.1D9D2E1FF9BD8A91.quest_desc: ["{ \"text\": \"☞ Click here for more information about beams visit Chapter V at the end.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"265960CE3104527E\" } }"]
+	quest.1D9D2E1FF9BD8A91.quest_subtitle: "It uses a &6Beam Focuser&r"
+	quest.1DBB6264A5603E04.quest_desc: [
+		"This block lets you polarize the &eLight Ray&r &nreducing its intensity to half&r, which will affect the &cRedstone Signal Strength&r from the &eLight Ray&r. "
+		""
+		"You can change the &aPolarizer&r type with the &5Wrench&r and you can stack these filters to reduce the intensity even more."
+		""
+		"Changing the type of Polarization in the Optical Source can also have an effect on how the Light Ray interacts with this block so I encourage you to play around with this."
+	]
+	quest.1E4B9F8A3401B4BF.quest_desc: ["Pirates say it gave sight to the legendary Black Pearl"]
+	quest.1E4B9F8A3401B4BF.quest_subtitle: "Found in Buried Chests"
+	quest.1F4AE081014800B4.quest_desc: ["It was lost by a demon in the battle between the Aether and the Nether"]
+	quest.1F4AE081014800B4.quest_subtitle: "Found in Nether Fortresses"
+	quest.1F4AE081014800B4.title: "Nether Eye"
+	quest.22E0846B96BBD5DD.quest_desc: ["Legends say this eye once belonged to one of the great Sandworms"]
+	quest.22E0846B96BBD5DD.quest_subtitle: "Found in Desert Pyramids"
+	quest.2393A0DC1A59CDEC.quest_desc: [
+		"When applied as an upgrade to any supported device such as an Interface or Export Bus, the &bCrafting Card&f allows the device in question to automatically send out its own crafting requests for a required (filtered) item. Crafting CPUs can be set to respond only to these requests to prevent taking up CPUs meant for player-requested crafts."
+		""
+		"When the &eLevel Emitter&f is upgraded with the Crafting Card, it can be configured to emit redstone in order to directly facilitate in crafting, by emitting a signal either &owhile&r a crafting job for its given item is detected or specifically &oto&r craft the item. The latter would apply for cases where the only thing needed to make a given item is a redstone signal, without even requiring a crafting pattern."
+	]
+	quest.23AAAAF53A58DE75.title: "Aluminium"
+	quest.23D03CB4F4382DDA.quest_desc: ["This receptor works just like the Optical Receptor. It transforms the light rays into rotational power but allows for higher stress support and the speed will be one third of the speed of the light beam."]
+	quest.2506598B0A22BE75.quest_desc: [
+		"The &bMolecular Assembler&r is AE2's automatic crafting table, essential for all crafting pattern jobs. "
+		""
+		"It transfers power and channels to connected ME devices without taking up a channel itself. "
+		""
+		"Up to 6 Assemblers can be connected to a single Pattern Provider for parallel crafting. "
+		""
+		"Each Assembler has a slot for a crafting pattern and can operate standalone when powered."
+	]
+	quest.25F281C3D8849819.quest_desc: [
+		"By default, an ME network on its own only has an internal buffer of 800AE without an ME Controller, with the controller adding an extra 8kAE per block. For large enough networks, this can be insufficient and may cause a network to power off intermittently when trying to recoup power for any connected devices."
+		""
+		"The &bEnergy Cell&f allows for an ME network to hold significantly more energy, adding another 200kAE per regular Energy Cell and 1.6MAE per &bDense&f Energy Cell. These can also be placed anywhere in the network to provide the increased energy buffer."
+	]
+	quest.265960CE3104527E.quest_desc: [
+		"&cBeam Focuser&r allows you to process certain items using rotational power and the light  beam power. "
+		""
+		"The light beam needs to enter from the top (Check ponder for reference) and the beam type changes the type of process you can do. "
+		""
+		"Microwave beam allows you to cook items and visible light along with the Filter slot on the Beam Focuser allows you to process certain items. "
+		""
+		"For example: Setting a Sand Block in the filter slot and using a visible light beam, allows you to process rose quartz into polished rose quartz as if using sand paper."
+		""
+		"&o&eNote: Press U on the Beam Focuser to see all the recipes allowed.&r&r"
+	]
+	quest.2699917C42D48985.quest_subtitle: "where it leads?"
+	quest.26BEA55560AE0368.quest_desc: [
+		"&6The Optical Sensor&r transforms the Light rays that receive from the Optical Source into RedStone Signal outputting Redstone Signal from all 4 sides and also emits light. "
+		""
+		"Right-clicking with empty hand changes the Optical Sensor mode between: Intensity; Digital; Color. "
+		""
+		"&eNote: I recommend checking the Ponder menu for further information on each mode.&r"
+	]
+	quest.29A64A556C101D83.quest_desc: [
+		"The&b Water Pump&r is essential for keeping the &aOxygen Distributor&r running indefinitely. "
+		""
+		"To use it, place an infinite water source below, then place the &bWater Pump&r above one of the water blocks, and the &aOxygen Distributor&r next to it. "
+		""
+		"Make sure to supply both the &bWater Pump&r and the &aOxygen Distributor&r with enough power."
+	]
+	quest.2A0B07555EC8D47E.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.2C7EE6C411E3CF59.quest_desc: [
+		"&bPortable Cells&f function identically to regular cells in that they can they be inserted into a chest or drive and filled accordingly."
+		""
+		"However, unlike regular cells, their contents can also be accessed standalone via the cell item itself, a bit like a digital ME-flavoured backpack."
+	]
+	quest.2CBF8CC3EB107804.quest_desc: [
+		"The &6Create: The Factory Must Grow &rmod introduces new energy and voltage mechanics to Minecraft! This update is still in progress, so if you encounter any issues, please report them directly to the TFMG Discord."
+		""
+		"Your goal is to build a large generator to efficiently produce electricity. You can use cables and accumulators from &ccrafts and addictions&r, or, if you prefer, utilize the items provided by &6Create: The Factory Must Grow&r for your energy system."
+		""
+		"If your accumulator explodes its because you have too much rotational energy."
+		""
+		"Below is an example of how to pass the energy to Craft and Addictions."
+		"{image:kubejs:textures/electricity.png width:200 height:123 align:center}"
+		""
+		"For more information about TFMG electricity, visit their official Discord:"
+		""
+		"&6https://discord.gg/Dm4B7UfhXd&r"
+	]
+	quest.2CBF8CC3EB107804.title: "&l&6Better Energy Production"
+	quest.2E9E011F51858EF2.quest_desc: [
+		"&cFireclay Ball&r comes from a block called &cFireclay&r. "
+		""
+		"Grab your mighty pickaxe and go do some digging! Or build a Drill Machine that works too. You’ll find the Fireclay Block in caves and such in the Overworld."
+	]
+	quest.2F40B3F9E34F9B1F.quest_desc: [
+		"&bPatterns&f are what hold an encoded recipe to be fulfilled by a Pattern Provider. To encode a recipe onto a Pattern, the &bME Pattern Encoding Terminal&f must be used."
+		""
+		"Patterns can be set to hold either a regular &ecrafting&f recipe, which will require the use of a &eMolecular Assembler&f on the face of its Provider, or a more general \"&eprocessing&f\" recipe, wherein any input items can be sent out by the provider into some other machine block or specialised processing plant."
+	]
+	quest.2F40B3F9E34F9B1F.title: "Patterns"
+	quest.3026C7FFA3B230FA.quest_desc: ["&3Processors&r are essential crafting ingredients used to make the majority of ME-connected devices."]
+	quest.30513F4AD063919A.quest_desc: [
+		"&6The Hologram Source&r allows you to use Visible Light to show an Hologram. Click with an item in hand on the Hologram Source to display that Item."
+		""
+		"Clicking with an empty hand gives you a control window to choose the angel of the Hologram."
+	]
+	quest.312D4E8EBE475538.quest_desc: [
+		"Nipas can be found in &2&n&aPrimordial Caves from Alex's Caves&r&r&r, so keep your eyes open—they are rare to find."
+		""
+		"{ \"text\": \"☞ Click here to learn more\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"260F19B468957BCD\" } }"
+	]
+	quest.323963AAF0375942.quest_desc: [
+		"The &bME Storage Bus&f, when facing some external storage container, will allow the container to be used as though it were part of the ME network, allowing items to be taken out from the container or inserted into it purely via ME."
+		""
+		"Storage buses can be filtered and given specific priorities such that specific items will try to go to the attached storage first, however it will not retroactively move any filtered items from anywhere else in the network to its attached storage."
+	]
+	quest.32728BD9BD6384F3.quest_desc: [
+		"The &bAcceleration Card&f, depending on the device being upgraded with it, will either increase the speed at which the device operates or allow the device to carry out more operations in one go."
+		""
+		"In the case of the &eMolecular Assembler&f, a full set of 5 cards reduces the time taken for the MA to fulfil a craft from one second (with no cards) to one &otick&r."
+	]
+	quest.32CEB5F5DA7E08E5.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.334AF33B87A48816.quest_desc: [
+		"&bP2P&f (peer-to-peer) is a powerful system within AE2, allowing for the transfer of items, fluids and even more without the need for any intermediary ME storage."
+		""
+		"Right-clicking on a P2P tunnel with certain items will &eattune&f the tunnel into one capable of transferring something else, such as items through pipes, energy through cables, redstone signals and (by default) even ME connections themselves."
+		""
+		"P2P tunnels must be linked to one another with the use of a &eMemory Card&f, detailed in the next quest."
+	]
+	quest.334AF33B87A48816.title: "P2P Tunnels"
+	quest.33EF47DF16D412B5.quest_desc: ["Has witnessed destruction. Maybe it also witnessed your stuff disappear"]
+	quest.33EF47DF16D412B5.quest_subtitle: "Dropped by The Wither"
+	quest.343AB719F81DFC63.quest_desc: ["This pupil is believed to have seen the ancient brewing recipes that were lost in time."]
+	quest.343AB719F81DFC63.quest_subtitle: " Craft it using the witch pupil"
+	quest.35029D28522C7A28.quest_desc: [
+		"Each individual cell has a certain capacity dictated by the &ecomponent&f that the cell has been crafted with."
+		""
+		"The first of the components is the &b1k ME Storage Component&f, providing &e1024&f \"bytes\" of storage for a given cell."
+		""
+		"The last component 256k, provides &e262144&f bytes of storage."
+	]
+	quest.35029D28522C7A28.title: "Creating your first Storage Cell"
+	quest.35FDE052B50EFAAF.quest_desc: ["The &bME Import Bus&f periodically sucks items in from whatever external storage the bus is facing. It can optionally be filtered to only take in certain items from said inventory."]
+	quest.36032C287CC77A74.quest_subtitle: "Mechanical Crafting"
+	quest.3629B7D03A59F516.quest_desc: [
+		"The &eThermal Optical Source&r requires an additional source to function, which is fluids, such as &bWater&r and &cLava&r to send &6Light Rays&r. "
+		""
+		"The advantage of this is that it doubles the SU of the normal one. Water gives double SU and Lava gives the double of Water."
+	]
+	quest.36883441EF93976F.quest_subtitle: "Better Elytra!"
+	quest.3786CEBDF1D138A3.quest_desc: [
+		"&6The Coke Oven&r is a multi block machine. "
+		""
+		"You need a total of 9&e Coke Oven blocks&r to build it. Make sure to use the pounder function (pressing W) to see how to build."
+		""
+		"When you place all the 9 blocks, you need to right click with a Wrench on the Width of the machine to assemble it. Make sure you click on the right width side of the machine. You’ll know when you have assembled it as the texture will change."
+		""
+		"You’ll also need Pipes, Mechanical Pumps, Tanks and an Exhaust for the machine to work."
+		""
+		"The &7Coal Coke&r takes some time to come out of the machine, it’s slow and it comes out automatically. "
+		""
+		"Don’t use a Funnel to try to extract it, that will only take out the Coal fuelling the machine. Just wait and the Machine will spit the Coal Coke by itself."
+	]
+	quest.3786CEBDF1D138A3.title: "Coke Oven"
+	quest.37D437BA68D6864C.quest_desc: [
+		"Its power generation depends on the planet's distance from the sun and fog. "
+		""
+		"Solar panels are more efficient when placed closer to the sun. "
+		""
+		"They also produce more energy in orbit because there's no atmosphere blocking the light."
+	]
+	quest.37D437BA68D6864C.title: "Craft a &2Solar Panel"
+	quest.37F39A63C0C2934F.quest_desc: ["One of the last artifacts left behind by the Iceologers before they all suddenly vanished from the world"]
+	quest.37F39A63C0C2934F.quest_subtitle: "Found in Igloos"
+	quest.3921087D564A6659.quest_desc: [
+		"To create an &6Arcane Crystal Obelisk&r, place down an &2Arcane Polished Darkstone block&r, then place two &2Arcane Crystal Blocks&r on top of it."
+		""
+		"Right-click with &4Mundabitur Dust&r and you'll create the obelisk."
+	]
+	quest.3AB3B4308FA14C9E.quest_desc: [
+		"To make Bauxite you must use &a5 Mechanical Crafters&r. There’s various ways you can do this such as using a Mechanical Arm to place the items in their correct slots. "
+		""
+		"Or follow the instructions below to make a continuous automated way without having a Mechanical Arm or two having to place the items."
+		""
+		""
+		"Use 9 Mechanical Crafters, making a 9 Slot craft and place on each corner a Crafter Slot Cover. See figure below:"
+		""
+		"{image:kubejs:textures/crafter_fig_1.png width:100 height:100 align:1}"
+		""
+		"Now go to the back of the Mechanical Crafters, with the Wrench in hand, right click on the  touching edges of the crafters to merge them. Do so making a square O shape, leaving the center crafter by itself. See figure below:"
+		""
+		""
+		"{image:kubejs:textures/crafter_fig_2.png width:100 height:100 align:1}"
+		""
+		"Now with 2 Andesite Funnels, you place one in the middle Mechanical Crafter and the other in one of the other Mechanical Crafters. You input the Red Sand into the middle Andesite Funnel and the Cinder Flour into the other Andesite Funnel to which will automatically fill the 4 slots. See figure below:"
+		""
+		""
+		"{image:kubejs:textures/crafter_fig_3.png width:100 height:100 align:1}"
+	]
+	quest.3B06C0FF8E28AC91.quest_desc: [
+		"The &bQuantum Entangled Singularities&f are used to link together a ring-shaped device known as a &eQuantum Network Bridge&f."
+		""
+		"When two of these individual rings have been linked using the Quantum Entangled Singularities and jumpstarted with some AE power, an ME network can be expanded wirelessly on the other side of the bridge, across either long distances or even dimensions."
+	]
+	quest.3B06C0FF8E28AC91.title: "Quantum Network Bridge"
+	quest.3BC1492D43F6B120.quest_desc: ["It is told that it was forged by the first blacksmiths of time"]
+	quest.3BC1492D43F6B120.quest_subtitle: "Found in Mineshafts"
+	quest.3D2DDC65DED45F4A.quest_desc: [
+		"The last piece of the puzzle for any large ME network is the &bME Controller&f."
+		""
+		"A controller supplies an ME Network with a far larger number of channels than the standard 8 channels for ad-hoc networks, providing 32 channels out of each face of the block for a total of 216 channels."
+		""
+		"That's only for a single-block controller, however, since the ME Controller is in fact a multi-block structure. The controller can be up to 7x7x7 blocks in size and can come in any freeform arrangement within that maximum size. Each individual block can then provide its own separate set of channels, so long as no single controller block is surrounded by 4 other blocks along the same plane."
+		""
+		"An ME Network may only contain one multiblock controller at any given time. Attempting to connect more than one controller on separate parts of the network will cause a conflict, shutting down the whole network."
+	]
+	quest.3D470D57CC2E7A9E.quest_desc: ["The &bOverflow Destruction Card&f is a cell upgrade that allows storage cells to delete (void) any items of a type already contained within them, when try to move into the cell and the cell is already full."]
+	quest.3D4ED245E498E765.quest_desc: [
+		"The &bME Annihilation Plane&f can be used to automatically break any blocks in front of it and return anything dropped by the block directly to the ME network."
+		""
+		"As an added bonus, the Annihilation Plane can be enchanted in the same way as a regular digging tool, affecting block drops in the same way as that enchanted tool would. This makes it ideal for processing ore blocks when enchanted with Fortune, for example."
+		""
+		"Any added enchantments significantly increase the amount of energy used by the plane every time a block is broken. Enchanting the plane with &eEfficiency&f will decrease the overall energy use incurred by all other enchantments, while the &eUnbreaking&f enchantment gives the plane the chance to only use any energy sometimes, similarly to Unbreaking on regular tools."
+	]
+	quest.3E42FEEFBC22F7D3.quest_desc: ["You can also automate this with &n&cnetherack&r&r if you prefer."]
+	quest.3E9FA4241DD2A49F.quest_desc: [
+		"Items are not the only things that can be stored in ME cells. &bME Fluid Storage Cells&f can store liquids such as water, lava and any variety of modded oils and fuels, just to give a few examples."
+		""
+		"Note that all storage cells, regardless of what they're designed to store, only differ in terms of their housing; both item and fluid cells use the same kind of storage component to make."
+		""
+		"For fluids, 1 byte equals 8 buckets (8000mb)."
+	]
+	quest.3E9FA4241DD2A49F.title: "Fluid Storage"
+	quest.3F0E651F191CD81F.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.3F83272A3D958DAB.quest_desc: ["Arguably the most important resource you will need next is &eFluix&f, used throughout the vast majority of AE2 devices and serving as a base for crafting all of the cabling within an ME network."]
+	quest.3F83272A3D958DAB.title: "Fluix Crystal"
+	quest.401AFF46C83AAEB8.quest_subtitle: "Collect Dragon's Breath in a Glass Bottle."
+	quest.401AFF46C83AAEB8.title: "You Need a Mint!"
+	quest.401C9B25D2B7B49F.quest_desc: ["Remembrance of the past lives of those who live in death"]
+	quest.401C9B25D2B7B49F.quest_subtitle: " Craft it using an Undead Soul"
+	quest.409394CEF9087E88.quest_subtitle: "Please visit the renewable ores chapter to learn how to activate this."
+	quest.4256AD377F068FF4.quest_desc: [
+		"The &bCell Workbench&f allows for cells to be \"partitioned\" to hold specific items, i.e. given a whitelist filter. It also allows the cell to be upgraded with certain upgrade cards such as the Inverter Card, which sets the aforementioned whitelist to be a blacklist instead."
+		""
+		"Cells can also be given a higher or lower \"priority\" via the workbench, i.e. allow the cell to be the first to receive certain items until full, or made to wait for other higher-priority cells to fill up first."
+	]
+	quest.438AFB85E4605DF6.quest_desc: ["It's not recommended to use &bIndustrial Fan&r to make this as it doesn't work on belts and depots for some reason, but you can use a smart chute to make it work if you want."]
+	quest.43E5907E27844D18.quest_desc: [
+		"These last three items are more or less some extra toys provided by AE2 and don't necessarily fit under any of these quest trees."
+		""
+		"The &6Charged Staff&f is just a simple powered staff which deals 3 hearts of damage and consumes 300AE per hit. It also uses pre-1.9 combat mechanics, meaning that you can spam-click with this like in the good old days."
+		""
+		"The &bEntropy Manipulator&f, when &oused&r on certain blocks in the world, will smelt them in-place, such as sand to glass and metal ores to metal ingots. If not, it will simply light a fire on the block."
+		""
+		"Finally, the &bMatter Cannon&f functions similarly to the Color Applicator as a dedicated cell for holding \"ammo\" items such as Matter Balls and iron/gold nuggets, which can then be fired out to deal damage to mobs or break blocks. Heavier \"ammo\", e.g. metal nuggets, will deal more damage and destroy harder blocks."
+		""
+		"Matter Balls in a Matter Cannon can be substituted with &bPaint Balls&f, which will apply a paint splatter effect on the face of whatever block being fired at. &bLumen Paint Balls&f are a variant of paint balls exclusively used by the Matter Cannon, whose paint splatters also give off some light once present in the world."
+	]
+	quest.43E5907E27844D18.title: "The... Weapons?"
+	quest.44A8B31CD719B906.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.4529E314F97ED3FA.quest_desc: [
+		"&nThe Coke Oven generates a lot of Creosote&r, more than you might actually need. "
+		""
+		"To combat this, you can use a &cFlarestack to burn the excess of Creosote&r or you can use the Creosote to fuel a&e Low Grade Fuel Engine&r to generate Rotational Power.  "
+		""
+		"You need a redstone signal to start the engine, you can use a Lever to start the engine or use an Analog Lever to start and decide how fast/slow the rotational power goes. "
+	]
+	quest.453F0E5926BA4AB1.quest_desc: ["{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7739373308A83503\" } }"]
+	quest.453F0E5926BA4AB1.quest_subtitle: "This can be found in blue skies dimension"
+	quest.466F43B18F0D1B7E.quest_desc: [
+		"You will need a special furnace to convert the block into an ingot: a &4Clibano Furnace&r from &6Forbidden Arcanus.&r"
+		""
+		""
+		"{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1DB562D431DB8D96\" } }"
+	]
+	quest.4706B7F09A2BFC25.quest_subtitle: "nipa farm"
+	quest.4919AEB1300D63B7.quest_subtitle: "From previous chapter"
+	quest.496C8280CF77787E.quest_subtitle: "Use coarse dirt to make mud."
+	quest.4A5C011878F7BB63.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.4ACC788E6E79B711.quest_desc: ["The &bCapacity Card&f allows a bus upgraded with it to carry a larger filter. Import and Export buses upgraded with capacity cards can go from supporting only one filtered item each to their maximum nine-slot filter, while Storage buses will go from 18 slots to a maximum of 63."]
+	quest.4B3E500121857046.quest_desc: [
+		"The &bMemory Card&f is a tool with two different functions. The simplest of the two is to save various devices' configurations (such as whitelist filters) to be copied over to another device of the same kind."
+		""
+		"The second function of a memory card is to link &eP2P tunnels&f together. When doing so, the P2P tunnel being linked will be assigned a unique ID, which is stored on the memory card for further linking."
+	]
+	quest.4B630597BCFA97AC.quest_desc: [
+		"The &5ender dragon&r is a giant flying hostile boss mob found when first entering &5the End&r. It is the largest naturally spawning mob in the game. "
+		""
+		"It guards access to the end gateways that provide entry to the outer end islands in addition to the exit portal that allows return to the &2Overworld&r as well as access to the end credits of Minecraft. "
+		""
+		"Its attacks involve charging at the player and its unique dragon acid attacks."
+		""
+		""
+		"{@pagebreak}"
+		""
+		"Players can &bre-summon&r the dragon by placing four end crystals on the edges of the exit portal, one on each side. "
+		""
+		"When it is re-summoned, the four end crystals point to the tops of each pillar setting off a series of explosions that resets the obsidian pillars, iron bars, and end crystals."
+	]
+	quest.4BEC405C5EC58218.quest_desc: [
+		"The &bME Level Emitter&r emits a redstone signal based on the quantity of a specific item in the network. It activates when the item count falls below, exceeds, or matches the set quantity. "
+		""
+		"This can automate machines to craft resources when they fall below a specified amount."
+	]
+	quest.4CCA16E6E4070E37.quest_desc: [
+		"This items can be found in &ldungeons chests on the moon&r."
+		""
+		"The &8sky stone block&r can be duplicated once obtained one."
+	]
+	quest.4CCA16E6E4070E37.quest_subtitle: "Explore the moon"
+	quest.4EA88BEBCCF09C54.quest_desc: ["The &bFuzzy Card&f allows a filtered item to be matched regardless of any (NBT) metadata such as damage or enchantments, while the &bInverter Card&f toggles the filter on such buses from being a whitelist to being a blacklist."]
+	quest.4ECA82782988ACB9.quest_desc: [
+		"There are various ways you can create an amethyst shard farm. First, you need to find an amethyst cluster, as one cluster can grow in all directions. You can set up a smart observer to detect when the clusters are ready to harvest, then use a deployer with a pickaxe enchanted with Fortune to get extra drops."
+		""
+		"Another alternative is to set up an amethyst farm in your base without the need to find a cluster. You can use an&d amethyst golem&r from Ars Nouveau for this purpose."
+	]
+	quest.509BB6BF39848F5B.quest_desc: [
+		"Once you've explored the Moon and gathered enough Desh, you will be able to create &dSpace Stations&r around planets!"
+		""
+		"These are prebuilt structures that serve as a mini-base in the galaxy. Home away from home kinda thing."
+	]
+	quest.509BB6BF39848F5B.title: "Space Stations"
+	quest.50B4EEBAF5CF3122.quest_desc: ["This eye is believed to have given our ancestors the knowledge of Redstone"]
+	quest.50B4EEBAF5CF3122.quest_subtitle: "Found in Jungle Pyramids"
+	quest.50CDAAB5AECA6B27.quest_subtitle: "opcional"
+	quest.5236164BE64893D2.quest_desc: [
+		"&bSpatial Storage Cells&f are used to hold one defined volume each, and come in three different capacities allowing for a maximum of 2x2x2, 16x16x16 and 128x128x128 blocks' worth of space."
+		""
+		"Upon encoding, a cell is allocated a section of space within the spatial storage &edimension&f, along with a unique ID corresponding to the region allocated to the cell. An encoded cell can still be used within the Spatial IO Port to retrieve any stored blocks and entities."
+		""
+		"From then on, any blocks contained either within the cell's region of space or in an SCS with the same size as the one used for the initial encoding can be moved back into the overworld or into the spatial dimension respectively. If there are blocks both within the spatial region and within the SCS, these will simply swap places accordingly."
+	]
+	quest.52E7496E0A9118F6.quest_desc: [
+		"To connect the vast majority of your ME network together, you will need some cable. &eME Glass Cable&f is the first and most basic kind of cable, and you'll be making this all throughout as the first step towards crafting the other kinds of cable."
+		""
+		"Both glass cables and their &ecovered&f counterpart can carry up to 8 channels along a single section of cabling. Unlike glass cables, covered cables can subsequently be crafted into &edense&f covered cables, capable of carrying up to 32 channels. However, most \"multipart\" devices such as buses and terminals cannot be directly attached to dense cables, requiring normal-width cables to form a connection instead."
+		""
+		"All cables can also be crafted with dye to colour them. Uncoloured (\"Fluix\") cables can connect to any other colour of cable, but otherwise differently-coloured cables will never connect to one another."
+		""
+		"In Applied Energistics 2, every ME network has a certain number of &echannels&f available, which simply means how many networked devices can fit on the whole network."
+		""
+		"As a rule of thumb, any device that more or less handles ME data directly (items stored within the network) and carries out some form of I/O will take up a channel. Usually components that are only concerned with the internal power storage of the network, like &eEnergy Cells&f do &onot&r take up channels."
+	]
+	quest.52E7496E0A9118F6.title: "Basic Cabling"
+	quest.549427B0BBA24445.quest_desc: [
+		"This block can split the Light Ray into 2 different Polarized Rays. "
+		""
+		"One Ray will continue going straight while the other will split to one of the sides. "
+		""
+		"Changing the Polarization option in the&6 Optical Source&r, will affect how the Light Ray splits with the Polarizing Beam Splitter so I encourage you to play around with it."
+	]
+	quest.5690FCED46349207.quest_desc: [
+		"Please visit &6magic chapter Ars Nouveau&r to learn how to use &cEnchanting Apparatus&r"
+		""
+		"{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3D862A3D3F83CA26\" } }"
+	]
+	quest.57FCF653EDA81DE0.quest_subtitle: "use a beacon to convert it"
+	quest.580F889F027A87FE.quest_desc: [
+		"The &bME IO Port&f allows for the contents of an ME network's storage to be quickly rearranged between different storage media such as ME cells and external containers connected to storage buses."
+		""
+		"When a cell is inserted in an input slot on the left, the IO Port can be toggled to either empty the cell out into other ME storages or fill the (ideally, partitioned) cell with certain items spread out across other storages."
+	]
+	quest.582E68291A96A9E7.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.59753336427A57A6.quest_desc: ["Let's get the basic parts ready to head to space."]
+	quest.59753336427A57A6.quest_subtitle: "Craft a rocket nose cone."
+	quest.597F01E378266CC3.quest_desc: [
+		"&nYou can make a copy&r with dragon scale."
+		""
+		"&6&nYou should put your elytra in the Curios slot&r&r, as using it as equipment bugs the inventory hitboxes."
+	]
+	quest.597F01E378266CC3.quest_subtitle: "To be found in End Cities with ship!"
+	quest.59B3E2C267D8B567.quest_desc: ["Warm that new dragon egg by the fire."]
+	quest.59B3E2C267D8B567.quest_subtitle: "Hold the Dragon Egg"
+	quest.59B3E2C267D8B567.title: "Obtain a Dragon Egg"
+	quest.5A27BA1E5C692EB1.quest_desc: [
+		"The &bWireless Terminal&f functions identically to a regular terminal, but wirelessly."
+		""
+		"Before it can be used to access a network, it must first be &elinked&f to the network by placing it into the top-right slot of the &eWireless Access Point&r. If it is not linked to a network, or is out of either range or power, the terminal will not function."
+		""
+		"Wireless terminals can also be upgraded with &eEnergy Cards&f to provide a larger internal battery."
+	]
+	quest.5B9C1D10A217657D.quest_desc: [
+		"There is a total of 16 custom eyes you can find by exploring vanilla structures and fighting vanilla bosses. "
+		""
+		"&6Once you have at least 12 eyes&r you can follow them until you reach the Stronghold. "
+		""
+		"Right click to throw them in the sky. They will point in the direction of the closest End Portal."
+		""
+		"Make your way to the Stronghold, find the End Portal and complete the frame using the 12 custom eyes in order to open it. If there's a vanilla eye of ender in one of the frames, you can remove it by right clicking on it with a custom eye."
+	]
+	quest.5B9C1D10A217657D.quest_subtitle: "End Remaster"
+	quest.5B9C1D10A217657D.title: "&eAbout the end&f"
+	quest.5BCF209E014D37E6.quest_desc: ["The &bME Smart Cable&f and &bDense Smart Cable&f function identically to the covered cables in terms of channel distribution, but will also visibly display the amount of channels they are using as coloured lines along themselves."]
+	quest.5BCF209E014D37E6.title: "Advanced Cabling"
+	quest.5D03D736B9E76E16.quest_desc: [
+		"The Spatial Containment Structure (SCS) consists of a cage of &bSpatial Pylons&f covering the volume you wish to enclose in a Spatial IO cell. At the absolute minimum, an SCS requires three lines of spatial pylon blocks, one for each dimension of the space being contained (length, width, height)."
+		""
+		"However, Spatial IO is an extremely power-hungry feature, especially when trying to capture much larger spaces (up to 128x128x128). Having more spatial pylons included in the SCS around the desired volume will increase its overall &eefficiency&f, allowing it to use less energy to capture."
+		""
+		"Also, be mindful that each individual pylon (regardless of its length) takes up one channel. For particularly large spaces, you may wish to build a dedicated network with a controller to fit all the required pylons."
+	]
+	quest.5D03D736B9E76E16.title: "Spatial Pylon"
+	quest.5D3EA637C19E26F4.quest_desc: [
+		"The &bQuartz Wrench&f does what any regular tech mod wrench would do. It rotates blocks and devices along the face you right-click on and dismantles them when right-clicked while sneaking."
+		""
+		"AE2's wrench comes in both certus and nether quartz flavours."
+	]
+	quest.5EC521DA8FF06758.quest_desc: ["A powerful yet destructive artifact; the Piglins swore to protect it at the cost of their lives"]
+	quest.5EC521DA8FF06758.quest_subtitle: "Found in Bastions treasure chest"
+	quest.5F8B17F4A8CF47C7.quest_desc: ["{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"52BB4427D9F5163D\" } }"]
+	quest.607E3A4AEEA46A98.quest_desc: [
+		"With the 1k Storage Component, you can now craft yourself a 1k ME Item Storage Cell to start your digital item storage system. You'll most likely want the majority of your storage to be for items, so you'll probably want to make a few &bME Item Storage Cells&f."
+		""
+		"ME Item Storage Cells can each hold up to 63 different types of items. Each new type of item added to a cell will take up a certain fraction of the storage cell's total capacity in bytes. For each type already present, 1 \"byte\" counts for 8 items of that same type."
+		""
+		"As an example, a 1k Item Storage Cell containing only cobblestone can hold up to 8128 cobblestone (8*1024b - 8b/type * 1 type)."
+		""
+		"If a cell is empty, it can be repurposed by disassembling it into its respective component and housing. This is done by sneaking and right-clicking in the air with the cell in your hand."
+	]
+	quest.607E3A4AEEA46A98.title: "Item Storage"
+	quest.60A94E3337A26181.quest_desc: [
+		"When the Casting Spout fills the Mold in the Casting Basin, it takes a few seconds to generate an Ingot/Block."
+		""
+		""
+		"&l&cTroubleshoot:&r&r If it's not working try break the &n&ccasting basing&r&r and mold and place it again."
+		""
+		"&o&7There is also an alternative recipe using compacting if you are having problems running it the intended way on a server.&r&r"
+	]
+	quest.60FC4ADEFBA29C6D.quest_desc: [""]
+	quest.61742FBBD1E5D42F.quest_desc: [
+		"The &bEqual Distribution Card&f is an upgrade for storage cells that pre-allocates a certain amount of items that can be taken up by any individual type."
+		""
+		"This behaviour is comparable to something like a Functional Storage drawer, wherein each compartment holds a set number of stacks as opposed to allowing items from one compartment to leak into the others and crowd other kinds of items out."
+	]
+	quest.630BDF564F7516D7.quest_desc: ["To enable wireless network access, create the &eME Wireless Access Point&r. It allows access to the network via a wireless terminal, with range determined by the number of &aWireless Boosters&r inserted."]
+	quest.63A35C0C01372EB6.quest_desc: ["Those who followed this eye were never seen again; rumors say they found the great city of Atlantis, or lost their way trying"]
+	quest.63A35C0C01372EB6.quest_subtitle: "Craft it using aquatic items"
+	quest.645E8388213F1284.quest_subtitle: "Block of coal"
+	quest.64A2A85357384A51.quest_desc: [
+		"Aside from the storage of items and fluids, AE2 also provides a native way of storing entire &estructures&f inside of storage cells, not too dissimilarly to the Compact Machines mod."
+		""
+		"The &bSpatial IO Port&f allows structures contained within a &bSpatial Containment Structure&f to be captured within a specially-designed storage cell, activated via a redstone signal."
+		""
+		"If a mob or player happens to stand inside of the SCS while the space is being captured, they too will be transported to where the rest of the space goes, i.e. in a dedicated dimension. Just make sure you have a way to get back out and in if you're the one being captured."
+	]
+	quest.64A2A85357384A51.title: "Spatial IO"
+	quest.64D7956A3E6681A5.quest_subtitle: "You already know how to make sulfur don't you?"
+	quest.694646586C18C609.quest_desc: ["&6The Rover&r is a land vehicle that can drive on rough terrain of moons and planets. It's very fast, has an inventory for&9 eight items&r, and has two seats for multiple riders. To use it, fill it with fuel by shift-clicking and placing &aastral fuel buckets&r in the left input slot."]
+	quest.69E26E48222CEC01.quest_subtitle: "Rolling"
+	quest.6AD87BACD480D27B.quest_desc: ["Check the Renewable Ores chapter to see a renewable way to have Crushed Raw Iron."]
+	quest.6CE8C3410296E977.quest_desc: [
+		"You can't breathe on the Moon without &3Oxygen&r. Actually, you can't breathe anywhere without &3Oxygen&r. Guess what the &9Moon&r doesn't have?"
+		""
+		"So, let's make some. Start by crafting an &dOxygen Loader&r and giving it water and power. This will convert the water into &3Oxygen&r for us to use."
+		""
+		"To collect it, place an &3Oxygen Tank&r, an empty bucket, or a &6Space Suit&r inside."
+		""
+		"&6Tip:&r &7&oIt's always a good idea to have extra Oxygen on hand... just in case.&r&r"
+	]
+	quest.6CE8C3410296E977.title: "&aPreparing Some&r &bOxygen&r"
+	quest.6F8A1655E91E7E89.quest_desc: [
+		"The &bQuartz Cutting Knife&f, like the wrench, comes in both nether and certus quartz flavours and is a useful crafting tool to have on hand."
+		""
+		"Cables can also be separated without needing to be coloured by attaching a &bCable Anchor&f between them, crafted using this knife and craftable up to 50 times with the same knife before it breaks."
+		""
+		"Cable Anchors can also be used to craft &bCable Facades&f, allowing you to disguise cables within walls by covering them with the face of an arbitrary block. While facade recipes are hidden in JEI, you can still craft them by taking any regular block and surrounding it with 4 cable anchors in the crafting grid."
+	]
+	quest.6F8A1655E91E7E89.title: "Cable Anchor"
+	quest.6FBCDEA419DB1D37.quest_desc: [
+		"The &bME Formation Plane&f acts similarly to the Storage Bus, but treats the world itself as its storage medium. In other words, it will place down any block in its filter directly in front of itself."
+		""
+		"This can be useful for situations where a block can be processed simply by placing it and breaking it with a certain tool."
+	]
+	quest.6FBCDEA419DB1D37.quest_subtitle: "GET OUT"
+	quest.70D34C00E2006C09.quest_desc: [
+		"In short, this allows you to combine up to 3 light ray beams and outputs a much faster beam. To  transform the combined beam into rotational power, you’ll need to use the Heavy Optical Receptor."
+		""
+		"&e&oNote: I highly recommend checking the Ponder for all the nuances this Beam Condenser allows with its configurations with the different beam types.&r&r"
+	]
+	quest.71482AB41A355486.quest_desc: ["Throw an ender pearl at the tip of a &5Myalite Crystal&r and travel through it. "]
+	quest.71482AB41A355486.quest_subtitle: "If you can..."
+	quest.71482AB41A355486.title: "Chase Me!"
+	quest.7148FF0A0F2F9890.quest_desc: [
+		"You should bring multiple full &6xygen Tanks&r, plenty of food, Soul Torches or Glowstone, weapons, and tools. I would recommend getting a &nwaystone&r so you don't need an extra rocket to get back to Earth. Once you have these, you're ready to launch! Enter the rocket and press Space!"
+		""
+		"Crouch and right-click to open its UI. From there, you can deposit &9Astral Fuel&r. It can store up to three buckets, so it's a smart idea to keep some spare. Being stranded is the worst thing that can happen to you."
+		""
+		"Right-click to enter the rocket. After holding Space for a while, you'll launch and access the planetary selection system."
+		""
+		"After selecting a location, you'll descend on the planet in a lander. Press Space to decelerate. Make sure you don't hit the ground too fast, or the lander will explode, leaving you stranded. &aF5 can help with the landing process.&r"
+	]
+	quest.7148FF0A0F2F9890.quest_subtitle: "Space Engineers"
+	quest.7148FF0A0F2F9890.title: "We are going to the moon!!!"
+	quest.7195C5282BA6B067.quest_desc: [""]
+	quest.7195C5282BA6B067.title: "cast iron ingot"
+	quest.72426A0FB41CD542.quest_desc: ["The &bSpatial Anchor&f is a companion device from the Spatial IO lineage that simply functions as a chunk loader. When connected to an ME network, the Anchor will force-load all the chunks occupied by the ME network across all cables and devices, excluding subnetworks, as long as the network remains powered."]
+	quest.725685829EF53BA4.quest_desc: ["The &bME Export Bus&r periodically transfers items from its whitelist filter to external storage. Unlike the Import Bus, the Export Bus requires a filter to function."]
+	quest.738C5CDEA3283099.quest_desc: ["The &bEnergy Card&r can be applied to most chargeable devices like Portable Cells and Wireless Terminals to increase their energy buffer."]
+	quest.73D579268007A8C7.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.74AD39A0B9CB46CF.quest_subtitle: "Better Elytra!"
+	quest.753831874D7C3BC8.quest_desc: [
+		"The &bCrafting Monitor&f displays the overall item being crafted, along with the remaining quantity of that item still being crafted."
+		""
+		"Both the base AE2 monitor and the MEGA monitor function identically, but are provided for aesthetic purposes."
+	]
+	quest.753831874D7C3BC8.quest_subtitle: "Download more VRAM"
+	quest.75BD9E93A6143DC7.quest_desc: [
+		"A Rocket needs something to launch off of, so we'll need to make a &aLaunch Pad&r."
+		""
+		"To use it, place it down wherever you want to launch from with a clear view of the sky. Once you have a Rocket, you can place it down in the middle of the Launch Pad."
+	]
+	quest.763F1FB0C55F702F.quest_desc: ["It has seen many warriors drown into the depths of the sea"]
+	quest.763F1FB0C55F702F.quest_subtitle: "Get it by Killing Elder Guardian"
+	quest.78425DC3875B9854.quest_desc: [
+		"&eApplied Energistics 2 (AE2)&r is a versatile digital storage mod, offering efficient storage and automation for your Minecraft experience."
+		""
+		"This chapter explains how AE2 works, with the goal of crafting an &cME Controller&r to progress to the next chapter."
+	]
+	quest.78425DC3875B9854.quest_subtitle: "&lWelcome to &bApplied Energistics 2&f!"
+	quest.78425DC3875B9854.title: "Virtual Storage System"
+	quest.79A7417475A593C6.quest_desc: [
+		"Most of an ME network uses its own dedicated power system called AE. "
+		""
+		"RF/FE can be converted into AE at a 2:1 ratio through an &6ME Controller&r or an &eEnergy Acceptor&r, which can connect to any part of the network. "
+		""
+		"You can also use an &cEnergy Provider&r to convert rotational power from Create into AE."
+	]
+	quest.79A7417475A593C6.quest_subtitle: "Plug in"
+	quest.7A47716BA89E7B06.quest_desc: [
+		"The &bColor Applicator&f is a chargeable tool that allows for in-world dyeing of cables. It functions more or less as a specialised &estorage cell&f to be loaded up with either vanilla dyes or &epaint balls&f for specific colours, along with &esnowballs&f to wash colours off and turn cables back to their Fluix variant."
+		""
+		"Applying colour to a cable uses 100AE of energy from its internal battery, for a total of 3400 cable segments in a single charge."
+	]
+	quest.7A47716BA89E7B06.title: "Color Applicator"
+	task.02603EEC37FE0012.title: "Glass Cable"
+	task.0B18DCF021EC9073.title: "ME Interface"
+	task.0BEEDF43E748F047.title: "Dense Covered Cable"
+	task.186E974B0E4A0EF6.title: "Smart Cable"
+	task.1C2E3C609A8DFD6D.title: "Covered Cable"
+	task.25CF2279A5441A33.title: "Memory Card"
+	task.2C451A484DE8CB1B.title: "Quartz Cutting Knife"
+	task.356C92DD277FF662.title: "ME Portable Cell"
+	task.3D5C2226F8539904.title: "Dense Smart Cable"
+	task.3DC2851D386057E8.title: "ME Fluid Storage Cell"
+	task.432F4520E99A0F94.title: "Kill The Ender Dragon"
+	task.451EC360A3F38231.title: "Craft a &cRover"
+	task.4556BCEDA60FD43A.title: "Crafting Co-Processor"
+	task.4F8C0625674B4C26.title: "Quartz Wrench"
+	task.51AA3BC3AFF2FEDA.title: "Click to Acknowledge"
+	task.554F69A27BBC5A76.title: "Craft a &bWater Pump"
+	task.585856CE2186DE81.title: "Crafting Storage"
+	task.5E8BAFC4CC8E2FC7.title: "Crafting Monitor"
+	task.611993D53E1538E9.title: "Spatial Cell Component"
+	task.650AD081A386407A.title: "Click to Acknowledge"
+	task.657AA1244E52A5D5.title: "Spatial Storage Cell"
+	task.6EAF9118DB909B9B.title: "ME Pattern Provider"
+	task.714DADB6776DEE49.title: "ME Item Storage Cell"
+}

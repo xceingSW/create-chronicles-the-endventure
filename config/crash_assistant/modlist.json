@@ -255,6 +255,10 @@
     "modId": "create_sa",
     "version": "2.1.0."
   },
+  "Create_Desires-2-Dreams-1.21.1-2.0.0.jar": {
+    "modId": "create_d2d",
+    "version": "2.0.0"
+  },
   "create_mechanical_extruder-1.21.1-2.0.5-6.0.4.jar": {
     "modId": "create_mechanical_extruder",
     "version": "1.21.1-2.0.5-6.0.4"
@@ -262,10 +266,6 @@
   "create_things_and_misc-4.0-neoforge-1.21.1.jar": {
     "modId": "create_things_and_misc",
     "version": "1.0.0"
-  },
-  "create_winery-1.6.0-neoforge-1.21.1.jar": {
-    "modId": "create_winery",
-    "version": "1.6.0"
   },
   "createaddition-1.4.2.jar": {
     "modId": "createaddition"
@@ -626,6 +626,10 @@
     "modId": "notenoughanimations",
     "version": "1.9.3"
   },
+  "Nullscape_1.21.x_v1.2.11.jar": {
+    "modId": "nullscape",
+    "version": "1.2.11"
+  },
   "OctoLib-NEOFORGE-0.5.0.1.jar": {
     "modId": "octolib",
     "version": "0.5.0.1"
@@ -665,6 +669,10 @@
   "Paxi-1.21.1-NeoForge-5.1.2.jar": {
     "modId": "paxi",
     "version": "1.21.1-NeoForge-5.1.2"
+  },
+  "phantasm-1.0.3.jar": {
+    "modId": "phantasm",
+    "version": "1.0.3"
   },
   "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar": {
     "modId": "pickupnotifier",

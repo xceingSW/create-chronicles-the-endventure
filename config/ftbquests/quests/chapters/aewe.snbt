@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "aewe"
+	group: ""
+	id: "77CB82601BCDCA86"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

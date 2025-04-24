@@ -1,0 +1,276 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "deeper_and_darker"
+	group: "20996729F10511FA"
+	id: "4B6E4A0215F45FC0"
+	images: [{
+		alpha: 200
+		color: 16672790
+		height: 1.2d
+		image: "chalk:block/mark/arrow"
+		rotation: 0.0d
+		width: 1.2d
+		x: 7.1d
+		y: 7.3d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["123D70CA4959F172"]
+			hide_until_deps_complete: true
+			id: "731C3214BB61FDAE"
+			rewards: [
+				{
+					id: "1A22694A70BE865A"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+				{
+					id: "756F5F1CA255DE69"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:bevel"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				entity: "minecraft:warden"
+				id: "37E411F497C9CD71"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.050000000000001d
+			y: 6.000000000000001d
+		}
+		{
+			dependencies: ["731C3214BB61FDAE"]
+			id: "44937B2D2EB38094"
+			rewards: [
+				{
+					id: "2B6B4A1DB2165CC7"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "1895131623290E9B"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:bevel"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "42CA7AAF304767E7"
+				item: { count: 1, id: "deeperdarker:warden_helmet" }
+				type: "item"
+			}]
+			x: 7.050000000000001d
+			y: 4.050000000000001d
+		}
+		{
+			dependencies: ["44937B2D2EB38094"]
+			id: "704CCA2CEAB23B4D"
+			rewards: [
+				{
+					id: "336DFFDBA2B4F736"
+					item: {
+						count: 1
+						id: "deeperdarker:ancient_vase"
+					}
+					type: "item"
+				}
+				{
+					id: "6AEED5EA493981C2"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:bevel"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				dimension: "deeperdarker:otherside"
+				id: "474D2D76F2256297"
+				type: "dimension"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["704CCA2CEAB23B4D"]
+			id: "6E7D3242496F4501"
+			rewards: [
+				{
+					id: "64D2CD3086F0814E"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "1D0A62A0E8280A89"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:bevel"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "deeperdarker:shattered"
+				id: "5B9501581479A2EC"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["704CCA2CEAB23B4D"]
+			id: "192EE909C57F390A"
+			rewards: [
+				{
+					id: "32D7431007C483AE"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "1E94990659346438"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:bevel"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "deeperdarker:stalker"
+				id: "1D807C8DC05EF208"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["704CCA2CEAB23B4D"]
+			id: "3CBDB45D65737212"
+			rewards: [
+				{
+					id: "65BC1997E31DF6FD"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "02918A58E871AA39"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:bevel"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "deeperdarker:shriek_worm"
+				id: "3D7BD985875AFF57"
+				type: "kill"
+				value: 1L
+			}]
+			x: 8.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["704CCA2CEAB23B4D"]
+			icon: {
+				id: "minecraft:netherite_chestplate"
+			}
+			id: "0FF69526C1DC1593"
+			rewards: [
+				{
+					id: "67FB94C359F4DC55"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "0AB28BF2AD665D1D"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:bevel"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				icon: {
+					id: "minecraft:netherite_chestplate"
+				}
+				id: "1D6626E5E7609F88"
+				observe_type: 5
+				timer: 0L
+				to_observe: "deeperdarker:sculk_snapper"
+				type: "observation"
+			}]
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["704CCA2CEAB23B4D"]
+			id: "2807106C369DF042"
+			rewards: [
+				{
+					id: "442957F1DE63455B"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "46198BF25D4A90D3"
+					item: {
+						count: 1
+						id: "minecraft:potion"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "deeperdarker:main/obtain_sculk_transmitter"
+				criterion: ""
+				id: "3CEA97C6362C740A"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: 2.0d
+		}
+	]
+}

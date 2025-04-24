@@ -1,0 +1,605 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_vii_building_a_rocket"
+	group: "20996729F10511FA"
+	icon: {
+		components: {
+			"ftbquests:missing_item": "ad_astra:tier_1_rocket"
+		}
+		id: "ftbquests:missing_item"
+	}
+	id: "1DBBA282D8932456"
+	images: [
+		{
+			height: 2.0d
+			image: "ad_astra:textures/painting/earth.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			height: 4.0d
+			image: "ad_astra:textures/painting/moon.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 1.0d
+			y: 11.0d
+		}
+	]
+	order_index: 2
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5F8B17F4A8CF47C7"]
+			id: "59753336427A57A6"
+			rewards: [{
+				id: "63A8D8C6D85E85F4"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:bevel"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3C9E552FF109985E"
+				item: { components: { "ftbquests:missing_item": "ad_astra:rocket_nose_cone" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1084B343FEEBB88E"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "5F8B17F4A8CF47C7"
+			rewards: [{
+				id: "721DC53FF2796F54"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:bevel"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "075E1F8A5CAED24C"
+				item: { components: { "ftbquests:missing_item": "forbidden_arcanus:whirlwind_prism" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1084B343FEEBB88E"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "2F520B59F10123D2"
+			rewards: [{
+				id: "7B21D24982D37EAD"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:bevel"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "313DDCE3C70B036C"
+				item: { components: { "ftbquests:missing_item": "ad_astra:rocket_fin" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1084B343FEEBB88E"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "778AEC1710A4E237"
+			rewards: [{
+				id: "07FE8BE80975ABF7"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:bevel"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 2L
+				id: "3052E3B7BCD06CBF"
+				item: { components: { "ftbquests:missing_item": "tfmg:turbine_engine" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1084B343FEEBB88E"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "08ED76082CFF1D16"
+			rewards: [{
+				id: "25E4ADA9A8433B4D"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:bevel"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 2L
+				id: "7DF1B8FCABA555F8"
+				item: { components: { "ftbquests:missing_item": "tfmg:radial_engine" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1084B343FEEBB88E"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "797DCA89A0B3FBB8"
+			rewards: [{
+				id: "10CE28573E2AAE93"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:bevel"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5DBEA7A9720638BE"
+				item: { count: 1, id: "create:black_seat" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1084B343FEEBB88E"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "0D1A3BE5396104F7"
+			rewards: [{
+				id: "06D96115AF487ADD"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:bevel"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 11L
+				id: "15E300DC84EC9BB3"
+				item: { components: { "ftbquests:missing_item": "kubejs:tier_1_plating" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"59753336427A57A6"
+				"797DCA89A0B3FBB8"
+				"2F520B59F10123D2"
+				"4EE82272D412DB9C"
+				"778AEC1710A4E237"
+				"08ED76082CFF1D16"
+				"2CCB9C223585FA23"
+				"0D1A3BE5396104F7"
+				"6CE8C3410296E977"
+				"086223FF8861479F"
+				"75BD9E93A6143DC7"
+				"72EC381A9B79EF64"
+			]
+			dependency_requirement: "one_completed"
+			id: "7148FF0A0F2F9890"
+			rewards: [{
+				count: 20
+				id: "62981A2CE861546B"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:bevel"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "76C26ADF57608504"
+				item: { components: { "ftbquests:missing_item": "ad_astra:tier_1_rocket" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7148FF0A0F2F9890"]
+			id: "47A6ACAA667AD14A"
+			rewards: [{
+				id: "20BE567DCE029C47"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:bevel"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				dimension: "ad_astra:moon"
+				id: "18E4F1919AF13979"
+				type: "dimension"
+			}]
+			x: 1.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["1084B343FEEBB88E"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "2CCB9C223585FA23"
+			rewards: [{
+				id: "11F1F5B4C046DB71"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:bevel"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1E4A4A70072E9777"
+				item: { components: { "ftbquests:missing_item": "ad_astra:steel_engine" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1084B343FEEBB88E"]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "4EE82272D412DB9C"
+			rewards: [{
+				id: "2561488F73A82985"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:bevel"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 2L
+				id: "22A6EB743446800A"
+				item: { components: { "ftbquests:missing_item": "ad_astra:steel_tank" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1084B343FEEBB88E"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "75BD9E93A6143DC7"
+			rewards: [{
+				id: "1D84CCC85A0ACFE5"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:bevel"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "420BD0F655854B7A"
+				item: { components: { "ftbquests:missing_item": "ad_astra:launch_pad" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["1084B343FEEBB88E"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "72EC381A9B79EF64"
+			rewards: [{
+				id: "04857F1FAB3823E6"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:bevel"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "37B838D2ABF21CC5"
+				item: { components: { "ftbquests:missing_item": "ad_astra:fuel_bucket" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["1084B343FEEBB88E"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "086223FF8861479F"
+			rewards: [
+				{
+					id: "45882951E2B3695C"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "4C58ACEABB4D77F1"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:bevel"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "1645E38B9254D660"
+					item: { components: { "ftbquests:missing_item": "ad_astra:space_helmet" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "4CCE98B05AA6111E"
+					item: { components: { "ftbquests:missing_item": "ad_astra:space_suit" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "7059377306B67AE6"
+					item: { components: { "ftbquests:missing_item": "ad_astra:space_pants" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "5B7EFFD09E4B0DB5"
+					item: { components: { "ftbquests:missing_item": "ad_astra:space_boots" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["1084B343FEEBB88E"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "6CE8C3410296E977"
+			min_width: 300
+			rewards: [
+				{
+					id: "62FF6DA8DA2C53C5"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "4AC9900B81E930A6"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:bevel"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "7D926F7974EA410B"
+					item: { components: { "ftbquests:missing_item": "ad_astra:oxygen_loader" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "6DA3662083D3873D"
+					item: { components: { "ftbquests:missing_item": "ad_astra:oxygen_tank" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["47A6ACAA667AD14A"]
+			hide_until_deps_complete: true
+			id: "509BB6BF39848F5B"
+			optional: true
+			rewards: [{
+				id: "4CC6058B3C286B6F"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:bevel"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "2EF04DC642F0A0AA"
+				item: { components: { "ftbquests:missing_item": "ad_astra:desh_ingot" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 14.0d
+		}
+		{
+			dependencies: [
+				"509BB6BF39848F5B"
+				"29A64A556C101D83"
+				"37D437BA68D6864C"
+			]
+			dependency_requirement: "one_completed"
+			id: "01B1F88F57961B10"
+			optional: true
+			rewards: [{
+				id: "0E405A04A64B1B7D"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:bevel"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "469F37921FE70F08"
+				item: { components: { "ftbquests:missing_item": "ad_astra:oxygen_distributor" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["509BB6BF39848F5B"]
+			id: "37D437BA68D6864C"
+			rewards: [
+				{
+					id: "56C2799476D03572"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					id: "6A8372695BBBA7E3"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:bevel"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "64F2521F16C07397"
+				item: { components: { "ftbquests:missing_item": "ad_astra:solar_panel" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["509BB6BF39848F5B"]
+			id: "29A64A556C101D83"
+			rewards: [
+				{
+					id: "496CCA723B67B909"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					id: "6EFD3AFA6C1F5E46"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:bevel"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "554F69A27BBC5A76"
+				item: { components: { "ftbquests:missing_item": "ad_astra:water_pump" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["47A6ACAA667AD14A"]
+			dependency_requirement: "one_completed"
+			hide_until_deps_complete: true
+			id: "694646586C18C609"
+			optional: true
+			rewards: [
+				{
+					count: 5
+					id: "465BA134DD240761"
+					item: {
+						components: {
+							"ftbquests:missing_item": "ad_astra:desh_ingot"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					id: "37679D84DC025A58"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:bevel"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "451EC360A3F38231"
+				item: { components: { "ftbquests:missing_item": "ad_astra:tier_1_rover" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 14.0d
+		}
+	]
+}

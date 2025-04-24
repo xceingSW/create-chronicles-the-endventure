@@ -1,0 +1,1398 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_twilight"
+	group: ""
+	id: "7DA89DB49AC553E1"
+	order_index: 18
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["123D70CA4959F172"]
+			hide_until_deps_complete: true
+			id: "2F0F635C06E8D307"
+			rewards: [
+				{
+					id: "5492E3E7C1F5AE23"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "1F91E8BA56BD1E92"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				dimension: "twilightforest:twilight_forest"
+				id: "7A472AD44FFA4EA7"
+				type: "dimension"
+			}]
+			x: -7.0d
+			y: -0.65d
+		}
+		{
+			dependencies: ["2F0F635C06E8D307"]
+			id: "51EC1DBEAFF575D7"
+			rewards: [
+				{
+					id: "2C00EFF4D95465A8"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "4E1C77210823A93B"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "3FED0422AC07EF0B"
+				item: { components: { "ftbquests:missing_item": "twilightforest:magic_map" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -2.6d
+			y: -0.65d
+		}
+		{
+			dependencies: ["51EC1DBEAFF575D7"]
+			id: "043A32CFAF07245A"
+			rewards: [
+				{
+					id: "48129AD4ABD679B4"
+					type: "xp_levels"
+					xp_levels: 25
+				}
+				{
+					count: 32
+					id: "2726CF36932480DC"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "6C2D37E9E4AF0360"
+				item: { components: { "ftbquests:missing_item": "twilightforest:naga_trophy" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 1.3d
+			y: -0.65d
+		}
+		{
+			dependencies: ["043A32CFAF07245A"]
+			id: "65E6F43E380A343B"
+			rewards: [
+				{
+					id: "0105941E62BE1CA6"
+					item: {
+						components: {
+							"ftbquests:missing_item": "twilightforest:fortification_scepter"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "164D54883E2CB856"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "211FC2F8F944CA50"
+				item: { components: { "ftbquests:missing_item": "twilightforest:lich_trophy" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 3.9000000000000004d
+			y: -0.65d
+		}
+		{
+			dependencies: ["1125F566DAEFC4A5"]
+			id: "249A0EC5DB167A5A"
+			rewards: [
+				{
+					count: 8
+					id: "6AA21A70291C56B5"
+					item: {
+						components: {
+							"ftbquests:missing_item": "twilightforest:cooked_venison"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					id: "13305A8AECBAE800"
+					item: {
+						components: {
+							"ftbquests:missing_item": "twilightforest:charm_of_keeping_1"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					id: "3EEB8AED442F6C86"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "47BE539B2F759871"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:sprocket"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "3A00D577D5E891A7"
+				item: { components: { "ftbquests:missing_item": "twilightforest:hydra_trophy" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 9.100000000000001d
+			y: -3.2500000000000004d
+		}
+		{
+			dependencies: ["08864DB101FED90C"]
+			id: "546A5B881F8F6A29"
+			rewards: [
+				{
+					id: "3173D23B515E0009"
+					item: {
+						components: {
+							"ftbquests:missing_item": "twilightforest:charm_of_keeping_2"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					id: "763634AD2A1F1CD8"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "4D312ADC61F028FF"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:sprocket"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "25D5DA05EB9567EF"
+				item: { components: { "ftbquests:missing_item": "twilightforest:ur_ghast_trophy" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 9.100000000000001d
+			y: -0.65d
+		}
+		{
+			dependencies: ["65E6F43E380A343B"]
+			id: "2471021B93EE125D"
+			rewards: [{
+				count: 32
+				id: "6DC84096BC6A36B6"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				entity: "twilightforest:alpha_yeti"
+				id: "4F4B40F3E1AB8663"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.500000000000001d
+			y: 1.9500000000000002d
+		}
+		{
+			dependencies: ["2471021B93EE125D"]
+			id: "2C964425741DFA07"
+			rewards: [
+				{
+					count: 10
+					id: "1D44958D215809FB"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "549F30A250309E05"
+					type: "xp"
+					xp: 300
+				}
+				{
+					id: "2F7033D363C1F7D3"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:sprocket"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "160743408E4C463A"
+				item: { components: { "ftbquests:missing_item": "twilightforest:snow_queen_trophy" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 9.100000000000001d
+			y: 1.9500000000000002d
+		}
+		{
+			dependencies: ["65E6F43E380A343B"]
+			id: "1125F566DAEFC4A5"
+			rewards: [
+				{
+					id: "38F20D5365F9DD50"
+					type: "xp"
+					xp: 30
+				}
+				{
+					count: 10
+					id: "69A423C4DA3CED56"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "0B13F1C59D4C60A6"
+				item: { components: { "ftbquests:missing_item": "twilightforest:minoshroom_trophy" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 6.500000000000001d
+			y: -3.2500000000000004d
+		}
+		{
+			dependencies: ["65E6F43E380A343B"]
+			id: "08864DB101FED90C"
+			rewards: [
+				{
+					id: "2B9F8C58FA8E4648"
+					item: {
+						components: {
+							"ftbquests:missing_item": "twilightforest:charm_of_keeping_2"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "0A94451C0444E7BB"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "26CF924E1688280A"
+				item: { components: { "ftbquests:missing_item": "twilightforest:knight_phantom_trophy" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 6.500000000000001d
+			y: -0.65d
+		}
+		{
+			dependencies: [
+				"249A0EC5DB167A5A"
+				"546A5B881F8F6A29"
+				"2C964425741DFA07"
+			]
+			id: "254CFFAAF052399C"
+			rewards: [
+				{
+					id: "02162698D2E1046C"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "7BCDEC918BE047DC"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "7732BB4C69F3B042"
+				item: { components: { "ftbquests:missing_item": "twilightforest:magic_beans" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 11.700000000000001d
+			y: -0.65d
+		}
+		{
+			dependencies: ["254CFFAAF052399C"]
+			id: "1BFB221E98E6B727"
+			rewards: [
+				{
+					id: "614E47B26F05E9FF"
+					type: "xp"
+					xp: 40
+				}
+				{
+					id: "64E8C1E9B258ED23"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [
+				{
+					id: "31EFE17BE7FD947E"
+					item: { components: { "ftbquests:missing_item": "twilightforest:giant_pickaxe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "049CDA4E97FDEA20"
+					item: { components: { "ftbquests:missing_item": "twilightforest:giant_sword" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 13.200000000000001d
+			y: -0.65d
+		}
+		{
+			dependencies: ["1BFB221E98E6B727"]
+			id: "6186282EA9E837D8"
+			rewards: [
+				{
+					id: "5A18BD24A1F4B566"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "764324D6A5BA750A"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "281C6A9BEC1301F2"
+				item: { components: { "ftbquests:missing_item": "twilightforest:lamp_of_cinders" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 14.700000000000001d
+			y: -0.65d
+		}
+		{
+			dependencies: ["6186282EA9E837D8"]
+			id: "7CA4CDBFAA14FA9F"
+			rewards: [
+				{
+					id: "1E18D0AD656581CA"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "1218CB3BFC5A3648"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "344ABE2EAC937877"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "365031F35C0AD287"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:cog"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				advancement: "twilightforest:progression_end"
+				criterion: ""
+				id: "407342A7335D03B1"
+				type: "advancement"
+			}]
+			x: 16.200000000000003d
+			y: -0.65d
+		}
+		{
+			dependencies: ["043A32CFAF07245A"]
+			id: "0938415ECE0664EC"
+			rewards: [
+				{
+					id: "3EB639A4152C0FA0"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 2
+					id: "2CA82741D8952664"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "3C628A8A0605B50E"
+					item: { components: { "ftbquests:missing_item": "twilightforest:naga_chestplate" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "40664898EBB62FD2"
+					item: { components: { "ftbquests:missing_item": "twilightforest:naga_leggings" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 1.25d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1125F566DAEFC4A5"]
+			id: "7A44612694194919"
+			rewards: [{
+				id: "47FA588D37DD9CA6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "69C2C888B534A64E"
+				item: { components: { "ftbquests:missing_item": "twilightforest:diamond_minotaur_axe" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["65E6F43E380A343B"]
+			id: "191E2BE490983099"
+			optional: true
+			rewards: [{
+				id: "2B03B7B81A88F018"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4C650082CEBE48C2"
+				item: { components: { "ftbquests:missing_item": "twilightforest:ore_map" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["65E6F43E380A343B"]
+			id: "65719A526AE9588E"
+			rewards: [{
+				id: "3A5AE7FF91269DF7"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2E6E588B8D845DC3"
+				item: { components: { "ftbquests:missing_item": "twilightforest:charm_of_keeping_1" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["65719A526AE9588E"]
+			id: "01DB3000FBBAB496"
+			rewards: [{
+				id: "47046358B5481CAE"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "41FE32C98680B2AA"
+				item: { components: { "ftbquests:missing_item": "twilightforest:charm_of_keeping_2" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["01DB3000FBBAB496"]
+			id: "619ED52038647A5A"
+			rewards: [{
+				id: "55C60AB1C968965A"
+				type: "xp"
+				xp: 100
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "386FD65631560AC7"
+				item: { components: { "ftbquests:missing_item": "twilightforest:charm_of_keeping_3" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["51EC1DBEAFF575D7"]
+			id: "50D1B38C1572A901"
+			rewards: [{
+				id: "41AD6126DD4BCA94"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "4A37A871C015DE69"
+				item: { components: { "ftbquests:missing_item": "twilightforest:quest_ram_trophy" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["65E6F43E380A343B"]
+			id: "1C8C21F69F8AF6E8"
+			rewards: [{
+				id: "7CB85CB7C7897163"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3091E3C9B8F3D987"
+				item: { components: { "ftbquests:missing_item": "twilightforest:mazebreaker_pickaxe" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["249A0EC5DB167A5A"]
+			id: "7692A6C8E123BEB6"
+			rewards: [
+				{
+					count: 2
+					id: "3CCAD0CD298BC8C9"
+					item: {
+						components: {
+							"ftbquests:missing_item": "twilightforest:fiery_ingot"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "3B2D5DAECB650E92"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					id: "7AD90B5A1F10F6EA"
+					item: { components: { "ftbquests:missing_item": "twilightforest:fiery_sword" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "4FA3473EF381CEE0"
+					item: { components: { "ftbquests:missing_item": "twilightforest:fiery_pickaxe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 8.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["249A0EC5DB167A5A"]
+			id: "5E9C29281165D517"
+			rewards: [
+				{
+					id: "002773E10F441877"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 2
+					id: "17BA43E1B82544D7"
+					item: {
+						components: {
+							"ftbquests:missing_item": "twilightforest:fiery_ingot"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "147F6CF34F6A7DA7"
+					item: { components: { "ftbquests:missing_item": "twilightforest:fiery_helmet" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "1810702C50A9DA53"
+					item: { components: { "ftbquests:missing_item": "twilightforest:fiery_chestplate" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "30D2E92D0A180609"
+					item: { components: { "ftbquests:missing_item": "twilightforest:fiery_leggings" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "3809B24AE5F07A4A"
+					item: { components: { "ftbquests:missing_item": "twilightforest:fiery_boots" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 9.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["08864DB101FED90C"]
+			id: "723E6DA6E711FE8A"
+			rewards: [
+				{
+					count: 4
+					id: "1031DF099C7433B4"
+					item: {
+						components: {
+							"ftbquests:missing_item": "twilightforest:knightmetal_ingot"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "359F8E3BE7DF1169"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					id: "4CFA0C3E7C1CC069"
+					item: { components: { "ftbquests:missing_item": "twilightforest:knightmetal_sword" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "3E3D51BCAE7A86B5"
+					item: { components: { "ftbquests:missing_item": "twilightforest:knightmetal_pickaxe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "32C904C79CE3F502"
+					item: { components: { "ftbquests:missing_item": "twilightforest:knightmetal_axe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "018C19CA575DCFD2"
+					item: { components: { "ftbquests:missing_item": "twilightforest:block_and_chain" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "6A3173913113F816"
+					item: { components: { "ftbquests:missing_item": "twilightforest:knightmetal_shield" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["08864DB101FED90C"]
+			id: "7CAD7CE1BCA369A3"
+			rewards: [{
+				id: "0A1D6ED1DE96700A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "5E3EBDD65D4ACFBC"
+					item: { components: { "ftbquests:missing_item": "twilightforest:phantom_helmet" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "04EB8D3FEC4AB8D8"
+					item: { components: { "ftbquests:missing_item": "twilightforest:phantom_chestplate" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["08864DB101FED90C"]
+			id: "71E8DAB10669FADA"
+			rewards: [{
+				id: "1D995C8B0F47E6F5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "01978A8959E4071C"
+					item: { components: { "ftbquests:missing_item": "twilightforest:knightmetal_helmet" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "052312A0E0FBDC1D"
+					item: { components: { "ftbquests:missing_item": "twilightforest:knightmetal_chestplate" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "105FEC00EA207E64"
+					item: { components: { "ftbquests:missing_item": "twilightforest:knightmetal_leggings" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "77EF5232A38F3945"
+					item: { components: { "ftbquests:missing_item": "twilightforest:knightmetal_boots" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2471021B93EE125D"]
+			id: "5D2BE6E37AC8D896"
+			rewards: [
+				{
+					id: "498E16FC735E723E"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 2
+					id: "6605C308EC9F9B70"
+					item: {
+						components: {
+							"ftbquests:missing_item": "twilightforest:alpha_yeti_fur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "33330F7DD334718B"
+					item: { components: { "ftbquests:missing_item": "twilightforest:yeti_helmet" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "7D050F50BF9E4C68"
+					item: { components: { "ftbquests:missing_item": "twilightforest:yeti_chestplate" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "2613916D5E725EFB"
+					item: { components: { "ftbquests:missing_item": "twilightforest:yeti_leggings" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "7B44A235A48EEF17"
+					item: { components: { "ftbquests:missing_item": "twilightforest:yeti_boots" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2471021B93EE125D"]
+			id: "4FA382E4AE085E48"
+			rewards: [{
+				id: "53907844BB2ECADF"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "796F7D8402388A59"
+					item: { components: { "ftbquests:missing_item": "twilightforest:arctic_helmet" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "4946B3BA2B5CB76C"
+					item: { components: { "ftbquests:missing_item": "twilightforest:arctic_chestplate" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "65FC6CE2B08041A6"
+					item: { components: { "ftbquests:missing_item": "twilightforest:arctic_leggings" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "5203A89130C0367F"
+					item: { components: { "ftbquests:missing_item": "twilightforest:arctic_boots" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2C964425741DFA07"]
+			id: "0D307B465646C366"
+			rewards: [{
+				id: "7BE065DF481F310B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "470D33CBE91D4F66"
+				item: { components: { "ftbquests:missing_item": "twilightforest:triple_bow" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2C964425741DFA07"]
+			id: "7283D021B45550CC"
+			rewards: [{
+				id: "0013A225DCAC6DC6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0121C53EED16029B"
+				item: { components: { "ftbquests:missing_item": "twilightforest:seeker_bow" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2C964425741DFA07"]
+			id: "78FD5B1A2C8C048A"
+			rewards: [{
+				id: "78790B6C3C8901C3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3DCFC55986334FD9"
+				item: { components: { "ftbquests:missing_item": "twilightforest:ender_bow" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2C964425741DFA07"]
+			id: "428F3A8F379F4A85"
+			rewards: [{
+				id: "1DB297E1903943D1"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1739B341D8F4CFB4"
+				item: { components: { "ftbquests:missing_item": "twilightforest:ice_bow" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["51EC1DBEAFF575D7"]
+			id: "500F0BB576E89780"
+			rewards: [
+				{
+					id: "63266F1752F99261"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 2
+					id: "709220599E7FC5A7"
+					item: {
+						components: {
+							"ftbquests:missing_item": "twilightforest:steeleaf_ingot"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "379E4D4870B1E529"
+					item: { components: { "ftbquests:missing_item": "twilightforest:steeleaf_helmet" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "6FB4270078C5BB75"
+					item: { components: { "ftbquests:missing_item": "twilightforest:steeleaf_chestplate" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "143C5F1E95B2B165"
+					item: { components: { "ftbquests:missing_item": "twilightforest:steeleaf_leggings" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "4A33045282FC9379"
+					item: { components: { "ftbquests:missing_item": "twilightforest:steeleaf_boots" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["51EC1DBEAFF575D7"]
+			id: "689FDA2441253F73"
+			rewards: [
+				{
+					id: "532B29FF38FE8629"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 2
+					id: "0BA3AAC8B48680B8"
+					item: {
+						components: {
+							"ftbquests:missing_item": "twilightforest:raw_ironwood"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "79A8ED6FAAF2173B"
+					item: { components: { "ftbquests:missing_item": "twilightforest:ironwood_helmet" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "39BCBDF5215C9897"
+					item: { components: { "ftbquests:missing_item": "twilightforest:ironwood_chestplate" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "778FE76F8FE9A357"
+					item: { components: { "ftbquests:missing_item": "twilightforest:ironwood_leggings" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "1CD5427EA4915572"
+					item: { components: { "ftbquests:missing_item": "twilightforest:ironwood_boots" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["51EC1DBEAFF575D7"]
+			id: "4C3D83E90EBD8C3D"
+			rewards: [{
+				id: "580FABB44F875793"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "19F6B20C6573C64E"
+				item: { components: { "ftbquests:missing_item": "twilightforest:transformation_powder" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["51EC1DBEAFF575D7"]
+			id: "6749C7C13B2DB0AE"
+			rewards: [{
+				id: "6BD7DC37EC1C3800"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7030A87D96947AC9"
+				item: { components: { "ftbquests:missing_item": "twilightforest:moonworm_queen" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["51EC1DBEAFF575D7"]
+			id: "06A17005B91DCC85"
+			rewards: [{
+				id: "13D5CB420B21949D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "153A491E8F596BD0"
+					item: { components: { "ftbquests:missing_item": "twilightforest:raw_venison" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "674B237A11268E35"
+					item: { components: { "ftbquests:missing_item": "twilightforest:cooked_venison" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "5AE1D133BC6CA42D"
+					item: { components: { "ftbquests:missing_item": "twilightforest:maze_wafer" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "776E2B6BECFDEF4B"
+					item: { components: { "ftbquests:missing_item": "twilightforest:cooked_meef" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "703272C650982F10"
+					item: { components: { "ftbquests:missing_item": "twilightforest:experiment_115" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "30AE27EB6D55A8B6"
+					item: { components: { "ftbquests:missing_item": "twilightforest:hydra_chop" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					advancement: "twilightforest:twilight_dinner"
+					criterion: ""
+					id: "6F0DD3467BA90E33"
+					type: "advancement"
+				}
+				{
+					id: "6143F57A42A9251A"
+					item: { components: { "ftbquests:missing_item": "twilightforest:torchberries" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["51EC1DBEAFF575D7"]
+			id: "6A27EFA039D9E06B"
+			rewards: [{
+				id: "221E88A991B01622"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0774B940B2FFB5AA"
+				item: { components: { "ftbquests:missing_item": "twilightforest:peacock_feather_fan" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["51EC1DBEAFF575D7"]
+			id: "13349B0DB7ABDB82"
+			rewards: [{
+				id: "7C4F0091577A963E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0150DF964D4281B6"
+				item: { components: { "ftbquests:missing_item": "twilightforest:ore_magnet" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["546A5B881F8F6A29"]
+			id: "2CB0638C2E87D128"
+			rewards: [
+				{
+					count: 4
+					id: "32A1EE249E3E4DE5"
+					item: {
+						components: {
+							"ftbquests:missing_item": "twilightforest:reappearing_block"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "1E1CF1A95669BE41"
+					item: {
+						components: {
+							"ftbquests:missing_item": "twilightforest:vanishing_block"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					id: "7930F8A58C6C2538"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					id: "7D3615BDC15570C6"
+					item: { components: { "ftbquests:missing_item": "twilightforest:reappearing_block" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "08FB2C7FBAE6DFCC"
+					item: { components: { "ftbquests:missing_item": "twilightforest:vanishing_block" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 8.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["546A5B881F8F6A29"]
+			id: "3B8AE843B2700A38"
+			rewards: [
+				{
+					count: 2
+					id: "57B4B74049710CC5"
+					item: {
+						components: {
+							"ftbquests:missing_item": "twilightforest:carminite"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "740DC3B237919832"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					id: "114C1381DC3FB755"
+					item: { components: { "ftbquests:missing_item": "twilightforest:carminite_builder" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "553DD83D7CE945F1"
+					item: { components: { "ftbquests:missing_item": "twilightforest:carminite_reactor" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 9.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6EEF1E5F9EA109F6"]
+			id: "644902A7AC16ABD9"
+			rewards: [{
+				id: "19CA207AA548F4CA"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1C1CC5443A4F765A"
+				item: { components: { "ftbquests:missing_item": "twilightforest:snowy_cloud" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6EEF1E5F9EA109F6"]
+			id: "4B0C98FB634E8A9B"
+			rewards: [{
+				id: "3DD2097301456D16"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "275BD28366E3B916"
+				item: { components: { "ftbquests:missing_item": "twilightforest:rainy_cloud" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["51EC1DBEAFF575D7"]
+			id: "6EEF1E5F9EA109F6"
+			rewards: [{
+				id: "6665D18ECD15185F"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "05213933FDFB1546"
+				item: { components: { "ftbquests:missing_item": "twilightforest:fluffy_cloud" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.5d
+		}
+	]
+}

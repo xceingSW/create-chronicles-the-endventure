@@ -1,0 +1,2958 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "basics"
+	group: ""
+	icon: {
+		id: "patchouli:guide_book"
+	}
+	id: "09B56D111668F538"
+	images: [
+		{
+			height: 6.0d
+			image: "kubejs:textures/logo.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: -40.0d
+			y: 18.1d
+		}
+		{
+			color: 14522965
+			height: 1.0d
+			image: "chalk:block/mark/arrow"
+			rotation: 90.0d
+			width: 1.0d
+			x: -28.0d
+			y: 17.0d
+		}
+		{
+			color: 14522965
+			height: 1.0d
+			image: "chalk:block/mark/arrow"
+			rotation: 90.0d
+			width: 1.0d
+			x: -31.6d
+			y: 17.2d
+		}
+		{
+			color: 14522965
+			height: 1.0d
+			image: "chalk:block/mark/arrow"
+			rotation: 90.0d
+			width: 1.0d
+			x: -9.5d
+			y: 17.0d
+		}
+		{
+			click: "https://discord.gg/yRAmua5keG"
+			height: 1.0d
+			image: "supplementaries:textures/gui/book/icon/discord.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -32.1d
+			y: 15.4d
+		}
+		{
+			color: 14522965
+			height: 1.0d
+			image: "chalk:block/mark/arrow"
+			rotation: 180.0d
+			width: 1.0d
+			x: -16.0d
+			y: 15.0d
+		}
+		{
+			color: 14522965
+			height: 1.0d
+			image: "chalk:block/mark/arrow"
+			rotation: 180.0d
+			width: 1.0d
+			x: -18.0d
+			y: 15.0d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1F6BC8C2A5B8F9B2"]
+			id: "072DA448D144179C"
+			rewards: [{
+				command: "/puffish_skills points add @s talentree 1"
+				id: "2F72B652621B93C9"
+				permission_level: 2
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "13FDAAB9648E3D0D"
+				type: "checkmark"
+			}]
+			x: -35.9d
+			y: 19.0d
+		}
+		{
+			id: "1F6BC8C2A5B8F9B2"
+			rewards: [{
+				count: 20
+				id: "167DE99A77DBDD03"
+				item: {
+					count: 1
+					id: "farmersdelight:sweet_berry_cookie"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				id: "184D02801FC28C38"
+				type: "checkmark"
+			}]
+			x: -33.9d
+			y: 18.0d
+		}
+		{
+			dependencies: ["1F6BC8C2A5B8F9B2"]
+			id: "0C49795E134A27E0"
+			rewards: [{
+				id: "1388C1348A74DF51"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "1DD5BBE838C429A3"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: -29.85d
+			y: 18.0d
+		}
+		{
+			dependencies: ["72A5DEFDD0F3470D"]
+			id: "6EDC6D809402C84C"
+			rewards: [{
+				id: "3BE68D65CCD63759"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "096AF6AAAD52211A"
+				item: { count: 1, id: "minecraft:netherite_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 23.0d
+		}
+		{
+			dependencies: ["28B245505F91D21C"]
+			id: "0C7046AD65831DAC"
+			rewards: [{
+				id: "6941E9B443360ADA"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "4CDC98F4B0439B5A"
+				item: { count: 1, id: "create_sa:andesite_jetpack_chestplate" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["1F6BC8C2A5B8F9B2"]
+			id: "7FA9BBBA1DBB5F32"
+			tasks: [{
+				id: "1A913BDE3452E930"
+				type: "checkmark"
+			}]
+			x: -35.9d
+			y: 17.0d
+		}
+		{
+			dependencies: ["1F6BC8C2A5B8F9B2"]
+			id: "67FA8896AD563A77"
+			rewards: [{
+				id: "7B0DEB5DF9F95C18"
+				item: {
+					count: 1
+					id: "waystones:waystone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6F08B962A9B440A2"
+				type: "checkmark"
+			}]
+			x: -33.9d
+			y: 16.0d
+		}
+		{
+			dependencies: ["640C3588E6BA8DF2"]
+			icon: {
+				id: "simplyswords:brimstone_claymore"
+			}
+			id: "2F1F1047E8A734EC"
+			rewards: [{
+				id: "721FF67AC2FD6B87"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2641C625B57F3705"
+				item: { count: 1, id: "patchouli:guide_book" }
+				type: "item"
+			}]
+			x: -22.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["7EF948B39FBEA377"]
+			id: "018D3C4DBED54803"
+			rewards: [{
+				id: "3DAC8A3BB2FB7AFB"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "15EDF99888160CC9"
+				item: { components: { "ftbquests:missing_item": "alexsmobs:animal_dictionary" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -22.5d
+			y: 16.0d
+		}
+		{
+			dependencies: ["123D70CA4959F172"]
+			id: "479BCCC330D6725A"
+			rewards: [{
+				id: "25AEE5EABCB3C6DD"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				count: 2L
+				id: "3F8765763646ECDD"
+				item: { components: { "ftbquests:missing_item": "dimdungeons:block_gilded_portal" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 21.5d
+		}
+		{
+			dependencies: [
+				"7B4DB4B0D17BE6C4"
+				"6BC9E9B971DEE60A"
+			]
+			id: "70068CFDA790A856"
+			rewards: [
+				{
+					id: "5A6D5150CFD16EA9"
+					item: {
+						components: {
+							"ftbquests:missing_item": "dimdungeons:item_portal_key"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					id: "56B9713B96937881"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tasks: [{
+				id: "5051B0937885FF15"
+				item: { components: { "ftbquests:missing_item": "dimdungeons:block_portal_keyhole" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 25.5d
+		}
+		{
+			dependencies: ["479BCCC330D6725A"]
+			id: "7B4DB4B0D17BE6C4"
+			rewards: [{
+				id: "07DDC96B14693645"
+				type: "xp"
+				xp: 35
+			}]
+			tasks: [{
+				id: "67D7AB20A178B8A4"
+				item: { components: { "ftbquests:missing_item": "dimdungeons:item_portal_key" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 23.5d
+		}
+		{
+			dependencies: ["70068CFDA790A856"]
+			id: "6A465B0AE8586176"
+			rewards: [
+				{
+					id: "09562381EF6CF006"
+					item: {
+						components: {
+							"ftbquests:missing_item": "dimdungeons:item_portal_key"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					id: "7FBB4AF74D31C240"
+					type: "xp"
+					xp: 70
+				}
+			]
+			tasks: [{
+				count: 2L
+				id: "44D4014014A0C6D4"
+				item: { components: { "ftbquests:missing_item": "dimdungeons:block_portal_crown" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 27.5d
+		}
+		{
+			dependencies: ["479BCCC330D6725A"]
+			id: "6BC9E9B971DEE60A"
+			rewards: [
+				{
+					id: "56139D410D078D3C"
+					item: {
+						components: {
+							"ftbquests:missing_item": "dimdungeons:item_portal_key"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					id: "1CBDEF934517F060"
+					type: "xp"
+					xp: 35
+				}
+			]
+			tasks: [{
+				id: "6254D4627A80A005"
+				item: { components: { "ftbquests:missing_item": "dimdungeons:block_key_charger" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 23.5d
+		}
+		{
+			dependencies: ["7B4DB4B0D17BE6C4"]
+			id: "03C4EA06B12B1656"
+			rewards: [{
+				id: "1AD3FDA3EF5444A4"
+				type: "xp"
+				xp: 35
+			}]
+			tasks: [{
+				id: "7B8C4A7F6C6AF405"
+				item: { components: { "ftbquests:missing_item": "dimdungeons:item_blank_build_key" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 25.5d
+		}
+		{
+			dependencies: ["7EF948B39FBEA377"]
+			id: "107C7C1F5CADD79E"
+			rewards: [{
+				id: "1AC7296C76CD5F9F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "44B7D229A5F0DA91"
+				item: { components: { "ftbquests:missing_item": "paraglider:paraglider" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -23.5d
+			y: 16.0d
+		}
+		{
+			dependencies: ["5F54BFA919A9265B"]
+			id: "00CCA9A34E314582"
+			rewards: [{
+				count: 3
+				id: "5F3E6E7FBB2DCDD1"
+				item: {
+					components: {
+						"ftbquests:missing_item": "iceandfire:manuscript"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1584A86F782C8BE3"
+				item: { components: { "ftbquests:missing_item": "iceandfire:lectern" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -18.5d
+			y: 23.0d
+		}
+		{
+			dependencies: ["0A6D8A117DACC36B"]
+			id: "5F54BFA919A9265B"
+			rewards: [{
+				count: 3
+				id: "3ECA39C956698FC6"
+				item: {
+					components: {
+						"ftbquests:missing_item": "iceandfire:manuscript"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "32B50B49CA6E5D3F"
+				item: { components: { "ftbquests:missing_item": "iceandfire:bestiary" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -18.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["05DF598DEBADABC3"]
+			id: "0A6D8A117DACC36B"
+			rewards: [{
+				count: 3
+				id: "5B9B991735FED2BB"
+				item: {
+					components: {
+						"ftbquests:missing_item": "iceandfire:manuscript"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "46ABA342D99C4D1E"
+				item: { components: { "ftbquests:missing_item": "iceandfire:manuscript" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -18.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["7EF948B39FBEA377"]
+			id: "05DF598DEBADABC3"
+			rewards: [{
+				count: 3
+				id: "4DB3D90257676F99"
+				item: {
+					components: {
+						"ftbquests:missing_item": "iceandfire:manuscript"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "10C9EC641579B9FA"
+				type: "checkmark"
+			}]
+			x: -17.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["1F6BC8C2A5B8F9B2"]
+			id: "7436ABDD8951C18F"
+			rewards: [{
+				count: 4
+				id: "434657B780CD3573"
+				item: {
+					components: {
+						"ftbquests:missing_item": "paraglider:spirit_orb"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "122AA19F6DAFA8EF"
+				type: "checkmark"
+			}]
+			x: -35.9d
+			y: 18.0d
+		}
+		{
+			dependencies: ["05DF598DEBADABC3"]
+			id: "3A5D5C4FBFAFB109"
+			rewards: [
+				{
+					id: "7EA0167D03EE2A7C"
+					type: "xp_levels"
+					xp_levels: 2
+				}
+				{
+					id: "312039C027C5E676"
+					item: {
+						components: {
+							"ftbquests:missing_item": "alexscaves:cave_book"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1C23290C04C44FB9"
+				structure: "alexscaves:underground_cabin"
+				type: "structure"
+			}]
+			x: -17.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["3A5D5C4FBFAFB109"]
+			id: "26D860BF5D02586C"
+			rewards: [{
+				id: "017B47440E473808"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "2AEBADAF7BD0BDDE"
+				item: { components: { "ftbquests:missing_item": "alexscaves:spelunkery_table" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -17.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["26D860BF5D02586C"]
+			id: "2F7BB458FD5AFF19"
+			rewards: [{
+				id: "56F6A58BE40B3D37"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "37EFDE1A242FC6ED"
+				item: { components: { "ftbquests:missing_item": "alexscaves:cave_codex" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -17.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["1F6BC8C2A5B8F9B2"]
+			id: "6D382620BBC1E6C0"
+			rewards: [{
+				id: "1F572C2BD14B7F1B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1D986DC9FFE37C6A"
+				type: "checkmark"
+			}]
+			x: -34.9d
+			y: 20.0d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "1E53659639A295D6"
+			rewards: [{
+				id: "326E60974EEBA815"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "52B0934C4AB8F731"
+				item: { components: { "ftbquests:missing_item": "quark:trowel" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 18.5d
+			y: 18.5d
+		}
+		{
+			dependencies: ["28B245505F91D21C"]
+			id: "6205128D8BD81FE0"
+			rewards: [{
+				id: "2C5C933092E25AB9"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6A97508FBE37DBEE"
+				item: { components: { "ftbquests:missing_item": "camera:camera" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["640C3588E6BA8DF2"]
+			id: "77E129C820E2C154"
+			rewards: [{
+				id: "4A6C92FC3FF626ED"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "03C5427638F1124F"
+				item: { count: 1, id: "dummmmmmy:target_dummy" }
+				type: "item"
+			}]
+			x: -23.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "68623EA6ABCAE7C7"
+			rewards: [{
+				id: "2FF3E6689E3FAA2F"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "28D420D2D62375AD"
+				item: { count: 1, id: "minecraft:totem_of_undying" }
+				type: "item"
+			}]
+			x: 17.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["2F1F1047E8A734EC"]
+			id: "3D8B2D9B4488D1C4"
+			rewards: [
+				{
+					id: "3044588ADA2C34F9"
+					item: {
+						count: 1
+						id: "simplyswords:empowered_remnant"
+					}
+					type: "item"
+				}
+				{
+					id: "79F86FB1A5010108"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 4
+					id: "06287D4183F54125"
+					item: {
+						count: 1
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "49E5F5147F07C67B"
+				item: { count: 1, id: "simplyswords:empowered_remnant" }
+				type: "item"
+			}]
+			x: -22.5d
+			y: 23.0d
+		}
+		{
+			dependencies: ["3D8B2D9B4488D1C4"]
+			id: "374A73FE0C12C105"
+			rewards: [
+				{
+					id: "6C6877A0C6DC69B4"
+					item: {
+						count: 1
+						id: "simplyswords:empowered_remnant"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0A8AA9F560CC2350"
+					item: {
+						count: 1
+						id: "simplyswords:runic_tablet"
+					}
+					type: "item"
+				}
+				{
+					id: "0EB8AE0F42606004"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				id: "5FA9B1D918EC6529"
+				item: { count: 1, id: "simplyswords:netherfused_gem" }
+				type: "item"
+			}]
+			x: -23.5d
+			y: 24.5d
+		}
+		{
+			dependencies: ["3D8B2D9B4488D1C4"]
+			id: "4E2CDE150137F5E9"
+			rewards: [
+				{
+					id: "532BB8E9D9518DEA"
+					item: {
+						count: 1
+						id: "simplyswords:empowered_remnant"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "03BCC3F031B22DE0"
+					item: {
+						count: 1
+						id: "simplyswords:runic_tablet"
+					}
+					type: "item"
+				}
+				{
+					id: "412AC6A306F89E98"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				id: "5EC926FCEC96ADAC"
+				item: { count: 1, id: "simplyswords:runefused_gem" }
+				type: "item"
+			}]
+			x: -21.5d
+			y: 24.5d
+		}
+		{
+			dependencies: ["1F6BC8C2A5B8F9B2"]
+			id: "660C3D5CB407247F"
+			tasks: [{
+				id: "6FD0241035AC0F91"
+				type: "checkmark"
+			}]
+			x: -33.9d
+			y: 20.0d
+		}
+		{
+			dependencies: ["28B245505F91D21C"]
+			id: "15E1385A52B7A632"
+			progression_mode: "flexible"
+			rewards: [
+				{
+					count: 2
+					id: "1C0F32826DE96674"
+					item: {
+						components: {
+							"ftbquests:missing_item": "toolbelt:pouch"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					id: "03BEAC42E06086CD"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "20611962F187E5FB"
+				item: { components: { "ftbquests:missing_item": "toolbelt:belt" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["05B32DE12868C6DE"]
+			id: "0D05759E84652BAA"
+			rewards: [{
+				id: "5A4C954FF624C154"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "060CEA85A1BF9C84"
+				item: { components: { "ftbquests:missing_item": "itemfilters:or" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["06267D7C266DE215"]
+			id: "478DE12D3EF8C22A"
+			rewards: [
+				{
+					id: "50E030E9EBB5E5CF"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 32
+					id: "1D06972FAEF3D196"
+					item: {
+						count: 1
+						id: "minecraft:torch"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3BF67A3FC299BCB1"
+				item: { count: 1, id: "torchmaster:megatorch" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["261651FB7B600587"]
+			id: "7EF948B39FBEA377"
+			rewards: [{
+				id: "4A44E1F48CD46585"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "703514C592E5C630"
+				item: { count: 1, id: "minecraft:wooden_pickaxe" }
+				type: "item"
+			}]
+			x: -22.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["05DF598DEBADABC3"]
+			id: "05B32DE12868C6DE"
+			rewards: [{
+				id: "09C2CCAD1F30005D"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [
+				{
+					count: 16L
+					id: "6509C61E10237C4F"
+					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "2EF81FCBEE5CCC21"
+					item: { count: 1, id: "minecraft:furnace" }
+					type: "item"
+				}
+			]
+			x: -12.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["05B32DE12868C6DE"]
+			id: "28B245505F91D21C"
+			rewards: [{
+				id: "73FD6CD9F16B0FDC"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [
+				{
+					id: "5B6E37E280F23809"
+					item: { count: 1, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+				{
+					id: "3FE10EF0A2154395"
+					item: { count: 1, id: "minecraft:copper_ingot" }
+					type: "item"
+				}
+			]
+			x: -7.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["28B245505F91D21C"]
+			id: "7FA5CDC0F616D2C5"
+			rewards: [{
+				id: "6E032A8E6435C192"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "567D18852F5AB585"
+				item: { count: 1, id: "minecraft:iron_pickaxe" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["3D93780758BA7194"]
+			hide_until_deps_complete: false
+			id: "0C4974DE21CEDF4B"
+			rewards: [{
+				id: "2029C4079E097488"
+				type: "xp"
+				xp: 10
+			}]
+			size: 1.0d
+			tasks: [
+				{
+					id: "0C5834C0899BEF2B"
+					item: { count: 1, id: "minecraft:brush" }
+					type: "item"
+				}
+				{
+					id: "39B21E1D56517ADD"
+					item: { count: 1, id: "betterarcheology:archeology_table" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["7FA5CDC0F616D2C5"]
+			id: "65B47B2E1AA75ED3"
+			rewards: [{
+				id: "48CCA5D27575C069"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "760E2C0115B25B09"
+				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["7FA5CDC0F616D2C5"]
+			id: "77EEE919C23E18B1"
+			rewards: [{
+				id: "60B1B82C0EFA564B"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "2DC4927BB3208BB3"
+				item: { count: 1, id: "minecraft:sniffer_egg" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["04D09899362AFC7A"]
+			id: "06267D7C266DE215"
+			rewards: [{
+				id: "5CCB3BCA3CDDC471"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "07A73C61881D36D0"
+				item: { count: 1, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["123D70CA4959F172"]
+			id: "72A5DEFDD0F3470D"
+			min_width: 300
+			rewards: [{
+				id: "2DA219D2C2C27D52"
+				type: "xp"
+				xp: 50
+			}]
+			size: 1.0d
+			tasks: [
+				{
+					count: 10L
+					id: "50E50067EA492EBE"
+					item: { count: 1, id: "minecraft:obsidian" }
+					type: "item"
+				}
+				{
+					advancement: "minecraft:story/enter_the_nether"
+					criterion: ""
+					id: "726DAD7F99D8DE4E"
+					type: "advancement"
+				}
+			]
+			x: 3.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["06267D7C266DE215"]
+			id: "123D70CA4959F172"
+			rewards: [{
+				id: "74501D93CD967375"
+				item: {
+					count: 1
+					id: "waystones:waystone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "60FB6758FF913425"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["06267D7C266DE215"]
+			id: "21FB9D855FA9D2DF"
+			rewards: [
+				{
+					count: 2
+					id: "50F4EC485372FEF2"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:cog"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					id: "3AABBBEC1097C9A2"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:bank_terminal"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "0D128D27E6FC641D"
+				type: "checkmark"
+			}]
+			x: 10.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["6613D41573B7F0B9"]
+			id: "327AE18669E4B9F0"
+			rewards: [{
+				count: 5
+				id: "2FA95BED56ECC377"
+				item: {
+					count: 1
+					id: "minecraft:salmon"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "3D9D2F824D60EAC1"
+				item: { count: 1, id: "farmersdelight:stove" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["7FA5CDC0F616D2C5"]
+			id: "04D09899362AFC7A"
+			rewards: [{
+				id: "618495DCE46CFF23"
+				item: {
+					components: {
+						"ftbquests:missing_item": "ars_nouveau:greater_experience_gem"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "4E1D5074A8E3A8D2"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["7EF948B39FBEA377"]
+			id: "640C3588E6BA8DF2"
+			rewards: [{
+				id: "71C3D2FFBD888B63"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "66A18BC1D70CC3C1"
+				type: "checkmark"
+			}]
+			x: -22.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["1F6BC8C2A5B8F9B2"]
+			dependency_requirement: "one_completed"
+			id: "2E3B821A8A402B3E"
+			tasks: [{
+				id: "5A0FD6D40314D526"
+				type: "checkmark"
+			}]
+			x: -34.9d
+			y: 16.0d
+		}
+		{
+			dependencies: ["05B32DE12868C6DE"]
+			id: "714B3994BC2C04CB"
+			rewards: [{
+				id: "0A2EF6FF86549F7A"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3AE7928601517133"
+				item: { components: { "ftbquests:missing_item": "quark:abacus" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["05DF598DEBADABC3"]
+			id: "67145CE26EFAD16D"
+			shape: "rsquare"
+			size: 1.2d
+			tasks: [{
+				id: "2705180D70FA1C18"
+				type: "checkmark"
+			}]
+			x: -16.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["05DF598DEBADABC3"]
+			id: "0D0118FCEFE0A8E2"
+			shape: "rsquare"
+			size: 1.2d
+			tasks: [{
+				id: "3F0F062B13DBD93A"
+				type: "checkmark"
+			}]
+			x: -18.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["05B32DE12868C6DE"]
+			id: "419327E6573538F7"
+			rewards: [{
+				count: 2
+				id: "2A7D00993B48E84D"
+				item: {
+					count: 1
+					id: "chalk:yellow_chalk"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6FF668A7502BD876"
+					item: { count: 1, id: "chalk:chalk_box" }
+					type: "item"
+				}
+				{
+					id: "367973CDFE4547F1"
+					item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -13.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["1F6BC8C2A5B8F9B2"]
+			id: "5525E70F7FBDBD92"
+			rewards: [{
+				id: "7F4AC2523DDD270D"
+				item: {
+					count: 1
+					id: "minecraft:enchanted_golden_apple"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0CBC9A977ED7A39C"
+				type: "checkmark"
+			}]
+			x: -32.9d
+			y: 16.0d
+		}
+		{
+			dependencies: ["7EF948B39FBEA377"]
+			id: "6BF73E8BF5844527"
+			rewards: [{
+				id: "35AE171E2836FC71"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "29D80872F625649F"
+				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -21.5d
+			y: 16.0d
+		}
+		{
+			dependencies: ["28B245505F91D21C"]
+			id: "715415DD1D493D8E"
+			rewards: [{
+				id: "76ACB3A825340239"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "4CD4529B4670AF0A"
+				item: { components: { "ftbquests:missing_item": "eccentrictome:tome" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["1F6BC8C2A5B8F9B2"]
+			dependency_requirement: "one_completed"
+			id: "567ED608748850A8"
+			rewards: [{
+				count: 10
+				id: "2892B66CBC8A26C7"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "65A099F8209103AE"
+				type: "checkmark"
+			}]
+			x: -32.9d
+			y: 20.0d
+		}
+		{
+			dependencies: ["0D05759E84652BAA"]
+			id: "234E978A14BA9630"
+			rewards: [{
+				count: 100
+				id: "61F85BD409F02AEA"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7C649008D8F2D571"
+				item: { components: { "ftbquests:missing_item": "constructionwand:core_destruction" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0D05759E84652BAA"]
+			id: "5B402687731540B8"
+			rewards: [{
+				count: 100
+				id: "0BF101044E02CCE4"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4000B9092087FFFF"
+				item: { components: { "ftbquests:missing_item": "constructionwand:core_angel" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0C4974DE21CEDF4B"]
+			id: "2A6FF2B5860DA901"
+			rewards: [{
+				count: 2
+				id: "539773C01850F296"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "1744774CD4C3B85D"
+				item: { count: 1, id: "betterarcheology:fossiliferous_dirt" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["0C4974DE21CEDF4B"]
+			id: "28774B25CD320D9A"
+			rewards: [{
+				count: 2
+				id: "33DE88AABDF846E0"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "35496C9EA7213E5A"
+				item: { count: 1, id: "betterarcheology:suspicious_red_sand" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["1FF26858DB8E88F8"]
+			id: "3D93780758BA7194"
+			rewards: [{
+				id: "5C068927E5D6A95C"
+				item: {
+					count: 1
+					id: "betterarcheology:artifact_shards"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "betterarcheology:artifact_shards"
+				criterion: ""
+				id: "363673AB8FDB53A7"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["0C4974DE21CEDF4B"]
+			id: "3570097E250F33B0"
+			rewards: [{
+				count: 2
+				id: "0A387743D6AD3654"
+				item: {
+					count: 1
+					id: "betterarcheology:artifact_shards"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "betterarcheology:unidentified_artifact"
+				criterion: ""
+				id: "63314573E77F41FE"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["06267D7C266DE215"]
+			id: "1FF26858DB8E88F8"
+			rewards: [{
+				id: "2BBC5A13DD6DD333"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "betterarcheology:loot_vase_broken"
+				criterion: ""
+				id: "0C2CD08A3CAF07C5"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["7FA5CDC0F616D2C5"]
+			id: "1B78054E61C50110"
+			rewards: [
+				{
+					count: 3
+					id: "2FC00B278A03AEEF"
+					item: {
+						count: 1
+						id: "minecraft:moss_carpet"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "12EA56E85E32FFB9"
+					item: {
+						count: 1
+						id: "minecraft:campfire"
+					}
+					type: "item"
+				}
+				{
+					id: "64C20035917B78DF"
+					item: {
+						count: 1
+						id: "minecraft:shears"
+					}
+					type: "item"
+				}
+				{
+					id: "4A862F494285F4E0"
+					item: {
+						count: 1
+						id: "minecraft:flint_and_steel"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				disable_toast: true
+				id: "5DAB369E1B4C4E83"
+				observe_type: 0
+				timer: 0L
+				to_observe: "minecraft:bee_nest"
+				type: "observation"
+			}]
+			x: -2.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["05DF598DEBADABC3"]
+			id: "33D47E0078148427"
+			rewards: [{
+				count: 64
+				id: "03FA42DF39D621C4"
+				item: {
+					count: 1
+					id: "minecraft:snowball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				disable_toast: true
+				id: "10EBD8BB15C49D0D"
+				structure: "minecraft:ancient_city"
+				type: "structure"
+			}]
+			x: -15.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["28B245505F91D21C"]
+			id: "77CB99E12D41EFF3"
+			rewards: [{
+				id: "7CA27DA96BC38B17"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "4300DC27A2F815BA"
+				item: { count: 1, id: "minecraft:amethyst_shard" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["72A5DEFDD0F3470D"]
+			id: "114173896E5DF62C"
+			rewards: [{
+				id: "2BF51E7FD65FFB62"
+				item: {
+					count: 1
+					id: "minecraft:compass"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6179986E2175103A"
+				item: { count: 1, id: "minecraft:lodestone" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["72A5DEFDD0F3470D"]
+			icon: {
+				id: "ftbquests:custom_icon"
+			}
+			id: "7FF84508B3E0168F"
+			rewards: [{
+				id: "32470E18A82CE777"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/fast_travel"
+				criterion: ""
+				id: "06EBC1F5F45B31C1"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["114173896E5DF62C"]
+			id: "1FBE9C78798263F3"
+			rewards: [{
+				id: "082BDDF42689CB40"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "24BD1A343E915535"
+				item: { count: 1, id: "minecraft:respawn_anchor" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["4E256AAA75ECF41E"]
+			id: "6EA946616415042F"
+			rewards: [{
+				count: 10
+				id: "23C9930EB8B231C6"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "76D3FB5ACCBAC28F"
+				item: { components: { "ftbquests:missing_item": "quark:red_corundum_cluster" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["72A5DEFDD0F3470D"]
+			id: "4E256AAA75ECF41E"
+			rewards: [{
+				count: 10
+				id: "4D045AD5FB8F5ECD"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				advancement: "minecraft:nether/create_beacon"
+				criterion: ""
+				id: "3B9FA9DF75499BC5"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 23.0d
+		}
+		{
+			dependencies: ["21FB9D855FA9D2DF"]
+			id: "5BAE6CD47D4ABF2D"
+			optional: true
+			rewards: [{
+				count: 20
+				id: "5A2F84E8CB0D474D"
+				item: {
+					count: 1
+					id: "minecraft:scaffolding"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1ECFA87D412A2FBB"
+				type: "checkmark"
+			}]
+			x: 10.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["21FB9D855FA9D2DF"]
+			id: "1CA36734A9127D0C"
+			progression_mode: "flexible"
+			rewards: [{
+				id: "472D0F49F2E5F2DE"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6F633B57EC73E2E7"
+				type: "checkmark"
+			}]
+			x: 10.0d
+			y: 20.5d
+		}
+		{
+			dependencies: ["1CA36734A9127D0C"]
+			id: "3C49C49214135DF2"
+			progression_mode: "flexible"
+			rewards: [{
+				id: "27DBC4554F993C00"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2F668FDBD21E3121"
+				item: { count: 1, id: "chipped:alchemy_bench" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["1CA36734A9127D0C"]
+			id: "3740167E8E0BB8C7"
+			progression_mode: "flexible"
+			rewards: [{
+				id: "20BEBC1C1E24508B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "67978F1AA703074F"
+				item: { count: 1, id: "chipped:mason_table" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["1CA36734A9127D0C"]
+			id: "7D44C4326BFFE20B"
+			progression_mode: "flexible"
+			rewards: [{
+				id: "431F2FD3C3188860"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "24FDD52AE839616E"
+				item: { count: 1, id: "chipped:tinkering_table" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["1CA36734A9127D0C"]
+			id: "50E5698F4E778BE4"
+			progression_mode: "flexible"
+			rewards: [{
+				id: "34312D3D1BFA7B8B"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "083D68DBD23C007A"
+				item: { count: 1, id: "chipped:botanist_workbench" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["1CA36734A9127D0C"]
+			id: "2F532BBDD35CEC3B"
+			progression_mode: "flexible"
+			rewards: [{
+				id: "674EE41409557FC6"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1ED7B44020D3C81D"
+				item: { count: 1, id: "chipped:loom_table" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["1CA36734A9127D0C"]
+			id: "07D54D510008D1C0"
+			progression_mode: "flexible"
+			rewards: [{
+				id: "1B40BD609BCB1D25"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5DD85C5A77B2BE4F"
+				item: { count: 1, id: "chipped:glassblower" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["1CA36734A9127D0C"]
+			id: "365ED1EB369126E0"
+			progression_mode: "flexible"
+			rewards: [{
+				id: "4877048899627A1C"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "36B6655CC961CFFA"
+				item: { count: 1, id: "chipped:carpenters_table" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["5BAE6CD47D4ABF2D"]
+			id: "0CAD67E9B2DC3B59"
+			rewards: [{
+				id: "5695E0B24E93746C"
+				item: {
+					count: 1
+					id: "refurbished_furniture:wrench"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "73C3D3A6CE522B19"
+				item: { count: 1, id: "refurbished_furniture:workbench" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["5BAE6CD47D4ABF2D"]
+			id: "28A783AC1938C7E7"
+			rewards: [{
+				id: "29DCC2BB22F77249"
+				item: {
+					components: {
+						"ftbquests:missing_item": "mcwbridges:pliers"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4451ACF27A1CE6AA"
+				item: { components: { "ftbquests:missing_item": "itemfilters:mod" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["5BAE6CD47D4ABF2D"]
+			id: "4DAA0A4DF5A7A575"
+			rewards: [{
+				id: "69826B07EDE1C0E6"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5D81C1AF2999D792"
+				item: { components: { "ftbquests:missing_item": "itemfilters:mod" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["5BAE6CD47D4ABF2D"]
+			id: "6C045C3939683CF3"
+			rewards: [
+				{
+					id: "63720D95CF590D9F"
+					item: {
+						components: {
+							"ftbquests:missing_item": "dustrial_decor:cardboard_helmet"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "79E7B010E4948141"
+					item: {
+						components: {
+							"ftbquests:missing_item": "dustrial_decor:cardboard"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					random_bonus: 16
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 3L
+					id: "66DA076A2FDE4CC3"
+					item: { components: { "ftbquests:missing_item": "dustrial_decor:sheet_metal" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "41430E0F05A63650"
+					item: { components: { "ftbquests:missing_item": "dustrial_decor:cardboard" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["5BAE6CD47D4ABF2D"]
+			id: "0475AEB443175059"
+			rewards: [{
+				id: "5C6F9FC875BF35D3"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "62B3EA9874AC3078"
+				item: { count: 1, id: "minecraft:armor_stand" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["05B32DE12868C6DE"]
+			id: "32E0EEC3834F9846"
+			optional: true
+			rewards: [
+				{
+					count: 3
+					id: "40ABEE66F5FEA7CF"
+					item: {
+						count: 1
+						id: "farmersdelight:straw"
+					}
+					type: "item"
+				}
+				{
+					id: "4F3C687538ADDBED"
+					item: {
+						count: 1
+						id: "farmersdelight:iron_knife"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2D7D89789E3B2159"
+				item: { count: 1, id: "farmersdelight:straw" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["327AE18669E4B9F0"]
+			id: "1045FB828F50B457"
+			optional: true
+			rewards: [{
+				id: "4648E0B8058E5B94"
+				item: {
+					count: 1
+					id: "farmersdelight:hamburger"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3F1E515013E2F66F"
+					item: { count: 1, id: "farmersdelight:cutting_board" }
+					type: "item"
+				}
+				{
+					id: "78011274B9D7ABC3"
+					item: { count: 1, id: "farmersdelight:skillet" }
+					type: "item"
+				}
+				{
+					id: "55FC7CED7B0B992A"
+					item: { count: 1, id: "farmersdelight:cooking_pot" }
+					type: "item"
+				}
+			]
+			x: -13.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["77CB99E12D41EFF3"]
+			id: "15B432E69AB118B5"
+			rewards: [{
+				id: "3EEB1885770AC283"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1261039E3BF59801"
+				item: { count: 1, id: "minecraft:spyglass" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "5765323110DD632F"
+			rewards: [{
+				id: "7C8374711E5258BB"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "52D6F7A5432713D8"
+				item: { count: 1, id: "supplementaries:flag_white" }
+				type: "item"
+			}]
+			x: 24.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "64E12747F656787A"
+			rewards: [{
+				id: "02F58C2FB8EF51C0"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "141BBBA896063F4C"
+				item: { components: { "ftbquests:missing_item": "quark:glass_item_frame" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "77E5B65E24EA675F"
+			rewards: [{
+				id: "3D5AAE146EF75666"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "672BD1639FB8E04A"
+				item: { count: 1, id: "supplementaries:crank" }
+				type: "item"
+			}]
+			x: 17.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "73F6A4A4CC3AB4BF"
+			rewards: [{
+				id: "31B796CB633AC73C"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "46705CE12F1C1534"
+				item: { components: { "ftbquests:missing_item": "quark:slime_in_a_bucket" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 24.5d
+			y: 18.5d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "284B2CFDEB526D1E"
+			rewards: [{
+				id: "52FB3E4A8228C3D4"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "57FA63FF482BB1DD"
+				item: { components: { "ftbquests:missing_item": "quark:obsidian_pressure_plate" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "4C2C8C0BD19535EF"
+			rewards: [{
+				id: "0D3FF898A7BFC16E"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "03B958E2A868EDD4"
+				item: { components: { "ftbquests:missing_item": "quark:feeding_trough" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 17.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "10A7EB03094F600D"
+			rewards: [{
+				id: "3CA86581E09FF41F"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "02C34921D8A0C220"
+				item: { components: { "ftbquests:missing_item": "quark:ender_watcher" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 21.5d
+			y: 17.0d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "7E7F70D285CCACB6"
+			rewards: [{
+				id: "54E39FC332A4448F"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "44B4F75ACCFAB1EB"
+				item: { count: 1, id: "supplementaries:redstone_illuminator" }
+				type: "item"
+			}]
+			x: 23.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "40B15BEB0A7D4755"
+			rewards: [{
+				id: "4094DED0A7D25213"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "16A2A2EB9CC44079"
+				item: { count: 1, id: "supplementaries:wrench" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "27E86BC510D04D45"
+			rewards: [{
+				id: "629CC1527C066D93"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "60406362BFD153F5"
+				item: { count: 1, id: "supplementaries:bamboo_spikes" }
+				type: "item"
+			}]
+			x: 23.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "4A4514326874FFB4"
+			rewards: [{
+				id: "1E25145D1A512CF8"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "381335BCCDCA8258"
+				item: { count: 1, id: "supplementaries:cage" }
+				type: "item"
+			}]
+			x: 17.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "14CC69CF9016CD4F"
+			rewards: [{
+				id: "1CEAED4C506E7CFF"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6CF0997FCEABD745"
+				item: { count: 1, id: "supplementaries:speaker_block" }
+				type: "item"
+			}]
+			x: 18.5d
+			y: 17.0d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "474856183F5F8BE8"
+			rewards: [{
+				id: "193F6DCD4263D471"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2DE813AA926CABD1"
+				item: { count: 1, id: "supplementaries:turn_table" }
+				type: "item"
+			}]
+			x: 21.5d
+			y: 18.5d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "597BBC9933D7BC9E"
+			rewards: [{
+				id: "2F6962AE209D8BD4"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "09413737B1B5E790"
+				item: { count: 1, id: "supplementaries:key" }
+				type: "item"
+			}]
+			x: 21.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "1912B53794E7EB02"
+			rewards: [{
+				id: "4F2ACB496918B643"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "2910843651741D19"
+					item: { count: 1, id: "supplementaries:gold_door" }
+					type: "item"
+				}
+				{
+					id: "1D68BE1B7C6875AF"
+					item: { count: 1, id: "supplementaries:gold_trapdoor" }
+					type: "item"
+				}
+			]
+			x: 18.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["597BBC9933D7BC9E"]
+			id: "6AF206A5A98471F4"
+			rewards: [{
+				id: "7F5906AB6822B6C5"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "5758486AAEF4DF68"
+					item: { count: 1, id: "supplementaries:netherite_door" }
+					type: "item"
+				}
+				{
+					id: "0027CDFB1C59ED1A"
+					item: { count: 1, id: "supplementaries:netherite_trapdoor" }
+					type: "item"
+				}
+			]
+			x: 21.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["597BBC9933D7BC9E"]
+			id: "5D3B237C312006E2"
+			rewards: [{
+				id: "742C5A04E62F7C18"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "10CF2D062FCCE0F2"
+				item: { count: 1, id: "supplementaries:lock_block" }
+				type: "item"
+			}]
+			x: 22.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "645D4EA80D808371"
+			rewards: [{
+				id: "07CF4F6125850CBE"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0B92CED524964812"
+				item: { count: 1, id: "supplementaries:sack" }
+				type: "item"
+			}]
+			x: 18.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["597BBC9933D7BC9E"]
+			id: "7C8FD4693FE20947"
+			rewards: [{
+				id: "1B3C4F9B882BC942"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "48BCE0833C7C8C90"
+				item: { count: 1, id: "supplementaries:safe" }
+				type: "item"
+			}]
+			x: 23.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["05B32DE12868C6DE"]
+			id: "6613D41573B7F0B9"
+			rewards: [{
+				count: 5
+				id: "23E65EA8228BF22C"
+				item: {
+					count: 1
+					id: "farmersdelight:vegetable_noodles"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3B5D861C94C5BE56"
+				item: { count: 1, id: "solcarrot:food_book" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "77346AF832BB0811"
+			rewards: [{
+				id: "501BD1C129DB39A9"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "341A64A2CF6CDD83"
+				item: { components: { "ftbquests:missing_item": "quark:seed_pouch" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 21.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "44CFD2F48C7AA908"
+			rewards: [{
+				id: "4134047A35A11311"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2F6D32C48F04968D"
+				item: { count: 1, id: "create:tree_fertilizer" }
+				type: "item"
+			}]
+			x: 23.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["23A4406529BEF918"]
+			id: "51E19ACD3F0994BE"
+			rewards: [{
+				count: 5
+				id: "077F2720892CF9E1"
+				item: {
+					count: 1
+					id: "minecraft:bone_meal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "4C731200FFD5E3F8"
+				item: { count: 1, id: "farmersdelight:rich_soil" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["32E0EEC3834F9846"]
+			dependency_requirement: "one_completed"
+			id: "23A4406529BEF918"
+			rewards: [{
+				count: 5
+				id: "30619AD6DE912BCD"
+				item: {
+					count: 1
+					id: "minecraft:bone_meal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3CA5202F0A0C4D8A"
+				item: { count: 1, id: "farmersdelight:organic_compost" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["5BAE6CD47D4ABF2D"]
+			id: "3E5AC888381F061B"
+			rewards: [{
+				id: "7AD01FD10DC4B649"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2FB87E98ED4647AA"
+				item: { components: { "ftbquests:missing_item": "itemfilters:or" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["70068CFDA790A856"]
+			id: "65704FFF9C380E29"
+			rewards: [{
+				id: "157D4506D95666D3"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3024956BE85095F0"
+				item: { components: { "ftbquests:missing_item": "dimdungeons:item_secret_bell" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 27.5d
+		}
+		{
+			dependencies: ["7FA5CDC0F616D2C5"]
+			id: "3D1AC201E82A3A87"
+			rewards: [
+				{
+					count: 3
+					id: "55CF1DF84CE5F91F"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "67736F8662139C7A"
+					item: {
+						count: 1
+						id: "minecraft:coal"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "2351EC302CBFBB56"
+					item: {
+						count: 1
+						id: "minecraft:torch"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "2435372B522CF46F"
+					item: { count: 1, id: "minecraft:iron_helmet" }
+					type: "item"
+				}
+				{
+					id: "154A0ECC4AFFF14E"
+					item: { count: 1, id: "minecraft:iron_chestplate" }
+					type: "item"
+				}
+				{
+					id: "3886554BDF8FDD41"
+					item: { count: 1, id: "minecraft:iron_leggings" }
+					type: "item"
+				}
+				{
+					id: "69387BD95CD55286"
+					item: { count: 1, id: "minecraft:iron_boots" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 16.0d
+		}
+		{
+			dependencies: ["21FB9D855FA9D2DF"]
+			id: "535A8A11EFC7DB00"
+			rewards: [{
+				count: 5
+				id: "41E31550C1E0364D"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "280744313571F573"
+				type: "checkmark"
+			}]
+			x: 14.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "374C6E5D8EE3E51B"
+			rewards: [{
+				id: "269458D370C274E4"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "523878E78A56FFD3"
+				item: { count: 1, id: "supplementaries:notice_board" }
+				type: "item"
+			}]
+			x: 24.5d
+			y: 17.0d
+		}
+		{
+			dependencies: ["535A8A11EFC7DB00"]
+			id: "07AC6598017865A8"
+			rewards: [{
+				id: "6817C5A56A1901AE"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0385C0D06F7DE9BA"
+				item: { count: 1, id: "supplementaries:blackboard" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["06267D7C266DE215"]
+			id: "33641B098AD37A6D"
+			rewards: [{
+				count: 10
+				id: "40F07D2FD86F5359"
+				item: {
+					count: 1
+					id: "minecraft:redstone"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "0E2182751975D45F"
+				item: { components: { "ftbquests:missing_item": "quark:crafter" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["5BAE6CD47D4ABF2D"]
+			id: "7D68F339A30C3A78"
+			rewards: [{
+				id: "5600E50C67FE59F0"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "21FF9C0C9DAFE3A0"
+				item: { components: { "ftbquests:missing_item": "immersive_paintings:painting" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["28B245505F91D21C"]
+			id: "68D7F888BF6332F3"
+			rewards: [{
+				id: "59D451F7754DD0B4"
+				item: {
+					components: {
+						"ftbquests:missing_item": "framedblocks:framed_wrench"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3C9F375956085552"
+				item: { components: { "ftbquests:missing_item": "framedblocks:framed_cube" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["04D09899362AFC7A"]
+			id: "1278600075A14600"
+			rewards: [{
+				id: "7FA853760C14AB69"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:cog"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3F7B2CF420C184B0"
+				structure: "ribbits:ribbit_village"
+				type: "structure"
+			}]
+			x: 1.5d
+			y: 16.0d
+		}
+		{
+			dependencies: ["0C49795E134A27E0"]
+			id: "261651FB7B600587"
+			rewards: [{
+				count: 4
+				id: "64DBDCF395159258"
+				item: {
+					count: 1
+					id: "minecraft:chest"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "0A4067255335AACF"
+				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -26.250000000000004d
+			y: 18.0d
+		}
+		{
+			dependencies: ["478DE12D3EF8C22A"]
+			id: "256C0855A1AD720B"
+			rewards: [{
+				count: 5
+				id: "1B0A6375471607B5"
+				item: {
+					count: 1
+					id: "torchmaster:megatorch"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1A80939497557BD4"
+				item: { count: 1, id: "torchmaster:dreadlamp" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["0CAD67E9B2DC3B59"]
+			id: "0ADF7E30D7F5B61E"
+			rewards: [{
+				id: "62B451B57B6D95A2"
+				item: {
+					count: 1
+					id: "refurbished_furniture:oak_mail_box"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5AC6A6DB3DEB7E3D"
+				item: { count: 1, id: "refurbished_furniture:light_electricity_generator" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 12.8d
+		}
+		{
+			dependencies: ["1278600075A14600"]
+			id: "1F2F6591E18F3023"
+			rewards: [{
+				count: 3
+				id: "2E76D28D719A5D37"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:spur"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "6B3DEB7111D8477D"
+					item: { components: { "ftbquests:missing_item": "quark:black_corundum_cluster" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "59B9E0934A77BC4A"
+					item: { components: { "ftbquests:missing_item": "quark:white_corundum_cluster" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "2F269F6BFCB8A5AE"
+					item: { components: { "ftbquests:missing_item": "quark:red_corundum_cluster" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "3BAB9AEFE32E0D31"
+					item: { components: { "ftbquests:missing_item": "quark:orange_corundum_cluster" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "395214F830AA463D"
+					item: { components: { "ftbquests:missing_item": "quark:yellow_corundum_cluster" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "1A7B2AE9A8C1321E"
+					item: { components: { "ftbquests:missing_item": "quark:green_corundum_cluster" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "673BA2E314D6ACE1"
+					item: { components: { "ftbquests:missing_item": "quark:blue_corundum_cluster" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "6DCB938D1936667A"
+					item: { components: { "ftbquests:missing_item": "quark:indigo_corundum_cluster" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "4F3BE76D14308060"
+					item: { components: { "ftbquests:missing_item": "quark:violet_corundum_cluster" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 14.5d
+		}
+		{
+			dependencies: ["4F9B4B7F2D747375"]
+			id: "7D6CA452A433EBD7"
+			tasks: [{
+				id: "110A241E6410CDC0"
+				type: "checkmark"
+			}]
+			x: -32.9d
+			y: 13.0d
+		}
+		{
+			dependencies: ["5525E70F7FBDBD92"]
+			id: "4F9B4B7F2D747375"
+			tasks: [{
+				id: "554F2A68817444F8"
+				type: "checkmark"
+			}]
+			x: -32.9d
+			y: 14.4d
+		}
+		{
+			dependencies: ["4F9B4B7F2D747375"]
+			id: "12B9DBB08E1A760D"
+			tasks: [{
+				id: "3959EA9AF3798912"
+				type: "checkmark"
+			}]
+			x: -33.9d
+			y: 13.3d
+		}
+		{
+			dependencies: ["4F9B4B7F2D747375"]
+			id: "44B6029E40E5AFE4"
+			tasks: [{
+				id: "5FC14712A8CB8147"
+				type: "checkmark"
+			}]
+			x: -34.2d
+			y: 14.3d
+		}
+		{
+			dependencies: ["0ADF7E30D7F5B61E"]
+			id: "31DB2CD7ECC30BF9"
+			tasks: [{
+				id: "1EF67D0C964E0ABF"
+				item: { count: 1, id: "cfm_circuit_breaker:circuit_breaker" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 11.4d
+		}
+		{
+			dependencies: ["4F9B4B7F2D747375"]
+			icon: {
+				components: {
+					"ftbquests:missing_item": "ars_nouveau:warp_scroll"
+				}
+				id: "ftbquests:missing_item"
+			}
+			id: "600B5CE699E3DE1D"
+			tasks: [{
+				id: "2B2C58EC9086DE24"
+				type: "checkmark"
+			}]
+			x: -31.8d
+			y: 13.2d
+		}
+		{
+			dependencies: ["4F9B4B7F2D747375"]
+			id: "0A95DD8CC46A30B5"
+			tasks: [{
+				id: "1B9E935A0CC30B89"
+				type: "checkmark"
+			}]
+			x: -31.4d
+			y: 14.1d
+		}
+	]
+}

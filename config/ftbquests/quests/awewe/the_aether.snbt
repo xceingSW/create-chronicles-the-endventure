@@ -1,0 +1,1451 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_aether"
+	group: ""
+	id: "6BB184607658994D"
+	images: [
+		{
+			height: 1.7d
+			image: "aether:textures/gui/menu_api/menu_icon_aether.png"
+			rotation: 0.0d
+			width: 1.7d
+			x: -23.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "attributeslib:textures/mob_effect/flying.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -20.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "attributeslib:textures/mob_effect/flying.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -21.75d
+			y: 0.0d
+		}
+	]
+	order_index: 15
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["557CFA0FF7E22EB8"]
+			id: "57078A29DBC3CF41"
+			rewards: [
+				{
+					id: "692D3BB78F827FC2"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "69FBF60C22D79481"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "6C4FD8AA1FBF5665"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0BAD7EB27B1D421A"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: -19.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["09966BA346283D39"]
+			id: "324287EC1ACF685B"
+			rewards: [
+				{
+					id: "3FEEC1D3E9FDAEA4"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "7818E64E346F3818"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "2A3B575F11984872"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "10F374DAFA91F3CD"
+					item: { components: { "ftbquests:missing_item": "aether:skyroot_sword" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "3FF2838DE1AB475F"
+					item: { components: { "ftbquests:missing_item": "aether:skyroot_axe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "360FFB8D20408305"
+					item: { components: { "ftbquests:missing_item": "aether:skyroot_pickaxe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -22.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3BADA9E324F873D7"]
+			id: "527CA86A6BEAE9F4"
+			rewards: [
+				{
+					id: "27F65604DC13A7FB"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "21BBD9B081009944"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "3F0C0C097651D2DD"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "3E674C7DEA51ECCE"
+					item: { components: { "ftbquests:missing_item": "aether:holystone_sword" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "7906D3B582AF8584"
+					item: { components: { "ftbquests:missing_item": "aether:holystone_axe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "4518546732DDE697"
+					item: { components: { "ftbquests:missing_item": "aether:holystone_pickaxe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -25.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7686D66200E518B3"]
+			id: "4B51836028C8BDE8"
+			rewards: [
+				{
+					id: "43865962AB10A36A"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "5130539CB47C5FDE"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "1C41EFCC978B4E4F"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "13A96C598F1C4D7E"
+					item: { components: { "ftbquests:missing_item": "aether:zanite_sword" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "0C4B050440E8BBA5"
+					item: { components: { "ftbquests:missing_item": "aether:zanite_axe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "55E809D4F42D4E50"
+					item: { components: { "ftbquests:missing_item": "aether:zanite_pickaxe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -27.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["5A8DA19AF6406B75"]
+			id: "14BD495887E26D7B"
+			rewards: [
+				{
+					id: "134614EA42979EEA"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "7E7001D2A77F4FD4"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "7CBB6D4A9082541A"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "24D6F75537F3FEB8"
+					item: { components: { "ftbquests:missing_item": "aether:gravitite_sword" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "488C300525A5B3D9"
+					item: { components: { "ftbquests:missing_item": "aether:gravitite_axe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "681A70E8FA0C11F4"
+					item: { components: { "ftbquests:missing_item": "aether:gravitite_pickaxe" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -30.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["324287EC1ACF685B"]
+			id: "586483D57C8A463E"
+			rewards: [
+				{
+					id: "5CC6FC193A926BF1"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "5F40F83A12ADE734"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "1FBB9B447E8359DE"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "037DA10E61DBD324"
+				item: { components: { "ftbquests:missing_item": "aether:ambrosium_shard" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -18.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["586483D57C8A463E"]
+			id: "63B670F3227A2A53"
+			rewards: [
+				{
+					id: "46AA0B719B009974"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "5DECE5ECA563B1B5"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "0DEFE332E404186B"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			size: 1.25d
+			tasks: [{
+				count: 4L
+				id: "54F68ABE2DAA3371"
+				item: { components: { "ftbquests:missing_item": "aether:ambrosium_torch" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -18.5d
+			y: -6.887499999999999d
+		}
+		{
+			dependencies: ["63B670F3227A2A53"]
+			id: "7810F69B0F6826AE"
+			rewards: [
+				{
+					id: "5916988078B98857"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "3E97FF2A2A9C5D5C"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "3E3EAD017119A0A2"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4BB4363331DE94DA"
+				item: { components: { "ftbquests:missing_item": "aether:incubator" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -20.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["63B670F3227A2A53"]
+			id: "136FFD14991FD432"
+			rewards: [
+				{
+					id: "278A8DE64026FF2F"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "3FFBC307807270E1"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "19E1FA6DA21FA952"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "41C5382BAD2E94CB"
+				item: { components: { "ftbquests:missing_item": "itemfilters:tag" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -17.75d
+			y: -8.5d
+		}
+		{
+			dependencies: ["63B670F3227A2A53"]
+			id: "218FFECECB406E88"
+			rewards: [
+				{
+					id: "307F10E2EC5DBD4C"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "6181FA20A013532B"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "4E9344FD4A948FE6"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 3L
+				id: "42E33E3C43EAFE28"
+				item: { components: { "ftbquests:missing_item": "aether:aechor_petal" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -19.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["63B670F3227A2A53"]
+			id: "492CC1C0507FE008"
+			rewards: [
+				{
+					id: "12C6A6C3F97F539A"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "339D206D500B4A5F"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "4DF6F68D4B3E6A3C"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2AE2867555FD1591"
+				item: { count: 1, id: "minecraft:saddle" }
+				type: "item"
+			}]
+			x: -16.75d
+			y: -7.5d
+		}
+		{
+			dependencies: ["63B35ED12D525A4F"]
+			id: "4A5578CD756D9DDC"
+			rewards: [
+				{
+					id: "01D60183031E3A32"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "04E17C37F81AC92F"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 60
+					id: "0912BE071DD52600"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "316AC35D8E5A1A06"
+				item: { components: { "ftbquests:missing_item": "aether:gold_dungeon_key" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["557CFA0FF7E22EB8"]
+			id: "5A143952EAB7643E"
+			rewards: [
+				{
+					id: "76E579C02050CA0E"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "00572D7C101A4544"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "31B5E9D3071E6D28"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "18985B3D64F209F7"
+				structure: "aether:bronze_dungeon"
+				type: "structure"
+			}]
+			x: -16.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5F808832927F1A31"]
+			id: "7C32DED450405D92"
+			rewards: [
+				{
+					id: "141A9D1FC3D7F4E5"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "360916D949073A85"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "3B972F67EB1D279B"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "1CF9173BA1C781F8"
+				structure: "aether:silver_dungeon"
+				type: "structure"
+			}]
+			x: -12.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["435634BB2DD8B627"]
+			id: "63B35ED12D525A4F"
+			rewards: [
+				{
+					id: "49D4CAC116A07CAF"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "333884B3E9AB5D51"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "6AA1C774F5F21A98"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "1A686BDA89487BCE"
+				structure: "aether:gold_dungeon"
+				type: "structure"
+			}]
+			x: -8.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["586483D57C8A463E"]
+			id: "6E856702D9B7C2EE"
+			rewards: [
+				{
+					id: "478001BE2584AAA4"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "62ADB380B6E409EA"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "0A3C2C46A47E9173"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "58C9E61064829F68"
+				item: { components: { "ftbquests:missing_item": "aether:golden_amber" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -17.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["7C32DED450405D92"]
+			id: "435634BB2DD8B627"
+			rewards: [
+				{
+					id: "179C184688044657"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "1B3EA30EA2E07784"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 30
+					id: "1811CDDC59A5687E"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "2DFB32E0B0435146"
+				item: { components: { "ftbquests:missing_item": "aether:silver_dungeon_key" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5A143952EAB7643E"]
+			id: "5F808832927F1A31"
+			rewards: [
+				{
+					id: "34571A725398EEBA"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "03F4A70FC6E3ED1D"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 10
+					id: "67C2A3C23F059BBB"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "0A295054B1A869F8"
+				item: { components: { "ftbquests:missing_item": "aether:bronze_dungeon_key" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -14.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["52DA719CD6C66226"]
+			id: "5CE831834AEB8CCE"
+			rewards: [
+				{
+					id: "44613E22E63ABC6F"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "5795ECCE7782DE11"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "75797198F36AA214"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "16CCDDB6C3A5950A"
+				item: { components: { "ftbquests:missing_item": "aether:freezer" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -23.5d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"7686D66200E518B3"
+				"3BADA9E324F873D7"
+			]
+			id: "4FA8E46476200357"
+			rewards: [
+				{
+					id: "4244E38DED217522"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "57B5EF20241C30EF"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "61D7CDDE9B2BB625"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6A5C77D8E117D629"
+				item: { components: { "ftbquests:missing_item": "aether:altar" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -23.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["4A5578CD756D9DDC"]
+			id: "56A60C713CE0DE97"
+			rewards: [
+				{
+					id: "5B14B9B38B1D31EE"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "614A03F7188049A3"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "6F3E402675EA72CE"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "2E5ED23101FB6CAA"
+				item: { components: { "ftbquests:missing_item": "aether:sun_altar" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["57078A29DBC3CF41"]
+			id: "3D47D2D38F5C4ECD"
+			rewards: [
+				{
+					id: "1DEAA0D03B0945FE"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "0B0529BD89C9F5CA"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "6385E56730D3406E"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "03C587F21081C0BF"
+				item: { components: { "ftbquests:missing_item": "aether:blue_berry" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -17.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3D47D2D38F5C4ECD"]
+			id: "601378D5DFA4604A"
+			rewards: [
+				{
+					id: "248943E157CDE739"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "6EA150C76F8BA86F"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "0A7D407AB45A7B81"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "218305D4EC965D7C"
+				item: { components: { "ftbquests:missing_item": "aether:enchanted_berry" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -16.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["57078A29DBC3CF41"]
+			id: "0ED8D054CDC8D20E"
+			rewards: [
+				{
+					id: "5AFA18BA56369EE7"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "3DF26C163B94415B"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "6D6A3352FB9D80B2"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "789BA4B991B61A4E"
+				item: { components: { "ftbquests:missing_item": "aether:white_apple" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -18.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["527CA86A6BEAE9F4"]
+			id: "7686D66200E518B3"
+			rewards: [
+				{
+					id: "1E48EFD9DB98B018"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "1D72DC532994CEBD"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "5CE5236FC69366B8"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "600779DE9979BB93"
+				item: { components: { "ftbquests:missing_item": "aether:zanite_gemstone" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -25.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["4FA8E46476200357"]
+			id: "52DA719CD6C66226"
+			rewards: [
+				{
+					id: "090AC499F837ABC6"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "57BBAD2564C5500D"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "21CC470372F21DEF"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5532351C3663819E"
+				item: { components: { "ftbquests:missing_item": "aether:icestone" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -23.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["57078A29DBC3CF41"]
+			id: "09966BA346283D39"
+			rewards: [
+				{
+					id: "580659370546867A"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "1CE706346FE2E13A"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "5CD2D1AD9C8538AD"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "4A1128FB2AB648BA"
+				item: { components: { "ftbquests:missing_item": "aether:skyroot_stick" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -22.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["57078A29DBC3CF41"]
+			id: "4A3F3F9534E48D5E"
+			rewards: [
+				{
+					id: "46748A2CA0FEB77C"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "0FB11D12DB292A21"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "0B9F00D44B990A67"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "33D1CFB259A2BC2C"
+				item: { count: 1, id: "minecraft:string" }
+				type: "item"
+			}]
+			x: -20.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["324287EC1ACF685B"]
+			id: "3BADA9E324F873D7"
+			rewards: [
+				{
+					id: "093B81A148316599"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "717638AE0BD45963"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "66EE86867A6CA738"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "32AD0341D5CF4EA9"
+				item: { components: { "ftbquests:missing_item": "aether:holystone" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -23.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["4B51836028C8BDE8"]
+			id: "5A8DA19AF6406B75"
+			rewards: [
+				{
+					id: "69C243336136D441"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "3ECA00CA3812383C"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "5DE9288732EC5EF7"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6C688A790C97A9F7"
+				item: { components: { "ftbquests:missing_item": "aether:gravitite_ore" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -28.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["5CE831834AEB8CCE"]
+			id: "1A0242A5A2F73FB1"
+			rewards: [
+				{
+					id: "44A1E5C5B18D1562"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "2C641FA23FB95A60"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "1F65E2D82A331424"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				count: 4L
+				id: "1665348293EA1A0F"
+				item: { count: 1, id: "minecraft:ice" }
+				type: "item"
+			}]
+			x: -23.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["5F808832927F1A31"]
+			id: "4859B7F2F440CD07"
+			rewards: [
+				{
+					id: "6C55D5E0837309BE"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "156473D3E9051860"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "6FC135DEF6CCDDE1"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "53E5A1301109264C"
+				item: { components: { "ftbquests:missing_item": "aether:valkyrie_lance" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -14.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["57078A29DBC3CF41"]
+			id: "7AD7F690CED1D61F"
+			rewards: [
+				{
+					id: "0A5A737B1F1B4B02"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "6DA7F949EA99F508"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "28D7DA8395F2EF91"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5FBBF67235897399"
+				item: { components: { "ftbquests:missing_item": "aether:skyroot_bed" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -19.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["4A5578CD756D9DDC"]
+			id: "61B4D6EE4FF48831"
+			rewards: [
+				{
+					id: "23A20E77ADE22150"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "4B53D8A0E19ADF29"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "5BA02A12C595E37E"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.0d
+			tasks: [{
+				id: "434077B116C32C95"
+				item: { components: { "ftbquests:missing_item": "aether:life_shard" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["123D70CA4959F172"]
+			hide_until_deps_complete: true
+			id: "4E43DC757C08068B"
+			rewards: [
+				{
+					id: "6E942097E19F5C09"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "0668DE4575738320"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "6068CE559323E3D3"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				advancement: "aether:enter_aether"
+				criterion: ""
+				id: "3ED3012B555AC165"
+				type: "advancement"
+			}]
+			x: -21.25d
+			y: 0.99d
+		}
+		{
+			dependencies: ["4E43DC757C08068B"]
+			id: "557CFA0FF7E22EB8"
+			rewards: [
+				{
+					id: "5B61CAB176BC2D44"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "2C330798A9502315"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "0B5DC7320E53E336"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "4D50BDF0F9811D61"
+				item: { components: { "ftbquests:missing_item": "aether:book_of_lore" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -19.0d
+			y: 1.0d
+		}
+	]
+}
