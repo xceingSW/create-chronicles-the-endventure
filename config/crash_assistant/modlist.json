@@ -187,10 +187,6 @@
     "modId": "cloth_config",
     "version": "15.0.140"
   },
-  "cobblegengalore-1.21.1-0.2.0.jar": {
-    "modId": "cobblegengalore",
-    "version": "1.21.1-0.2.0"
-  },
   "collective-1.21.1-8.3.jar": {
     "modId": "collective",
     "version": "8.3"
@@ -255,10 +251,6 @@
     "modId": "create_sa",
     "version": "2.1.0."
   },
-  "create_generators-1.0.5-neoforge-1.21.1.jar": {
-    "modId": "create_generators",
-    "version": "1.0.5"
-  },
   "create_mechanical_extruder-1.21.1-2.0.5-6.0.4.jar": {
     "modId": "create_mechanical_extruder",
     "version": "1.21.1-2.0.5-6.0.4"
@@ -277,10 +269,6 @@
   "createcompounds-1.21.1-NeoForge-1.0.0.jar": {
     "modId": "createcompounds",
     "version": "1.0.0"
-  },
-  "createmechanisms-2.1.0.jar": {
-    "modId": "createmechanisms",
-    "version": "2.1.0"
   },
   "createteleporters2.4-1.21.1.jar": {
     "modId": "createteleporters",
@@ -340,14 +328,6 @@
   "effortlessbuilding-1.21.1-3.10-all.jar": {
     "modId": "effortlessbuilding",
     "version": "3.10"
-  },
-  "emi-1.1.22+1.21.1+neoforge.jar": {
-    "modId": "emi",
-    "version": "1.1.22+1.21.1+neoforge"
-  },
-  "emi_loot-0.7.6+1.21+neoforge.jar": {
-    "modId": "emi_loot",
-    "version": "0.7.6+1.21+neoforge"
   },
   "enchdesc-neoforge-1.21.1-21.1.7.jar": {
     "modId": "enchdesc",
@@ -574,10 +554,6 @@
     "modId": "mr_lukis_grandcapitals",
     "version": "1.1.1"
   },
-  "man_of_many_planes-0.2.1+1.21.1-neoforge.jar": {
-    "modId": "man_of_many_planes",
-    "version": "0.2.1+1.21.1"
-  },
   "memorysettings-1.21-5.9.jar": {
     "modId": "memorysettings",
     "version": "5.9"
@@ -677,6 +653,10 @@
   "Paxi-1.21.1-NeoForge-5.1.2.jar": {
     "modId": "paxi",
     "version": "1.21.1-NeoForge-5.1.2"
+  },
+  "phantasm-1.0.3.jar": {
+    "modId": "phantasm",
+    "version": "1.0.3"
   },
   "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar": {
     "modId": "pickupnotifier",
@@ -841,10 +821,6 @@
   "starterkit-1.21.1-7.4.jar": {
     "modId": "starterkit",
     "version": "7.4"
-  },
-  "Stellarity-3.0.6.1.jar": {
-    "modId": "stellarity",
-    "version": "3.0.6.1"
   },
   "StylishEffects-v21.1.1-1.21.1-NeoForge.jar": {
     "modId": "stylisheffects",
