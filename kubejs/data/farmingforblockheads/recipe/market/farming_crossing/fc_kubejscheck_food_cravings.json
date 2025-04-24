@@ -1,9 +1,0 @@
-{
-  "type": "farmingforblockheads:market",
-  "category": "farmingforblockheads:fc",
-  "preset": "farming_crossing:kubejsmiles_ticket_1",
-  "result": {
-    "count": 1,
-    "item": "kubejs:check_food_cravings"
-  }
-}

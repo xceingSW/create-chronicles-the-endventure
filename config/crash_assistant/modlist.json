@@ -115,6 +115,10 @@
     "modId": "bcc",
     "version": "21.1.3"
   },
+  "Better Tags-1.21.1-NEO-1.5.jar": {
+    "modId": "bettertags",
+    "version": "1.5"
+  },
   "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar": {
     "modId": "betteradvancements",
     "version": "0.4.3.21"
@@ -697,6 +701,10 @@
   "Prism-1.21.1-neoforge-1.0.11.jar": {
     "modId": "prism",
     "version": "1.0.11"
+  },
+  "ProbeJS-7.5.1.jar": {
+    "modId": "probejs",
+    "version": "7.5.1"
   },
   "PuzzlesLib-v21.1.33-1.21.1-NeoForge.jar": {
     "modId": "puzzleslib",

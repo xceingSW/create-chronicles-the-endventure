@@ -1,0 +1,9 @@
+{
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:contract_basic",
+  "preset": "simple_journey:kubejsmiles_ticket_1",
+  "result": {
+    "count": 1,
+    "item": "minecraft:diamond"
+  }
+}

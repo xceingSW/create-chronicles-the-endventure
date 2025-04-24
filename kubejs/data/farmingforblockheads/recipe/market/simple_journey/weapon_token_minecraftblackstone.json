@@ -1,0 +1,9 @@
+{
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:weapon_token",
+  "preset": "simple_journey:kubejsmiles_ticket_1",
+  "result": {
+    "count": 1,
+    "item": "minecraft:blackstone"
+  }
+}
