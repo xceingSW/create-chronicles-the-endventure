@@ -67,6 +67,10 @@
     "modId": "armoroftheages",
     "version": "1.5.3"
   },
+  "ArmorStatues-v21.1.0-1.21.1-NeoForge.jar": {
+    "modId": "armorstatues",
+    "version": "21.1.0"
+  },
   "artifacts-neoforge-13.0.2.jar": {
     "modId": "artifacts",
     "version": "13.0.2"
@@ -123,9 +127,9 @@
     "modId": "betterchunkloading",
     "version": "5.4"
   },
-  "bettercombat-neoforge-2.1.3+1.21.1.jar": {
+  "bettercombat-neoforge-2.1.5+1.21.1.jar": {
     "modId": "bettercombat",
-    "version": "2.1.3+1.21.1"
+    "version": "2.1.5+1.21.1"
   },
   "BetterThirdPerson-neoforge-1.9.0.jar": {
     "modId": "betterthirdperson",
@@ -231,9 +235,9 @@
     "modId": "craftingtweaks",
     "version": "21.1.5"
   },
-  "crash_assistant-neoforge-1.21.1-1.7.11.jar": {
+  "crash_assistant-neoforge-1.21.1-1.7.12.jar": {
     "modId": "crash_assistant",
-    "version": "1.7.11"
+    "version": "1.7.12"
   },
   "create-1.21.1-6.0.4.jar": {
     "modId": "create",
@@ -341,9 +345,9 @@
     "modId": "entityculling",
     "version": "1.7.4"
   },
-  "exposure-neoforge-1.21.1-1.9.1.jar": {
+  "exposure-neoforge-1.21.1-1.9.2.jar": {
     "modId": "exposure",
-    "version": "1.9.1"
+    "version": "1.9.2"
   },
   "FarmersDelight-1.21.1-1.2.7.jar": {
     "modId": "farmersdelight",
@@ -493,6 +497,10 @@
     "modId": "jade",
     "version": "15.10.0+neoforge"
   },
+  "jearchaeology-1.21.1-1.1.6.jar": {
+    "modId": "jearchaeology",
+    "version": "1.21.1-1.1.6"
+  },
   "jei-1.21.1-neoforge-19.21.0.247.jar": {
     "modId": "jei",
     "version": "19.21.0.247"
@@ -500,6 +508,10 @@
   "jinxedlib-neoforge-1.21.1-1.0.3.jar": {
     "modId": "jinxedlib",
     "version": "1.0.3"
+  },
+  "JustEnoughProfessions-neoforge-1.21.1-4.0.4.jar": {
+    "modId": "justenoughprofessions",
+    "version": "4.0.4"
   },
   "JustEnoughResources-NeoForge-1.21.1-1.6.0.14.jar": {
     "modId": "jeresources",
@@ -578,9 +590,9 @@
     "modId": "molten_vents",
     "version": "2.0.9"
   },
-  "moonlight-1.21-2.18.11-neoforge.jar": {
+  "moonlight-1.21-2.18.12-neoforge.jar": {
     "modId": "moonlight",
-    "version": "1.21-2.18.11"
+    "version": "1.21-2.18.12"
   },
   "moreoverlays-1.23.2-mc1.21-neoforge.jar": {
     "modId": "moreoverlays",
@@ -653,10 +665,6 @@
   "Paxi-1.21.1-NeoForge-5.1.2.jar": {
     "modId": "paxi",
     "version": "1.21.1-NeoForge-5.1.2"
-  },
-  "phantasm-1.0.3.jar": {
-    "modId": "phantasm",
-    "version": "1.0.3"
   },
   "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar": {
     "modId": "pickupnotifier",
@@ -878,9 +886,9 @@
     "modId": "usefulhats",
     "version": "1.21.1-6.5.1.1"
   },
-  "variantsandventures-neoforge-mc1.21.1-1.0.12.jar": {
+  "variantsandventures-neoforge-mc1.21.1-1.0.13.jar": {
     "modId": "variantsandventures",
-    "version": "1.0.12"
+    "version": "1.0.13"
   },
   "villagesandpillages-neoforge-mc1.21.1-1.0.3.jar": {
     "modId": "villagesandpillages",

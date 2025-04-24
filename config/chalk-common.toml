@@ -23,13 +23,13 @@ GenerateChalkInLootChests = true
 [Symbols]
 	PickaxeEnabled = true
 	PickaxeUnlockAdvancement = "minecraft:story/iron_tools"
-	SkullEnabled = true
-	SkullUnlockAdvancement = "chalk:adventure/bound_by_bone"
 	HeartEnabled = true
 	HeartUnlockAdvancement = "minecraft:husbandry/tame_an_animal"
-	HouseEnabled = true
-	HouseUnlockAdvancement = "chalk:adventure/home_is_where_the_bed_is"
 	CheckEnabled = true
 	CheckUnlockAdvancement = ""
+	SkullEnabled = true
+	SkullUnlockAdvancement = "chalk:adventure/bound_by_bone"
 	CrossEnabled = true
 	CrossUnlockAdvancement = ""
+	HouseEnabled = true
+	HouseUnlockAdvancement = "chalk:adventure/home_is_where_the_bed_is"

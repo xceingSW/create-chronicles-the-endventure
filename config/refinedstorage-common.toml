@@ -48,7 +48,7 @@ autocraftingNotification = true
 	#Allowed Values: QUANTITY, NAME, ID, LAST_MODIFIED
 	sortingType = "QUANTITY"
 	#Allowed Values: ALL, AUTOCRAFTABLE, NON_AUTOCRAFTABLE
-	viewType = "NON_AUTOCRAFTABLE"
+	viewType = "ALL"
 
 [craftingGrid]
 	# Default: 14
