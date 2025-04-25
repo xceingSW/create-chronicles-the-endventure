@@ -15,7 +15,7 @@
 		id: "irons_spellbooks:dragonskin_spell_book"
 	}
 	id: "19BE083ACF488E0F"
-	order_index: 15
+	order_index: 14
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

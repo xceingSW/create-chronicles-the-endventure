@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "rsquare"
 	filename: "eternal_starlight"
-	group: "5A4775CCD6D26C80"
+	group: ""
 	icon: {
 		id: "eternal_starlight:starlight_flower"
 	}
@@ -65,7 +65,7 @@
 			y: -1.5d
 		}
 	]
-	order_index: 0
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -2986,7 +2986,7 @@
 			size: 1.3d
 			tasks: [{
 				id: "47DA42491982BD41"
-				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:redstone)item(eternal_starlight:oxidized_golem_steel_ingot)item(eternal_starlight:golem_steel_ingot))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbquests:missing_item": "ftbfiltersystem:smart_filter" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 15.5d
@@ -3004,7 +3004,7 @@
 			size: 1.3d
 			tasks: [{
 				id: "28A1467F578C3750"
-				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:vine)item(eternal_starlight:lunar_berries)item(eternal_starlight:cave_moss)item(eternal_starlight:red_crystal_moss_carpet)item(eternal_starlight:blue_crystal_moss_carpet)item(eternal_starlight:red_crystal_roots)item(eternal_starlight:blue_crystal_roots))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbquests:missing_item": "ftbfiltersystem:smart_filter" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 12.5d
@@ -3200,7 +3200,7 @@
 			}]
 			tasks: [{
 				id: "29CAA814200ABBA8"
-				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:flint_and_steel)item(eternal_starlight:saltpeter_matchbox))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbquests:missing_item": "ftbfiltersystem:smart_filter" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 9.5d

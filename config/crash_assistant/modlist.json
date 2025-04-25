@@ -274,10 +274,6 @@
     "modId": "createcompounds",
     "version": "1.0.0"
   },
-  "creategarnished-0.1.2.1+1.21.1-neoforged.jar": {
-    "modId": "creategarnished",
-    "version": "0.1.2.1"
-  },
   "createteleporters2.4-1.21.1.jar": {
     "modId": "createteleporters",
     "version": "2.4"
@@ -428,6 +424,10 @@
   "fzzy_config-0.6.9+1.21+neoforge.jar": {
     "modId": "fzzy_config",
     "version": "0.6.9+1.21+neoforge"
+  },
+  "garnished-2.1.2+1.21.1-neoforged.jar": {
+    "modId": "garnished",
+    "version": "2.1.2"
   },
   "geckolib-neoforge-1.21.1-4.7.5.1.jar": {
     "modId": "geckolib",
@@ -622,6 +622,10 @@
     "modId": "netherportalfix",
     "version": "21.1.1"
   },
+  "noapotheosisnames-1.0.1.jar": {
+    "modId": "noapotheosisnames",
+    "version": "1.0.1"
+  },
   "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar": {
     "modId": "noisium",
     "version": "2.3.0+mc1.21-1.21.1"
@@ -753,10 +757,6 @@
   "Searchables-neoforge-1.21.1-1.0.2.jar": {
     "modId": "searchables",
     "version": "1.0.2"
-  },
-  "showcaseitem-1.21.1-1.1.0.jar": {
-    "modId": "showcaseitem",
-    "version": "1.21.1-1.1.0"
   },
   "SimpleDiscordRichPresence-neoforge-87.0.1-build.49+mc1.21.jar": {
     "modId": "sdrp",

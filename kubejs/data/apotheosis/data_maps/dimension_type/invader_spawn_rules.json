@@ -1,0 +1,14 @@
+{
+    "values": {
+        "deeperdarker:otherside": {
+            "spawn_chances": {
+                "haven": 0.035,
+                "frontier": 1,
+                "ascent": 1,
+                "summit": 1,
+                "pinnacle": 1
+            },
+            "surface_type": "any"
+        }
+    }
+}

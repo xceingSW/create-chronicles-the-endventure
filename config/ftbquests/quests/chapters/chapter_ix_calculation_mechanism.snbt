@@ -20,7 +20,7 @@
 		x: 9.0d
 		y: 4.0d
 	}]
-	order_index: 13
+	order_index: 12
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -74,7 +74,6 @@
 			y: 9.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "496C8280CF77787E"
@@ -120,7 +119,6 @@
 			y: 7.5d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "55E6E99D3CEF6003"
@@ -213,7 +211,6 @@
 			y: 7.5d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "1548E2F07EAD637F"
@@ -313,7 +310,6 @@
 			y: 15.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "4ECA82782988ACB9"
@@ -473,7 +469,6 @@
 			y: 3.5d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "34ADDB9018231BCA"
@@ -1383,7 +1378,6 @@
 			y: 12.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "582E68291A96A9E7"
@@ -1407,7 +1401,6 @@
 			y: 19.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "73D579268007A8C7"
@@ -1431,7 +1424,6 @@
 			y: 19.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "3F0E651F191CD81F"
@@ -1455,7 +1447,6 @@
 			y: 19.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "2A0B07555EC8D47E"
@@ -1479,7 +1470,6 @@
 			y: 19.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "08277642FD16A56E"
@@ -1503,7 +1493,6 @@
 			y: 19.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "44A8B31CD719B906"
@@ -1527,7 +1516,6 @@
 			y: 19.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "137CC533B864B25F"
@@ -1551,7 +1539,6 @@
 			y: 19.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "32CEB5F5DA7E08E5"
@@ -1575,7 +1562,6 @@
 			y: 19.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "4A5C011878F7BB63"
@@ -1630,7 +1616,6 @@
 			y: 24.75d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "05629E7F780A315D"
@@ -1654,7 +1639,6 @@
 			y: 22.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "64D7956A3E6681A5"
@@ -1678,7 +1662,6 @@
 			y: 6.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "41444693F75F309B"
@@ -1809,7 +1792,6 @@
 			y: 24.75d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "03BCAD5BFB9DA32C"
@@ -1833,7 +1815,6 @@
 			y: 22.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "11E236BCD6DE38E5"
@@ -1857,7 +1838,6 @@
 			y: 22.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "535537D880A5C63B"
@@ -1881,7 +1861,6 @@
 			y: -2.5d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "683BD9B4E6116735"
@@ -1927,7 +1906,6 @@
 			y: 1.5d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "16952288925225D2"
@@ -1951,7 +1929,6 @@
 			y: 21.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "3C0427C75D2CA7F2"
@@ -1975,7 +1952,6 @@
 			y: 21.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_dependency_lines: true
 			hide_until_deps_complete: true
 			id: "66C6FAD9FBDE1094"
@@ -1999,7 +1975,6 @@
 			y: 22.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_until_deps_complete: true
 			id: "12D05844B1E04C5A"
 			tasks: [{
@@ -2011,7 +1986,6 @@
 			y: 22.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_until_deps_complete: true
 			id: "6EB84A16A8D76BE7"
 			tasks: [{
@@ -2023,7 +1997,6 @@
 			y: 22.0d
 		}
 		{
-			dependencies: ["47A6ACAA667AD14A"]
 			hide_until_deps_complete: true
 			id: "38BD2C6227F76457"
 			tasks: [{

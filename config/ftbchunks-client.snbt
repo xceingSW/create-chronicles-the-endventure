@@ -133,28 +133,47 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"eternal_starlight:lonestar_skeleton": true
-			"minecraft:pig": true
-			"minecraft:creeper": true
-			"eternal_starlight:ratlin": true
-			"artifacts:mimic": true
+			"minecraft:piglin": true
+			"minecraft:zombified_piglin": true
 			"minecraft:bat": true
-			"minecraft:spider": true
-			"eternal_starlight:tower_squid": true
-			"eternal_starlight:shadow_snail": true
-			"minecraft:drowned": true
-			"minecraft:squid": true
-			"irons_spellbooks:necromancer": true
-			"biomeswevegone:man_o_war": true
-			"minecraft:skeleton": true
-			"minecraft:glow_squid": true
-			"minecraft:enderman": true
-			"minecraft:zombie_villager": true
-			"minecraft:zombie": true
-			"eternal_starlight:nightfall_spider": true
 			"minecraft:sheep": true
+			"minecraft:zombie": true
+			"minecraft:dolphin": true
 			"minecraft:tropical_fish": false
+			"minecraft:phantom": true
+			"minecraft:zoglin": true
+			"eternal_starlight:ratlin": true
+			"deeperdarker:sludge": true
+			"minecraft:blaze": true
 			"eternal_starlight:ent": true
+			"eternal_starlight:lonestar_skeleton": true
+			"irons_spellbooks:cursed_armor_stand": true
+			"minecraft:salmon": false
+			"irons_spellbooks:necromancer": true
+			"minecraft:ghast": true
+			"minecraft:wither_skeleton": true
+			"eternal_starlight:nightfall_spider": true
+			"biomeswevegone:man_o_war": true
+			"minecraft:enderman": true
+			"deeperdarker:sculk_snapper": true
+			"minecraft:glow_squid": true
+			"deeperdarker:sculk_centipede": true
+			"minecraft:strider": true
+			"minecraft:pig": true
+			"eternal_starlight:tower_squid": true
+			"minecraft:creeper": true
+			"minecraft:chicken": true
+			"minecraft:magma_cube": true
+			"minecraft:piglin_brute": true
+			"minecraft:spider": true
+			"minecraft:squid": true
+			"artifacts:mimic": true
+			"minecraft:skeleton": true
+			"deeperdarker:angler_fish": true
+			"minecraft:zombie_villager": true
+			"minecraft:drowned": true
+			"deeperdarker:shattered": true
+			"eternal_starlight:shadow_snail": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
