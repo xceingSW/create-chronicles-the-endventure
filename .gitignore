@@ -38,12 +38,17 @@ user-prefs.json
 /data/
 /resourcepacks/
 /xaero/
-/.vscode
+/downloads/
+/spark-modernfix/
+/kiwipacks/
+.vscode
 win_event*
 
 
 
 # files
+realms_persistence.json
+exposure_catalog_state.json
 cherishedworlds-favorites.dat
 command_history.txt
 .curseclient

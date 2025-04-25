@@ -133,28 +133,28 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:spider": true
-			"minecraft:pig": true
-			"minecraft:skeleton": true
-			"eternal_starlight:nightfall_spider": true
-			"minecraft:tropical_fish": false
-			"eternal_starlight:ratlin": true
-			"eternal_starlight:ent": true
 			"eternal_starlight:lonestar_skeleton": true
-			"minecraft:zombie_villager": true
+			"minecraft:pig": true
+			"minecraft:creeper": true
+			"eternal_starlight:ratlin": true
+			"artifacts:mimic": true
 			"minecraft:bat": true
-			"minecraft:sheep": true
-			"minecraft:zombie": true
+			"minecraft:spider": true
 			"eternal_starlight:tower_squid": true
 			"eternal_starlight:shadow_snail": true
 			"minecraft:drowned": true
 			"minecraft:squid": true
-			"minecraft:creeper": true
-			"minecraft:enderman": true
-			"biomeswevegone:man_o_war": true
-			"minecraft:glow_squid": true
 			"irons_spellbooks:necromancer": true
-			"artifacts:mimic": true
+			"biomeswevegone:man_o_war": true
+			"minecraft:skeleton": true
+			"minecraft:glow_squid": true
+			"minecraft:enderman": true
+			"minecraft:zombie_villager": true
+			"minecraft:zombie": true
+			"eternal_starlight:nightfall_spider": true
+			"minecraft:sheep": true
+			"minecraft:tropical_fish": false
+			"eternal_starlight:ent": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
