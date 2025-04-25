@@ -39,9 +39,9 @@
     "modId": "amendments",
     "version": "1.21-1.2.24"
   },
-  "Apotheosis-1.21.1-8.3.3.jar": {
+  "Apotheosis-1.21.1-8.3.4.jar": {
     "modId": "apotheosis",
-    "version": "8.3.3"
+    "version": "8.3.4"
   },
   "ApothicAttributes-1.21.1-2.8.0.jar": {
     "modId": "apothic_attributes",
@@ -87,9 +87,9 @@
     "modId": "athena",
     "version": "4.0.1"
   },
-  "atlas_api-1.21-1.0.2.jar": {
+  "atlas_api-1.21.1-1.1.0.jar": {
     "modId": "atlas_api",
-    "version": "1.21-1.0.2"
+    "version": "1.21.1-1.1.0"
   },
   "attributefix-neoforge-1.21.1-21.1.2.jar": {
     "modId": "attributefix",
@@ -199,9 +199,9 @@
     "modId": "collective",
     "version": "8.3"
   },
-  "combat_roll-neoforge-2.0.2+1.21.1.jar": {
+  "combat_roll-neoforge-2.0.3+1.21.1.jar": {
     "modId": "combat_roll",
-    "version": "2.0.2+1.21.1"
+    "version": "2.0.3+1.21.1"
   },
   "comforts-neoforge-9.0.3+1.21.1.jar": {
     "modId": "comforts",
@@ -239,9 +239,9 @@
     "modId": "craftingtweaks",
     "version": "21.1.5"
   },
-  "crash_assistant-neoforge-1.21.1-1.7.12.jar": {
+  "crash_assistant-neoforge-1.21.1-1.7.13.jar": {
     "modId": "crash_assistant",
-    "version": "1.7.12"
+    "version": "1.7.13"
   },
   "create-1.21.1-6.0.4.jar": {
     "modId": "create",
@@ -594,9 +594,9 @@
     "modId": "molten_vents",
     "version": "2.0.9"
   },
-  "moonlight-1.21-2.18.12-neoforge.jar": {
+  "moonlight-1.21-2.18.13-neoforge.jar": {
     "modId": "moonlight",
-    "version": "1.21-2.18.12"
+    "version": "1.21-2.18.13"
   },
   "moreoverlays-1.23.2-mc1.21-neoforge.jar": {
     "modId": "moreoverlays",
@@ -826,9 +826,9 @@
     "modId": "sophisticatedcore",
     "version": "1.3.32"
   },
-  "sophisticatedstorage-1.21.1-1.4.25.1132.jar": {
+  "sophisticatedstorage-1.21.1-1.4.26.1135.jar": {
     "modId": "sophisticatedstorage",
-    "version": "1.4.25"
+    "version": "1.4.26"
   },
   "sophisticatedstoragecreateintegration-1.21.1-0.1.8.27.jar": {
     "modId": "sophisticatedstoragecreateintegration",
@@ -858,9 +858,9 @@
     "modId": "supermartijn642corelib",
     "version": "1.1.18+a"
   },
-  "supplementaries-1.21-3.1.7-neoforge.jar": {
+  "supplementaries-1.21-3.1.8-neoforge.jar": {
     "modId": "supplementaries",
-    "version": "1.21-3.1.7"
+    "version": "1.21-3.1.8"
   },
   "takesapillage-neoforge-mc1.21.1-1.0.6.jar": {
     "modId": "takesapillage",

@@ -38,6 +38,7 @@ user-prefs.json
 /data/
 /resourcepacks/
 /xaero/
+/.vscode
 win_event*
 
 
