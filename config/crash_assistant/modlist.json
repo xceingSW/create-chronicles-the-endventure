@@ -27,6 +27,10 @@
     "modId": "almanac",
     "version": "1.0.2"
   },
+  "alshanex_familiars-1.21.1_v1.1.2_HotFix.jar": {
+    "modId": "alshanex_familiars",
+    "version": "1.21.1_v1.1.2_HotFix"
+  },
   "alternate_current-mc1.21-1.9.0.jar": {
     "modId": "alternate_current",
     "version": "1.9.0"
@@ -79,17 +83,9 @@
     "modId": "arts_and_crafts",
     "version": "1.4.3"
   },
-  "astages-1.2.2-1.21.1.jar": {
-    "modId": "astages",
-    "version": "1.2.2-1.21.1"
-  },
   "athena-neoforge-1.21-4.0.1.jar": {
     "modId": "athena",
     "version": "4.0.1"
-  },
-  "atlas_api-1.21.1-1.1.0.jar": {
-    "modId": "atlas_api",
-    "version": "1.21.1-1.1.0"
   },
   "attributefix-neoforge-1.21.1-21.1.2.jar": {
     "modId": "attributefix",
@@ -119,6 +115,10 @@
     "modId": "bettertags",
     "version": "1.5"
   },
+  "better_tooltips-1.0.3.jar": {
+    "modId": "better_tooltips",
+    "version": "1.0.3"
+  },
   "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar": {
     "modId": "betteradvancements",
     "version": "0.4.3.21"
@@ -147,9 +147,9 @@
     "modId": "bosses_of_mass_destruction",
     "version": "1.3.2"
   },
-  "bookshelf-neoforge-1.21.1-21.1.58.jar": {
+  "bookshelf-neoforge-1.21.1-21.1.59.jar": {
     "modId": "bookshelf",
-    "version": "21.1.58"
+    "version": "21.1.59"
   },
   "buildinggadgets2-1.3.8.jar": {
     "modId": "buildinggadgets2",
@@ -187,6 +187,10 @@
     "modId": "chunksending",
     "version": "2.8"
   },
+  "clean_tooltips-1.1-neoforge-1.21.1.jar": {
+    "modId": "clean_tooltips",
+    "version": "1.1"
+  },
   "clickadv-1.21-3.8.jar": {
     "modId": "clickadv",
     "version": "3.8"
@@ -198,6 +202,10 @@
   "cloth-config-15.0.140-neoforge.jar": {
     "modId": "cloth_config",
     "version": "15.0.140"
+  },
+  "Clumps-neoforge-1.21.1-19.0.0.1.jar": {
+    "modId": "clumps",
+    "version": "19.0.0.1"
   },
   "collective-1.21.1-8.3.jar": {
     "modId": "collective",
@@ -243,9 +251,9 @@
     "modId": "craftingtweaks",
     "version": "21.1.5"
   },
-  "crash_assistant-neoforge-1.21.1-1.7.13.jar": {
+  "crash_assistant-neoforge-1.21.1-1.7.14.jar": {
     "modId": "crash_assistant",
-    "version": "1.7.13"
+    "version": "1.7.14"
   },
   "create-1.21.1-6.0.4.jar": {
     "modId": "create",
@@ -259,24 +267,40 @@
     "modId": "create_enchantment_industry",
     "version": "2.0.12"
   },
-  "create-integrated-farming-1.0.0.jar": {
+  "create-integrated-farming-1.0.1.jar": {
     "modId": "create_integrated_farming",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "create-stuff-additions1.21.1_v2.1.0e.jar": {
     "modId": "create_sa",
     "version": "2.1.0."
   },
+  "Create_Desires-2-Dreams-1.21.1-2.0.0.jar": {
+    "modId": "create_d2d",
+    "version": "2.0.0"
+  },
   "create_mechanical_extruder-1.21.1-2.0.5-6.0.4.jar": {
     "modId": "create_mechanical_extruder",
     "version": "1.21.1-2.0.5-6.0.4"
+  },
+  "create_pattern_schematics-2.0.6.jar": {
+    "modId": "create_pattern_schematics",
+    "version": "2.0.6"
   },
   "create_things_and_misc-4.0-neoforge-1.21.1.jar": {
     "modId": "create_things_and_misc",
     "version": "1.0.0"
   },
+  "create_winery-1.6.0-neoforge-1.21.1.jar": {
+    "modId": "create_winery",
+    "version": "1.6.0"
+  },
   "createaddition-1.4.2.jar": {
     "modId": "createaddition"
+  },
+  "createchromaticreturn-1.0.1-neoforge-1.21.1.jar": {
+    "modId": "createchromaticreturn",
+    "version": "1.0.0"
   },
   "createcompounds-1.21.1-NeoForge-1.0.0.jar": {
     "modId": "createcompounds",
@@ -289,6 +313,10 @@
   "CreativeCore_NEOFORGE_v2.13.2_mc1.21.1.jar": {
     "modId": "creativecore",
     "version": "2.13.2"
+  },
+  "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar": {
+    "modId": "creeperoverhaul",
+    "version": "4.0.6"
   },
   "cristellib-neoforge-1.2.8.jar": {
     "modId": "cristellib",
@@ -309,9 +337,13 @@
   "deeper_additional_structures.jar": {
     "modId": "deeper_additional_structures"
   },
-  "deeperdarker-neoforge-1.21-1.3.4.jar": {
+  "deeperdarker-neoforge-1.21.1-1.3.5.jar": {
     "modId": "deeperdarker",
-    "version": "1.3.4"
+    "version": "1.3.5"
+  },
+  "Ding-1.21-NeoForge-1.5.0.jar": {
+    "modId": "ding",
+    "version": "1.5.0"
   },
   "DnT-end-castle-standalone-v1.1 [NeoForge].jar": {
     "modId": "mr_dungeons_andtavernsendcastlestandalone",
@@ -360,6 +392,10 @@
   "entityculling-neoforge-1.7.4-mc1.21.jar": {
     "modId": "entityculling",
     "version": "1.7.4"
+  },
+  "EquipmentCompare-1.21.1-neoforge-1.3.13.jar": {
+    "modId": "equipmentcompare",
+    "version": "1.3.13"
   },
   "eternalstarlight-0.4.2-hotfix+1.21.1+neoforge.jar": {
     "modId": "eternal_starlight",
@@ -421,9 +457,9 @@
     "modId": "ftbchunks",
     "version": "2101.1.8"
   },
-  "ftb-library-neoforge-2101.1.12.jar": {
+  "ftb-library-neoforge-2101.1.13.jar": {
     "modId": "ftblibrary",
-    "version": "2101.1.12"
+    "version": "2101.1.13"
   },
   "ftb-quests-neoforge-2101.1.9.jar": {
     "modId": "ftbquests",
@@ -445,9 +481,9 @@
     "modId": "gallery",
     "version": "2.0.0"
   },
-  "gamediscs-0.3.1a-neoforge.jar": {
+  "gamediscs-0.3.2-neoforge.jar": {
     "modId": "gamediscs",
-    "version": "0.3.1a-neoforge"
+    "version": "0.3.2-neoforge"
   },
   "garnished-2.1.2+1.21.1-neoforged.jar": {
     "modId": "garnished",
@@ -489,6 +525,10 @@
     "modId": "iceberg",
     "version": "1.3.2"
   },
+  "iChunUtil-1.21-NeoForge-1.0.3.jar": {
+    "modId": "ichunutil",
+    "version": "1.0.3"
+  },
   "illagersweararmor-1.21-2.3.1.jar": {
     "modId": "illagersweararmor",
     "version": "2.3.1"
@@ -516,10 +556,6 @@
   "iris-neoforge-1.8.8+mc1.21.1.jar": {
     "modId": "iris",
     "version": "1.8.8+mc1.21.1"
-  },
-  "irons_jewelry-1.21.1-1.1.0.jar": {
-    "modId": "irons_jewelry",
-    "version": "1.21.1-1.1.0"
   },
   "irons_spellbooks-1.21.1-3.11.0.jar": {
     "modId": "irons_spellbooks",
@@ -614,6 +650,10 @@
     "modId": "modernfix",
     "version": "5.21.0+mc1.21.1"
   },
+  "modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar": {
+    "modId": "modernworldcreation",
+    "version": "2.0.1"
+  },
   "molten_vents-1.21.1-2.0.9.jar": {
     "modId": "molten_vents",
     "version": "2.0.9"
@@ -706,10 +746,6 @@
     "modId": "paxi",
     "version": "1.21.1-NeoForge-5.1.2"
   },
-  "phantasm-1.0.3.jar": {
-    "modId": "phantasm",
-    "version": "1.0.3"
-  },
   "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar": {
     "modId": "pickupnotifier",
     "version": "21.1.1"
@@ -721,10 +757,6 @@
   "player-animation-lib-forge-2.0.1+1.21.1.jar": {
     "modId": "playeranimator",
     "version": "2.0.1+1.21.1"
-  },
-  "polymorph-neoforge-1.0.10+1.21.1.jar": {
-    "modId": "polymorph",
-    "version": "1.0.10+1.21.1"
   },
   "prickle-neoforge-1.21.1-21.1.6.jar": {
     "modId": "prickle",
@@ -738,9 +770,9 @@
     "modId": "probejs",
     "version": "7.5.1"
   },
-  "PuzzlesLib-v21.1.33-1.21.1-NeoForge.jar": {
+  "PuzzlesLib-v21.1.34-1.21.1-NeoForge.jar": {
     "modId": "puzzleslib",
-    "version": "21.1.33"
+    "version": "21.1.34"
   },
   "Quest-Kill-Task-neoforge-0.3.0+1.21.1.jar": {
     "modId": "questkilltask",
@@ -754,6 +786,10 @@
     "modId": "reeses_sodium_options",
     "version": "1.8.3+mc1.21.4"
   },
+  "refinedstorage-curios-integration-1.0.0.jar": {
+    "modId": "refinedstorage_curios_integration",
+    "version": "1.0.0"
+  },
   "refinedstorage-neoforge-2.0.0-beta.2.jar": {
     "modId": "refinedstorage",
     "version": "2.0.0-beta.2"
@@ -766,9 +802,9 @@
     "modId": "repurposed_structures",
     "version": "7.5.13+1.21.1-neoforge"
   },
-  "resourcefulconfig-neoforge-1.21-3.0.9.jar": {
+  "resourcefulconfig-neoforge-1.21-3.0.11.jar": {
     "modId": "resourcefulconfig",
-    "version": "3.0.9"
+    "version": "3.0.11"
   },
   "resourcefullib-neoforge-1.21-3.0.12.jar": {
     "modId": "resourcefullib",
@@ -778,10 +814,6 @@
     "modId": "rhino",
     "version": "2101.2.7-build.74"
   },
-  "rpg_companions_tiny_dragons-0.0.5-neoforge-1.21.1.jar": {
-    "modId": "rpg_companions_tiny_dragons",
-    "version": "0.0.5"
-  },
   "scholar-neoforge-1.21.1-1.1.6.jar": {
     "modId": "scholar",
     "version": "1.1.6"
@@ -789,6 +821,10 @@
   "Searchables-neoforge-1.21.1-1.0.2.jar": {
     "modId": "searchables",
     "version": "1.0.2"
+  },
+  "showcaseitem-1.21.1-1.1.0.jar": {
+    "modId": "showcaseitem",
+    "version": "1.21.1-1.1.0"
   },
   "SimpleDiscordRichPresence-neoforge-87.0.1-build.49+mc1.21.jar": {
     "modId": "sdrp",
@@ -854,9 +890,9 @@
     "modId": "sophisticatedbackpackscreateintegration",
     "version": "0.1.1"
   },
-  "sophisticatedcore-1.21.1-1.3.32.961.jar": {
+  "sophisticatedcore-1.21.1-1.3.34.965.jar": {
     "modId": "sophisticatedcore",
-    "version": "1.3.32"
+    "version": "1.3.34"
   },
   "sophisticatedstorage-1.21.1-1.4.26.1135.jar": {
     "modId": "sophisticatedstorage",
@@ -918,21 +954,9 @@
     "modId": "treasuredistance",
     "version": "1.0"
   },
-  "trofers-neoforge-8.0.0.jar": {
-    "modId": "trofers",
-    "version": "8.0.0"
-  },
-  "trophymanager-1.21.1-2.2.4.jar": {
-    "modId": "trophymanager",
-    "version": "1.21.1-2.2.4"
-  },
   "txnilib-neoforge-1.0.23-1.21.1.jar": {
     "modId": "txnilib",
     "version": "1.0.23"
-  },
-  "usefulhats-neoforge-1.21.1-6.5.1.1.jar": {
-    "modId": "usefulhats",
-    "version": "1.21.1-6.5.1.1"
   },
   "variantsandventures-neoforge-mc1.21.1-1.0.13.jar": {
     "modId": "variantsandventures",
