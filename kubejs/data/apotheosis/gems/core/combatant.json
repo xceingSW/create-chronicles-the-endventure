@@ -18,12 +18,12 @@
             },
             "operation": "add_multiplied_base",
             "values": {
-                "cracked": 0.05,
-                "chipped": 0.15,
-                "flawed": 0.2,
-                "normal": 0.3,
-                "flawless": 0.4,
-                "perfect": 0.55
+                "cracked": 0.01,
+                "chipped": 0.03,
+                "flawed": 0.04,
+                "normal": 0.05,
+                "flawless": 0.7,
+                "perfect": 1.0
             }
         },
         {
@@ -37,24 +37,24 @@
                 ]
             },
             "values": {
-                "cracked": 0.05,
-                "chipped": 0.075,
-                "flawed": 0.125,
-                "normal": 0.175,
-                "flawless": 0.225,
-                "perfect": 0.275
+                "cracked": 0.01,
+                "chipped": 0.015,
+                "flawed": 0.025,
+                "normal": 0.035,
+                "flawless": 0.045,
+                "perfect": 0.055
             }
         },
         {
             "type": "apotheosis:durability",
             "gem_class": "apotheosis:melee_weapon",
             "values": {
-                "cracked": 0.05,
-                "chipped": 0.1,
-                "flawed": 0.15,
-                "normal": 0.225,
-                "flawless": 0.3,
-                "perfect": 0.4
+                "cracked": 0.01,
+                "chipped": 0.02,
+                "flawed": 0.03,
+                "normal": 0.045,
+                "flawless": 0.06,
+                "perfect": 0.08
             }
         }
     ]

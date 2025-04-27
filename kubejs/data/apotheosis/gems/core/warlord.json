@@ -17,26 +17,12 @@
             },
             "operation": "add_multiplied_base",
             "values": {
-                "cracked": 0.1,
-                "chipped": 0.2,
-                "flawed": 0.35,
-                "normal": 0.45,
-                "flawless": 0.55,
-                "perfect": 0.7
-            }
-        },
-        {
-            "type": "apotheosis:attribute",
-            "attribute": "minecraft:generic.max_health",
-            "gem_class": "apotheosis:chestplate",
-            "operation": "add_multiplied_base",
-            "values": {
-                "cracked": 0.05,
-                "chipped": 0.1,
-                "flawed": 0.15,
-                "normal": 0.2,
-                "flawless": 0.25,
-                "perfect": 0.35
+                "cracked": 0.01,
+                "chipped": 0.02,
+                "flawed": 0.03,
+                "normal": 0.04,
+                "flawless": 0.05,
+                "perfect": 0.08
             }
         },
         {
@@ -45,12 +31,12 @@
             "gem_class": "apotheosis:helmet",
             "operation": "add_multiplied_total",
             "values": {
-                "cracked": 0.05,
-                "chipped": 0.1,
-                "flawed": 0.125,
-                "normal": 0.15,
-                "flawless": 0.175,
-                "perfect": 0.225
+                "cracked": 0.01,
+                "chipped": 0.02,
+                "flawed": 0.025,
+                "normal": 0.03,
+                "flawless": 0.035,
+                "perfect": 0.04
             }
         },
         {
@@ -62,12 +48,12 @@
             "target": "arrow_self",
             "values": {
                 "flawless": {
-                    "duration": 200,
+                    "duration": 40,
                     "amplifier": 0,
                     "cooldown": 40
                 },
                 "perfect": {
-                    "duration": 200,
+                    "duration": 120,
                     "amplifier": 1,
                     "cooldown": 40
                 }

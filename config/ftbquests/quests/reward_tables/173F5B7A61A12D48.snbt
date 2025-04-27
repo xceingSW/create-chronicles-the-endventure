@@ -1,0 +1,9 @@
+{
+	id: "173F5B7A61A12D48"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ id: "320472F58D463DB3", item: { count: 1, id: "minecraft:oak_log" } }
+		{ id: "7D5594E5715A113A", item: { count: 1, id: "minecraft:diamond_chestplate" } }
+	]
+}

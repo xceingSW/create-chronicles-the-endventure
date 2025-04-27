@@ -1,0 +1,361 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/slipstream",
+                "apotheosis:purity": "cracked"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/slipstream",
+                "apotheosis:purity": "chipped"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/slipstream",
+                "apotheosis:purity": "flawed"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/slipstream",
+                "apotheosis:purity": "normal"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/slipstream",
+                "apotheosis:purity": "flawless"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/slipstream",
+                "apotheosis:purity": "perfect"
+              }
+            }
+          ],
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/ballast",
+                "apotheosis:purity": "cracked"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/ballast",
+                "apotheosis:purity": "chipped"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/ballast",
+                "apotheosis:purity": "flawed"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/ballast",
+                "apotheosis:purity": "normal"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/ballast",
+                "apotheosis:purity": "flawless"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/ballast",
+                "apotheosis:purity": "perfect"
+              }
+            }
+          ],
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/brawlers",
+                "apotheosis:purity": "cracked"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/brawlers",
+                "apotheosis:purity": "chipped"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/brawlers",
+                "apotheosis:purity": "flawed"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/brawlers",
+                "apotheosis:purity": "normal"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/brawlers",
+                "apotheosis:purity": "flawless"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/brawlers",
+                "apotheosis:purity": "perfect"
+              }
+            }
+          ],
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/breach",
+                "apotheosis:purity": "cracked"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/breach",
+                "apotheosis:purity": "chipped"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/breach",
+                "apotheosis:purity": "flawed"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/breach",
+                "apotheosis:purity": "normal"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/breach",
+                "apotheosis:purity": "flawless"
+              }
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:gem",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "apotheosis:gem": "apotheosis:core/breach",
+                "apotheosis:purity": "perfect"
+              }
+            }
+          ],
+          "weight": 10
+        }
+      ]
+    }
+  ]
+}

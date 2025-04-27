@@ -676,6 +676,7 @@
 		"Applying colour to a cable uses 100AE of energy from its internal battery, for a total of 3400 cable segments in a single charge."
 	]
 	quest.7A47716BA89E7B06.title: "Color Applicator"
+	reward_table.173F5B7A61A12D48.title: "teste"
 	task.02603EEC37FE0012.title: "Glass Cable"
 	task.0B18DCF021EC9073.title: "ME Interface"
 	task.0BEEDF43E748F047.title: "Dense Covered Cable"

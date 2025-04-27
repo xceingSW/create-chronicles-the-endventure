@@ -6,5 +6,40 @@
 	id: "77CB82601BCDCA86"
 	order_index: 0
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		id: "2BBCFC6BD1359852"
+		rewards: [
+			{
+				exclude_from_claim_all: true
+				id: "00BCB51ED8ACDA93"
+				table_id: 1675158167587204424L
+				type: "all_table"
+			}
+			{
+				exclude_from_claim_all: true
+				id: "6391E315DA7344F5"
+				table_id: 1675158167587204424L
+				type: "choice"
+			}
+			{
+				exclude_from_claim_all: true
+				id: "4371E2CB551032E8"
+				table_id: 1675158167587204424L
+				type: "random"
+			}
+			{
+				exclude_from_claim_all: true
+				id: "71EC7F0AAA6CD705"
+				table_id: 1675158167587204424L
+				type: "loot"
+			}
+		]
+		tasks: [{
+			id: "69157560E205B3C0"
+			item: { count: 1, id: "minecraft:oak_trapdoor" }
+			type: "item"
+		}]
+		x: -2.5d
+		y: -1.0d
+	}]
 }

@@ -10,10 +10,10 @@ StartupEvents.registry('item', event => {
   event.create('kubejs:check_collection_progress').maxStackSize(1)
   event.create('kubejs:village_capacity_permit').maxStackSize(1)*/
   event.create('create_chronicles').displayName("§6Create Chronicles").texture('kubejs:item/example_item')
+  event.create('lootbag_boss').displayName("Loot bag of gems").texture('kubejs:item/example_item')
 
   event.create('token_basic')
     .displayName("§6Seal of Apprentice")
-    .texture('kubejs:item/token1')
     .rarity("UNCOMMON")
     .tooltip([
       '§7You\'ve taken your first steps, engineer...',
@@ -23,7 +23,6 @@ StartupEvents.registry('item', event => {
 
     event.create('token_medium')
     .displayName("§7Seal of Operator")
-    .texture('kubejs:item/token1')
     .rarity("RARE")
     .tooltip([
       '§7Precision is your language. Efficiency your creed.',
@@ -33,7 +32,6 @@ StartupEvents.registry('item', event => {
 
     event.create('token_advanced')
     .displayName("§eSeal of Master Engineer")
-    .texture('kubejs:item/token1')
     .rarity("EPIC")
     .tooltip([
       '§7So, you really think you\'re ready for this?',

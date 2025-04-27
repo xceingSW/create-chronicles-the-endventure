@@ -1,2 +1,5 @@
 {
+  "conditions": [
+      { "type": "neoforge:false" }
+  ]
 }

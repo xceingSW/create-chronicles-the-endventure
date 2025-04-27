@@ -139,6 +139,10 @@
     "modId": "betterthirdperson",
     "version": "1.9.0"
   },
+  "blueprint-1.21.1-8.0.3.jar": {
+    "modId": "blueprint",
+    "version": "8.0.3"
+  },
   "BOMD-NeoForge-1.21-1.3.2.jar": {
     "modId": "bosses_of_mass_destruction",
     "version": "1.3.2"
@@ -255,6 +259,10 @@
     "modId": "create_enchantment_industry",
     "version": "2.0.12"
   },
+  "create-integrated-farming-1.0.0.jar": {
+    "modId": "create_integrated_farming",
+    "version": "1.0.0"
+  },
   "create-stuff-additions1.21.1_v2.1.0e.jar": {
     "modId": "create_sa",
     "version": "2.1.0."
@@ -294,6 +302,10 @@
     "modId": "curios",
     "version": "9.4.2+1.21.1"
   },
+  "darkpaintings-neoforge-1.21.1-21.1.2.jar": {
+    "modId": "darkpaintings",
+    "version": "21.1.2"
+  },
   "deeper_additional_structures.jar": {
     "modId": "deeper_additional_structures"
   },
@@ -332,6 +344,10 @@
   "effortlessbuilding-1.21.1-3.10-all.jar": {
     "modId": "effortlessbuilding",
     "version": "3.10"
+  },
+  "enchantmentlevelcapindicator-1.21.1-1.1.jar": {
+    "modId": "enchantmentlevelcapindicator",
+    "version": "1.1"
   },
   "enchdesc-neoforge-1.21.1-21.1.7.jar": {
     "modId": "enchdesc",
@@ -425,6 +441,14 @@
     "modId": "fzzy_config",
     "version": "0.6.9+1.21+neoforge"
   },
+  "gallery-1.21.1-2.0.0.jar": {
+    "modId": "gallery",
+    "version": "2.0.0"
+  },
+  "gamediscs-0.3.1a-neoforge.jar": {
+    "modId": "gamediscs",
+    "version": "0.3.1a-neoforge"
+  },
   "garnished-2.1.2+1.21.1-neoforged.jar": {
     "modId": "garnished",
     "version": "2.1.2"
@@ -436,6 +460,10 @@
   "Geophilic v3.4.1 f15-71.mod.jar": {
     "modId": "geophilic",
     "version": "3.4.1"
+  },
+  "golemoverhaul-neoforge-1.21.1-1.0.0.jar": {
+    "modId": "golemoverhaul",
+    "version": "1.0.0"
   },
   "gpumemleakfix-1.21-1.8.jar": {
     "modId": "gpumemleakfix",
@@ -457,10 +485,6 @@
     "modId": "hopour",
     "version": "1.2.1"
   },
-  "HostileNeuralNetworks-1.21.1-6.2.0.jar": {
-    "modId": "hostilenetworks",
-    "version": "6.2.0"
-  },
   "Iceberg-1.21.1-neoforge-1.3.2.jar": {
     "modId": "iceberg",
     "version": "1.3.2"
@@ -476,6 +500,10 @@
   "immersive_aircraft-1.2.2+1.21.1-neoforge.jar": {
     "modId": "immersive_aircraft",
     "version": "1.2.2+1.21.1"
+  },
+  "immersivearmorhud-neoforge-1.0.1-1.21.1.jar": {
+    "modId": "immersivearmorhud",
+    "version": "1.0.1"
   },
   "ImmersiveUI-NEOFORGE-0.3.0.jar": {
     "modId": "immersiveui",
@@ -586,10 +614,6 @@
     "modId": "modernfix",
     "version": "5.21.0+mc1.21.1"
   },
-  "modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar": {
-    "modId": "modernworldcreation",
-    "version": "2.0.1"
-  },
   "molten_vents-1.21.1-2.0.9.jar": {
     "modId": "molten_vents",
     "version": "2.0.9"
@@ -629,6 +653,10 @@
   "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar": {
     "modId": "noisium",
     "version": "2.3.0+mc1.21-1.21.1"
+  },
+  "Not Enough Recipe Book-NEOFORGE-0.4.2+1.21.jar": {
+    "modId": "nerb",
+    "version": "0.4.2"
   },
   "notenoughanimations-neoforge-1.9.3-mc1.21.jar": {
     "modId": "notenoughanimations",
@@ -713,6 +741,10 @@
   "PuzzlesLib-v21.1.33-1.21.1-NeoForge.jar": {
     "modId": "puzzleslib",
     "version": "21.1.33"
+  },
+  "Quest-Kill-Task-neoforge-0.3.0+1.21.1.jar": {
+    "modId": "questkilltask",
+    "version": "0.3.0+1.21.1"
   },
   "redirected-neoforge-1.0.0-1.21.1.jar": {
     "modId": "redirected",
