@@ -365,6 +365,10 @@
     "modId": "doubledoors",
     "version": "7.0"
   },
+  "drippyloadingscreen_neoforge_3.0.12_MC_1.21.1.jar": {
+    "modId": "drippyloadingscreen",
+    "version": "3.0.12"
+  },
   "dummmmmmy-1.21-2.0.7-neoforge.jar": {
     "modId": "dummmmmmy",
     "version": "1.21-2.0.7"
@@ -613,6 +617,10 @@
   "letmedespawn-1.21.x-neoforge-1.5.0.jar": {
     "modId": "letmedespawn",
     "version": "1.5.0"
+  },
+  "Lexicon-1.21-(v.1.8.2-NEO).jar": {
+    "modId": "lexicon",
+    "version": "1.8.2"
   },
   "lionfishapi-2.6.jar": {
     "modId": "lionfishapi",
@@ -985,6 +993,10 @@
   "variantsandventures-neoforge-mc1.21.1-1.0.13.jar": {
     "modId": "variantsandventures",
     "version": "1.0.13"
+  },
+  "villagernames-1.21.1-8.2.jar": {
+    "modId": "villagernames",
+    "version": "8.2"
   },
   "villagesandpillages-neoforge-mc1.21.1-1.0.3.jar": {
     "modId": "villagesandpillages",

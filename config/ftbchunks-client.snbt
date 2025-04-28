@@ -133,47 +133,47 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:pig": true
-			"minecraft:drowned": true
 			"creeperoverhaul:snowy_creeper": true
+			"minecraft:pig": true
+			"minecraft:dolphin": true
+			"minecraft:ravager": true
+			"takesapillage:archer": true
+			"minecraft:rabbit": true
+			"cataclysm:deepling_brute": true
+			"minecraft:creeper": true
+			"minecraft:glow_squid": true
+			"minecraft:turtle": true
+			"minecraft:zombie": true
+			"minecraft:cod": false
+			"minecraft:pillager": true
+			"variantsandventures:gelid": true
+			"minecraft:tropical_fish": false
+			"creeperoverhaul:ocean_creeper": true
+			"minecraft:fox": true
+			"minecraft:skeleton": true
+			"minecraft:enderman": true
+			"minecraft:bat": true
+			"minecraft:sheep": true
+			"artifacts:mimic": true
+			"minecraft:villager": true
+			"creeperoverhaul:cave_creeper": true
+			"minecraft:chicken": true
+			"minecraft:salmon": false
+			"minecraft:pufferfish": false
+			"minecraft:stray": true
 			"takesapillage:skirmisher": true
 			"irons_spellbooks:necromancer": true
-			"minecraft:bat": true
-			"minecraft:guardian": true
-			"artifacts:mimic": true
-			"minecraft:stray": true
-			"minecraft:vindicator": true
-			"minecraft:evoker": true
-			"minecraft:villager": true
-			"minecraft:fox": true
-			"minecraft:witch": true
-			"creeperoverhaul:cave_creeper": true
-			"cataclysm:deepling_brute": true
 			"minecraft:iron_golem": true
-			"minecraft:enderman": true
-			"minecraft:creeper": true
-			"minecraft:dolphin": true
-			"minecraft:tropical_fish": false
-			"minecraft:salmon": false
-			"minecraft:ravager": true
-			"minecraft:pufferfish": false
-			"minecraft:glow_squid": true
-			"variantsandventures:murk": true
-			"minecraft:skeleton": true
-			"waddles:adelie_penguin": true
-			"minecraft:zombie": true
-			"minecraft:pillager": true
-			"minecraft:rabbit": true
-			"creeperoverhaul:ocean_creeper": true
-			"minecraft:spider": true
-			"minecraft:turtle": true
-			"minecraft:chicken": true
-			"friendsandfoes:rascal": true
-			"minecraft:cod": false
-			"takesapillage:archer": true
-			"variantsandventures:gelid": true
+			"minecraft:vindicator": true
+			"minecraft:witch": true
 			"minecraft:squid": true
-			"minecraft:sheep": true
+			"minecraft:evoker": true
+			"variantsandventures:murk": true
+			"waddles:adelie_penguin": true
+			"minecraft:spider": true
+			"friendsandfoes:rascal": true
+			"minecraft:guardian": true
+			"minecraft:drowned": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
