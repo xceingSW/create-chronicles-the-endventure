@@ -147,10 +147,6 @@
     "modId": "blueprint",
     "version": "8.0.3"
   },
-  "boatiview-neoforge-0.0.6-1.21.1.jar": {
-    "modId": "boatiview",
-    "version": "0.0.6"
-  },
   "BOMD-NeoForge-1.21-1.3.2.jar": {
     "modId": "bosses_of_mass_destruction",
     "version": "1.3.2"
@@ -210,14 +206,6 @@
   "clean_tooltips-1.1-neoforge-1.21.1.jar": {
     "modId": "clean_tooltips",
     "version": "1.1"
-  },
-  "clickadv-1.21-3.8.jar": {
-    "modId": "clickadv",
-    "version": "3.8"
-  },
-  "clientcrafting-1.21-1.8.jar": {
-    "modId": "clientcrafting",
-    "version": "1.8"
   },
   "cloth-config-15.0.140-neoforge.jar": {
     "modId": "cloth_config",
@@ -314,9 +302,6 @@
   "create_winery-1.6.0-neoforge-1.21.1.jar": {
     "modId": "create_winery",
     "version": "1.6.0"
-  },
-  "createaddition-1.4.2.jar": {
-    "modId": "createaddition"
   },
   "createchromaticreturn-1.0.1-neoforge-1.21.1.jar": {
     "modId": "createchromaticreturn",
@@ -501,10 +486,6 @@
     "modId": "fzzy_config",
     "version": "0.6.9+1.21+neoforge"
   },
-  "gallery-1.21.1-2.0.0.jar": {
-    "modId": "gallery",
-    "version": "2.0.0"
-  },
   "gamediscs-0.3.2-neoforge.jar": {
     "modId": "gamediscs",
     "version": "0.3.2-neoforge"
@@ -516,10 +497,6 @@
   "geckolib-neoforge-1.21.1-4.7.5.1.jar": {
     "modId": "geckolib",
     "version": "4.7.5.1"
-  },
-  "Geophilic v3.4.1 f15-71.mod.jar": {
-    "modId": "geophilic",
-    "version": "3.4.1"
   },
   "golemoverhaul-neoforge-1.21.1-1.0.0.jar": {
     "modId": "golemoverhaul",
@@ -682,6 +659,10 @@
     "modId": "mes",
     "version": "1.3.5-1.21"
   },
+  "mixintracereforged-neoforge-1.0.0-1.21.1.jar": {
+    "modId": "mixintracereforged",
+    "version": "1.0.0"
+  },
   "mns-1.0.8-1.21.jar": {
     "modId": "mns",
     "version": "1.0.8-1.21"
@@ -753,10 +734,6 @@
   "OctoLib-NEOFORGE-0.5.0.1.jar": {
     "modId": "octolib",
     "version": "0.5.0.1"
-  },
-  "Oh-The-Biomes-Weve-Gone-NeoForge-2.3.13.jar": {
-    "modId": "biomeswevegone",
-    "version": "2.3.13"
   },
   "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.10.jar": {
     "modId": "ohthetreesyoullgrow",
@@ -1029,6 +1006,10 @@
   "waystones-neoforge-1.21.1-21.1.17.jar": {
     "modId": "waystones",
     "version": "21.1.17"
+  },
+  "weavers_cosmetics_cosplay-v1.0.jar": {
+    "modId": "weavers_cosmetics_cosplay",
+    "version": "1.0.0"
   },
   "wits-1.3.0+1.21-neoforge.jar": {
     "modId": "wits",
