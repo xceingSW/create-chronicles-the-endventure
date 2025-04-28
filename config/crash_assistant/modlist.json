@@ -143,6 +143,10 @@
     "modId": "bhmenu",
     "version": "2.4.3"
   },
+  "boatiview-neoforge-0.0.6-1.21.1.jar": {
+    "modId": "boatiview",
+    "version": "0.0.6"
+  },
   "BOMD-NeoForge-1.21-1.3.2.jar": {
     "modId": "bosses_of_mass_destruction",
     "version": "1.3.2"
@@ -187,10 +191,6 @@
     "modId": "chisel_chipped_integration",
     "version": "1.3.6-1.21.1"
   },
-  "choccos_mobs-0.1.3-neoforge-1.21.1.jar": {
-    "modId": "choccos_mobs",
-    "version": "0.1.3"
-  },
   "chunksending-1.21-2.8.jar": {
     "modId": "chunksending",
     "version": "2.8"
@@ -198,6 +198,14 @@
   "clean_tooltips-1.1-neoforge-1.21.1.jar": {
     "modId": "clean_tooltips",
     "version": "1.1"
+  },
+  "clickadv-1.21-3.8.jar": {
+    "modId": "clickadv",
+    "version": "3.8"
+  },
+  "clientcrafting-1.21-1.8.jar": {
+    "modId": "clientcrafting",
+    "version": "1.8"
   },
   "cloth-config-15.0.140-neoforge.jar": {
     "modId": "cloth_config",
@@ -251,9 +259,9 @@
     "modId": "craftingtweaks",
     "version": "21.1.5"
   },
-  "crash_assistant-neoforge-1.21.1-1.7.14.jar": {
+  "crash_assistant-neoforge-1.21.1-1.7.16.jar": {
     "modId": "crash_assistant",
-    "version": "1.7.14"
+    "version": "1.7.16"
   },
   "create-1.21.1-6.0.4.jar": {
     "modId": "create",
@@ -275,10 +283,6 @@
     "modId": "create_sa",
     "version": "2.1.0."
   },
-  "Create_Desires-2-Dreams-1.21.1-2.0.0.jar": {
-    "modId": "create_d2d",
-    "version": "2.0.0"
-  },
   "create_mechanical_extruder-1.21.1-2.0.5-6.0.4.jar": {
     "modId": "create_mechanical_extruder",
     "version": "1.21.1-2.0.5-6.0.4"
@@ -291,9 +295,8 @@
     "modId": "create_things_and_misc",
     "version": "1.0.0"
   },
-  "create_winery-1.6.0-neoforge-1.21.1.jar": {
-    "modId": "create_winery",
-    "version": "1.6.0"
+  "createaddition-1.4.2.jar": {
+    "modId": "createaddition"
   },
   "createchromaticreturn-1.0.1-neoforge-1.21.1.jar": {
     "modId": "createchromaticreturn",
@@ -338,10 +341,6 @@
     "modId": "deeperdarker",
     "version": "1.3.5"
   },
-  "Ding-1.21-NeoForge-1.5.0.jar": {
-    "modId": "ding",
-    "version": "1.5.0"
-  },
   "DnT-end-castle-standalone-v1.1 [NeoForge].jar": {
     "modId": "mr_dungeons_andtavernsendcastlestandalone",
     "version": "1-v1.1"
@@ -365,10 +364,6 @@
   "DungeonsAriseSevenSeas-1.21.x-1.0.3.2-neoforge.jar": {
     "modId": "dungeons_arise_seven_seas",
     "version": "1.0.3.2"
-  },
-  "effortlessbuilding-1.21.1-3.10-all.jar": {
-    "modId": "effortlessbuilding",
-    "version": "3.10"
   },
   "enchantmentlevelcapindicator-1.21.1-1.1.jar": {
     "modId": "enchantmentlevelcapindicator",
@@ -486,6 +481,10 @@
     "modId": "geckolib",
     "version": "4.7.5.1"
   },
+  "Geophilic v3.4.1 f15-71.mod.jar": {
+    "modId": "geophilic",
+    "version": "3.4.1"
+  },
   "golemoverhaul-neoforge-1.21.1-1.0.0.jar": {
     "modId": "golemoverhaul",
     "version": "1.0.0"
@@ -517,10 +516,6 @@
   "Iceberg-1.21.1-neoforge-1.3.2.jar": {
     "modId": "iceberg",
     "version": "1.3.2"
-  },
-  "iChunUtil-1.21-NeoForge-1.0.3.jar": {
-    "modId": "ichunutil",
-    "version": "1.0.3"
   },
   "illagersweararmor-1.21-2.3.1.jar": {
     "modId": "illagersweararmor",
@@ -627,6 +622,10 @@
     "modId": "mr_lukis_grandcapitals",
     "version": "1.1.1"
   },
+  "magic_coins-1.0.6.jar": {
+    "modId": "magic_coins",
+    "version": "1.0.6"
+  },
   "maptooltip-neoforge-1.21-4.0.1.jar": {
     "modId": "maptooltip",
     "version": "4.0.1"
@@ -718,6 +717,10 @@
   "OctoLib-NEOFORGE-0.5.0.1.jar": {
     "modId": "octolib",
     "version": "0.5.0.1"
+  },
+  "Oh-The-Biomes-Weve-Gone-NeoForge-2.3.13.jar": {
+    "modId": "biomeswevegone",
+    "version": "2.3.13"
   },
   "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.10.jar": {
     "modId": "ohthetreesyoullgrow",
