@@ -155,9 +155,17 @@
     "modId": "bookshelf",
     "version": "21.1.59"
   },
+  "BridgingMod-2.6.2+1.21.1.neoforge-release.jar": {
+    "modId": "bridgingmod",
+    "version": "2.6.2+1.21.1"
+  },
   "buildinggadgets2-1.3.8.jar": {
     "modId": "buildinggadgets2",
     "version": "1.3.8"
+  },
+  "cable_facades-1.21.1-NeoForge-1.5.1.jar": {
+    "modId": "cable_facades",
+    "version": "1.5.1"
   },
   "CerbonsAPI-NeoForge-1.21-1.2.0.jar": {
     "modId": "cerbons_api",
@@ -321,6 +329,10 @@
   "cristellib-neoforge-1.2.8.jar": {
     "modId": "cristellib",
     "version": "1.2.8"
+  },
+  "crystal_chronicles-0.0.7-alpha.jar": {
+    "modId": "crystal_chronicles",
+    "version": "0.0.7-alpha"
   },
   "cupboard-1.21-2.9.jar": {
     "modId": "cupboard",
@@ -973,6 +985,10 @@
   "VisualWorkbench-v21.1.0-1.21.1-NeoForge.jar": {
     "modId": "visualworkbench",
     "version": "21.1.0"
+  },
+  "Waddles-neoforge-1.21-0.11.1.jar": {
+    "modId": "waddles",
+    "version": "0.11.1"
   },
   "watut-neoforge-1.21.0-1.2.7.jar": {
     "modId": "watut",
