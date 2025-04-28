@@ -143,10 +143,6 @@
     "modId": "bhmenu",
     "version": "2.4.3"
   },
-  "blueprint-1.21.1-8.0.3.jar": {
-    "modId": "blueprint",
-    "version": "8.0.3"
-  },
   "BOMD-NeoForge-1.21-1.3.2.jar": {
     "modId": "bosses_of_mass_destruction",
     "version": "1.3.2"
@@ -194,10 +190,6 @@
   "choccos_mobs-0.1.3-neoforge-1.21.1.jar": {
     "modId": "choccos_mobs",
     "version": "0.1.3"
-  },
-  "chunkactivitytracker-neoforge-1.0.1-1.21.1.jar": {
-    "modId": "chunkactivitytracker",
-    "version": "1.0.1"
   },
   "chunksending-1.21-2.8.jar": {
     "modId": "chunksending",
@@ -357,10 +349,6 @@
   "DnT-ocean-monument-replacement-v1.2 [NeoForge].jar": {
     "modId": "mr_dungeons_andtavernsoceanmonumentreplacement",
     "version": "1-v1.2"
-  },
-  "does_it_tick-neoforge-1.1.4-1.21.1.jar": {
-    "modId": "does_it_tick",
-    "version": "1.1.4"
   },
   "doubledoors-1.21.1-7.0.jar": {
     "modId": "doubledoors",
@@ -545,10 +533,6 @@
   "immersive_aircraft-1.2.2+1.21.1-neoforge.jar": {
     "modId": "immersive_aircraft",
     "version": "1.2.2+1.21.1"
-  },
-  "immersivearmorhud-neoforge-1.0.1-1.21.1.jar": {
-    "modId": "immersivearmorhud",
-    "version": "1.0.1"
   },
   "ImmersiveUI-NEOFORGE-0.3.0.jar": {
     "modId": "immersiveui",
@@ -803,10 +787,6 @@
     "modId": "reddensstonelantern",
     "version": "1.0.4"
   },
-  "redirected-neoforge-1.0.0-1.21.1.jar": {
-    "modId": "redirected",
-    "version": "1.0.0"
-  },
   "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar": {
     "modId": "reeses_sodium_options",
     "version": "1.8.3+mc1.21.4"
@@ -895,10 +875,6 @@
     "modId": "sodiumoptionsapi",
     "version": "1.0.10"
   },
-  "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar": {
-    "modId": "sodiumoptionsmodcompat",
-    "version": "1.0.0"
-  },
   "solcarrot-1.21.1-1.16.5.jar": {
     "modId": "solcarrot",
     "version": "1.16.5"
@@ -983,10 +959,6 @@
     "modId": "treasuredistance",
     "version": "1.0"
   },
-  "txnilib-neoforge-1.0.23-1.21.1.jar": {
-    "modId": "txnilib",
-    "version": "1.0.23"
-  },
   "variantsandventures-neoforge-mc1.21.1-1.0.13.jar": {
     "modId": "variantsandventures",
     "version": "1.0.13"
@@ -1006,10 +978,6 @@
   "waystones-neoforge-1.21.1-21.1.17.jar": {
     "modId": "waystones",
     "version": "21.1.17"
-  },
-  "weavers_cosmetics_cosplay-v1.0.jar": {
-    "modId": "weavers_cosmetics_cosplay",
-    "version": "1.0.0"
   },
   "wits-1.3.0+1.21-neoforge.jar": {
     "modId": "wits",
