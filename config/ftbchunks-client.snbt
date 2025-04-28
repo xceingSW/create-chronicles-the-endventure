@@ -133,50 +133,50 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"irons_spellbooks:necromancer": true
-			"minecraft:magma_cube": true
-			"minecraft:zombie": true
-			"minecraft:zoglin": true
-			"minecraft:squid": true
-			"minecraft:strider": true
-			"minecraft:drowned": true
-			"minecraft:glow_squid": true
-			"minecraft:enderman": true
-			"irons_spellbooks:cursed_armor_stand": true
 			"minecraft:bat": true
+			"minecraft:spider": true
+			"minecraft:squid": true
+			"deeperdarker:stalker": true
+			"minecraft:tropical_fish": false
+			"minecraft:piglin_brute": true
+			"minecraft:enderman": true
+			"irons_spellbooks:necromancer": true
+			"minecraft:skeleton": true
 			"minecraft:witch": true
-			"variantsandventures:murk": true
-			"deeperdarker:sculk_centipede": true
-			"minecraft:sheep": true
-			"eternal_starlight:ratlin": true
-			"minecraft:salmon": false
 			"minecraft:phantom": true
+			"minecraft:glow_squid": true
+			"minecraft:zombie": true
+			"biomeswevegone:man_o_war": true
+			"minecraft:sheep": true
+			"minecraft:salmon": false
+			"eternal_starlight:lonestar_skeleton": true
+			"irons_spellbooks:cursed_armor_stand": true
+			"deeperdarker:sculk_centipede": true
+			"deeperdarker:shattered": true
+			"eternal_starlight:nightfall_spider": true
+			"artifacts:mimic": true
+			"minecraft:wither_skeleton": true
+			"deeperdarker:sludge": true
+			"minecraft:zombified_piglin": true
+			"variantsandventures:murk": true
+			"minecraft:dolphin": true
+			"minecraft:creeper": true
+			"minecraft:ghast": true
+			"minecraft:zoglin": true
+			"minecraft:blaze": true
+			"deeperdarker:sculk_snapper": true
+			"eternal_starlight:ratlin": true
+			"minecraft:piglin": true
 			"deeperdarker:angler_fish": true
+			"minecraft:zombie_villager": true
+			"minecraft:strider": true
+			"minecraft:magma_cube": true
 			"minecraft:chicken": true
 			"minecraft:pig": true
-			"minecraft:creeper": true
-			"minecraft:piglin": true
-			"minecraft:zombie_villager": true
-			"artifacts:mimic": true
-			"minecraft:piglin_brute": true
-			"minecraft:spider": true
-			"eternal_starlight:lonestar_skeleton": true
+			"minecraft:drowned": true
 			"eternal_starlight:tower_squid": true
-			"deeperdarker:stalker": true
-			"deeperdarker:shattered": true
-			"minecraft:blaze": true
-			"eternal_starlight:nightfall_spider": true
-			"minecraft:tropical_fish": false
-			"deeperdarker:sludge": true
-			"minecraft:skeleton": true
-			"deeperdarker:sculk_snapper": true
-			"minecraft:zombified_piglin": true
-			"minecraft:dolphin": true
-			"minecraft:ghast": true
 			"eternal_starlight:ent": true
-			"biomeswevegone:man_o_war": true
 			"eternal_starlight:shadow_snail": true
-			"minecraft:wither_skeleton": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

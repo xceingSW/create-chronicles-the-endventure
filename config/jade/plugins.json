@@ -66,6 +66,11 @@
     "entity": true,
     "entity_variant": true
   },
+  "shetiphiancore": {
+    "hud.rgb16": true,
+    "hud": true,
+    "hud.redstone": true
+  },
   "supplementaries": {
     "hat_stand": true
   },
@@ -86,13 +91,13 @@
   "waystones": {
     "waystone": true
   },
-  "astages": {
-    "block_component_provider": true
-  },
   "balm": {
     "jade": true
   },
   "apothic_enchanting": {
     "ench": true
+  },
+  "multibeds": {
+    "hud": true
   }
 }

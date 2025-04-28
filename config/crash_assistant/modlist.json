@@ -139,9 +139,17 @@
     "modId": "betterthirdperson",
     "version": "1.9.0"
   },
+  "BHMenu-NeoForge-1.21-2.4.3.jar": {
+    "modId": "bhmenu",
+    "version": "2.4.3"
+  },
   "blueprint-1.21.1-8.0.3.jar": {
     "modId": "blueprint",
     "version": "8.0.3"
+  },
+  "boatiview-neoforge-0.0.6-1.21.1.jar": {
+    "modId": "boatiview",
+    "version": "0.0.6"
   },
   "BOMD-NeoForge-1.21-1.3.2.jar": {
     "modId": "bosses_of_mass_destruction",
@@ -175,9 +183,21 @@
     "modId": "cherishedworlds",
     "version": "10.1.1+1.21.1"
   },
+  "Chimes-v2.0.3-1.21.1-NeoForge.jar": {
+    "modId": "chimes",
+    "version": "2.0.3"
+  },
   "chipped-neoforge-1.21.1-4.0.2.jar": {
     "modId": "chipped",
     "version": "4.0.2"
+  },
+  "chisel_chipped_integration-v1.3.7-1.21.1.jar": {
+    "modId": "chisel_chipped_integration",
+    "version": "1.3.6-1.21.1"
+  },
+  "choccos_mobs-0.1.3-neoforge-1.21.1.jar": {
+    "modId": "choccos_mobs",
+    "version": "0.1.3"
   },
   "chunkactivitytracker-neoforge-1.0.1-1.21.1.jar": {
     "modId": "chunkactivitytracker",
@@ -453,6 +473,10 @@
     "modId": "framework",
     "version": "0.9.4"
   },
+  "friendsandfoes-neoforge-4.0.1+mc1.21.1.jar": {
+    "modId": "friendsandfoes",
+    "version": "4.0.1"
+  },
   "ftb-chunks-neoforge-2101.1.8.jar": {
     "modId": "ftbchunks",
     "version": "2101.1.8"
@@ -505,6 +529,10 @@
     "modId": "gpumemleakfix",
     "version": "1.8"
   },
+  "handcrafted-neoforge-1.21.1-4.0.3.jar": {
+    "modId": "handcrafted",
+    "version": "4.0.3"
+  },
   "Highlighter-1.21-neoforge-1.1.11.jar": {
     "modId": "highlighter",
     "version": "1.1.11"
@@ -549,9 +577,13 @@
     "modId": "immersiveui",
     "version": "0.3.0"
   },
-  "inventorysorter-1.21-24.0.20.jar": {
-    "modId": "inventorysorter",
-    "version": "24.0.20"
+  "inventoryessentials-neoforge-1.21.1-21.1.2.jar": {
+    "modId": "inventoryessentials",
+    "version": "21.1.2"
+  },
+  "invtweaks-1.21.1-1.3.2.jar": {
+    "modId": "invtweaks",
+    "version": "1.21.1-1.3.2"
   },
   "iris-neoforge-1.8.8+mc1.21.1.jar": {
     "modId": "iris",
@@ -634,6 +666,14 @@
     "modId": "mr_lukis_grandcapitals",
     "version": "1.1.1"
   },
+  "maptooltip-neoforge-1.21-4.0.1.jar": {
+    "modId": "maptooltip",
+    "version": "4.0.1"
+  },
+  "Measurements-neoforge-1.21.1-3.0.1.jar": {
+    "modId": "measurements",
+    "version": "3.0.1"
+  },
   "memorysettings-1.21-5.9.jar": {
     "modId": "memorysettings",
     "version": "5.9"
@@ -669,6 +709,10 @@
   "MouseTweaks-neoforge-mc1.21-2.26.1.jar": {
     "modId": "mousetweaks",
     "version": "2.26.1"
+  },
+  "multibeds-neoforge-1.21.1-0.1.jar": {
+    "modId": "multibeds",
+    "version": "1.21.1-0.1"
   },
   "mvs-4.3.0-1.21.jar": {
     "modId": "mvs",
@@ -778,6 +822,10 @@
     "modId": "questkilltask",
     "version": "0.3.0+1.21.1"
   },
+  "reddensstonelantern-1.0.4-neoforge-1.21.1.jar": {
+    "modId": "reddensstonelantern",
+    "version": "1.0.4"
+  },
   "redirected-neoforge-1.0.0-1.21.1.jar": {
     "modId": "redirected",
     "version": "1.0.0"
@@ -822,9 +870,9 @@
     "modId": "searchables",
     "version": "1.0.2"
   },
-  "showcaseitem-1.21.1-1.1.0.jar": {
-    "modId": "showcaseitem",
-    "version": "1.21.1-1.1.0"
+  "shetiphiancore-neoforge-1.21.1-0.3.jar": {
+    "modId": "shetiphiancore",
+    "version": "1.21.1-0.3"
   },
   "SimpleDiscordRichPresence-neoforge-87.0.1-build.49+mc1.21.jar": {
     "modId": "sdrp",
@@ -909,6 +957,10 @@
   "spark-1.10.124-neoforge.jar": {
     "modId": "spark",
     "version": "1.10.124"
+  },
+  "spyglass_improvements-1.5.7+mc1.21+neoforge.jar": {
+    "modId": "spyglass_improvements",
+    "version": "1.5.7"
   },
   "starterkit-1.21.1-7.4.jar": {
     "modId": "starterkit",
