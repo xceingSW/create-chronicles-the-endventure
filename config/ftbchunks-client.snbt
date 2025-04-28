@@ -133,47 +133,47 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:dolphin": true
-			"creeperoverhaul:ocean_creeper": true
+			"minecraft:pig": true
+			"minecraft:drowned": true
+			"creeperoverhaul:snowy_creeper": true
+			"takesapillage:skirmisher": true
 			"irons_spellbooks:necromancer": true
-			"cataclysm:deepling_brute": true
-			"minecraft:squid": true
-			"minecraft:sheep": true
+			"minecraft:bat": true
+			"minecraft:guardian": true
+			"artifacts:mimic": true
+			"minecraft:stray": true
+			"minecraft:vindicator": true
 			"minecraft:evoker": true
+			"minecraft:villager": true
+			"minecraft:fox": true
+			"minecraft:witch": true
+			"creeperoverhaul:cave_creeper": true
+			"cataclysm:deepling_brute": true
+			"minecraft:iron_golem": true
+			"minecraft:enderman": true
+			"minecraft:creeper": true
+			"minecraft:dolphin": true
+			"minecraft:tropical_fish": false
+			"minecraft:salmon": false
+			"minecraft:ravager": true
+			"minecraft:pufferfish": false
 			"minecraft:glow_squid": true
 			"variantsandventures:murk": true
-			"friendsandfoes:rascal": true
-			"minecraft:pufferfish": false
-			"takesapillage:skirmisher": true
-			"minecraft:fox": true
-			"minecraft:creeper": true
-			"minecraft:guardian": true
 			"minecraft:skeleton": true
-			"creeperoverhaul:cave_creeper": true
-			"creeperoverhaul:snowy_creeper": true
-			"minecraft:pillager": true
 			"waddles:adelie_penguin": true
-			"minecraft:pig": true
-			"minecraft:stray": true
+			"minecraft:zombie": true
+			"minecraft:pillager": true
+			"minecraft:rabbit": true
+			"creeperoverhaul:ocean_creeper": true
 			"minecraft:spider": true
 			"minecraft:turtle": true
-			"minecraft:iron_golem": true
-			"variantsandventures:gelid": true
-			"minecraft:salmon": false
-			"minecraft:tropical_fish": false
 			"minecraft:chicken": true
-			"minecraft:ravager": true
-			"takesapillage:archer": true
-			"minecraft:vindicator": true
-			"minecraft:zombie": true
-			"minecraft:enderman": true
-			"minecraft:drowned": true
-			"artifacts:mimic": true
-			"minecraft:bat": true
-			"minecraft:rabbit": true
+			"friendsandfoes:rascal": true
 			"minecraft:cod": false
-			"minecraft:villager": true
-			"minecraft:witch": true
+			"takesapillage:archer": true
+			"variantsandventures:gelid": true
+			"minecraft:squid": true
+			"minecraft:sheep": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
