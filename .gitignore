@@ -32,7 +32,6 @@ config/jei
 /profileImage/
 /patchouli_books
 /loot_tables
-options.txt
 servers.*
 user-prefs.json
 /data/

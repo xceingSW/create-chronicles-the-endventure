@@ -1,0 +1,12 @@
+guiScale:3
+maxFps:120
+fullscreen:false
+mipmapLevels:4
+autoJump:false
+tutorialStep:none
+narrator:0
+menuBackgroundBlurriness:5
+lang:en_us
+renderDistance:10
+simulationDistance:10
+key_key.oracle_index.open:key.keyboard.h

@@ -39,4 +39,11 @@ StartupEvents.registry('item', event => {
       '§cOnly those insane enough dare claim this prize.',
       '§ebUsable in §lCategory 3§r§b contracts.'
     ])
+
+    event.create('heart_container')
+    .displayName("§eHeart Container")
+    .rarity("EPIC")
+    .tooltip([
+      '§7Permanently increases your maximum health by §c+1 Heart§7.',
+    ])
 })
