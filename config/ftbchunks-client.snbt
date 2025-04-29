@@ -133,53 +133,56 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"waddles:adelie_penguin": true
 			"minecraft:endermite": true
 			"minecraft:cow": true
-			"takesapillage:skirmisher": true
 			"creeperoverhaul:ocean_creeper": true
 			"minecraft:bat": true
 			"minecraft:drowned": true
-			"takesapillage:archer": true
 			"cataclysm:deepling_brute": true
-			"minecraft:pufferfish": false
 			"alshanex_familiars:archmage_pet": true
 			"minecraft:shulker": true
-			"golemoverhaul:coal_golem": true
 			"minecraft:villager": true
+			"golemoverhaul:slime_golem": true
 			"minecraft:rabbit": true
-			"minecraft:salmon": false
 			"friendsandfoes:rascal": true
-			"minecraft:chicken": true
-			"minecraft:iron_golem": true
 			"minecraft:enderman": true
 			"minecraft:sheep": true
-			"minecraft:tropical_fish": false
 			"minecraft:turtle": true
-			"irons_spellbooks:necromancer": true
 			"minecraft:cod": false
 			"variantsandventures:gelid": true
-			"minecraft:glow_squid": true
 			"minecraft:zombie": true
 			"minecraft:creeper": true
-			"creeperoverhaul:cave_creeper": true
 			"minecraft:skeleton": true
 			"minecraft:guardian": true
 			"artifacts:mimic": true
-			"minecraft:zombie_villager": true
 			"minecraft:evoker": true
-			"minecraft:pillager": true
 			"minecraft:squid": true
-			"minecraft:fox": true
 			"minecraft:pig": true
 			"minecraft:dolphin": true
+			"minecraft:stray": true
+			"minecraft:vindicator": true
+			"waddles:adelie_penguin": true
+			"takesapillage:skirmisher": true
+			"takesapillage:archer": true
+			"minecraft:pufferfish": false
+			"golemoverhaul:coal_golem": true
+			"minecraft:donkey": true
+			"minecraft:salmon": false
+			"minecraft:chicken": true
+			"minecraft:iron_golem": true
+			"minecraft:tropical_fish": false
+			"irons_spellbooks:necromancer": true
+			"minecraft:glow_squid": true
+			"creeperoverhaul:cave_creeper": true
+			"minecraft:zombie_villager": true
+			"minecraft:slime": true
+			"minecraft:pillager": true
+			"minecraft:fox": true
 			"creeperoverhaul:snowy_creeper": true
 			"minecraft:ravager": true
 			"minecraft:witch": true
-			"minecraft:stray": true
 			"minecraft:spider": true
 			"variantsandventures:murk": true
-			"minecraft:vindicator": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
