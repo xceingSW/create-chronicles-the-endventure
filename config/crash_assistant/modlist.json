@@ -99,9 +99,9 @@
     "modId": "azurelib",
     "version": "3.0.13"
   },
-  "BadOptimizations-2.2.1-1.21.1.jar": {
+  "BadOptimizations-2.2.2-1.21.1.jar": {
     "modId": "badoptimizations",
-    "version": "2.2.1"
+    "version": "2.2.2"
   },
   "balm-neoforge-1.21.1-21.0.41.jar": {
     "modId": "balm",
@@ -267,17 +267,17 @@
     "modId": "create",
     "version": "6.0.4"
   },
-  "create-dragons-plus-1.3.5.jar": {
+  "create-dragons-plus-1.4.2.jar": {
     "modId": "create_dragons_plus",
-    "version": "1.3.5"
+    "version": "1.4.2"
   },
-  "create-enchantment-industry-2.0.12.jar": {
+  "create-enchantment-industry-2.0.13.jar": {
     "modId": "create_enchantment_industry",
-    "version": "2.0.12"
+    "version": "2.0.13"
   },
-  "create-integrated-farming-1.0.1.jar": {
+  "create-integrated-farming-1.0.3.jar": {
     "modId": "create_integrated_farming",
-    "version": "1.0.1"
+    "version": "1.0.3"
   },
   "create-stuff-additions1.21.1_v2.1.0e.jar": {
     "modId": "create_sa",
@@ -501,9 +501,9 @@
     "modId": "gamediscs",
     "version": "0.3.2-neoforge"
   },
-  "garnished-2.1.2+1.21.1-neoforged.jar": {
+  "garnished-2.1.3+1.21.1-neoforged.jar": {
     "modId": "garnished",
-    "version": "2.1.2"
+    "version": "2.1.3"
   },
   "geckolib-neoforge-1.21.1-4.7.5.1.jar": {
     "modId": "geckolib",
