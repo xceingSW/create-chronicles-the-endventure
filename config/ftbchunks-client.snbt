@@ -134,46 +134,49 @@
 		entity_heads: true
 		entity_icon: {
 			"creeperoverhaul:snowy_creeper": true
-			"minecraft:pig": true
-			"minecraft:dolphin": true
-			"minecraft:ravager": true
-			"takesapillage:archer": true
-			"minecraft:rabbit": true
-			"cataclysm:deepling_brute": true
-			"minecraft:creeper": true
+			"irons_spellbooks:necromancer": true
 			"minecraft:glow_squid": true
-			"minecraft:turtle": true
-			"minecraft:zombie": true
-			"minecraft:cod": false
-			"minecraft:pillager": true
-			"variantsandventures:gelid": true
-			"minecraft:tropical_fish": false
-			"creeperoverhaul:ocean_creeper": true
 			"minecraft:fox": true
+			"minecraft:creeper": true
+			"minecraft:salmon": false
+			"minecraft:witch": true
+			"minecraft:pig": true
+			"cataclysm:deepling_brute": true
+			"waddles:adelie_penguin": true
+			"minecraft:dolphin": true
+			"takesapillage:skirmisher": true
+			"minecraft:pufferfish": false
+			"minecraft:iron_golem": true
+			"minecraft:turtle": true
+			"minecraft:rabbit": true
+			"minecraft:cod": false
+			"minecraft:stray": true
+			"minecraft:ravager": true
+			"minecraft:evoker": true
 			"minecraft:skeleton": true
 			"minecraft:enderman": true
-			"minecraft:bat": true
 			"minecraft:sheep": true
-			"artifacts:mimic": true
-			"minecraft:villager": true
-			"creeperoverhaul:cave_creeper": true
-			"minecraft:chicken": true
-			"minecraft:salmon": false
-			"minecraft:pufferfish": false
-			"minecraft:stray": true
-			"takesapillage:skirmisher": true
-			"irons_spellbooks:necromancer": true
-			"minecraft:iron_golem": true
 			"minecraft:vindicator": true
-			"minecraft:witch": true
-			"minecraft:squid": true
-			"minecraft:evoker": true
-			"variantsandventures:murk": true
-			"waddles:adelie_penguin": true
-			"minecraft:spider": true
 			"friendsandfoes:rascal": true
+			"minecraft:pillager": true
+			"minecraft:endermite": true
 			"minecraft:guardian": true
+			"artifacts:mimic": true
+			"minecraft:zombie": true
+			"minecraft:shulker": true
+			"takesapillage:archer": true
+			"variantsandventures:murk": true
+			"variantsandventures:gelid": true
+			"minecraft:villager": true
 			"minecraft:drowned": true
+			"alshanex_familiars:archmage_pet": true
+			"minecraft:bat": true
+			"minecraft:chicken": true
+			"creeperoverhaul:cave_creeper": true
+			"minecraft:spider": true
+			"creeperoverhaul:ocean_creeper": true
+			"minecraft:squid": true
+			"minecraft:tropical_fish": false
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

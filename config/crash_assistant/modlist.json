@@ -115,10 +115,6 @@
     "modId": "bettertags",
     "version": "1.5"
   },
-  "better_tooltips-1.0.3.jar": {
-    "modId": "better_tooltips",
-    "version": "1.0.3"
-  },
   "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar": {
     "modId": "betteradvancements",
     "version": "0.4.3.21"
@@ -202,10 +198,6 @@
   "chunksending-1.21-2.8.jar": {
     "modId": "chunksending",
     "version": "2.8"
-  },
-  "clean_tooltips-1.1-neoforge-1.21.1.jar": {
-    "modId": "clean_tooltips",
-    "version": "1.1"
   },
   "clickadv-1.21-3.8.jar": {
     "modId": "clickadv",
@@ -306,10 +298,6 @@
   "createaddition-1.4.2.jar": {
     "modId": "createaddition"
   },
-  "createchromaticreturn-1.0.1-neoforge-1.21.1.jar": {
-    "modId": "createchromaticreturn",
-    "version": "1.0.0"
-  },
   "createcompounds-1.21.1-NeoForge-1.0.0.jar": {
     "modId": "createcompounds",
     "version": "1.0.0"
@@ -381,6 +369,22 @@
     "modId": "dungeons_arise_seven_seas",
     "version": "1.0.3.2"
   },
+  "emi-1.1.22+1.21.1+neoforge.jar": {
+    "modId": "emi",
+    "version": "1.1.22+1.21.1+neoforge"
+  },
+  "emi_enchanting-0.1.2+1.21+neoforge.jar": {
+    "modId": "emi_enchanting",
+    "version": "0.1.2+1.21+neoforge"
+  },
+  "emi_loot-0.7.6+1.21+neoforge.jar": {
+    "modId": "emi_loot",
+    "version": "0.7.6+1.21+neoforge"
+  },
+  "EMIProfessions-neoforge-1.21.1-1.0.3.jar": {
+    "modId": "emiprofessions",
+    "version": "1.0.3"
+  },
   "enchantmentlevelcapindicator-1.21.1-1.1.jar": {
     "modId": "enchantmentlevelcapindicator",
     "version": "1.1"
@@ -408,6 +412,10 @@
   "exposure-neoforge-1.21.1-1.9.2.jar": {
     "modId": "exposure",
     "version": "1.9.2"
+  },
+  "extra-mod-integrations-all-neoforge-1.0.2+1.21.1.jar": {
+    "modId": "extra_mod_integrations",
+    "version": "1.0.2+1.21.1"
   },
   "fancymenu_neoforge_3.5.0_MC_1.21.1.jar": {
     "modId": "fancymenu",
@@ -577,21 +585,9 @@
     "modId": "jearchaeology",
     "version": "1.21.1-1.1.6"
   },
-  "jei-1.21.1-neoforge-19.21.0.247.jar": {
-    "modId": "jei",
-    "version": "19.21.0.247"
-  },
   "jinxedlib-neoforge-1.21.1-1.0.3.jar": {
     "modId": "jinxedlib",
     "version": "1.0.3"
-  },
-  "JustEnoughProfessions-neoforge-1.21.1-4.0.4.jar": {
-    "modId": "justenoughprofessions",
-    "version": "4.0.4"
-  },
-  "JustEnoughResources-NeoForge-1.21.1-1.6.0.14.jar": {
-    "modId": "jeresources",
-    "version": "1.6.0.14"
   },
   "Kiwi-1.21.1-NeoForge-15.5.1.jar": {
     "modId": "kiwi",
@@ -782,6 +778,10 @@
     "modId": "paxi",
     "version": "1.21.1-NeoForge-5.1.2"
   },
+  "phantasm-1.0.3.jar": {
+    "modId": "phantasm",
+    "version": "1.0.3"
+  },
   "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar": {
     "modId": "pickupnotifier",
     "version": "21.1.1"
@@ -824,6 +824,10 @@
   },
   "refinedstorage-curios-integration-1.0.0.jar": {
     "modId": "refinedstorage_curios_integration",
+    "version": "1.0.0"
+  },
+  "refinedstorage-emi-integration-neoforge-1.0.0.jar": {
+    "modId": "refinedstorage_emi_integration",
     "version": "1.0.0"
   },
   "refinedstorage-neoforge-2.0.0-beta.2.jar": {
@@ -977,6 +981,10 @@
   "toofast-1.21.0-0.4.3.5.jar": {
     "modId": "toofast",
     "version": "0.4.3.5"
+  },
+  "toomanyrecipeviewers-0.3.3+jei.19.21.0.247.jar": {
+    "modId": "toomanyrecipeviewers",
+    "version": "0.3.3+jei.19.21.0.247"
   },
   "torchmaster-neoforge-1.21.1-21.1.5-beta.jar": {
     "modId": "torchmaster",
