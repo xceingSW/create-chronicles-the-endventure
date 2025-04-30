@@ -1,4 +1,4 @@
-Platform.mods.kubejs.name = 'Create Chronicles: Bosses and Beyond'
+Platform.mods.kubejs.name = 'Create Chronicles: A Simple Journey'
 
 StartupEvents.registry('item', event => {
   // The texture for this item has to be placed in kubejs/assets/kubejs/textures/item/test_item.png
@@ -41,9 +41,13 @@ StartupEvents.registry('item', event => {
     ])
 
     event.create('heart_container')
-    .displayName("§eHeart Container")
+    .displayName("§6Heart Container")
     .rarity("EPIC")
     .tooltip([
       '§7Permanently increases your maximum health by §c+1 Heart§7.',
     ])
+
+    event.create('boss_token')
+    .displayName("§6Boss Token")
+    .rarity("EPIC")
 })

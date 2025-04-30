@@ -189,7 +189,7 @@
 		# Default long-range player visibility on map
 		# Default: "allies"
 		# Valid values: "allies", "private", "public"
-		def_player_visibility: "allies"
+		def_player_visibility: "public"
 		
 		# Default PvP setting in claimed chunks
 		# Default: true

@@ -211,6 +211,14 @@
 		"Make sure to supply both the &bWater Pump&r and the &aOxygen Distributor&r with enough power."
 	]
 	quest.2A0B07555EC8D47E.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.2BBCFC6BD1359852.quest_desc: [
+		"&cHeart Container&r"
+		""
+		"&6Heart Container&r"
+		"&e"
+		""
+		"&bHeart Container&r"
+	]
 	quest.2C7EE6C411E3CF59.quest_desc: [
 		"&bPortable Cells&f function identically to regular cells in that they can they be inserted into a chest or drive and filled accordingly."
 		""

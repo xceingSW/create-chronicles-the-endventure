@@ -133,56 +133,59 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:endermite": true
-			"minecraft:cow": true
-			"creeperoverhaul:ocean_creeper": true
-			"minecraft:bat": true
-			"minecraft:drowned": true
-			"cataclysm:deepling_brute": true
-			"alshanex_familiars:archmage_pet": true
-			"minecraft:shulker": true
-			"minecraft:villager": true
-			"golemoverhaul:slime_golem": true
-			"minecraft:rabbit": true
-			"friendsandfoes:rascal": true
-			"minecraft:enderman": true
 			"minecraft:sheep": true
-			"minecraft:turtle": true
-			"minecraft:cod": false
-			"variantsandventures:gelid": true
-			"minecraft:zombie": true
-			"minecraft:creeper": true
-			"minecraft:skeleton": true
-			"minecraft:guardian": true
-			"artifacts:mimic": true
-			"minecraft:evoker": true
-			"minecraft:squid": true
-			"minecraft:pig": true
-			"minecraft:dolphin": true
-			"minecraft:stray": true
-			"minecraft:vindicator": true
-			"waddles:adelie_penguin": true
-			"takesapillage:skirmisher": true
-			"takesapillage:archer": true
+			"golemoverhaul:barrel_golem": true
 			"minecraft:pufferfish": false
-			"golemoverhaul:coal_golem": true
-			"minecraft:donkey": true
-			"minecraft:salmon": false
-			"minecraft:chicken": true
 			"minecraft:iron_golem": true
-			"minecraft:tropical_fish": false
-			"irons_spellbooks:necromancer": true
-			"minecraft:glow_squid": true
+			"minecraft:evoker": true
 			"creeperoverhaul:cave_creeper": true
-			"minecraft:zombie_villager": true
-			"minecraft:slime": true
-			"minecraft:pillager": true
+			"minecraft:drowned": true
+			"alshanex_familiars:archmage_pet": true
+			"golemoverhaul:slime_golem": true
+			"golemoverhaul:hay_golem": true
+			"minecraft:endermite": true
+			"irons_spellbooks:necromancer": true
+			"minecraft:guardian": true
 			"minecraft:fox": true
-			"creeperoverhaul:snowy_creeper": true
-			"minecraft:ravager": true
+			"minecraft:glow_squid": true
+			"minecraft:cod": false
+			"minecraft:enderman": true
+			"minecraft:rabbit": true
+			"minecraft:zombie_villager": true
+			"minecraft:villager": true
 			"minecraft:witch": true
-			"minecraft:spider": true
+			"minecraft:horse": true
+			"minecraft:zombie": true
+			"minecraft:cow": true
+			"minecraft:stray": true
+			"minecraft:slime": true
+			"artifacts:mimic": true
+			"minecraft:donkey": true
+			"minecraft:turtle": true
+			"minecraft:salmon": false
+			"minecraft:squid": true
+			"creeperoverhaul:ocean_creeper": true
+			"variantsandventures:gelid": true
+			"minecraft:shulker": true
+			"minecraft:creeper": true
+			"minecraft:dolphin": true
+			"waddles:adelie_penguin": true
+			"minecraft:chicken": true
+			"takesapillage:skirmisher": true
+			"minecraft:skeleton": true
+			"minecraft:pillager": true
+			"creeperoverhaul:snowy_creeper": true
+			"cataclysm:deepling_brute": true
+			"minecraft:tropical_fish": false
+			"minecraft:vindicator": true
 			"variantsandventures:murk": true
+			"golemoverhaul:coal_golem": true
+			"minecraft:pig": true
+			"friendsandfoes:rascal": true
+			"takesapillage:archer": true
+			"minecraft:bat": true
+			"minecraft:spider": true
+			"minecraft:ravager": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
@@ -197,6 +200,9 @@
 			"ftbchunks:game_time"
 			"ftbchunks:real_time"
 			"ftbchunks:debug"
+			"ftbchunks:zone"
+			"ftbchunks:biome"
+			"ftbchunks:player_pos"
 		]
 		
 		# Info displayed under minimap

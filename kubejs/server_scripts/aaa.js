@@ -19,3 +19,4 @@ ItemEvents.rightClicked(event => {
     `execute in ${event.level.dimension} run loot give ${event.player.username} loot ${lootTable}`
   );
 });
+
