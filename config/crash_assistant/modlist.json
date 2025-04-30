@@ -227,6 +227,14 @@
     "modId": "comforts",
     "version": "9.0.3+1.21.1"
   },
+  "configurableextramobdrops-1.21.1-3.6.jar": {
+    "modId": "configurableextramobdrops",
+    "version": "3.6"
+  },
+  "configured-neoforge-1.21.1-2.6.0.jar": {
+    "modId": "configured",
+    "version": "2.6.0"
+  },
   "ConfiguredDefaults-v21.1.3-1.21.1-NeoForge.jar": {
     "modId": "configureddefaults",
     "version": "21.1.3"
@@ -275,9 +283,9 @@
     "modId": "create_dragons_plus",
     "version": "1.4.2"
   },
-  "create-enchantment-industry-2.0.13.jar": {
+  "create-enchantment-industry-2.1.0.jar": {
     "modId": "create_enchantment_industry",
-    "version": "2.0.13"
+    "version": "2.1.0"
   },
   "create-integrated-farming-1.0.3.jar": {
     "modId": "create_integrated_farming",
@@ -533,10 +541,6 @@
     "modId": "highlighter",
     "version": "1.1.11"
   },
-  "HopoBetterMineshaft-[1.21-1.21.3]-1.3.0b.jar": {
-    "modId": "hopo",
-    "version": "1.3.0"
-  },
   "HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b.jar": {
     "modId": "hoporp",
     "version": "1.4.4"
@@ -754,9 +758,9 @@
     "modId": "biomeswevegone",
     "version": "2.3.13"
   },
-  "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.10.jar": {
+  "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.11.jar": {
     "modId": "ohthetreesyoullgrow",
-    "version": "5.0.10"
+    "version": "5.0.11"
   },
   "OpenBlocksTrophies-1.21-5.1.6.jar": {
     "modId": "obtrophies",
@@ -926,9 +930,9 @@
     "modId": "sootychimneys",
     "version": "1.3.3"
   },
-  "sophisticatedbackpacks-1.21.1-3.24.9.1231.jar": {
+  "sophisticatedbackpacks-1.21.1-3.24.10.1232.jar": {
     "modId": "sophisticatedbackpacks",
-    "version": "3.24.9"
+    "version": "3.24.10"
   },
   "sophisticatedbackpackscreateintegration-1.21.1-0.1.1.5.jar": {
     "modId": "sophisticatedbackpackscreateintegration",
@@ -938,9 +942,9 @@
     "modId": "sophisticatedcore",
     "version": "1.3.34"
   },
-  "sophisticatedstorage-1.21.1-1.4.26.1135.jar": {
+  "sophisticatedstorage-1.21.1-1.4.28.1139.jar": {
     "modId": "sophisticatedstorage",
-    "version": "1.4.26"
+    "version": "1.4.28"
   },
   "sophisticatedstoragecreateintegration-1.21.1-0.1.8.27.jar": {
     "modId": "sophisticatedstoragecreateintegration",
@@ -957,10 +961,6 @@
   "spyglass_improvements-1.5.7+mc1.21+neoforge.jar": {
     "modId": "spyglass_improvements",
     "version": "1.5.7"
-  },
-  "starterkit-1.21.1-7.4.jar": {
-    "modId": "starterkit",
-    "version": "7.4"
   },
   "StylishEffects-v21.1.1-1.21.1-NeoForge.jar": {
     "modId": "stylisheffects",
@@ -1073,6 +1073,10 @@
   "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar": {
     "modId": "betterjungletemples",
     "version": "1.21.1-NeoForge-3.1.2"
+  },
+  "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar": {
+    "modId": "bettermineshafts",
+    "version": "1.21.1-NeoForge-5.1.1"
   },
   "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.4.jar": {
     "modId": "betterfortresses",

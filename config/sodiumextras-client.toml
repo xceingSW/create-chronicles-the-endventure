@@ -6,7 +6,7 @@
 		#Configure FPS Display mode
 		#Complete mode gives you min FPS count and average count
 		#Allowed Values: OFF, SIMPLE, ADVANCED
-		fpsDisplay = "ADVANCED"
+		fpsDisplay = "OFF"
 		#Configure FPS Display gravity
 		#Places counter on specified corner of your screen
 		#Allowed Values: LEFT, CENTER, RIGHT
@@ -18,7 +18,7 @@
 		#Give some space between corner and text
 		# Default: 12
 		# Range: 0 ~ 48
-		fpsDisplayMargin = 12
+		fpsDisplayMargin = 11
 		#Toggle FPS Display shadow
 		#In case sometimes you can't see the text
 		fpsDisplayShadow = false
