@@ -135,6 +135,7 @@
 		entity_icon: {
 			"minecraft:sheep": true
 			"golemoverhaul:barrel_golem": true
+			"creeperoverhaul:dripstone_creeper": true
 			"minecraft:pufferfish": false
 			"minecraft:iron_golem": true
 			"minecraft:evoker": true
