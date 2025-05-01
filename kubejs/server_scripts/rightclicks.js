@@ -6,6 +6,9 @@ ItemEvents.rightClicked(event => {
     const attribute = player.getAttribute('minecraft:generic.max_health')
     attribute.baseValue += 2.0
 
+    // Heal to new max
+    player.heal(player.getMaxHealth());
+
     // Consume item
     item.count--
 

@@ -339,7 +339,7 @@
 			}]
 			tasks: [{
 				id: "3E70EED36DDFF8EF"
-				item: { count: 1, id: "hostilenetworks:loot_fabricator" }
+				item: { components: { "ftbquests:missing_item": "hostilenetworks:loot_fabricator" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 2.5d
@@ -368,7 +368,7 @@
 			}]
 			tasks: [{
 				id: "5E181D8952DDF478"
-				item: { count: 1, id: "hostilenetworks:sim_chamber" }
+				item: { components: { "ftbquests:missing_item": "hostilenetworks:sim_chamber" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 2.5d
@@ -390,7 +390,7 @@
 			}]
 			tasks: [{
 				id: "56731712C3EC0870"
-				item: { count: 1, id: "hostilenetworks:blank_data_model" }
+				item: { components: { "ftbquests:missing_item": "hostilenetworks:blank_data_model" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 2.5d
@@ -694,7 +694,7 @@
 			}]
 			tasks: [{
 				id: "6AD585B377F63905"
-				item: { count: 1, id: "hostilenetworks:prediction_matrix" }
+				item: { components: { "ftbquests:missing_item": "hostilenetworks:prediction_matrix" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 4.5d
@@ -718,7 +718,7 @@
 			}]
 			tasks: [{
 				id: "7BDD94C5B583CCFD"
-				item: { count: 1, id: "hostilenetworks:deep_learner" }
+				item: { components: { "ftbquests:missing_item": "hostilenetworks:deep_learner" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 4.5d

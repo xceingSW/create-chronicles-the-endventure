@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "the_end"
-	group: "20996729F10511FA"
+	group: ""
 	id: "53FAA75157389DE5"
 	images: [
 		{
@@ -161,7 +161,7 @@
 			y: -7.5d
 		}
 	]
-	order_index: 16
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{

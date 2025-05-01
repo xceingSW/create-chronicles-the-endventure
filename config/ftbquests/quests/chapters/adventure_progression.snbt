@@ -1,0 +1,821 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "adventure_progression"
+	group: ""
+	id: "576F6A1E4D30F4F2"
+	images: [
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -9.0d
+			y: -8.0d
+		}
+		{
+			height: 6.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			order: -1
+			rotation: 0.0d
+			width: 6.0d
+			x: -7.5d
+			y: -5.0d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -7.5d
+			y: -8.0d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -6.0d
+			y: -8.0d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -10.5d
+			y: -6.5d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -10.5d
+			y: -5.0d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -9.0d
+			y: -2.0d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -7.5d
+			y: -2.0d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -4.5d
+			y: -3.5d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -10.5d
+			y: -3.5d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -4.5d
+			y: -6.5d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/end_portal_frame_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -4.5d
+			y: -5.0d
+		}
+		{
+			height: 0.35d
+			image: "artifacts:item/obsidian_skull"
+			rotation: 0.0d
+			width: 0.35d
+			x: -8.0d
+			y: -1.5d
+		}
+		{
+			height: 0.35d
+			image: "create:item/goggles"
+			rotation: 0.0d
+			width: 0.35d
+			x: -11.0d
+			y: -6.0d
+		}
+		{
+			height: 0.35d
+			image: "create:item/goggles"
+			rotation: 0.0d
+			width: 0.35d
+			x: -11.0d
+			y: -4.5d
+		}
+		{
+			height: 0.35d
+			image: "create:item/goggles"
+			rotation: 0.0d
+			width: 0.35d
+			x: -11.0d
+			y: -3.0d
+		}
+		{
+			height: 0.35d
+			image: "create:item/goggles"
+			rotation: 0.0d
+			width: 0.35d
+			x: -9.5d
+			y: -1.5d
+		}
+		{
+			height: 0.35d
+			image: "artifacts:item/obsidian_skull"
+			rotation: 0.0d
+			width: 0.35d
+			x: -6.5d
+			y: -1.5d
+		}
+		{
+			height: 0.35d
+			image: "artifacts:item/obsidian_skull"
+			rotation: 0.0d
+			width: 0.35d
+			x: -5.0d
+			y: -3.0d
+		}
+		{
+			height: 0.35d
+			image: "artifacts:item/obsidian_skull"
+			rotation: 0.0d
+			width: 0.35d
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			height: 0.35d
+			image: "artifacts:item/obsidian_skull"
+			rotation: 0.0d
+			width: 0.35d
+			x: -5.0d
+			y: -6.0d
+		}
+		{
+			height: 0.35d
+			image: "artifacts:item/obsidian_skull"
+			rotation: 0.0d
+			width: 0.35d
+			x: -6.5d
+			y: -7.5d
+		}
+		{
+			height: 0.35d
+			image: "artifacts:item/obsidian_skull"
+			rotation: 0.0d
+			width: 0.35d
+			x: -8.0d
+			y: -7.5d
+		}
+		{
+			height: 0.35d
+			image: "artifacts:item/obsidian_skull"
+			rotation: 0.0d
+			width: 0.35d
+			x: -9.5d
+			y: -7.5d
+		}
+		{
+			color: 12948991
+			height: 1.0d
+			image: "chalk:block/mark/arrow"
+			rotation: 90.0d
+			width: 1.0d
+			x: -10.5d
+			y: -9.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:wither_skeleton_skull"
+			}
+			id: "59EB1027C6C9B043"
+			shape: "rsquare"
+			tasks: [
+				{
+					entity: "minecraft:wither"
+					icon: {
+						id: "minecraft:wither_skeleton_skull"
+					}
+					id: "3D700F7AA964567C"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "14EE6E229854C088"
+					item: { count: 1, id: "kubejs:forgotten_eye_fragment_shard" }
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: -10.5d
+		}
+		{
+			icon: {
+				components: {
+					"minecraft:rarity": "uncommon"
+					"obtrophies:trophy_info": {
+						entity: "minecraft:elder_guardian"
+					}
+				}
+				id: "obtrophies:trophy"
+			}
+			id: "229C5328751C93F5"
+			shape: "rsquare"
+			tasks: [
+				{
+					entity: "minecraft:elder_guardian"
+					icon: {
+						components: {
+							"minecraft:rarity": "uncommon"
+							"obtrophies:trophy_info": {
+								entity: "minecraft:elder_guardian"
+							}
+						}
+						id: "obtrophies:trophy"
+					}
+					id: "17EBB827621BD1F0"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "2AB55B49A6187CEF"
+					item: { count: 1, id: "kubejs:forgotten_eye_fragment_cracked" }
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: -9.5d
+		}
+		{
+			icon: {
+				id: "deeperdarker:warden_helmet"
+			}
+			id: "5399B06BD0D95CAE"
+			shape: "rsquare"
+			tasks: [
+				{
+					entity: "minecraft:warden"
+					icon: {
+						id: "deeperdarker:warden_helmet"
+					}
+					id: "7CB55CAE88CFAE43"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "0E32B6275EB31EFA"
+					item: { count: 1, id: "kubejs:forgotten_eye_fragment_core" }
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: -11.5d
+		}
+		{
+			id: "38C09CF7914BEE30"
+			rewards: [{
+				id: "0AD7D73D9200F4A2"
+				item: {
+					count: 1
+					id: "kubejs:heart_container"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "03BBDE7F498EA734"
+				item: { count: 1, id: "endrem:cursed_eye" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -8.0d
+		}
+		{
+			id: "047ACE4F6C1560F0"
+			rewards: [{
+				id: "0E7C708B08EED5EF"
+				item: {
+					count: 1
+					id: "kubejs:heart_container"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "49FD7EBD2F252C09"
+				item: { count: 1, id: "endrem:lost_eye" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -8.0d
+		}
+		{
+			id: "7363495F41F0AE8E"
+			shape: "rsquare"
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				icon: {
+					id: "cataclysm:infernal_forge"
+				}
+				id: "16E38FFFB3E2CB7F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.5d
+			y: -10.5d
+		}
+		{
+			id: "72A389F374C87353"
+			shape: "rsquare"
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				icon: {
+					id: "cataclysm:emp"
+				}
+				id: "49B39AE71358B808"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -6.5d
+		}
+		{
+			id: "090F9541580A5130"
+			shape: "rsquare"
+			tasks: [{
+				entity: "bosses_of_mass_destruction:gauntlet"
+				icon: {
+					components: {
+						"minecraft:rarity": "rare"
+						"obtrophies:trophy_info": {
+							entity: "bosses_of_mass_destruction:gauntlet"
+						}
+					}
+					id: "obtrophies:trophy"
+				}
+				id: "1E399BE22B0347F9"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.5d
+			y: -11.5d
+		}
+		{
+			icon: {
+				id: "bosses_of_mass_destruction:void_lily"
+			}
+			id: "6BAC0A0F663D5B1F"
+			shape: "rsquare"
+			tasks: [{
+				entity: "bosses_of_mass_destruction:void_blossom"
+				icon: {
+					id: "bosses_of_mass_destruction:void_lily"
+				}
+				id: "62D225564ACD2B22"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -5.0d
+		}
+		{
+			id: "5FCFD038804EFBF7"
+			shape: "rsquare"
+			tasks: [{
+				entity: "bosses_of_mass_destruction:obsidilith"
+				icon: {
+					id: "bosses_of_mass_destruction:obsidian_heart"
+				}
+				id: "27D6852B41658084"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			id: "2965B8DD03DA1142"
+			shape: "rsquare"
+			tasks: [{
+				entity: "bosses_of_mass_destruction:lich"
+				icon: {
+					id: "bosses_of_mass_destruction:ancient_anima"
+				}
+				id: "0DBF314F946308D6"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			icon: {
+				id: "irons_spellbooks:blood_staff"
+			}
+			id: "1888BBCB9A54D6FD"
+			shape: "rsquare"
+			tasks: [{
+				entity: "irons_spellbooks:dead_king"
+				icon: {
+					id: "irons_spellbooks:blood_staff"
+				}
+				id: "2F9E5E269A16679D"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.5d
+			y: -9.5d
+		}
+		{
+			id: "5037AA2541E439E5"
+			shape: "rsquare"
+			tasks: [{
+				entity: "cataclysm:ancient_remnant"
+				icon: {
+					id: "cataclysm:remnant_skull"
+				}
+				id: "435BD0B8953180AA"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			id: "00D7A88C4C686C02"
+			shape: "rsquare"
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				icon: {
+					id: "cataclysm:abyssal_sacrifice"
+				}
+				id: "250F9C999D35AF33"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			id: "543052F17CF1380B"
+			shape: "rsquare"
+			tasks: [{
+				entity: "cataclysm:maledictus"
+				icon: {
+					id: "cataclysm:cursium_helmet"
+				}
+				id: "174EF47CC2A7F588"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			id: "066B217CF45625F9"
+			shape: "rsquare"
+			tasks: [{
+				entity: "cataclysm:ignis"
+				icon: {
+					id: "cataclysm:altar_of_fire"
+				}
+				id: "02143D01FA175F6E"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			id: "498D22534A947B79"
+			rewards: [{
+				id: "53E1A2871590E315"
+				item: {
+					count: 1
+					id: "kubejs:heart_container"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "6030ACF39D2AE60F"
+				item: { count: 1, id: "endrem:magical_eye" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -6.5d
+		}
+		{
+			id: "41C643E334BA412E"
+			rewards: [{
+				id: "2FDDC2BB7B92EDED"
+				item: {
+					count: 1
+					id: "kubejs:heart_container"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "07551255E03F8720"
+				item: { count: 1, id: "endrem:old_eye" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -2.0d
+		}
+		{
+			id: "79B7F2CF9843FFCB"
+			rewards: [{
+				id: "158F85D24DC5F30D"
+				item: {
+					count: 1
+					id: "kubejs:heart_container"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "3F8715E27985B8D4"
+				item: { count: 1, id: "endrem:exotic_eye" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -3.5d
+		}
+		{
+			id: "473610BEA4E1765D"
+			rewards: [{
+				id: "7C8ED31870F46475"
+				item: {
+					count: 1
+					id: "kubejs:heart_container"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "4BC19283BBBB6725"
+				item: { count: 1, id: "endrem:nether_eye" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -6.5d
+		}
+		{
+			id: "4D54723C26FB8C44"
+			rewards: [{
+				id: "57BC3348DF7FE393"
+				item: {
+					count: 1
+					id: "kubejs:heart_container"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "27973190F35E7A37"
+				item: { count: 1, id: "endrem:cryptic_eye" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			id: "5B2ECDE4D4FF3D8D"
+			progression_mode: "flexible"
+			rewards: [{
+				id: "23B6C4ED3EF3EC14"
+				item: {
+					count: 1
+					id: "kubejs:heart_container"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "4B7EDC6777C37671"
+				item: { count: 1, id: "endrem:corrupted_eye" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -3.5d
+		}
+		{
+			id: "509760809535E55E"
+			progression_mode: "flexible"
+			rewards: [{
+				id: "75B4CEB0EDC570C9"
+				item: {
+					count: 1
+					id: "kubejs:heart_container"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "2192A51B50E6D55A"
+				item: { count: 1, id: "endrem:evil_eye" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -2.0d
+		}
+		{
+			id: "1B876E65905AE114"
+			progression_mode: "flexible"
+			rewards: [{
+				id: "0B6C157A8026C904"
+				item: {
+					count: 1
+					id: "kubejs:heart_container"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "5F06D21207C52E7F"
+				item: { count: 1, id: "endrem:black_eye" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -5.0d
+		}
+		{
+			id: "7DDA573B83BD4B2D"
+			progression_mode: "flexible"
+			rewards: [{
+				id: "0CC5C6D7F72D9415"
+				item: {
+					count: 1
+					id: "kubejs:heart_container"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "2C4615E77E17AB5C"
+				item: { count: 1, id: "endrem:witch_eye" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -5.0d
+		}
+		{
+			id: "3755F5BB283AEC30"
+			progression_mode: "flexible"
+			rewards: [
+				{
+					id: "4542B0A44E23663C"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "6236C5FFB7051509"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7C44135DEB649949"
+				item: { count: 1, id: "endrem:guardian_eye" }
+				type: "item"
+			}]
+			x: -17.0d
+			y: -6.0d
+		}
+		{
+			id: "315FAAF3AC56AA6E"
+			tasks: [{
+				id: "1E93D200860C47AD"
+				item: { count: 1, id: "endrem:cold_eye" }
+				type: "item"
+			}]
+			x: -16.5d
+			y: -5.0d
+		}
+		{
+			icon: {
+				id: "irons_spellbooks:decrepit_scythe"
+			}
+			id: "583EBA8354586BFD"
+			shape: "rsquare"
+			tasks: [{
+				entity: "irons_spellbooks:fire_boss"
+				icon: {
+					id: "irons_spellbooks:decrepit_scythe"
+				}
+				id: "176B16F5034D6904"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			id: "4DF64525E5F3E1FC"
+			shape: "rsquare"
+			tasks: [{
+				entity: "eternal_starlight:the_gatekeeper"
+				icon: {
+					id: "cataclysm:emp"
+				}
+				id: "48E0D855D7C89C65"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: -9.5d
+		}
+		{
+			id: "712E35EA760A9452"
+			shape: "rsquare"
+			tasks: [{
+				entity: "eternal_starlight:lunar_monstrosity"
+				icon: {
+					id: "cataclysm:emp"
+				}
+				id: "2BA7C3C4071A5212"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: -10.5d
+		}
+		{
+			id: "383E2DEB48E19246"
+			shape: "rsquare"
+			tasks: [{
+				entity: "eternal_starlight:starlight_golem"
+				icon: {
+					id: "cataclysm:emp"
+				}
+				id: "0C6853CF6407B349"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: -11.5d
+		}
+		{
+			id: "1A1A29A846DABADB"
+			rewards: [{
+				id: "466A417B26F7F170"
+				item: {
+					count: 1
+					id: "kubejs:heart_container"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "1403EF56C46F4E81"
+				item: { count: 1, id: "endrem:wither_eye" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -8.0d
+		}
+	]
+}
