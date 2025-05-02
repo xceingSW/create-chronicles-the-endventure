@@ -1,10 +1,7 @@
-
 {
-  "tooltip": {
-    "translate": "farmingForBlockheads.market.collectionTaskItems"
-  },
+  "tooltip": "Seal of Operator",
   "icon": {
-    "id": "minecraft:iron_sword"
+    "id": "kubejs:token_medium"
   },
-  "sortIndex": 10
+  "sortIndex": 4
 }

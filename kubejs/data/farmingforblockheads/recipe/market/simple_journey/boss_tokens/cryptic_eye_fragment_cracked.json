@@ -1,0 +1,9 @@
+{
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:boss_tokens",
+  "preset": "simple_journey:boss_token1",
+  "result": {
+    "count": 1,
+    "item": "kubejs:cryptic_eye_fragment_cracked"
+  }
+}

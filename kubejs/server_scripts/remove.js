@@ -1,6 +1,12 @@
 // === REMOVE BY RECIPE ID ===
 const removeRecipesById = [
-  // 'minecraft:stick'
+  'cataclysm:mech_eye',
+  'cataclysm:flame_eye',
+  'cataclysm:void_eye',
+  'cataclysm:monstrous_eye',
+  'cataclysm:abyss_eye',
+  'cataclysm:desert_eye',
+  'cataclysm:cursed_eye'
 ];
 
 // === REMOVE BY MOD ID ===
@@ -26,7 +32,7 @@ const removeByTag = [
 
 ServerEvents.recipes(event => {
   // Remove by ID
-  //removeRecipesById.forEach(id => event.remove({ id }));
+  removeRecipesById.forEach(id => event.remove({id: id}));
 
   // Remove by mod ID
   removeByMod.forEach(modid => event.remove({ mod: modid }));

@@ -1,0 +1,10 @@
+
+{
+  "enabled": true,
+  "payment": {
+    "ingredient": {
+      "item": "kubejs:token_advanced"
+    },
+    "count": 1
+  }
+}

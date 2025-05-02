@@ -112,14 +112,6 @@
 		}
 		{
 			height: 0.35d
-			image: "artifacts:item/obsidian_skull"
-			rotation: 0.0d
-			width: 0.35d
-			x: -8.0d
-			y: -1.5d
-		}
-		{
-			height: 0.35d
 			image: "create:item/goggles"
 			rotation: 0.0d
 			width: 0.35d
@@ -212,8 +204,16 @@
 			image: "chalk:block/mark/arrow"
 			rotation: 90.0d
 			width: 1.0d
-			x: -10.5d
-			y: -9.0d
+			x: -17.0d
+			y: -7.5d
+		}
+		{
+			height: 0.35d
+			image: "create:item/goggles"
+			rotation: 0.0d
+			width: 0.35d
+			x: -8.0d
+			y: -1.5d
 		}
 	]
 	order_index: 0
@@ -224,6 +224,15 @@
 				id: "minecraft:wither_skeleton_skull"
 			}
 			id: "59EB1027C6C9B043"
+			rewards: [{
+				count: 10
+				id: "52A63AC4878BCC3C"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [
 				{
@@ -255,6 +264,15 @@
 				id: "obtrophies:trophy"
 			}
 			id: "229C5328751C93F5"
+			rewards: [{
+				count: 10
+				id: "20ABE4561BCA64A2"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [
 				{
@@ -286,6 +304,15 @@
 				id: "deeperdarker:warden_helmet"
 			}
 			id: "5399B06BD0D95CAE"
+			rewards: [{
+				count: 10
+				id: "3C8877CCEFCB74B1"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [
 				{
@@ -346,6 +373,15 @@
 		}
 		{
 			id: "7363495F41F0AE8E"
+			rewards: [{
+				count: 20
+				id: "41C7F6529EFCE9BA"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				entity: "cataclysm:netherite_monstrosity"
@@ -361,6 +397,15 @@
 		}
 		{
 			id: "72A389F374C87353"
+			rewards: [{
+				count: 40
+				id: "663FE402809302F9"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				entity: "cataclysm:the_harbinger"
@@ -376,6 +421,15 @@
 		}
 		{
 			id: "090F9541580A5130"
+			rewards: [{
+				count: 20
+				id: "4AFDE5918E5E22BE"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				entity: "bosses_of_mass_destruction:gauntlet"
@@ -400,6 +454,14 @@
 				id: "bosses_of_mass_destruction:void_lily"
 			}
 			id: "6BAC0A0F663D5B1F"
+			rewards: [{
+				id: "23D72ACC2FFA326C"
+				item: {
+					count: 1
+					id: "magic_coins:gold_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				entity: "bosses_of_mass_destruction:void_blossom"
@@ -415,6 +477,14 @@
 		}
 		{
 			id: "5FCFD038804EFBF7"
+			rewards: [{
+				id: "0EA4F19B9144D443"
+				item: {
+					count: 1
+					id: "magic_coins:gold_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				entity: "bosses_of_mass_destruction:obsidilith"
@@ -430,6 +500,15 @@
 		}
 		{
 			id: "2965B8DD03DA1142"
+			rewards: [{
+				count: 40
+				id: "3C9F06A55AAEB846"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				entity: "bosses_of_mass_destruction:lich"
@@ -448,6 +527,15 @@
 				id: "irons_spellbooks:blood_staff"
 			}
 			id: "1888BBCB9A54D6FD"
+			rewards: [{
+				count: 20
+				id: "711C445C2058808A"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				entity: "irons_spellbooks:dead_king"
@@ -463,6 +551,15 @@
 		}
 		{
 			id: "5037AA2541E439E5"
+			rewards: [{
+				count: 5
+				id: "6368B542C2F4F540"
+				item: {
+					count: 1
+					id: "magic_coins:gold_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				entity: "cataclysm:ancient_remnant"
@@ -478,6 +575,15 @@
 		}
 		{
 			id: "00D7A88C4C686C02"
+			rewards: [{
+				count: 5
+				id: "620D1330009829B9"
+				item: {
+					count: 1
+					id: "magic_coins:gold_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				entity: "cataclysm:the_leviathan"
@@ -493,6 +599,15 @@
 		}
 		{
 			id: "543052F17CF1380B"
+			rewards: [{
+				count: 15
+				id: "210DA283D8224762"
+				item: {
+					count: 1
+					id: "magic_coins:gold_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				entity: "cataclysm:maledictus"
@@ -508,6 +623,15 @@
 		}
 		{
 			id: "066B217CF45625F9"
+			rewards: [{
+				count: 15
+				id: "5BC42C309A3336F4"
+				item: {
+					count: 1
+					id: "magic_coins:gold_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				entity: "cataclysm:ignis"
@@ -518,7 +642,7 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -7.5d
+			x: -6.0d
 			y: -0.5d
 		}
 		{
@@ -740,6 +864,14 @@
 				id: "irons_spellbooks:decrepit_scythe"
 			}
 			id: "583EBA8354586BFD"
+			rewards: [{
+				id: "17944688342AFEFD"
+				item: {
+					count: 1
+					id: "magic_coins:gold_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				entity: "irons_spellbooks:fire_boss"
@@ -750,11 +882,20 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -6.0d
-			y: -0.5d
+			x: -1.0d
+			y: -5.0d
 		}
 		{
 			id: "4DF64525E5F3E1FC"
+			rewards: [{
+				count: 30
+				id: "41591834221A4DC1"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				entity: "eternal_starlight:the_gatekeeper"
@@ -770,6 +911,15 @@
 		}
 		{
 			id: "712E35EA760A9452"
+			rewards: [{
+				count: 30
+				id: "4EDD5D4B5E203ECF"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				entity: "eternal_starlight:lunar_monstrosity"
@@ -785,6 +935,15 @@
 		}
 		{
 			id: "383E2DEB48E19246"
+			rewards: [{
+				count: 30
+				id: "4422748A51F55532"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				entity: "eternal_starlight:starlight_golem"
@@ -816,6 +975,39 @@
 			}]
 			x: -9.0d
 			y: -8.0d
+		}
+		{
+			id: "619A108A6BC00D4F"
+			shape: "rsquare"
+			tasks: [{
+				id: "50B33589152EE05E"
+				item: { count: 1, id: "kubejs:lich_eye_fragment_cracked" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -6.5d
+		}
+		{
+			id: "5FDAADD20C6A6DC7"
+			shape: "rsquare"
+			tasks: [{
+				id: "39FA65B3A27B2CCA"
+				item: { count: 1, id: "kubejs:gilded_eye_fragment_cracked" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			id: "4CABBBFC66009A4D"
+			shape: "rsquare"
+			tasks: [{
+				id: "292FE367D61F3807"
+				item: { count: 1, id: "kubejs:cryptic_eye_fragment_cracked" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
 		}
 	]
 }

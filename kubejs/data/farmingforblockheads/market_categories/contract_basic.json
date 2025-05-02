@@ -1,9 +1,7 @@
 {
-  "tooltip": {
-    "translate": "farmingForBlockheads.market.collectionTaskItems"
-  },
+  "tooltip": "Seal of Apprentice",
   "icon": {
-    "id": "minecraft:iron_sword"
+    "id": "kubejs:token_basic"
   },
-  "sortIndex": 10
+  "sortIndex": 3
 }

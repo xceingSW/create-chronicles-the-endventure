@@ -1,0 +1,9 @@
+{
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:contract_basic",
+  "preset": "simple_journey:token_basic1",
+  "result": {
+    "count": 1,
+    "item": "kubejs:lich_eye_fragment_cracked"
+  }
+}
