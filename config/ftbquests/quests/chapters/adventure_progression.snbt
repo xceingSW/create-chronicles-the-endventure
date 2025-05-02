@@ -216,7 +216,7 @@
 			y: -1.5d
 		}
 	]
-	order_index: 0
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -1008,6 +1008,216 @@
 			}]
 			x: -6.0d
 			y: 1.5d
+		}
+		{
+			id: "5B7298316481A1CF"
+			tasks: [{
+				id: "4D534FB778B8E964"
+				item: { count: 1, id: "minecraft:stripped_oak_log" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -13.5d
+		}
+		{
+			hide_dependency_lines: true
+			id: "3D6259FBCAA99583"
+			rewards: [
+				{
+					id: "620A0DB3D8E30D97"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "1AF00C305AD0DD53"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:spur"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "343ED73AE0A17261"
+				type: "dimension"
+			}]
+			x: -7.0d
+			y: -5.0d
+		}
+		{
+			id: "07655CF543C452F8"
+			rewards: [{
+				id: "0354D96FC9B509BC"
+				item: {
+					count: 1
+					id: "create_sa:heap_of_experience"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:end/dragon_breath"
+				criterion: ""
+				id: "0D5FDB7F41EE9FD3"
+				type: "advancement"
+			}]
+			x: -8.0d
+			y: 4.0d
+		}
+		{
+			dependency_requirement: "all_started"
+			id: "3052F9967211F448"
+			rewards: [
+				{
+					id: "719B6E67C4260F9D"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "026D8E966C2A624F"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "2B70A77966C497BD"
+				type: "kill"
+				value: 1L
+			}]
+			x: -8.0d
+			y: 6.0d
+		}
+		{
+			id: "7C185DB8566F7E33"
+			rewards: [
+				{
+					id: "214C7068BF2A23E7"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "3D3495E522B254DB"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:bevel"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "minecraft:end/dragon_egg"
+				criterion: ""
+				id: "1F7A7FA9CAFCCC1F"
+				type: "advancement"
+			}]
+			x: -8.0d
+			y: 8.0d
+		}
+		{
+			id: "746F82D541EBA386"
+			optional: true
+			rewards: [
+				{
+					id: "0D98E5B11E26D456"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 164
+					id: "17678618F6845004"
+					item: {
+						count: 1
+						id: "minecraft:firework_rocket"
+					}
+					type: "item"
+				}
+				{
+					id: "4530D03C268FC38B"
+					item: {
+						components: {
+							"ftbquests:missing_item": "numismatics:bevel"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "1BA1F80CFC203924"
+				item: { count: 1, id: "minecraft:elytra" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 6.0d
+		}
+		{
+			id: "793C4FD3470AC117"
+			rewards: [{
+				id: "259448AF87285C81"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:bevel"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0E70E5211D8D2169"
+				item: { count: 1, id: "cataclysm:ignitium_elytra_chestplate" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: 8.0d
+		}
+		{
+			id: "0A69851F5CC1A1F0"
+			rewards: [{
+				id: "0FD0494D5E552AD2"
+				item: {
+					components: {
+						"ftbquests:missing_item": "numismatics:bevel"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5D4B1DE8AD81EA9D"
+				item: { count: 1, id: "deeperdarker:soul_elytra" }
+				type: "item"
+			}]
+			x: -13.5d
+			y: 8.0d
+		}
+		{
+			id: "4FC2652D2526E842"
+			tasks: [{
+				id: "70076B25F54BA741"
+				item: { count: 1, id: "minecraft:oak_log" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: -12.0d
 		}
 	]
 }

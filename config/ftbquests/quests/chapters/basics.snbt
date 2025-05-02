@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "basics"
-	group: "20996729F10511FA"
+	group: ""
 	icon: {
 		id: "patchouli:guide_book"
 	}
@@ -71,7 +71,7 @@
 			y: 15.0d
 		}
 	]
-	order_index: 2
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
@@ -2953,6 +2953,26 @@
 			}]
 			x: -31.4d
 			y: 14.1d
+		}
+		{
+			id: "70078CDA548D3393"
+			tasks: [{
+				id: "0122EDB81E3B0657"
+				item: { count: 1, id: "minecraft:spruce_wood" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 22.5d
+		}
+		{
+			id: "465CE0F51624F8EA"
+			tasks: [{
+				id: "720A2D86577C2509"
+				item: { count: 1, id: "minecraft:stripped_oak_wood" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 24.5d
 		}
 	]
 }

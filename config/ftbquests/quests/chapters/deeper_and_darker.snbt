@@ -2,7 +2,10 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "deeper_and_darker"
-	group: "20996729F10511FA"
+	group: "61769445B9D5700E"
+	icon: {
+		id: "deeperdarker:heart_of_the_deep"
+	}
 	id: "4B6E4A0215F45FC0"
 	images: [{
 		alpha: 200
@@ -14,7 +17,7 @@
 		x: 7.1d
 		y: 7.3d
 	}]
-	order_index: 1
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
@@ -112,6 +115,9 @@
 			size: 2.0d
 			tasks: [{
 				dimension: "deeperdarker:otherside"
+				icon: {
+					id: "minecraft:reinforced_deepslate"
+				}
 				id: "474D2D76F2256297"
 				type: "dimension"
 			}]
@@ -141,6 +147,9 @@
 			]
 			tasks: [{
 				entity: "deeperdarker:shattered"
+				icon: {
+					id: "deeperdarker:soul_dust"
+				}
 				id: "5B9501581479A2EC"
 				type: "kill"
 				value: 1L
@@ -171,6 +180,9 @@
 			]
 			tasks: [{
 				entity: "deeperdarker:stalker"
+				icon: {
+					id: "deeperdarker:soul_crystal"
+				}
 				id: "1D807C8DC05EF208"
 				type: "kill"
 				value: 1L
@@ -201,6 +213,9 @@
 			]
 			tasks: [{
 				entity: "deeperdarker:shriek_worm"
+				icon: {
+					id: "deeperdarker:sculk_bone"
+				}
 				id: "3D7BD985875AFF57"
 				type: "kill"
 				value: 1L
@@ -271,6 +286,16 @@
 			}]
 			x: 9.5d
 			y: 2.0d
+		}
+		{
+			id: "058E04C43D9139A0"
+			tasks: [{
+				id: "2ADE4D085F19B046"
+				item: { count: 1, id: "minecraft:stripped_oak_wood" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 7.0d
 		}
 	]
 }

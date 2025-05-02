@@ -3,7 +3,7 @@
   "enabled": true,
   "payment": {
     "ingredient": {
-      "item": "kubejs:boss_token"
+      "item": "minecraft:air"
     },
     "count": 1
   }

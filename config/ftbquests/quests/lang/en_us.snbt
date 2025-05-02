@@ -1,12 +1,27 @@
 {
 	chapter.00B2BB3A1CF3EA69.title: "Chapter X: Applied Energetics 2"
+	chapter.09B56D111668F538.title: "&6&nGetting Started!"
+	chapter.19BE083ACF488E0F.title: "&bIron's Spells 'n Spellbooks&r"
 	chapter.20497405FCFCFADA.title: "Chapter VII: Infernal Mechanism"
+	chapter.2385B4F2FA029016.title: "Alshanex's Familiars"
 	chapter.38FE3E0C86FF237B.title: "Chapter V: Steel Mechanism"
-	chapter.53FAA75157389DE5.title: "&eThe End"
+	chapter.464FB437D5DF7824.title: "x&aArtifacts"
+	chapter.4B6E4A0215F45FC0.title: " X&3The Otherside: &0Deeper and Darker"
+	chapter.50471206A7BA908F.title: "XEternal Starlight"
 	chapter.576F6A1E4D30F4F2.title: "Adventure Progression"
 	chapter.6183184A27691A5F.title: "Chapter IX: Calculation Mechanism"
 	chapter.77CB82601BCDCA86.title: "aewe"
+	chapter.784A6CC38A657526.title: "x&bSimply Swords"
+	chapter_group.10BAE746B6F04D66.title: "Magic"
 	chapter_group.20996729F10511FA.title: "oldcro"
+	chapter_group.37AD19D80019787F.title: "Storage"
+	chapter_group.3808ABBD2D934E7D.title: "Collectibles"
+	chapter_group.58944126F4575319.title: "Others"
+	chapter_group.61769445B9D5700E.title: "Dimensions"
+	chapter_group.781F17A4DC3D0E66.title: "Create"
+	quest.0051AD1BF14F9EC9.quest_subtitle: "&6+10% Summon Damage"
+	quest.01219DEB95032DC7.title: "&dShadow-Walker Outfit"
+	quest.016C498DFB704536.quest_subtitle: "Allows you to trade with villagers for much cheaper"
 	quest.01B1F88F57961B10.quest_desc: [
 		"If you want to make a base outside Earth, you'll need &4Oxygen.&r&l"
 		""
@@ -15,8 +30,14 @@
 		"The &bWater Pump&r pumps water from an infinite water source below it into the Distributor."
 	]
 	quest.01B1F88F57961B10.title: "Oxygen for your Bases!"
+	quest.0206507E91CB74CB.quest_subtitle: "Use in Smithing Table to remove &6Imbuement or Upgrades"
 	quest.02DE3FA28CBAE857.quest_desc: ["The eye of a greedy king faded in solitude. Legend says it will bring infinite fortune to its owner"]
 	quest.02DE3FA28CBAE857.quest_subtitle: "Found in Pillager Outposts"
+	quest.03A09B606040AD2E.quest_subtitle: "Rare random drop from Blazes."
+	quest.042259C7B1BF773A.quest_subtitle: "Lights your attackers on fire"
+	quest.0424F3DCA7620F49.quest_subtitle: "Increases the wearers mining speed and allows the wearer to break blocks like stone with their fist"
+	quest.058E04C43D9139A0.quest_desc: ["NNEED TO BE REVIEWED"]
+	quest.05A39ED901BC6569.quest_subtitle: "Reduces the time of debuffs"
 	quest.06252C87B61A19F3.quest_desc: [
 		"Before you can carry out an auto-crafting job, you need a device to actually store the request itself along with any interim items for multi-step crafts. This device is known as a &ecrafting CPU&f."
 		""
@@ -28,6 +49,7 @@
 		""
 		"You can rotate the Encased Mirror to choose the direction you wish the Light Ray to be redirected to. "
 	]
+	quest.07655CF543C452F8.quest_subtitle: "Collect Dragon's Breath in a Glass Bottle."
 	quest.078DF329C409A210.quest_desc: [
 		"&6The Optical Source&r transforms &cRotational Power&r into&6 Light rays. &r"
 		""
@@ -47,11 +69,35 @@
 		""
 		"You also have an option to change the Polarization of the Light Ray, the basics of this is that changing this setting will affect how the Light Rays interact with certain blocks."
 	]
+	quest.07CCF0EE3BC96DB1.quest_desc: [
+		"Sweeney wants it to be somewhat cryptic in game, and a psuedo-secret. That's why it isnt directly listed in game. However, here are the steps to get it if you don't want to figure out the secret for yourself:"
+		""
+		"Craft a contained remnant"
+		""
+		"Go to the end, hold a runic tablet in your offhand and have the contained remant in your inventory, after a little while it should turn into a tampered remnant"
+		""
+		"The tampered remnant will turn into one of a few different items when in your inventory for a while, you need to repeat these steps until you get the decaying relic"
+		""
+		"With the decaying relic in your inventory, there are three different steps depending on the magi-weapon you want:"
+		""
+		"a. For magispear, have the relic in your inventory and be inflicted by darkness, after a little bit of time it will transform."
+		"b. For magiblade, have the relic in your hand and step onto a sculk sensor"
+		"c. For magiscythe, have the relic in your hand and be hit by the warden's sonic boom attack "
+	]
+	quest.07E12DA2B3EC76D1.title: "&cPyromancer Outfit"
 	quest.07FDCB535DE4C4BA.quest_desc: [
 		"&6The Optical Receptor&r converts the &bLight Rays&r that output from the Optical Source back into &dRotational Power&r."
 		""
 		"You need to use an&c Optical Device&r on the &6Optical Receptor&r &nby right-clicking&r with the &cOptical Device&r on the Optical Receptor for it to receive the &bLight Rays.&r"
 	]
+	quest.0819B8A983F38919.quest_desc: [
+		"A handy spell to always keep with you is a &dteleport spell&r that sends you back to your last respawn point."
+		""
+		"Another useful option is the &eportal spell&r, which lets you place a portal anywhere in the world. Casting the spell twice creates a link between two locations, allowing you to travel back and forth."
+		""
+		"You can make a portal permanent using a &bPortal Frame&r — just place the frame and cast the portal spell on it. Permanent portals can also be dyed in different colors for easy identification."
+	]
+	quest.0819B8A983F38919.title: "&l&5Tips for teleporting&r&r"
 	quest.08277642FD16A56E.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
 	quest.086223FF8861479F.quest_desc: [
 		"If you're planning to go to space, you'll need a new set of gear for the journey."
@@ -80,6 +126,7 @@
 	]
 	quest.09C33BB3342632B4.quest_subtitle: "It is time to face the mighty Ender Dragon"
 	quest.09C33BB3342632B4.title: "Enter &ethe end&f"
+	quest.0A69851F5CC1A1F0.quest_subtitle: "Better Elytra!"
 	quest.0A6EBBE5CD80EF14.quest_desc: ["Without this eye, the Evoker has no power"]
 	quest.0A6EBBE5CD80EF14.quest_subtitle: "Dropped by Evokers"
 	quest.0AB740B18E5FA805.quest_desc: [
@@ -101,6 +148,9 @@
 	quest.0C61389C18B4A2B4.quest_desc: ["A holy talisman said to protect its owner from bad luck"]
 	quest.0C61389C18B4A2B4.quest_subtitle: "Buy it from a master cleric"
 	quest.0CFFF58986CE7733.quest_subtitle: "you know how to make coal don't you? "
+	quest.0DDCE73E115DCE86.quest_subtitle: "When used for Upgrade: &6+5% Evocation Spell Power"
+	quest.0E0532BA6E3FFEF9.quest_subtitle: "Allows you to drink items faster, but now with style!"
+	quest.0FF69526C1DC1593.quest_desc: ["Can be tamed with enchanted &cNetherite Chestplates&r. When tamed, they will occasionally drop enchanted books. "]
 	quest.108EA49E8421CCC7.quest_desc: [""]
 	quest.109FBFA37FF99341.quest_desc: [
 		"AE2 provides devices to manage ME data and move stored items around the world. "
@@ -112,7 +162,15 @@
 		"As an output, it can be configured to keep a specified amount of an item in stock, allowing external sources to receive items from the ME Network."
 	]
 	quest.109FBFA37FF99341.title: "The IO"
+	quest.10CDACBCA03AEDF7.quest_subtitle: "Attracts dropped items to the wearer"
+	quest.111C5C1353823847.quest_subtitle: "Can be found in market"
 	quest.112F3359CF96132C.quest_subtitle: "Better Elytra!"
+	quest.12506A200E56E7E9.quest_desc: [
+		"&e&nBlood Vial&r&r"
+		"Place a lit campfire beneath a cauldron, and put a mob in the cauldron to cook the mob. This will fill the cauldron with blood, which can be withdrawn with glass bottles to obtain vials of blood."
+	]
+	quest.12506A200E56E7E9.quest_subtitle: "Harness the power of &4blood&r. Increased &4blood spell power&r or &4armor&r."
+	quest.12506A200E56E7E9.title: "&4&lSchool of Blood"
 	quest.12B028C021E25ED0.quest_desc: ["This takes around &b50 seconds&r per alloy to charge with tesla coil. (with proper energy generation)"]
 	quest.130A80D8B3E4EA98.quest_desc: [
 		"AE2’s &eauto-crafting&r system starts with the &6ME Pattern Provider&r, which holds up to 9 &bpatterns&r for recipes. "
@@ -123,7 +181,17 @@
 	]
 	quest.130A80D8B3E4EA98.quest_subtitle: "Order up"
 	quest.130A80D8B3E4EA98.title: "Auto-Crafting"
+	quest.13449219998C54E1.quest_subtitle: "Causes the wearer's attacks to set the target on fire"
+	quest.135A70D16AC6511D.quest_desc: [
+		"Used to awaken the &cEcho of Tyros, First Flamebearer&r in the &6Citadel Arena&6, located in the Nether."
+		""
+		"You can find the arena by exploring or by crafting an &aAncient Furled Map&r."
+	]
+	quest.136F140D9A3ED036.quest_subtitle: "Increases knockback from attacks"
 	quest.137CC533B864B25F.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.14CB47511F2D0E01.quest_subtitle: "Allows you to drink items faster"
+	quest.14E9C287665C6AD4.quest_subtitle: "When used for Upgrade: &6+5% Blood Spell Power"
+	quest.153FB224571B339A.quest_subtitle: "&6+15% Cast Time Reduction"
 	quest.15B4189EFAD4B6E2.quest_desc: [
 		"The &bCrafting Co-Processing Unit&f helps speed up crafting jobs by allowing pattern providers to either send items out to their connected devices faster or to work concurrently to make multiple required ingredients."
 		""
@@ -145,7 +213,36 @@
 	]
 	quest.171DB69D600EBD90.quest_subtitle: "Items as a file system"
 	quest.171DB69D600EBD90.title: "The Storage"
+	quest.17C488042DB187A3.quest_subtitle: "The wearer cannot be knocked back"
+	quest.17C649AD8C23444B.quest_subtitle: "Useful for spell resistance. "
+	quest.17F840E5ABDF3FD4.quest_desc: [
+		"&6The Alchemist Cauldron&r is a versatile tool used for various magical tasks. Here are its main functions:"
+		""
+		"&nBrewing Potions:&r Use it to brew a variety of potions."
+		""
+		"&nCrafting Elixirs:&r Create powerful elixirs with special ingredients."
+		""
+		"&nRecycling Scrolls:&r Place scrolls into the cauldron to &brecycle them into Liquid Ink&r of the same rarity with a 50% chance. You can remove the Ink with e empy glass bottle."
+		""
+		"&nUpgrading Ink:&r Improve the quality of your Ink."
+		""
+		"&nMaking Blood Vials:&r Craft Blood Vials for different purposes."
+		""
+		"&6Special Note:&r You can also use crushing wheels from Create on any scroll to get 100% common ink and a small chance of obtaining uncommon ink."
+		""
+		"&2Important:&r Keep a Campfire below the cauldron to keep it heated."
+	]
 	quest.184B9A5F983FA7A5.quest_desc: ["Although it shows a Honey Bottle, you need to actually use a&n Honey Bucket with filling by spout.&r&c "]
+	quest.192EE909C57F390A.quest_subtitle: "Rare chance of spawning after breaking an &8Ancient Vase&r."
+	quest.1ADACCB1A8BB9E7E.quest_subtitle: "An infinite steak"
+	quest.1C267CC53FD04C88.title: "&4Cultist Outfit"
+	quest.1C60254EAE960673.quest_desc: [
+		"&e&nBottle o' Lightning&r&r"
+		"Use an empty bottle on a charged creeper to obtain. You can use the Lightning Bolt Spell, lightning rod or trident to charge a creeper."
+	]
+	quest.1C60254EAE960673.quest_subtitle: "Harness the power of &5lightning&r. Increased &5lightning spell power&r or &5armor&r."
+	quest.1C60254EAE960673.title: "&5&lSchool of Lightning"
+	quest.1C67FB4C2D9D9E06.quest_desc: ["Staffs can be useful tools for spellcasting. &aRight-click to cast spells&r, and enjoy a boost to your magic stats while holding one."]
 	quest.1C89D285F0501472.quest_desc: ["No information about this eye"]
 	quest.1C89D285F0501472.quest_subtitle: "small chance to get it when enchanting"
 	quest.1D9D2E1FF9BD8A91.quest_desc: ["{ \"text\": \"☞ Click here for more information about beams visit Chapter V at the end.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"265960CE3104527E\" } }"]
@@ -162,6 +259,10 @@
 	quest.1F4AE081014800B4.quest_desc: ["It was lost by a demon in the battle between the Aether and the Nether"]
 	quest.1F4AE081014800B4.quest_subtitle: "Found in Nether Fortresses"
 	quest.1F4AE081014800B4.title: "Nether Eye"
+	quest.203CEDAC6E1CAB91.quest_subtitle: "&6+100 Max Mana"
+	quest.20EAD0D76E8C2683.quest_subtitle: "When used for Upgrade: &6+50 Max Mana"
+	quest.216E2ED7D793F72A.quest_subtitle: "Rare random drop from Evokers or Archevokers."
+	quest.2241F84F6AAD5933.quest_subtitle: "Teleport amulet gives you evasion after you teleport if your Ender spell power is high enough"
 	quest.22E0846B96BBD5DD.quest_desc: ["Legends say this eye once belonged to one of the great Sandworms"]
 	quest.22E0846B96BBD5DD.quest_subtitle: "Found in Desert Pyramids"
 	quest.2393A0DC1A59CDEC.quest_desc: [
@@ -171,6 +272,7 @@
 	]
 	quest.23AAAAF53A58DE75.title: "Aluminium"
 	quest.23D03CB4F4382DDA.quest_desc: ["This receptor works just like the Optical Receptor. It transforms the light rays into rotational power but allows for higher stress support and the speed will be one third of the speed of the light beam."]
+	quest.2475C6740BBD5273.quest_desc: ["To enter the Starlight Dimension, find Portal Ruins in the Overworld and right-click the Gatekeeper to challenge them. After winning the duel, you'll receive the Orb of Prophecy. Use it on the portal to activate it, then step through to begin your journey."]
 	quest.2506598B0A22BE75.quest_desc: [
 		"The &bMolecular Assembler&r is AE2's automatic crafting table, essential for all crafting pattern jobs. "
 		""
@@ -180,11 +282,13 @@
 		""
 		"Each Assembler has a slot for a crafting pattern and can operate standalone when powered."
 	]
+	quest.250E32D632A506B2.quest_subtitle: "A Cushion that makes you let out a loud fart. Totally useless... or is it?"
 	quest.25F281C3D8849819.quest_desc: [
 		"By default, an ME network on its own only has an internal buffer of 800AE without an ME Controller, with the controller adding an extra 8kAE per block. For large enough networks, this can be insufficient and may cause a network to power off intermittently when trying to recoup power for any connected devices."
 		""
 		"The &bEnergy Cell&f allows for an ME network to hold significantly more energy, adding another 200kAE per regular Energy Cell and 1.6MAE per &bDense&f Energy Cell. These can also be placed anywhere in the network to provide the increased energy buffer."
 	]
+	quest.25F8D49B732EF7C7.quest_subtitle: "Once crafted, it finds the&2 nearest Catacombs&r and &3leads you towards it&r. The trapped soul points toward its home"
 	quest.265960CE3104527E.quest_desc: [
 		"&cBeam Focuser&r allows you to process certain items using rotational power and the light  beam power. "
 		""
@@ -204,6 +308,9 @@
 		""
 		"&eNote: I recommend checking the Ponder menu for further information on each mode.&r"
 	]
+	quest.26FB758B3706B935.quest_subtitle: "Slain creatures drop &6+25% experience."
+	quest.2807106C369DF042.quest_subtitle: "Get your hands on a Sculk Transmitter."
+	quest.29491A4A65DEDCDC.quest_subtitle: "Grants +5 Hearts"
 	quest.29A64A556C101D83.quest_desc: [
 		"The&b Water Pump&r is essential for keeping the &aOxygen Distributor&r running indefinitely. "
 		""
@@ -212,6 +319,8 @@
 		"Make sure to supply both the &bWater Pump&r and the &aOxygen Distributor&r with enough power."
 	]
 	quest.2A0B07555EC8D47E.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.2A30FB7263BB3ECB.title: "&4Hemomancer Outfit"
+	quest.2B619746DAF80A5E.quest_subtitle: "Gives a movement speed boost when taking damage"
 	quest.2BBCFC6BD1359852.quest_desc: [
 		"&cHeart Container&r"
 		""
@@ -220,6 +329,7 @@
 		""
 		"&bHeart Container&r"
 	]
+	quest.2C203D19752E2E2A.quest_desc: ["The &eLesser Spell Slot Improvement&r can be applied to a spellbook multiple times, up to a maximum of 12 slots."]
 	quest.2C7EE6C411E3CF59.quest_desc: [
 		"&bPortable Cells&f function identically to regular cells in that they can they be inserted into a chest or drive and filled accordingly."
 		""
@@ -240,28 +350,50 @@
 		"&6https://discord.gg/Dm4B7UfhXd&r"
 	]
 	quest.2CBF8CC3EB107804.title: "&l&6Better Energy Production"
+	quest.2D69922251E3D2CB.quest_subtitle: "&6Allows visible creatures to be seen"
+	quest.2E4D0196673FCE5A.quest_subtitle: "Harness the power of &aevocation&r. Increased &aevocation magic spell power&r or &aarmor&r."
+	quest.2E4D0196673FCE5A.title: "&a&lSchool of Evocation"
 	quest.2E9E011F51858EF2.quest_desc: [
 		"&cFireclay Ball&r comes from a block called &cFireclay&r. "
 		""
 		"Grab your mighty pickaxe and go do some digging! Or build a Drill Machine that works too. You’ll find the Fireclay Block in caves and such in the Overworld."
 	]
+	quest.2ED49410115A9FDC.quest_subtitle: "Increases wearer's jump height and negates some fall damage"
 	quest.2F40B3F9E34F9B1F.quest_desc: [
 		"&bPatterns&f are what hold an encoded recipe to be fulfilled by a Pattern Provider. To encode a recipe onto a Pattern, the &bME Pattern Encoding Terminal&f must be used."
 		""
 		"Patterns can be set to hold either a regular &ecrafting&f recipe, which will require the use of a &eMolecular Assembler&f on the face of its Provider, or a more general \"&eprocessing&f\" recipe, wherein any input items can be sent out by the provider into some other machine block or specialised processing plant."
 	]
 	quest.2F40B3F9E34F9B1F.title: "Patterns"
+	quest.2F8EAC597AB7E760.quest_subtitle: "Increases the wearer's swim speed"
 	quest.3026C7FFA3B230FA.quest_desc: ["&3Processors&r are essential crafting ingredients used to make the majority of ME-connected devices."]
+	quest.30378E9E82826E3A.quest_subtitle: "Need more mana? This is needed for that upgrade."
 	quest.30513F4AD063919A.quest_desc: [
 		"&6The Hologram Source&r allows you to use Visible Light to show an Hologram. Click with an item in hand on the Hologram Source to display that Item."
 		""
 		"Clicking with an empty hand gives you a control window to choose the angel of the Hologram."
 	]
+	quest.3052F9967211F448.quest_desc: [
+		"The &5ender dragon&r is a giant flying hostile boss mob found when first entering &5the End&r. It is the largest naturally spawning mob in the game. "
+		""
+		"It guards access to the end gateways that provide entry to the outer end islands in addition to the exit portal that allows return to the &2Overworld&r as well as access to the end credits of Minecraft. "
+		""
+		"Its attacks involve charging at the player and its unique dragon acid attacks."
+		""
+		""
+		"{@pagebreak}"
+		""
+		"Players can &bre-summon&r the dragon by placing four end crystals on the edges of the exit portal, one on each side. "
+		""
+		"When it is re-summoned, the four end crystals point to the tops of each pillar setting off a series of explosions that resets the obsidian pillars, iron bars, and end crystals."
+	]
+	quest.3121D591D3807584.quest_subtitle: "Allows you to double jump"
 	quest.312D4E8EBE475538.quest_desc: [
 		"Nipas can be found in &2&n&aPrimordial Caves from Alex's Caves&r&r&r, so keep your eyes open—they are rare to find."
 		""
 		"{ \"text\": \"☞ Click here to learn more\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"260F19B468957BCD\" } }"
 	]
+	quest.313B26E365615526.title: "&bCryomancecr Outfit"
 	quest.315FAAF3AC56AA6E.quest_desc: [
 		"&f&0sad&r"
 		"&2"
@@ -314,6 +446,13 @@
 		"The last component 256k, provides &e262144&f bytes of storage."
 	]
 	quest.35029D28522C7A28.title: "Creating your first Storage Cell"
+	quest.357E9B952643A99D.quest_desc: [
+		"&6Arcane essence&r is the most common and most important magical material."
+		""
+		"It can be found in magical structures, looted from magical enemies, or produced automatically with Create."
+		""
+		"Small amounts of arcane essence can be used to craft weak magic items, but its primary purpose is to be condensed into &6Arcane Cloth&r or &6Arcane Ingots&r for use in more powerful crafting recipes."
+	]
 	quest.35FDE052B50EFAAF.quest_desc: ["The &bME Import Bus&f periodically sucks items in from whatever external storage the bus is facing. It can optionally be filtered to only take in certain items from said inventory."]
 	quest.36032C287CC77A74.quest_subtitle: "Mechanical Crafting"
 	quest.3629B7D03A59F516.quest_desc: [
@@ -321,7 +460,10 @@
 		""
 		"The advantage of this is that it doubles the SU of the normal one. Water gives double SU and Lava gives the double of Water."
 	]
+	quest.36512D1073448D61.quest_subtitle: "Lets you see invisible entities."
 	quest.36883441EF93976F.quest_subtitle: "Better Elytra!"
+	quest.36FB336313E5E377.quest_subtitle: "Can be used to slowfall and as a shield"
+	quest.3714D5CA2A2A69EC.title: "&6Priest Outfit"
 	quest.3786CEBDF1D138A3.quest_desc: [
 		"&6The Coke Oven&r is a multi block machine. "
 		""
@@ -336,6 +478,7 @@
 		"Don’t use a Funnel to try to extract it, that will only take out the Coal fuelling the machine. Just wait and the Machine will spit the Coal Coke by itself."
 	]
 	quest.3786CEBDF1D138A3.title: "Coke Oven"
+	quest.37D3986933A263DB.quest_subtitle: "A fatal hit teleports the player somewhere else instead"
 	quest.37D437BA68D6864C.quest_desc: [
 		"Its power generation depends on the planet's distance from the sun and fog. "
 		""
@@ -344,13 +487,17 @@
 		"They also produce more energy in orbit because there's no atmosphere blocking the light."
 	]
 	quest.37D437BA68D6864C.title: "Craft a &2Solar Panel"
+	quest.37D5E493E9DB64D4.quest_subtitle: "Slowly replenishes hunger while walking on grass and grow plants after eating on grass"
 	quest.37F39A63C0C2934F.quest_desc: ["One of the last artifacts left behind by the Iceologers before they all suddenly vanished from the world"]
 	quest.37F39A63C0C2934F.quest_subtitle: "Found in Igloos"
+	quest.383DED27F9FC984B.quest_subtitle: "&6+15% Mana Regeneration"
+	quest.391E94F1938AC865.quest_subtitle: "&6+15% Spell Resistance"
 	quest.3921087D564A6659.quest_desc: [
 		"To create an &6Arcane Crystal Obelisk&r, place down an &2Arcane Polished Darkstone block&r, then place two &2Arcane Crystal Blocks&r on top of it."
 		""
 		"Right-click with &4Mundabitur Dust&r and you'll create the obelisk."
 	]
+	quest.39AD4C222874D63F.quest_subtitle: "Increases the user's invulnerability frames after taking a hit (1s)"
 	quest.3AB3B4308FA14C9E.quest_desc: [
 		"To make Bauxite you must use &a5 Mechanical Crafters&r. There’s various ways you can do this such as using a Mechanical Arm to place the items in their correct slots. "
 		""
@@ -379,6 +526,9 @@
 	quest.3B06C0FF8E28AC91.title: "Quantum Network Bridge"
 	quest.3BC1492D43F6B120.quest_desc: ["It is told that it was forged by the first blacksmiths of time"]
 	quest.3BC1492D43F6B120.quest_subtitle: "Found in Mineshafts"
+	quest.3CBDB45D65737212.quest_subtitle: "Found by stepping on Infested Sculk"
+	quest.3D0F9F9B2B945E7A.quest_subtitle: "Harness the power of &bfrost&r. Increased &bfrost spell power&r or &barmor&r."
+	quest.3D0F9F9B2B945E7A.title: "&b&lSchool of Ice"
 	quest.3D2DDC65DED45F4A.quest_desc: [
 		"The last piece of the puzzle for any large ME network is the &bME Controller&f."
 		""
@@ -396,7 +546,23 @@
 		""
 		"Any added enchantments significantly increase the amount of energy used by the plane every time a block is broken. Enchanting the plane with &eEfficiency&f will decrease the overall energy use incurred by all other enchantments, while the &eUnbreaking&f enchantment gives the plane the chance to only use any energy sometimes, similarly to Unbreaking on regular tools."
 	]
+	quest.3D6259FBCAA99583.quest_desc: [
+		"In &eThe End&r, you'll find the final boss of Vanilla Minecraft: The &5Ender Dragon&r."
+		""
+		"At the top of each pillar of Obsidian, you'll find an End Crystal that heals the Dragon. Make sure to take those out first! They also do a lot of damage, so make sure to create some distance!"
+		""
+		"Once defeated, a &dDragon Egg&r spawns at the top of the Exit Portal. This cannot be mined like normal blocks, but is affected by gravity. :)"
+	]
+	quest.3D6259FBCAA99583.quest_subtitle: "It is time to face the mighty Ender Dragon"
 	quest.3E42FEEFBC22F7D3.quest_desc: ["You can also automate this with &n&cnetherack&r&r if you prefer."]
+	quest.3E6E9C53FBE836FB.quest_desc: [
+		"The Scroll Forge is a new crafting station that allows the player to craft scrolls by using ink, paper, and a focus. "
+		""
+		"The ink determines the rarity/level, and the focus determines what school of spells you can craft."
+		""
+		"Scrolls can be automated using the Create mod. You can also use &6Crushing Wheels&r to process any scroll to get some &ncommon ink back&r, with a 10% chance of getting uncommon ink."
+	]
+	quest.3E6E9C53FBE836FB.quest_subtitle: "Making Spells"
 	quest.3E9FA4241DD2A49F.quest_desc: [
 		"Items are not the only things that can be stored in ME cells. &bME Fluid Storage Cells&f can store liquids such as water, lava and any variety of modded oils and fuels, just to give a few examples."
 		""
@@ -405,6 +571,7 @@
 		"For fluids, 1 byte equals 8 buckets (8000mb)."
 	]
 	quest.3E9FA4241DD2A49F.title: "Fluid Storage"
+	quest.3F0D2D8C1CFD1F2A.quest_subtitle: "Applies an infinite invisibility I, making you less noticeable to mobs"
 	quest.3F0E651F191CD81F.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
 	quest.3F83272A3D958DAB.quest_desc: ["Arguably the most important resource you will need next is &eFluix&f, used throughout the vast majority of AE2 devices and serving as a base for crafting all of the cabling within an ME network."]
 	quest.3F83272A3D958DAB.title: "Fluix Crystal"
@@ -412,13 +579,21 @@
 	quest.401AFF46C83AAEB8.title: "You Need a Mint!"
 	quest.401C9B25D2B7B49F.quest_desc: ["Remembrance of the past lives of those who live in death"]
 	quest.401C9B25D2B7B49F.quest_subtitle: " Craft it using an Undead Soul"
+	quest.403CAE721D431F6E.quest_subtitle: "Obtained from Wandering merchant"
+	quest.4070652999DD3249.quest_subtitle: "When used for Upgrade: &6+5% Nature Spell Power"
 	quest.409394CEF9087E88.quest_subtitle: "Please visit the renewable ores chapter to learn how to activate this."
+	quest.409E9857A7494319.quest_subtitle: "Allows walking on powdered snow and makes ice less slippery"
+	quest.419A16655447AA92.quest_subtitle: "Provides an infinite night vision effect"
+	quest.422A888D3F7C4665.quest_subtitle: "When used for Upgrade: &6+5% Fire Spell Power"
 	quest.4256AD377F068FF4.quest_desc: [
 		"The &bCell Workbench&f allows for cells to be \"partitioned\" to hold specific items, i.e. given a whitelist filter. It also allows the cell to be upgraded with certain upgrade cards such as the Inverter Card, which sets the aforementioned whitelist to be a blacklist instead."
 		""
 		"Cells can also be given a higher or lower \"priority\" via the workbench, i.e. allow the cell to be the first to receive certain items until full, or made to wait for other higher-priority cells to fill up first."
 	]
+	quest.4361924DE50C207E.title: "&5Advanced Electromancer Outfit"
 	quest.438AFB85E4605DF6.quest_desc: ["It's not recommended to use &bIndustrial Fan&r to make this as it doesn't work on belts and depots for some reason, but you can use a smart chute to make it work if you want."]
+	quest.43B06E3FFE5FE8EB.quest_subtitle: "Harness the power of the &dshadows&r. Increased &dshadow magic spell power&r or &darmor&r."
+	quest.43B06E3FFE5FE8EB.title: "&d&lSchool of Ender"
 	quest.43E5907E27844D18.quest_desc: [
 		"These last three items are more or less some extra toys provided by AE2 and don't necessarily fit under any of these quest trees."
 		""
@@ -431,7 +606,9 @@
 		"Matter Balls in a Matter Cannon can be substituted with &bPaint Balls&f, which will apply a paint splatter effect on the face of whatever block being fired at. &bLumen Paint Balls&f are a variant of paint balls exclusively used by the Matter Cannon, whose paint splatters also give off some light once present in the world."
 	]
 	quest.43E5907E27844D18.title: "The... Weapons?"
+	quest.44937B2D2EB38094.quest_desc: ["Used to negate the darkness in &8&lThe Otherside."]
 	quest.44A8B31CD719B906.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.44B16905ABBF3A52.quest_subtitle: "Grant &6Fire Immunity"
 	quest.4529E314F97ED3FA.quest_desc: [
 		"&nThe Coke Oven generates a lot of Creosote&r, more than you might actually need. "
 		""
@@ -441,6 +618,27 @@
 	]
 	quest.453F0E5926BA4AB1.quest_desc: ["{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7739373308A83503\" } }"]
 	quest.453F0E5926BA4AB1.quest_subtitle: "This can be found in blue skies dimension"
+	quest.465CE0F51624F8EA.quest_desc: [
+		"This pack comes with a lot of keybinds built in. Here are some of key ones:"
+		""
+		"- &d\"B\"&r - Open Backpack (&eSophisticated Backpacks&r)"
+		"- &d\"C\"&r - Open Spellbook (&eArs Nouveau&r)"
+		"- &d\"G\"&r - Open Tool Belt (&eTool Belt&r)"
+		"- &d\"Button 4\"&r - Cycles through Utility Belt (&eInventorio&r)"
+		"- &d\"M\"&r - Open Map Atlas (&eMap Atlas&r)"
+		"- &d\"Y\"&r - Crawl (&eForgery&r)"
+		"- &d\"I\"&r - Inventory Settings Menu (&eInventorio&r)."
+		"- &d\"Z\"&r - Uses a Spyglass in your Inventory (&eSpyglass Improvements&r)."
+		""
+		"&a&lYou might want to add a keybind to:&r&r"
+		"- Switch hotbars (&eQuark&r). Search it at \"Hotbar Swapper\" under Keybinds."
+		"- Switch utilities (&eInventorio&r). This scrolls through your offhand slot. Search it at \"Utility\" under Keybinds."
+		"- Enables Rotation Lock (&eQuark&r), allowing for placing blocks only in a certain orientation. Search it at \"Rotation Lock\"."
+		"{@pagebreak}"
+		"If you have any questions on how to control something, check the Key Binds!"
+		""
+		"Some items with specific keybinds (ie. &bQuiver&r, &bMap Atlas&r) have additional information on them in their JEI Information tab."
+	]
 	quest.466F43B18F0D1B7E.quest_desc: [
 		"You will need a special furnace to convert the block into an ingot: a &4Clibano Furnace&r from &6Forbidden Arcanus.&r"
 		""
@@ -448,9 +646,23 @@
 		"{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1DB562D431DB8D96\" } }"
 	]
 	quest.4706B7F09A2BFC25.quest_subtitle: "nipa farm"
+	quest.48503955A124184F.title: "&bHeavy Knight Outfit"
 	quest.4919AEB1300D63B7.quest_subtitle: "From previous chapter"
 	quest.496C8280CF77787E.quest_subtitle: "Use coarse dirt to make mud."
+	quest.4A1D33BF381320FD.quest_subtitle: "Affinity Rings are randomly generated as loot, and will boost the level of a select spell by one. This effect can stack. Spell can be set in the Arcane Anvil using a scroll."
 	quest.4A5C011878F7BB63.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.4A905C23B855B8C3.quest_desc: [
+		"There’s one last type of spell the &3Eldritch Spells&r but their knowledge has long been forgotten."
+		""
+		"To recover it, you’ll need to explore the &6Ancient City&r and collect &dAncient Knowledge Fragments.&r Combine eight fragments with an &aEcho Shard&r to craft an &cEldritch Manuscript.&r "
+		""
+		"Using it lets you unlock one &3Eldritch Scroll&r of your choice."
+		""
+		"Each manuscript is one-time use. Eldritch Spells can only be crafted with &6Legendary Ink&r using Echo Shards in the Scroll Forge. "
+		""
+		"Fragments and manuscripts can be found in Ancient Cities."
+	]
+	quest.4A905C23B855B8C3.title: "&3&lSchool of Eldritch"
 	quest.4ACC788E6E79B711.quest_desc: ["The &bCapacity Card&f allows a bus upgraded with it to carry a larger filter. Import and Export buses upgraded with capacity cards can go from supporting only one filtered item each to their maximum nine-slot filter, while Storage buses will go from 18 slots to a maximum of 63."]
 	quest.4B3E500121857046.quest_desc: [
 		"The &bMemory Card&f is a tool with two different functions. The simplest of the two is to save various devices' configurations (such as whitelist filters) to be copied over to another device of the same kind."
@@ -471,6 +683,7 @@
 		""
 		"When it is re-summoned, the four end crystals point to the tops of each pillar setting off a series of explosions that resets the obsidian pillars, iron bars, and end crystals."
 	]
+	quest.4BC65D4005C17D9F.title: "&5Electromancer Outfit"
 	quest.4BEC405C5EC58218.quest_desc: [
 		"The &bME Level Emitter&r emits a redstone signal based on the quantity of a specific item in the network. It activates when the item count falls below, exceeds, or matches the set quantity. "
 		""
@@ -482,21 +695,30 @@
 		"The &8sky stone block&r can be duplicated once obtained one."
 	]
 	quest.4CCA16E6E4070E37.quest_subtitle: "Explore the moon"
+	quest.4CCAD1EBB977DF2E.quest_subtitle: "Press CTRL while airborne to perform a short and slow glide"
+	quest.4D308AD544372410.quest_subtitle: "When used for Upgrade: &6+5% Lightning Spell Power"
+	quest.4D38017F83D30E13.quest_subtitle: "Damages attackers similar to the Thorns enchantment"
 	quest.4EA88BEBCCF09C54.quest_desc: ["The &bFuzzy Card&f allows a filtered item to be matched regardless of any (NBT) metadata such as damage or enchantments, while the &bInverter Card&f toggles the filter on such buses from being a whitelist to being a blacklist."]
 	quest.4ECA82782988ACB9.quest_desc: [
 		"There are various ways you can create an amethyst shard farm. First, you need to find an amethyst cluster, as one cluster can grow in all directions. You can set up a smart observer to detect when the clusters are ready to harvest, then use a deployer with a pickaxe enchanted with Fortune to get extra drops."
 		""
 		"Another alternative is to set up an amethyst farm in your base without the need to find a cluster. You can use an&d amethyst golem&r from Ars Nouveau for this purpose."
 	]
+	quest.4F734FC470276106.quest_subtitle: "Applies a temporary haste effect after eating food"
+	quest.4FC2652D2526E842.quest_subtitle: "&c★★★★☆ Warden!"
+	quest.4FDAFBD64AA710A1.quest_subtitle: "Increases experience dropped by mobs"
+	quest.4FF456152213D0AF.title: "&dVoidwalker Outfit"
 	quest.509BB6BF39848F5B.quest_desc: [
 		"Once you've explored the Moon and gathered enough Desh, you will be able to create &dSpace Stations&r around planets!"
 		""
 		"These are prebuilt structures that serve as a mini-base in the galaxy. Home away from home kinda thing."
 	]
 	quest.509BB6BF39848F5B.title: "Space Stations"
+	quest.50A74C04350493E0.quest_subtitle: "&6+15% Cooldown Reduction"
 	quest.50B4EEBAF5CF3122.quest_desc: ["This eye is believed to have given our ancestors the knowledge of Redstone"]
 	quest.50B4EEBAF5CF3122.quest_subtitle: "Found in Jungle Pyramids"
 	quest.50CDAAB5AECA6B27.quest_subtitle: "opcional"
+	quest.51A4E097156A6DC1.quest_subtitle: "The wearer slightly heals from attacks"
 	quest.5236164BE64893D2.quest_desc: [
 		"&bSpatial Storage Cells&f are used to hold one defined volume each, and come in three different capacities allowing for a maximum of 2x2x2, 16x16x16 and 128x128x128 blocks' worth of space."
 		""
@@ -504,6 +726,7 @@
 		""
 		"From then on, any blocks contained either within the cell's region of space or in an SCS with the same size as the one used for the initial encoding can be moved back into the overworld or into the spatial dimension respectively. If there are blocks both within the spatial region and within the SCS, these will simply swap places accordingly."
 	]
+	quest.52E5DCC3089180F3.quest_subtitle: "Use to reduce the cooldown"
 	quest.52E7496E0A9118F6.quest_desc: [
 		"To connect the vast majority of your ME network together, you will need some cable. &eME Glass Cable&f is the first and most basic kind of cable, and you'll be making this all throughout as the first step towards crafting the other kinds of cable."
 		""
@@ -516,6 +739,18 @@
 		"As a rule of thumb, any device that more or less handles ME data directly (items stored within the network) and carries out some form of I/O will take up a channel. Usually components that are only concerned with the internal power storage of the network, like &eEnergy Cells&f do &onot&r take up channels."
 	]
 	quest.52E7496E0A9118F6.title: "Basic Cabling"
+	quest.5391C1240C677127.quest_subtitle: "When used for Upgrade: &6+5% Cooldown Reduction"
+	quest.53C9B66BEC667ED0.quest_desc: [
+		"&bIron's Spells 'n Spellbooks&r is a magic mod focused around exploring the world to find magic scrolls in order to cast fantastical magics. "
+		""
+		"Craft the magic scrolls yourself, or seek out mage towers or deadly crypts around the world and take their loot as your own."
+		""
+		"You will fight more gangerous mobs like &2Necromancer&r, collect brand new resources, and most importantly: &6Cast Powerful Spells!&r"
+	]
+	quest.53C9B66BEC667ED0.quest_subtitle: "Magic and towers"
+	quest.53C9B66BEC667ED0.title: "&bGetting Started"
+	quest.544A301047565927.quest_subtitle: "When used for Upgrade: &6+5% Ender Spell Power"
+	quest.5470523184A3D0BA.quest_subtitle: "Passive Ability (8s cooldown):&6When attacked, emit an expulsive burst of air"
 	quest.549427B0BBA24445.quest_desc: [
 		"This block can split the Light Ray into 2 different Polarized Rays. "
 		""
@@ -523,11 +758,14 @@
 		""
 		"Changing the Polarization option in the&6 Optical Source&r, will affect how the Light Ray splits with the Polarizing Beam Splitter so I encourage you to play around with it."
 	]
+	quest.5590204A473913AC.quest_subtitle: "Automatically smelts mined ores"
+	quest.56487ACFC2360FE0.title: "&6Paladin Outfit"
 	quest.5690FCED46349207.quest_desc: [
 		"Please visit &6magic chapter Ars Nouveau&r to learn how to use &cEnchanting Apparatus&r"
 		""
 		"{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3D862A3D3F83CA26\" } }"
 	]
+	quest.56F1F049F20B29A7.title: "&aArchevoker Outfit"
 	quest.57FCF653EDA81DE0.quest_subtitle: "use a beacon to convert it"
 	quest.580F889F027A87FE.quest_desc: [
 		"The &bME IO Port&f allows for the contents of an ME network's storage to be quickly rearranged between different storage media such as ME cells and external containers connected to storage buses."
@@ -535,6 +773,15 @@
 		"When a cell is inserted in an input slot on the left, the IO Port can be toggled to either empty the cell out into other ME storages or fill the (ideally, partitioned) cell with certain items spread out across other storages."
 	]
 	quest.582E68291A96A9E7.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.594A8459AD944A3B.quest_desc: [
+		"It's hard to keep finding single use scrolls, but by putting the scrolls into a spell book using the inscription table, one can keep using the spell without consuming the scroll."
+		""
+		"Default key is &6\"x\"&r to open wheel. cghange to scroll wheel?"
+		""
+		"Default cast key is &6\"r\"&r"
+	]
+	quest.594A8459AD944A3B.quest_subtitle: "Your first Spellbook"
+	quest.594EDA0BA8DFB743.quest_subtitle: "The Priest mob will trade one for a written book that can be found in the Evoker Fort. The written book must be translated by a captive wandering trader from the Evoker Fort first."
 	quest.59753336427A57A6.quest_desc: ["Let's get the basic parts ready to head to space."]
 	quest.59753336427A57A6.quest_subtitle: "Craft a rocket nose cone."
 	quest.597F01E378266CC3.quest_desc: [
@@ -546,12 +793,25 @@
 	quest.59B3E2C267D8B567.quest_desc: ["Warm that new dragon egg by the fire."]
 	quest.59B3E2C267D8B567.quest_subtitle: "Hold the Dragon Egg"
 	quest.59B3E2C267D8B567.title: "Obtain a Dragon Egg"
+	quest.59F5E3351D772A63.quest_subtitle: "&6+10% Eldritch Spell Power&r, Passive Ability (5s cooldown):Deal extra damage to creatures based on their maximum mana"
 	quest.5A27BA1E5C692EB1.quest_desc: [
 		"The &bWireless Terminal&f functions identically to a regular terminal, but wirelessly."
 		""
 		"Before it can be used to access a network, it must first be &elinked&f to the network by placing it into the top-right slot of the &eWireless Access Point&r. If it is not linked to a network, or is out of either range or power, the terminal will not function."
 		""
 		"Wireless terminals can also be upgraded with &eEnergy Cards&f to provide a larger internal battery."
+	]
+	quest.5A2F0B2712D9C667.quest_subtitle: "Applies fortune to mined blocks"
+	quest.5ABC7CE1A9B9FB7C.quest_subtitle: "Allows the wearer to walk on fluids while sprinting"
+	quest.5B00766B91E5F1CB.quest_subtitle: "Drops from The Dead King"
+	quest.5B7298316481A1CF.quest_desc: [
+		"There is a total of 16 custom eyes you can find by exploring vanilla structures and fighting vanilla bosses. "
+		""
+		"&6Once you have at least 12 eyes&r you can follow them until you reach the Stronghold. "
+		""
+		"Right click to throw them in the sky. They will point in the direction of the closest End Portal."
+		""
+		"Make your way to the Stronghold, find the End Portal and complete the frame using the 12 custom eyes in order to open it. If there's a vanilla eye of ender in one of the frames, you can remove it by right clicking on it with a custom eye."
 	]
 	quest.5B9C1D10A217657D.quest_desc: [
 		"There is a total of 16 custom eyes you can find by exploring vanilla structures and fighting vanilla bosses. "
@@ -566,6 +826,8 @@
 	quest.5B9C1D10A217657D.title: "&eAbout the end&f"
 	quest.5BCF209E014D37E6.quest_desc: ["The &bME Smart Cable&f and &bDense Smart Cable&f function identically to the covered cables in terms of channel distribution, but will also visibly display the amount of channels they are using as coloured lines along themselves."]
 	quest.5BCF209E014D37E6.title: "Advanced Cabling"
+	quest.5BF082062143531B.title: "&2Plagued Outfit"
+	quest.5C38AF82CEFB8015.quest_subtitle: "Rare random world loot."
 	quest.5D03D736B9E76E16.quest_desc: [
 		"The Spatial Containment Structure (SCS) consists of a cage of &bSpatial Pylons&f covering the volume you wish to enclose in a Spatial IO cell. At the absolute minimum, an SCS requires three lines of spatial pylon blocks, one for each dimension of the space being contained (length, width, height)."
 		""
@@ -574,14 +836,24 @@
 		"Also, be mindful that each individual pylon (regardless of its length) takes up one channel. For particularly large spaces, you may wish to build a dedicated network with a controller to fit all the required pylons."
 	]
 	quest.5D03D736B9E76E16.title: "Spatial Pylon"
+	quest.5D284522BCE51032.quest_subtitle: "&6+25 Max Mana"
+	quest.5D396BE9BA075E66.quest_subtitle: "Can be found in market"
 	quest.5D3EA637C19E26F4.quest_desc: [
 		"The &bQuartz Wrench&f does what any regular tech mod wrench would do. It rotates blocks and devices along the face you right-click on and dismantles them when right-clicked while sneaking."
 		""
 		"AE2's wrench comes in both certus and nether quartz flavours."
 	]
+	quest.5D94118C96E07BAA.title: "&2Venomous Outfit"
+	quest.5E0BD4E4E6C9E146.quest_subtitle: "Allows the player to stand on lava while sneaking. Grants protection against hot floors."
+	quest.5EC30214D9EE2A0C.quest_subtitle: "Harness the power of &2nature&r. Increased &2nature spell power&r or &2armor&r."
+	quest.5EC30214D9EE2A0C.title: "&2&lSchool of Nature"
 	quest.5EC521DA8FF06758.quest_desc: ["A powerful yet destructive artifact; the Piglins swore to protect it at the cost of their lives"]
 	quest.5EC521DA8FF06758.quest_subtitle: "Found in Bastions treasure chest"
+	quest.5F7FBCB758D54981.quest_subtitle: "Grants &6freezing immunity."
 	quest.5F8B17F4A8CF47C7.quest_desc: ["{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"52BB4427D9F5163D\" } }"]
+	quest.607047A3D380D423.quest_subtitle: "Shrinks the wearer to half their size."
+	quest.6073AB1A816E845F.quest_subtitle: "Harness the power of &cfire&r. Increased &cfire spell power&r or &carmor&r."
+	quest.6073AB1A816E845F.title: "&c&lSchool of Fire"
 	quest.607E3A4AEEA46A98.quest_desc: [
 		"With the 1k Storage Component, you can now craft yourself a 1k ME Item Storage Cell to start your digital item storage system. You'll most likely want the majority of your storage to be for items, so you'll probably want to make a few &bME Item Storage Cells&f."
 		""
@@ -600,15 +872,19 @@
 		""
 		"&o&7There is also an alternative recipe using compacting if you are having problems running it the intended way on a server.&r&r"
 	]
+	quest.60B9F9AD8F49371D.quest_subtitle: "Grants temporary fire resistance when touching lava/fire"
 	quest.60FC4ADEFBA29C6D.quest_desc: [""]
 	quest.61742FBBD1E5D42F.quest_desc: [
 		"The &bEqual Distribution Card&f is an upgrade for storage cells that pre-allocates a certain amount of items that can be taken up by any individual type."
 		""
 		"This behaviour is comparable to something like a Functional Storage drawer, wherein each compartment holds a set number of stacks as opposed to allowing items from one compartment to leak into the others and crowd other kinds of items out."
 	]
+	quest.629831A093BC1F03.quest_subtitle: "Melee attacks have a chance to inflict Wither."
 	quest.630BDF564F7516D7.quest_desc: ["To enable wireless network access, create the &eME Wireless Access Point&r. It allows access to the network via a wireless terminal, with range determined by the number of &aWireless Boosters&r inserted."]
+	quest.632F1D52317286A8.quest_subtitle: "Creepers will avoid the wearer. Hisses at attacking phantoms."
 	quest.63A35C0C01372EB6.quest_desc: ["Those who followed this eye were never seen again; rumors say they found the great city of Atlantis, or lost their way trying"]
 	quest.63A35C0C01372EB6.quest_subtitle: "Craft it using aquatic items"
+	quest.6423F47740F77C70.quest_subtitle: "Grants &6poison immunity."
 	quest.645E8388213F1284.quest_subtitle: "Block of coal"
 	quest.64A2A85357384A51.quest_desc: [
 		"Aside from the storage of items and fluids, AE2 also provides a native way of storing entire &estructures&f inside of storage cells, not too dissimilarly to the Compact Machines mod."
@@ -619,9 +895,19 @@
 	]
 	quest.64A2A85357384A51.title: "Spatial IO"
 	quest.64D7956A3E6681A5.quest_subtitle: "You already know how to make sulfur don't you?"
+	quest.65663D9E051280F2.quest_subtitle: "Increases the speed of ridden mounts"
+	quest.66630803C9EA0DEA.quest_subtitle: "Harness the power of &6holy&r. Increased &6holy spell power&r or &6armor&r."
+	quest.66630803C9EA0DEA.title: "&6&lSchool of Holy"
+	quest.66A8B9C4C4AC291A.quest_subtitle: "Strikes attackers with lightning. Grants immunity to lightning strikes."
+	quest.671D0A62B7171DBB.quest_subtitle: "&6Long Casts become uninterruptible"
+	quest.681E258AB577FF73.quest_subtitle: " Increases Lure and Luck of the Sea by 1 level"
 	quest.694646586C18C609.quest_desc: ["&6The Rover&r is a land vehicle that can drive on rough terrain of moons and planets. It's very fast, has an inventory for&9 eight items&r, and has two seats for multiple riders. To use it, fill it with fuel by shift-clicking and placing &aastral fuel buckets&r in the left input slot."]
 	quest.69E26E48222CEC01.quest_subtitle: "Rolling"
 	quest.6AD87BACD480D27B.quest_desc: ["Check the Renewable Ores chapter to see a renewable way to have Crushed Raw Iron."]
+	quest.6AFEDCF1CF22972F.quest_desc: ["Use your newly aquired arcane dust to make yourself some Magicians armor using it and iron armor at a smithing table."]
+	quest.6AFEDCF1CF22972F.quest_subtitle: "An early game source of &3additional mana"
+	quest.6B7CFD3808AB7DB1.title: "&cAdvanced Pyromancer Outfit"
+	quest.6C90039BB1651603.quest_subtitle: "When used for Upgrade: &6+5% Holy Spell Power"
 	quest.6CE8C3410296E977.quest_desc: [
 		"You can't breathe on the Moon without &3Oxygen&r. Actually, you can't breathe anywhere without &3Oxygen&r. Guess what the &9Moon&r doesn't have?"
 		""
@@ -632,6 +918,21 @@
 		"&6Tip:&r &7&oIt's always a good idea to have extra Oxygen on hand... just in case.&r&r"
 	]
 	quest.6CE8C3410296E977.title: "&aPreparing Some&r &bOxygen&r"
+	quest.6E8031A380EB37C8.quest_desc: [
+		"You may quickly notice as your explore your world that you will be finding scrolls. "
+		""
+		"Each scroll contains a spell, similar to an enchanted book. "
+		""
+		"The scroll can be consumed to cast that spell without consuming mana or triggering a cooldown, or brought to the first new workstation added: the Inscription Table."
+		""
+		"At the inscription table, you are allowed to place a spell book, one either found or crafted, and slot the scroll into it."
+		""
+		"However, depending on the rarity of the scroll (determined by the spell’s level), it may be too powerful for your spell book."
+		""
+		"In this case, you need a better spell book."
+	]
+	quest.6E8031A380EB37C8.quest_subtitle: "Inscribing spells"
+	quest.6E98473128936047.quest_subtitle: "Lets you move freely in water. You’ll sink and can take fall damage."
 	quest.6F8A1655E91E7E89.quest_desc: [
 		"The &bQuartz Cutting Knife&f, like the wrench, comes in both nether and certus quartz flavours and is a useful crafting tool to have on hand."
 		""
@@ -646,6 +947,29 @@
 		"This can be useful for situations where a block can be processed simply by placing it and breaking it with a certain tool."
 	]
 	quest.6FBCDEA419DB1D37.quest_subtitle: "GET OUT"
+	quest.70078CDA548D3393.quest_desc: [
+		"&bExplorer Maps&r are a core part of the &5Integrated Minecraft&r experience, acting as an expansion of the mapping functionalities provided by the base game. There are maps that can take you to specific biomes or structures. "
+		""
+		"Look in the &eShopping&r tab on the left menu to see the &bExplorer Maps&r available for you to buy. Some maps cannot be bought and must be obtained through quests."
+		""
+		"Many of you already know how to use a Map, but here's a quick reference for anyone who's forgotten."
+		"{@pagebreak}"
+		"- The top of the map is &6North&r, and travelling in the &6negative Z direction&r takes you North. The red pole of the &bMagnetic Compass&r also points North, so if it is pointing upwards, you are travelling North."
+		""
+		"- Left of the map is &6West&r, and travelling in the &6negative X direction&r takes you West. The &bMagentic compass&r will be pointing right."
+		""
+		"- Right of the map is &6East&r, and travelling in the &6positive X direction&r takes you East. The &bMagentic compass&r will be pointing left."
+		""
+		"- The bottom of the map is &6South&r, and travelling in the &6positive Z direction&r takes you South. The &bMagentic compass&r will be pointing down."
+		""
+		"F3 will show the direction you are headed if you ever get confused."
+	]
+	quest.704435187B4BD245.quest_desc: [
+		"&eRunestones&r are rare items found in magical structures, usually blank. Combine one with 8 focuses to attune it to a specific school, allowing you to craft themed gear."
+		""
+		"You can get a Blank Rune by defeating the &6Dead King&r or wiping an Inscribed Rune with a Shriving Stone."
+	]
+	quest.704CCA2CEAB23B4D.quest_desc: ["Before lighting the portal, you must first remove all &3Sculk Veins &rfrom the inner frame. After the frame is cleared, you can right click it with the &bHeart of The Deep &rthat you got earlier from killing The Warden."]
 	quest.70D34C00E2006C09.quest_desc: [
 		"In short, this allows you to combine up to 3 light ray beams and outputs a much faster beam. To  transform the combined beam into rotational power, you’ll need to use the Heavy Optical Receptor."
 		""
@@ -668,9 +992,26 @@
 	quest.7195C5282BA6B067.quest_desc: [""]
 	quest.7195C5282BA6B067.title: "cast iron ingot"
 	quest.72426A0FB41CD542.quest_desc: ["The &bSpatial Anchor&f is a companion device from the Spatial IO lineage that simply functions as a chunk loader. When connected to an ME network, the Anchor will force-load all the chunks occupied by the ME network across all cables and devices, excluding subnetworks, as long as the network remains powered."]
+	quest.72564111D0768098.quest_subtitle: "Increases the damage dealt by the wearer"
 	quest.725685829EF53BA4.quest_desc: ["The &bME Export Bus&r periodically transfers items from its whitelist filter to external storage. Unlike the Import Bus, the Export Bus requires a filter to function."]
+	quest.731C3214BB61FDAE.quest_desc: ["Found underground in the &aOverworld&r."]
+	quest.7362AE3D474FF6E1.quest_subtitle: "Drastically increases the wearer's sprint speed and allows for auto-step"
 	quest.738C5CDEA3283099.quest_desc: ["The &bEnergy Card&r can be applied to most chargeable devices like Portable Cells and Wireless Terminals to increase their energy buffer."]
 	quest.73D579268007A8C7.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.74370B84A072E947.quest_desc: [
+		"The &6Arcane Anvil&r lets you upgrade your spells. Place a &bspell scroll&r and an &cink&r of matching rarity to level it up."
+		""
+		"By placing a weapon and a spell scroll into th &6Arcane Anvil&r you can also imbue the effects of the used scroll into said weapon (consumes scroll,) making the weapon able to cast the spell. "
+		""
+		"A &eShriving Stone&r can be used to take off an imbued spell from a weapon."
+	]
+	quest.74370B84A072E947.quest_subtitle: "Upgrading and Imbuement"
+	quest.746F82D541EBA386.quest_desc: [
+		"&nYou can make a copy&r with dragon scale."
+		""
+		"&6&nYou should put your elytra in the Curios slot&r&r, as using it as equipment bugs the inventory hitboxes."
+	]
+	quest.746F82D541EBA386.quest_subtitle: "To be found in End Cities with ship!"
 	quest.74AD39A0B9CB46CF.quest_subtitle: "Better Elytra!"
 	quest.753831874D7C3BC8.quest_desc: [
 		"The &bCrafting Monitor&f displays the overall item being crafted, along with the remaining quantity of that item still being crafted."
@@ -678,6 +1019,15 @@
 		"Both the base AE2 monitor and the MEGA monitor function identically, but are provided for aesthetic purposes."
 	]
 	quest.753831874D7C3BC8.quest_subtitle: "Download more VRAM"
+	quest.7565ADCF5D431FE4.quest_subtitle: "Automatically loads next available projectile while in inventory. Crouch-Click to cancel"
+	quest.75709A3CC301B8A4.quest_desc: [
+		"&cInk&r can be found in magic structures, such as wizard towers, and is the key to crafting scrolls. "
+		""
+		"There are 5 variants, one for each rarity of scroll."
+		""
+		"When using &6ink&r in the&6 Scroll Forge&r, it will allow you to craft a spell of the corresponding rarity, at the lowest level available. If the minimum rarity of a spell is higher than the ink provided, you will not be able to craft it at all, instead needing a higher quality ink to craft its first level."
+	]
+	quest.75813E7A5E88D3B8.quest_subtitle: "When used for Upgrade: &6+5% Spell Resistance"
 	quest.75BD9E93A6143DC7.quest_desc: [
 		"A Rocket needs something to launch off of, so we'll need to make a &aLaunch Pad&r."
 		""
@@ -685,6 +1035,8 @@
 	]
 	quest.763F1FB0C55F702F.quest_desc: ["It has seen many warriors drown into the depths of the sea"]
 	quest.763F1FB0C55F702F.quest_subtitle: "Get it by Killing Elder Guardian"
+	quest.76D595EF8B7A90E1.title: "&aAdvanced Archevoker Outfit"
+	quest.779E68DD0A0F8483.quest_subtitle: "Can be crafted in the Alchemist Cauldron using an Echo Shard and a Mundane Potion."
 	quest.78425DC3875B9854.quest_desc: [
 		"&eApplied Energistics 2 (AE2)&r is a versatile digital storage mod, offering efficient storage and automation for your Minecraft experience."
 		""
@@ -692,6 +1044,10 @@
 	]
 	quest.78425DC3875B9854.quest_subtitle: "&lWelcome to &bApplied Energistics 2&f!"
 	quest.78425DC3875B9854.title: "Virtual Storage System"
+	quest.78DFD8815E2AE291.quest_subtitle: "Does not get consumed when eaten, meaning it's an infinite food source."
+	quest.78E34F3F9A19F275.quest_subtitle: "Gives you water breathing"
+	quest.793C4FD3470AC117.quest_subtitle: "Better Elytra!"
+	quest.7940D8A4ECBD6541.quest_subtitle: "Increases the wearer's attack speed"
 	quest.79A7417475A593C6.quest_desc: [
 		"Most of an ME network uses its own dedicated power system called AE. "
 		""
@@ -706,6 +1062,10 @@
 		"Applying colour to a cable uses 100AE of energy from its internal battery, for a total of 3400 cable segments in a single charge."
 	]
 	quest.7A47716BA89E7B06.title: "Color Applicator"
+	quest.7C185DB8566F7E33.quest_desc: ["Warm that new dragon egg by the fire."]
+	quest.7C185DB8566F7E33.quest_subtitle: "Hold the Dragon Egg"
+	quest.7EF4A265C25EFF12.quest_subtitle: "When used for Upgrade: &6+5% Ice Spell Power"
+	quest.7F1AB8E8DA7BFD77.quest_subtitle: "Adds a looting effect to killed mobs"
 	reward_table.173F5B7A61A12D48.title: "teste"
 	task.02603EEC37FE0012.title: "Glass Cable"
 	task.0B18DCF021EC9073.title: "ME Interface"

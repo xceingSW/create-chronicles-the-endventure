@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "alshanexs_familiars"
+	group: "10BAE746B6F04D66"
+	id: "2385B4F2FA029016"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

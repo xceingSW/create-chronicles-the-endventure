@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "storage_solutions"
-	group: "20996729F10511FA"
+	group: "37AD19D80019787F"
 	icon: {
 		id: "sophisticatedstorage:barrel"
 	}
@@ -27,7 +27,7 @@
 			y: 4.8d
 		}
 	]
-	order_index: 7
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
