@@ -1040,14 +1040,14 @@
 					type: "item"
 				}
 			]
-			size: 2.0d
+			size: 3.0d
 			tasks: [{
 				dimension: "minecraft:the_end"
 				id: "343ED73AE0A17261"
 				type: "dimension"
 			}]
-			x: -7.0d
-			y: -5.0d
+			x: -7.5d
+			y: -4.9d
 		}
 		{
 			id: "07655CF543C452F8"
@@ -1218,6 +1218,171 @@
 			}]
 			x: -11.0d
 			y: -12.0d
+		}
+		{
+			id: "46CE26B4185E78F6"
+			shape: "rsquare"
+			tasks: [{
+				id: "27EEE76D637AC25F"
+				item: { count: 1, id: "kubejs:oblivion_eye_fragment_core" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			id: "215659C97E225CD9"
+			shape: "rsquare"
+			tasks: [{
+				id: "665A43CE9657B1B7"
+				item: { count: 1, id: "kubejs:oblivion_eye_fragment_shard" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.5d
+		}
+		{
+			id: "15F3F247BBD99FFC"
+			shape: "rsquare"
+			tasks: [{
+				id: "0AEAA35B1850327B"
+				item: { count: 1, id: "kubejs:oblivion_eye_fragment_cracked" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			id: "0B71AA53E7598FCE"
+			shape: "rsquare"
+			tasks: [{
+				id: "5E262B4135E2F3E5"
+				item: { count: 1, id: "kubejs:evil_eye_fragment_core" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -0.5d
+		}
+		{
+			id: "3BFAFCAF4A1398FB"
+			shape: "rsquare"
+			tasks: [{
+				id: "5653A7A23EF62BF5"
+				item: { count: 1, id: "kubejs:evil_eye_fragment_shard" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 0.5d
+		}
+		{
+			id: "7E761D6BEC400CA1"
+			shape: "rsquare"
+			tasks: [{
+				id: "714C8D3F5D1C5AC7"
+				item: { count: 1, id: "kubejs:evil_eye_fragment_cracked" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 1.5d
+		}
+		{
+			id: "680E7452223F50D3"
+			shape: "rsquare"
+			tasks: [{
+				id: "3208E2756C186C11"
+				item: { count: 1, id: "kubejs:corrupted_eye_fragment_core" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: -3.5d
+		}
+		{
+			id: "6468BAD773321D19"
+			shape: "rsquare"
+			tasks: [{
+				id: "46C75B92A0292985"
+				item: { count: 1, id: "kubejs:corrupted_eye_fragment_shard" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: -3.5d
+		}
+		{
+			id: "78EECB9BBD130464"
+			shape: "rsquare"
+			tasks: [{
+				id: "40D62ECF4B808272"
+				item: { count: 1, id: "kubejs:corrupted_eye_fragment_cracked" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: -3.5d
+		}
+		{
+			id: "0F510AF1AE426138"
+			shape: "rsquare"
+			tasks: [{
+				id: "07FD5F30A59B5152"
+				item: { count: 1, id: "kubejs:black_eye_fragment_core" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: -5.0d
+		}
+		{
+			id: "18AA717744A8656B"
+			shape: "rsquare"
+			tasks: [{
+				id: "25438E3DA9B0D20D"
+				item: { count: 1, id: "kubejs:black_eye_fragment_shard" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: -5.0d
+		}
+		{
+			id: "0237F10FF6D641B7"
+			shape: "rsquare"
+			tasks: [{
+				id: "64DFF238CAF92D4F"
+				item: { count: 1, id: "kubejs:black_eye_fragment_cracked" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: -5.0d
+		}
+		{
+			id: "78D8F2513F3701A0"
+			shape: "rsquare"
+			tasks: [{
+				id: "75DB4243E856AD0F"
+				item: { count: 1, id: "kubejs:infernal_eye_fragment_core" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: -6.5d
+		}
+		{
+			id: "65F7AAFEB0A39681"
+			shape: "rsquare"
+			tasks: [{
+				id: "7D8C205685773FC8"
+				item: { count: 1, id: "kubejs:infernal_eye_fragment_shard" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: -6.5d
+		}
+		{
+			id: "36D5E490C9A7843D"
+			shape: "rsquare"
+			tasks: [{
+				id: "61F5D5ED8D0ECB90"
+				item: { count: 1, id: "kubejs:infernal_eye_fragment_cracked" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: -6.5d
 		}
 	]
 }

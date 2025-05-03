@@ -3,10 +3,11 @@
 	chapter.09B56D111668F538.title: "&6&nGetting Started!"
 	chapter.19BE083ACF488E0F.title: "&bIron's Spells 'n Spellbooks&r"
 	chapter.20497405FCFCFADA.title: "Chapter VII: Infernal Mechanism"
-	chapter.2385B4F2FA029016.title: "Alshanex's Familiars"
+	chapter.2385B4F2FA029016.title: "&aAlshanex's Familiars&r"
 	chapter.38FE3E0C86FF237B.title: "Chapter V: Steel Mechanism"
 	chapter.464FB437D5DF7824.title: "x&aArtifacts"
 	chapter.4B6E4A0215F45FC0.title: " X&3The Otherside: &0Deeper and Darker"
+	chapter.4F11D0F95BB94F2B.title: "Refined Storage"
 	chapter.50471206A7BA908F.title: "XEternal Starlight"
 	chapter.576F6A1E4D30F4F2.title: "Adventure Progression"
 	chapter.6183184A27691A5F.title: "Chapter IX: Calculation Mechanism"
@@ -36,6 +37,7 @@
 	quest.03A09B606040AD2E.quest_subtitle: "Rare random drop from Blazes."
 	quest.042259C7B1BF773A.quest_subtitle: "Lights your attackers on fire"
 	quest.0424F3DCA7620F49.quest_subtitle: "Increases the wearers mining speed and allows the wearer to break blocks like stone with their fist"
+	quest.0560F717010F1833.quest_subtitle: "right click into a tamed familiar to give him a stack of enraged (when getting hit, has a chance to consume a stack of enraged to gain heartstop for some seconds), limit 10 per familiar, dropped from Mooshrooms."
 	quest.058E04C43D9139A0.quest_desc: ["NNEED TO BE REVIEWED"]
 	quest.05A39ED901BC6569.quest_subtitle: "Reduces the time of debuffs"
 	quest.06252C87B61A19F3.quest_desc: [
@@ -99,6 +101,7 @@
 	]
 	quest.0819B8A983F38919.title: "&l&5Tips for teleporting&r&r"
 	quest.08277642FD16A56E.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.0842349EE8879544.quest_subtitle: "right click into a scorcher familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Pyromancer Towers."
 	quest.086223FF8861479F.quest_desc: [
 		"If you're planning to go to space, you'll need a new set of gear for the journey."
 		""
@@ -117,6 +120,7 @@
 		"Thus, a subnetwork on the other side of the Fiber can be powered wholly by the main network's power source, without requiring any extra dedicated powergen."
 	]
 	quest.089899282C7F87E4.title: "Forgot to Mention"
+	quest.093BE9C3E8D400D3.quest_subtitle: "used to heal familiars stored in a familiar tome over time."
 	quest.09C33BB3342632B4.quest_desc: [
 		"In &eThe End&r, you'll find the final boss of Vanilla Minecraft: The &5Ender Dragon&r."
 		""
@@ -150,6 +154,7 @@
 	quest.0CFFF58986CE7733.quest_subtitle: "you know how to make coal don't you? "
 	quest.0DDCE73E115DCE86.quest_subtitle: "When used for Upgrade: &6+5% Evocation Spell Power"
 	quest.0E0532BA6E3FFEF9.quest_subtitle: "Allows you to drink items faster, but now with style!"
+	quest.0EC55B2CACD070C2.quest_subtitle: "right click into a hunter familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Evoker Forts."
 	quest.0FF69526C1DC1593.quest_desc: ["Can be tamed with enchanted &cNetherite Chestplates&r. When tamed, they will occasionally drop enchanted books. "]
 	quest.108EA49E8421CCC7.quest_desc: [""]
 	quest.109FBFA37FF99341.quest_desc: [
@@ -232,7 +237,9 @@
 		""
 		"&2Important:&r Keep a Campfire below the cauldron to keep it heated."
 	]
+	quest.182280CF12911D30.quest_subtitle: "used to store and release a single familiar of any kind, and can be put into a familiar bed to heal the stored familiar over time."
 	quest.184B9A5F983FA7A5.quest_desc: ["Although it shows a Honey Bottle, you need to actually use a&n Honey Bucket with filling by spout.&r&c "]
+	quest.192C9C5B4F236448.quest_subtitle: "right click into a plague doctor familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Impaled Shipwrecks."
 	quest.192EE909C57F390A.quest_subtitle: "Rare chance of spawning after breaking an &8Ancient Vase&r."
 	quest.1ADACCB1A8BB9E7E.quest_subtitle: "An infinite steak"
 	quest.1C267CC53FD04C88.title: "&4Cultist Outfit"
@@ -254,12 +261,29 @@
 		""
 		"Changing the type of Polarization in the Optical Source can also have an effect on how the Light Ray interacts with this block so I encourage you to play around with this."
 	]
+	quest.1DDDE80A3D76DD30.quest_subtitle: "right click into a necromancer familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Ancient Battlegrounds."
 	quest.1E4B9F8A3401B4BF.quest_desc: ["Pirates say it gave sight to the legendary Black Pearl"]
 	quest.1E4B9F8A3401B4BF.quest_subtitle: "Found in Buried Chests"
+	quest.1F149DB505D3BC7D.quest_subtitle: "right click into a summoner familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Ancient Cities."
 	quest.1F4AE081014800B4.quest_desc: ["It was lost by a demon in the battle between the Aether and the Nether"]
 	quest.1F4AE081014800B4.quest_subtitle: "Found in Nether Fortresses"
 	quest.1F4AE081014800B4.title: "Nether Eye"
 	quest.203CEDAC6E1CAB91.quest_subtitle: "&6+100 Max Mana"
+	quest.20BFB23E1ADDC3DF.quest_desc: [
+		"{image:kubejs:textures/familiars/necromancer.png width:100 height:88 align:center}"
+		"&l&6Battle:&r&r specialized in blood magic, including necromancy abilities to summon undeads."
+		""
+		"&6&lAbilities:&r&r"
+		"->Undead Chaos: has the ability to make undead entities around go in a rampage, attacking nearby entities in confusion."
+		""
+		"->Witherify: has the ability to turn nearby skeletons into wither skeletons."
+		""
+		"&l&6Spawn:&r&r can be found studying the death in Soul Sand Valleys."
+		""
+		"&l&6Food:&r&r can be healed using bones or blood vials."
+	]
+	quest.20BFB23E1ADDC3DF.quest_subtitle: "Tame one Necromancer Familiar"
+	quest.20BFB23E1ADDC3DF.title: "Necromancer Familiar"
 	quest.20EAD0D76E8C2683.quest_subtitle: "When used for Upgrade: &6+50 Max Mana"
 	quest.216E2ED7D793F72A.quest_subtitle: "Rare random drop from Evokers or Archevokers."
 	quest.2241F84F6AAD5933.quest_subtitle: "Teleport amulet gives you evasion after you teleport if your Ender spell power is high enough"
@@ -283,12 +307,28 @@
 		"Each Assembler has a slot for a crafting pattern and can operate standalone when powered."
 	]
 	quest.250E32D632A506B2.quest_subtitle: "A Cushion that makes you let out a loud fart. Totally useless... or is it?"
+	quest.25C81EB613F46A69.quest_subtitle: "right click into a lightning mage familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Mountain Towers."
 	quest.25F281C3D8849819.quest_desc: [
 		"By default, an ME network on its own only has an internal buffer of 800AE without an ME Controller, with the controller adding an extra 8kAE per block. For large enough networks, this can be insufficient and may cause a network to power off intermittently when trying to recoup power for any connected devices."
 		""
 		"The &bEnergy Cell&f allows for an ME network to hold significantly more energy, adding another 200kAE per regular Energy Cell and 1.6MAE per &bDense&f Energy Cell. These can also be placed anywhere in the network to provide the increased energy buffer."
 	]
 	quest.25F8D49B732EF7C7.quest_subtitle: "Once crafted, it finds the&2 nearest Catacombs&r and &3leads you towards it&r. The trapped soul points toward its home"
+	quest.2651428AF7D72328.quest_desc: [
+		"{image:kubejs:textures/familiars/lightmage.png width:100 height:113 align:center}"
+		"&l&6Battle:&r&r specialized in lightning magic, casting spells that hit multiple targets at the same time."
+		""
+		"&6&lAbilities:&r&r"
+		"->Charge Owner: has the ability to charge the owner for some time, giving him increased speed and strength."
+		""
+		"->Charge Creeper: everytime he finds a creeper, he will follow him to charge it."
+		""
+		"&l&6Spawn:&r&r can be found wandering around in mountains, searching for a good spot to attract lightnings."
+		""
+		"&l&6Food:&r&r can be healed using lightning bottles."
+	]
+	quest.2651428AF7D72328.quest_subtitle: "Tame one Lightning Mage Familiar"
+	quest.2651428AF7D72328.title: "Lightning Mage Familiar"
 	quest.265960CE3104527E.quest_desc: [
 		"&cBeam Focuser&r allows you to process certain items using rotational power and the light  beam power. "
 		""
@@ -320,6 +360,20 @@
 	]
 	quest.2A0B07555EC8D47E.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
 	quest.2A30FB7263BB3ECB.title: "&4Hemomancer Outfit"
+	quest.2A844214CE94E140.quest_desc: [
+		"{image:kubejs:textures/familiars/bard.png width:100 height:130 align:center}"
+		"&l&6Battle:&r&r specialized in sound magic, attacking his enemies with powerful melodies, but also supporting his friends with supporting melodies."
+		""
+		"&6&lAbilities:&r&r"
+		"-> Musical Nature: he will play melodies to make adventures much nicer."
+		""
+		"&l&6Spawn:&r&r to get him, you will need to cast a sound spell near an untamed familiar, making them interest in music."
+		""
+		"&l&6Food:&r&r can be healed using music discs."
+	]
+	quest.2A844214CE94E140.quest_subtitle: "Tame one Bard Familiar"
+	quest.2A844214CE94E140.title: "Bard Familiar"
+	quest.2AEF1BFD3C4C0F7A.quest_subtitle: "+20% spell resist, when equipped tamed familiars that fall below half health will get oakskin effect, crafted."
 	quest.2B619746DAF80A5E.quest_subtitle: "Gives a movement speed boost when taking damage"
 	quest.2BBCFC6BD1359852.quest_desc: [
 		"&cHeart Container&r"
@@ -329,6 +383,7 @@
 		""
 		"&bHeart Container&r"
 	]
+	quest.2C1C7767F66A6453.quest_subtitle: "right click into a cleric familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Priest Towers."
 	quest.2C203D19752E2E2A.quest_desc: ["The &eLesser Spell Slot Improvement&r can be applied to a spellbook multiple times, up to a maximum of 12 slots."]
 	quest.2C7EE6C411E3CF59.quest_desc: [
 		"&bPortable Cells&f function identically to regular cells in that they can they be inserted into a chest or drive and filled accordingly."
@@ -420,6 +475,7 @@
 		""
 		"Storage buses can be filtered and given specific priorities such that specific items will try to go to the attached storage first, however it will not retroactively move any filtered items from anywhere else in the network to its attached storage."
 	]
+	quest.3252CBA260461444.quest_subtitle: "right click into an archmage familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Mountain Towers."
 	quest.32728BD9BD6384F3.quest_desc: [
 		"The &bAcceleration Card&f, depending on the device being upgraded with it, will either increase the speed at which the device operates or allow the device to carry out more operations in one go."
 		""
@@ -436,6 +492,7 @@
 	quest.334AF33B87A48816.title: "P2P Tunnels"
 	quest.33EF47DF16D412B5.quest_desc: ["Has witnessed destruction. Maybe it also witnessed your stuff disappear"]
 	quest.33EF47DF16D412B5.quest_subtitle: "Dropped by The Wither"
+	quest.3409D29DC6A2360E.quest_subtitle: " right click into a tamed familiar to allow him to block attacks with a low chance, limit 1 per familiar, found in Blacksmith Structures."
 	quest.343AB719F81DFC63.quest_desc: ["This pupil is believed to have seen the ancient brewing recipes that were lost in time."]
 	quest.343AB719F81DFC63.quest_subtitle: " Craft it using the witch pupil"
 	quest.35029D28522C7A28.quest_desc: [
@@ -529,6 +586,7 @@
 	quest.3CBDB45D65737212.quest_subtitle: "Found by stepping on Infested Sculk"
 	quest.3D0F9F9B2B945E7A.quest_subtitle: "Harness the power of &bfrost&r. Increased &bfrost spell power&r or &barmor&r."
 	quest.3D0F9F9B2B945E7A.title: "&b&lSchool of Ice"
+	quest.3D23B7E2B837EA28.quest_subtitle: "+10% mana regen, when equipped allows tamed familiars to escape death at the cost of your own mana, crafted."
 	quest.3D2DDC65DED45F4A.quest_desc: [
 		"The last piece of the puzzle for any large ME network is the &bME Controller&f."
 		""
@@ -554,6 +612,19 @@
 		"Once defeated, a &dDragon Egg&r spawns at the top of the Exit Portal. This cannot be mined like normal blocks, but is affected by gravity. :)"
 	]
 	quest.3D6259FBCAA99583.quest_subtitle: "It is time to face the mighty Ender Dragon"
+	quest.3DD814B346F1B543.quest_desc: [
+		"{image:kubejs:textures/familiars/cleric.png width:96 height:100 align:center}"
+		"&l&6Battle:&r&r specialized in holy magic, his main role is supporting but he can also cast powerful holy spells to purify enemies."
+		""
+		"&6&lAbilities:&r&r"
+		"->Salvation: he will attack undeads on sight, but if he sees a zombified villager, he will use his holy power to cure him and grant him the salvation."
+		""
+		"&l&6Spawn:&r&r to get a cleric familiar, you will need to cast the cleanse spell near an untamed necromancer familiar."
+		""
+		"&l&6Food:&r&r can be healed using divine pearls."
+	]
+	quest.3DD814B346F1B543.quest_subtitle: "Tame one Cleric Familiar"
+	quest.3DD814B346F1B543.title: "Cleric Familiar"
 	quest.3E42FEEFBC22F7D3.quest_desc: ["You can also automate this with &n&cnetherack&r&r if you prefer."]
 	quest.3E6E9C53FBE836FB.quest_desc: [
 		"The Scroll Forge is a new crafting station that allows the player to craft scrolls by using ink, paper, and a focus. "
@@ -583,6 +654,8 @@
 	quest.4070652999DD3249.quest_subtitle: "When used for Upgrade: &6+5% Nature Spell Power"
 	quest.409394CEF9087E88.quest_subtitle: "Please visit the renewable ores chapter to learn how to activate this."
 	quest.409E9857A7494319.quest_subtitle: "Allows walking on powdered snow and makes ice less slippery"
+	quest.40E256F7660DF8A9.quest_subtitle: "can be used to store and release multiple familiars at the same time, crafted."
+	quest.41338251AEE28EE2.quest_subtitle: "right click into a tamed familiar to boost his health permanently, limit 10 per familiar, crafted."
 	quest.419A16655447AA92.quest_subtitle: "Provides an infinite night vision effect"
 	quest.422A888D3F7C4665.quest_subtitle: "When used for Upgrade: &6+5% Fire Spell Power"
 	quest.4256AD377F068FF4.quest_desc: [
@@ -646,6 +719,21 @@
 		"{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1DB562D431DB8D96\" } }"
 	]
 	quest.4706B7F09A2BFC25.quest_subtitle: "nipa farm"
+	quest.47F3B09688DFA1DC.quest_desc: [
+		"{image:kubejs:textures/familiars/illusionist.png width:100 height:82 align:center}"
+		"&l&6Battle:&r&r specialized in evocation magic, controlling enemies confusing them."
+		""
+		"&6&lAbilities:&r&r"
+		"->Magic Trick: when the owner has low health, illusionist will perform a magic trick that will hide his owner from the enemies."
+		""
+		"->Decoy: when he's low health, he will disappear leaving behind an explosive copy of him, taunting enemies around into attacking it."
+		""
+		"&l&6Spawn:&r&r illusionist familiars live alltogether in the Woodland Mansion."
+		""
+		"&l&6Food:&r&r can be healed using gold nuggets."
+	]
+	quest.47F3B09688DFA1DC.quest_subtitle: "Tame one Illusionist Familiar"
+	quest.47F3B09688DFA1DC.title: "Illusionist Familiar"
 	quest.48503955A124184F.title: "&bHeavy Knight Outfit"
 	quest.4919AEB1300D63B7.quest_subtitle: "From previous chapter"
 	quest.496C8280CF77787E.quest_subtitle: "Use coarse dirt to make mud."
@@ -695,6 +783,7 @@
 		"The &8sky stone block&r can be duplicated once obtained one."
 	]
 	quest.4CCA16E6E4070E37.quest_subtitle: "Explore the moon"
+	quest.4CCA4CC40699E202.quest_subtitle: "right click into a druid familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Jungle Temples."
 	quest.4CCAD1EBB977DF2E.quest_subtitle: "Press CTRL while airborne to perform a short and slow glide"
 	quest.4D308AD544372410.quest_subtitle: "When used for Upgrade: &6+5% Lightning Spell Power"
 	quest.4D38017F83D30E13.quest_subtitle: "Damages attackers similar to the Thorns enchantment"
@@ -749,6 +838,21 @@
 	]
 	quest.53C9B66BEC667ED0.quest_subtitle: "Magic and towers"
 	quest.53C9B66BEC667ED0.title: "&bGetting Started"
+	quest.54480115AF9A1DAD.quest_desc: [
+		"{image:kubejs:textures/familiars/druid.png width:100 height:115 align:center}"
+		"&l&6Battle:&r&r specialized in using nature magic to control enemies."
+		""
+		"&6&lAbilities:&r&r"
+		"-> Overgrowth: has the ability to bonemeal nearby crops."
+		""
+		"->Nature's Blessing: has the ability to breed nearby animals."
+		""
+		"&l&6Spawn:&r&r can be found protecting the forsts of the world."
+		""
+		"&l&6Food:&r&r can be healed using saplings."
+	]
+	quest.54480115AF9A1DAD.quest_subtitle: "Tame one Druid Familiar"
+	quest.54480115AF9A1DAD.title: "Druid Familiar"
 	quest.544A301047565927.quest_subtitle: "When used for Upgrade: &6+5% Ender Spell Power"
 	quest.5470523184A3D0BA.quest_subtitle: "Passive Ability (8s cooldown):&6When attacked, emit an expulsive burst of air"
 	quest.549427B0BBA24445.quest_desc: [
@@ -773,6 +877,19 @@
 		"When a cell is inserted in an input slot on the left, the IO Port can be toggled to either empty the cell out into other ME storages or fill the (ideally, partitioned) cell with certain items spread out across other storages."
 	]
 	quest.582E68291A96A9E7.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.58EE67ECB33D6AE9.quest_desc: [
+		"{image:kubejs:textures/familiars/plague_doctor.png width:100 height:94 align:center}"
+		"&l&6Battle:&r&r specialized in poison magic, poisoning enemies to make them suffer a slow death."
+		""
+		"&6&lAbilities:&r&r"
+		"->Poison Blood: his owner and himself deal increased damage to poisoned entities, and when a plague doctor familiar gets hit, they throw a poison potion as countermeasure."
+		""
+		"&l&6Spawn:&r&r to get him, you will need to craft a poison vial and give it to a tamed druid familiar."
+		""
+		"&l&6Food:&r&r can be healed using venomous spider fangs."
+	]
+	quest.58EE67ECB33D6AE9.quest_subtitle: "Tame one Plague Doctor Familiar"
+	quest.58EE67ECB33D6AE9.title: "Plague Doctor Familiar"
 	quest.594A8459AD944A3B.quest_desc: [
 		"It's hard to keep finding single use scrolls, but by putting the scrolls into a spell book using the inscription table, one can keep using the spell without consuming the scroll."
 		""
@@ -802,6 +919,21 @@
 		"Wireless terminals can also be upgraded with &eEnergy Cards&f to provide a larger internal battery."
 	]
 	quest.5A2F0B2712D9C667.quest_subtitle: "Applies fortune to mined blocks"
+	quest.5AA39CCAEED433CA.quest_desc: [
+		"{image:kubejs:textures/familiars/hunter.png width:100 height:127 align:center}"
+		"&l&6Battle:&r&r specialized in attacking enemies with arrows, combined with swift moves."
+		""
+		"&6&lAbilities:&r&r"
+		"->Watcher: has the ability to protect the owner from enemies aiming at him, even if the owner has not noticed them."
+		""
+		"->Smelling Loot: the owner can right click him with any item to make him search for entities around that can drop them, marking them for the owner to see."
+		""
+		"&l&6Spawn:&r&r can be found searching for preys in forests."
+		""
+		"&l&6Food:&r&r can be healed using wolf food."
+	]
+	quest.5AA39CCAEED433CA.quest_subtitle: "Tome one Hunter Familiar"
+	quest.5AA39CCAEED433CA.title: "Hunter Familiar"
 	quest.5ABC7CE1A9B9FB7C.quest_subtitle: "Allows the wearer to walk on fluids while sprinting"
 	quest.5B00766B91E5F1CB.quest_subtitle: "Drops from The Dead King"
 	quest.5B7298316481A1CF.quest_desc: [
@@ -828,6 +960,7 @@
 	quest.5BCF209E014D37E6.title: "Advanced Cabling"
 	quest.5BF082062143531B.title: "&2Plagued Outfit"
 	quest.5C38AF82CEFB8015.quest_subtitle: "Rare random world loot."
+	quest.5C63E2E0D537CF6B.quest_subtitle: "+50 max mana, when equipped tamed familiars that fall below 25% health willl get invisibility effect, crafted."
 	quest.5D03D736B9E76E16.quest_desc: [
 		"The Spatial Containment Structure (SCS) consists of a cage of &bSpatial Pylons&f covering the volume you wish to enclose in a Spatial IO cell. At the absolute minimum, an SCS requires three lines of spatial pylon blocks, one for each dimension of the space being contained (length, width, height)."
 		""
@@ -836,6 +969,21 @@
 		"Also, be mindful that each individual pylon (regardless of its length) takes up one channel. For particularly large spaces, you may wish to build a dedicated network with a controller to fit all the required pylons."
 	]
 	quest.5D03D736B9E76E16.title: "Spatial Pylon"
+	quest.5D0DCD2B1AB653BB.quest_desc: [
+		"{image:kubejs:textures/familiars/scorcher.png width:100 height:80 align:center}"
+		"&l&6Battle:&r&r specialized in fire magic, burning his enemies to death."
+		""
+		"&6&lAbilities:&r&r"
+		"->Molten Heart: upon getting hit, he will set attackers on fire for some time."
+		""
+		"->Heatproof: grants his owner and himself fire immunity."
+		""
+		"&l&6Spawn:&r&r can be found wandering around in hot places in the nether."
+		""
+		"&l&6Food:&r&r can be healed using blaze powder."
+	]
+	quest.5D0DCD2B1AB653BB.quest_subtitle: "Tame one Scorcher Familiar"
+	quest.5D0DCD2B1AB653BB.title: "Scorcher Familiar"
 	quest.5D284522BCE51032.quest_subtitle: "&6+25 Max Mana"
 	quest.5D396BE9BA075E66.quest_subtitle: "Can be found in market"
 	quest.5D3EA637C19E26F4.quest_desc: [
@@ -843,6 +991,7 @@
 		""
 		"AE2's wrench comes in both certus and nether quartz flavours."
 	]
+	quest.5D52508105645DD0.quest_subtitle: "Obtained from the Mysterious Orb"
 	quest.5D94118C96E07BAA.title: "&2Venomous Outfit"
 	quest.5E0BD4E4E6C9E146.quest_subtitle: "Allows the player to stand on lava while sneaking. Grants protection against hot floors."
 	quest.5EC30214D9EE2A0C.quest_subtitle: "Harness the power of &2nature&r. Increased &2nature spell power&r or &2armor&r."
@@ -851,6 +1000,7 @@
 	quest.5EC521DA8FF06758.quest_subtitle: "Found in Bastions treasure chest"
 	quest.5F7FBCB758D54981.quest_subtitle: "Grants &6freezing immunity."
 	quest.5F8B17F4A8CF47C7.quest_desc: ["{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"52BB4427D9F5163D\" } }"]
+	quest.5FE710403BE1AAF5.quest_subtitle: "right click into a tamed familiar to boost his armor permanently, limit 10 per familiar, dropped from Ancient Knights."
 	quest.607047A3D380D423.quest_subtitle: "Shrinks the wearer to half their size."
 	quest.6073AB1A816E845F.quest_subtitle: "Harness the power of &cfire&r. Increased &cfire spell power&r or &carmor&r."
 	quest.6073AB1A816E845F.title: "&c&lSchool of Fire"
@@ -879,6 +1029,12 @@
 		""
 		"This behaviour is comparable to something like a Functional Storage drawer, wherein each compartment holds a set number of stacks as opposed to allowing items from one compartment to leak into the others and crowd other kinds of items out."
 	]
+	quest.627A25524F94FB34.quest_desc: [
+		"&aAlshanex's Familiars&r adds magical creatures called &eFamiliars&r that can be found scattered around the world and they can be tamed with &dArcane Essence.&r They follow you and fight using powerful spells.&m"
+		""
+		"These &efamiliars&r can also be transported by using a &6Familiar Tome&r, and these tomes can be put in a &cFamiliar Bed&r to recover the health of the pet contained in the tome."
+	]
+	quest.627A25524F94FB34.title: "&aAlshanex's Familiars&r"
 	quest.629831A093BC1F03.quest_subtitle: "Melee attacks have a chance to inflict Wither."
 	quest.630BDF564F7516D7.quest_desc: ["To enable wireless network access, create the &eME Wireless Access Point&r. It allows access to the network via a wireless terminal, with range determined by the number of &aWireless Boosters&r inserted."]
 	quest.632F1D52317286A8.quest_subtitle: "Creepers will avoid the wearer. Hisses at attacking phantoms."
@@ -901,12 +1057,29 @@
 	quest.66A8B9C4C4AC291A.quest_subtitle: "Strikes attackers with lightning. Grants immunity to lightning strikes."
 	quest.671D0A62B7171DBB.quest_subtitle: "&6Long Casts become uninterruptible"
 	quest.681E258AB577FF73.quest_subtitle: " Increases Lure and Luck of the Sea by 1 level"
+	quest.6907C5959F72930E.quest_subtitle: "+5% mana regen. Found in Catacombs."
+	quest.692D79D601534A2E.quest_desc: [
+		"{image:kubejs:textures/familiars/summoner.png width:100 height:105 align:center}"
+		"&l&6Battle:&r&r specialized in eldrith magic and unknown arts, being able to summon creatures born in the shadows."
+		""
+		"&6&lAbilities:&r&r"
+		"->True Vision: has the ability to give night vision to the owner, in addition to making him immune to blindness and darkness effects."
+		""
+		"->Dark Ritual: has the ability to deactivate sculk shriekers, hiding the owner from the warden."
+		""
+		"&l&6Spawn:&r&r can be found wandering around in sculk biomes, studying ancient arts."
+		""
+		"&l&6Food:&r&r can be healed using lost knowledge fragments."
+	]
+	quest.692D79D601534A2E.quest_subtitle: "Tame one Summoner Familiar"
+	quest.692D79D601534A2E.title: "Summoner Familiar"
 	quest.694646586C18C609.quest_desc: ["&6The Rover&r is a land vehicle that can drive on rough terrain of moons and planets. It's very fast, has an inventory for&9 eight items&r, and has two seats for multiple riders. To use it, fill it with fuel by shift-clicking and placing &aastral fuel buckets&r in the left input slot."]
 	quest.69E26E48222CEC01.quest_subtitle: "Rolling"
 	quest.6AD87BACD480D27B.quest_desc: ["Check the Renewable Ores chapter to see a renewable way to have Crushed Raw Iron."]
 	quest.6AFEDCF1CF22972F.quest_desc: ["Use your newly aquired arcane dust to make yourself some Magicians armor using it and iron armor at a smithing table."]
 	quest.6AFEDCF1CF22972F.quest_subtitle: "An early game source of &3additional mana"
 	quest.6B7CFD3808AB7DB1.title: "&cAdvanced Pyromancer Outfit"
+	quest.6C7C101DFE4E67F3.quest_subtitle: "+5% mana regen, constantly heals tamed familiars at the cost of your own mana, found in Priest Towers."
 	quest.6C90039BB1651603.quest_subtitle: "When used for Upgrade: &6+5% Holy Spell Power"
 	quest.6CE8C3410296E977.quest_desc: [
 		"You can't breathe on the Moon without &3Oxygen&r. Actually, you can't breathe anywhere without &3Oxygen&r. Guess what the &9Moon&r doesn't have?"
@@ -991,12 +1164,15 @@
 	quest.7148FF0A0F2F9890.title: "We are going to the moon!!!"
 	quest.7195C5282BA6B067.quest_desc: [""]
 	quest.7195C5282BA6B067.title: "cast iron ingot"
+	quest.7220794AE44350FA.quest_subtitle: "+15% cast time reduction, when equipped familiars that fall below 25% health will get evasion effect on intervals, found in End Cities."
 	quest.72426A0FB41CD542.quest_desc: ["The &bSpatial Anchor&f is a companion device from the Spatial IO lineage that simply functions as a chunk loader. When connected to an ME network, the Anchor will force-load all the chunks occupied by the ME network across all cables and devices, excluding subnetworks, as long as the network remains powered."]
 	quest.72564111D0768098.quest_subtitle: "Increases the damage dealt by the wearer"
 	quest.725685829EF53BA4.quest_desc: ["The &bME Export Bus&r periodically transfers items from its whitelist filter to external storage. Unlike the Import Bus, the Export Bus requires a filter to function."]
 	quest.731C3214BB61FDAE.quest_desc: ["Found underground in the &aOverworld&r."]
 	quest.7362AE3D474FF6E1.quest_subtitle: "Drastically increases the wearer's sprint speed and allows for auto-step"
 	quest.738C5CDEA3283099.quest_desc: ["The &bEnergy Card&r can be applied to most chargeable devices like Portable Cells and Wireless Terminals to increase their energy buffer."]
+	quest.73BD8A69D47D4C98.quest_subtitle: "A new school of &asound"
+	quest.73BD8A69D47D4C98.title: "&a&lSchool of Sound"
 	quest.73D579268007A8C7.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
 	quest.74370B84A072E947.quest_desc: [
 		"The &6Arcane Anvil&r lets you upgrade your spells. Place a &bspell scroll&r and an &cink&r of matching rarity to level it up."
@@ -1033,6 +1209,7 @@
 		""
 		"To use it, place it down wherever you want to launch from with a clear view of the sky. Once you have a Rocket, you can place it down in the middle of the Launch Pad."
 	]
+	quest.75F8A5AAEB67C3AA.quest_subtitle: "right click into an illusionist familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Woodland Mansions."
 	quest.763F1FB0C55F702F.quest_desc: ["It has seen many warriors drown into the depths of the sea"]
 	quest.763F1FB0C55F702F.quest_subtitle: "Get it by Killing Elder Guardian"
 	quest.76D595EF8B7A90E1.title: "&aAdvanced Archevoker Outfit"
@@ -1048,6 +1225,7 @@
 	quest.78E34F3F9A19F275.quest_subtitle: "Gives you water breathing"
 	quest.793C4FD3470AC117.quest_subtitle: "Better Elytra!"
 	quest.7940D8A4ECBD6541.quest_subtitle: "Increases the wearer's attack speed"
+	quest.79604D7C48A2B350.quest_subtitle: "right click into a bard familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, obtained from the Mysterious Orb."
 	quest.79A7417475A593C6.quest_desc: [
 		"Most of an ME network uses its own dedicated power system called AE. "
 		""
@@ -1062,6 +1240,24 @@
 		"Applying colour to a cable uses 100AE of energy from its internal battery, for a total of 3400 cable segments in a single charge."
 	]
 	quest.7A47716BA89E7B06.title: "Color Applicator"
+	quest.7B09AFE245BA7808.quest_desc: [
+		""
+		"{image:kubejs:textures/familiars/archmage.png width:100 height:51 align:center}"
+		"&l&6Battle:&r&r specialized in basic magic from different schools."
+		""
+		"&6&lAbilities:&r&r"
+		"->Transmutation: has the ability to convert spell scrolls in a pedestal into other random scroll of the same rarity, and there's a little chance to get a higher rarity scroll."
+		""
+		"->Enderman's Nightmare: enderman are scared of him, and will run away when seeing him."
+		""
+		"->Shulker Protection: has the ability to counter shulker bullets."
+		""
+		"&l&6Spawn:&r&r can be found wandering around in the End, studying the limits of the existence."
+		""
+		"&l&6Food:&r&r can be healed using arcane cloth."
+	]
+	quest.7B09AFE245BA7808.quest_subtitle: "Tame one Arcmage Familiar"
+	quest.7B09AFE245BA7808.title: "Archmage Familiar"
 	quest.7C185DB8566F7E33.quest_desc: ["Warm that new dragon egg by the fire."]
 	quest.7C185DB8566F7E33.quest_subtitle: "Hold the Dragon Egg"
 	quest.7EF4A265C25EFF12.quest_subtitle: "When used for Upgrade: &6+5% Ice Spell Power"
@@ -1090,4 +1286,5 @@
 	task.657AA1244E52A5D5.title: "Spatial Storage Cell"
 	task.6EAF9118DB909B9B.title: "ME Pattern Provider"
 	task.714DADB6776DEE49.title: "ME Item Storage Cell"
+	task.7EA1F1F867081F34.title: "a"
 }
