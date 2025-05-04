@@ -1384,5 +1384,14 @@
 			x: -14.0d
 			y: -6.5d
 		}
+		{
+			id: "7DAEBFB6739BC14E"
+			tasks: [{
+				id: "53C18716A59B10AC"
+				type: "checkmark"
+			}]
+			x: -12.0d
+			y: -1.5d
+		}
 	]
 }

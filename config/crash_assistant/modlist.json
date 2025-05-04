@@ -179,6 +179,10 @@
     "modId": "chat_heads",
     "version": "0.13.18"
   },
+  "ChatShot (1.21.x-neoforge)-1.0.4.jar": {
+    "modId": "chatshot",
+    "version": "1.0.4"
+  },
   "cherishedworlds-neoforge-10.1.1+1.21.1.jar": {
     "modId": "cherishedworlds",
     "version": "10.1.1+1.21.1"
@@ -279,9 +283,9 @@
     "modId": "create_dragons_plus",
     "version": "1.4.2"
   },
-  "create-enchantment-industry-2.1.0.jar": {
+  "create-enchantment-industry-2.1.1.jar": {
     "modId": "create_enchantment_industry",
-    "version": "2.1.0"
+    "version": "2.1.1"
   },
   "create-integrated-farming-1.0.3.jar": {
     "modId": "create_integrated_farming",
@@ -585,9 +589,9 @@
     "modId": "justenoughprofessions",
     "version": "4.0.4"
   },
-  "JustEnoughResources-NeoForge-1.21.1-1.6.0.14.jar": {
+  "JustEnoughResources-NeoForge-1.21.1-1.6.0.15.jar": {
     "modId": "jeresources",
-    "version": "1.6.0.14"
+    "version": "1.6.0.15"
   },
   "keybindspurger-1.21.x-neoforge-1.3.3.jar": {
     "modId": "keybindspurger",
@@ -806,9 +810,9 @@
     "modId": "prism",
     "version": "1.0.11"
   },
-  "PuzzlesLib-v21.1.34-1.21.1-NeoForge.jar": {
+  "PuzzlesLib-v21.1.36-1.21.1-NeoForge.jar": {
     "modId": "puzzleslib",
-    "version": "21.1.34"
+    "version": "21.1.36"
   },
   "Quest-Kill-Task-neoforge-0.3.0+1.21.1.jar": {
     "modId": "questkilltask",
@@ -849,6 +853,10 @@
   "rhino-2101.2.7-build.74.jar": {
     "modId": "rhino",
     "version": "2101.2.7-build.74"
+  },
+  "Ribbits-1.21.1-NeoForge-4.1.2.jar": {
+    "modId": "ribbits",
+    "version": "1.21.1-NeoForge-4.1.2"
   },
   "rightclickharvest-neoforge-4.5.3+1.21.1.jar": {
     "modId": "rightclickharvest",

@@ -19,3 +19,13 @@ ItemEvents.rightClicked(event => {
   }
 });
 
+
+ItemEvents.rightClicked(event => {
+  console.log("manuellll",event.item);
+  let item = event.item;
+  if (item.nbt) {
+    console.log("NBT:", item.nbt);
+  } else {
+    console.log("Item has no NBT");
+  }
+});
