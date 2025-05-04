@@ -900,7 +900,13 @@
 			tasks: [{
 				entity: "eternal_starlight:the_gatekeeper"
 				icon: {
-					id: "cataclysm:emp"
+					components: {
+						"minecraft:rarity": "rare"
+						"obtrophies:trophy_info": {
+							entity: "eternal_starlight:the_gatekeeper"
+						}
+					}
+					id: "obtrophies:trophy"
 				}
 				id: "48E0D855D7C89C65"
 				type: "kill"
@@ -924,7 +930,13 @@
 			tasks: [{
 				entity: "eternal_starlight:lunar_monstrosity"
 				icon: {
-					id: "cataclysm:emp"
+					components: {
+						"minecraft:rarity": "rare"
+						"obtrophies:trophy_info": {
+							entity: "eternal_starlight:lunar_monstrosity"
+						}
+					}
+					id: "obtrophies:trophy"
 				}
 				id: "2BA7C3C4071A5212"
 				type: "kill"
@@ -948,7 +960,13 @@
 			tasks: [{
 				entity: "eternal_starlight:starlight_golem"
 				icon: {
-					id: "cataclysm:emp"
+					components: {
+						"minecraft:rarity": "rare"
+						"obtrophies:trophy_info": {
+							entity: "eternal_starlight:starlight_golem"
+						}
+					}
+					id: "obtrophies:trophy"
 				}
 				id: "0C6853CF6407B349"
 				type: "kill"

@@ -21,6 +21,7 @@
 	chapter_group.61769445B9D5700E.title: "Dimensions"
 	chapter_group.781F17A4DC3D0E66.title: "Create"
 	quest.0051AD1BF14F9EC9.quest_subtitle: "&6+10% Summon Damage"
+	quest.00D7A88C4C686C02.quest_subtitle: "&3☠ Tier 6"
 	quest.01219DEB95032DC7.title: "&dShadow-Walker Outfit"
 	quest.016C498DFB704536.quest_subtitle: "Allows you to trade with villagers for much cheaper"
 	quest.01B1F88F57961B10.quest_desc: [
@@ -120,6 +121,7 @@
 		"Thus, a subnetwork on the other side of the Fiber can be powered wholly by the main network's power source, without requiring any extra dedicated powergen."
 	]
 	quest.089899282C7F87E4.title: "Forgot to Mention"
+	quest.090F9541580A5130.quest_subtitle: "&5☠ Tier 2"
 	quest.093BE9C3E8D400D3.quest_subtitle: "used to heal familiars stored in a familiar tome over time."
 	quest.09C33BB3342632B4.quest_desc: [
 		"In &eThe End&r, you'll find the final boss of Vanilla Minecraft: The &5Ender Dragon&r."
@@ -239,6 +241,7 @@
 	]
 	quest.182280CF12911D30.quest_subtitle: "used to store and release a single familiar of any kind, and can be put into a familiar bed to heal the stored familiar over time."
 	quest.184B9A5F983FA7A5.quest_desc: ["Although it shows a Honey Bottle, you need to actually use a&n Honey Bucket with filling by spout.&r&c "]
+	quest.1888BBCB9A54D6FD.quest_subtitle: "&5☠ Tier 2"
 	quest.192C9C5B4F236448.quest_subtitle: "right click into a plague doctor familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Impaled Shipwrecks."
 	quest.192EE909C57F390A.quest_subtitle: "Rare chance of spawning after breaking an &8Ancient Vase&r."
 	quest.1ADACCB1A8BB9E7E.quest_subtitle: "An infinite steak"
@@ -287,6 +290,7 @@
 	quest.20EAD0D76E8C2683.quest_subtitle: "When used for Upgrade: &6+50 Max Mana"
 	quest.216E2ED7D793F72A.quest_subtitle: "Rare random drop from Evokers or Archevokers."
 	quest.2241F84F6AAD5933.quest_subtitle: "Teleport amulet gives you evasion after you teleport if your Ender spell power is high enough"
+	quest.229C5328751C93F5.quest_subtitle: "☠ Tier 1"
 	quest.22E0846B96BBD5DD.quest_desc: ["Legends say this eye once belonged to one of the great Sandworms"]
 	quest.22E0846B96BBD5DD.quest_subtitle: "Found in Desert Pyramids"
 	quest.2393A0DC1A59CDEC.quest_desc: [
@@ -351,6 +355,7 @@
 	quest.26FB758B3706B935.quest_subtitle: "Slain creatures drop &6+25% experience."
 	quest.2807106C369DF042.quest_subtitle: "Get your hands on a Sculk Transmitter."
 	quest.29491A4A65DEDCDC.quest_subtitle: "Grants +5 Hearts"
+	quest.2965B8DD03DA1142.quest_subtitle: "&b☠ Tier 4"
 	quest.29A64A556C101D83.quest_desc: [
 		"The&b Water Pump&r is essential for keeping the &aOxygen Distributor&r running indefinitely. "
 		""
@@ -548,6 +553,7 @@
 	quest.37F39A63C0C2934F.quest_desc: ["One of the last artifacts left behind by the Iceologers before they all suddenly vanished from the world"]
 	quest.37F39A63C0C2934F.quest_subtitle: "Found in Igloos"
 	quest.383DED27F9FC984B.quest_subtitle: "&6+15% Mana Regeneration"
+	quest.383E2DEB48E19246.quest_subtitle: "&4☠ Tier 3"
 	quest.391E94F1938AC865.quest_subtitle: "&6+15% Spell Resistance"
 	quest.3921087D564A6659.quest_desc: [
 		"To create an &6Arcane Crystal Obelisk&r, place down an &2Arcane Polished Darkstone block&r, then place two &2Arcane Crystal Blocks&r on top of it."
@@ -777,6 +783,7 @@
 		""
 		"This can automate machines to craft resources when they fall below a specified amount."
 	]
+	quest.4CABBBFC66009A4D.quest_subtitle: " Bought from the market using boss tokens"
 	quest.4CCA16E6E4070E37.quest_desc: [
 		"This items can be found in &ldungeons chests on the moon&r."
 		""
@@ -787,6 +794,7 @@
 	quest.4CCAD1EBB977DF2E.quest_subtitle: "Press CTRL while airborne to perform a short and slow glide"
 	quest.4D308AD544372410.quest_subtitle: "When used for Upgrade: &6+5% Lightning Spell Power"
 	quest.4D38017F83D30E13.quest_subtitle: "Damages attackers similar to the Thorns enchantment"
+	quest.4DF64525E5F3E1FC.quest_subtitle: "&4☠ Tier 3"
 	quest.4EA88BEBCCF09C54.quest_desc: ["The &bFuzzy Card&f allows a filtered item to be matched regardless of any (NBT) metadata such as damage or enchantments, while the &bInverter Card&f toggles the filter on such buses from being a whitelist to being a blacklist."]
 	quest.4ECA82782988ACB9.quest_desc: [
 		"There are various ways you can create an amethyst shard farm. First, you need to find an amethyst cluster, as one cluster can grow in all directions. You can set up a smart observer to detect when the clusters are ready to harvest, then use a deployer with a pickaxe enchanted with Fortune to get extra drops."
@@ -794,9 +802,10 @@
 		"Another alternative is to set up an amethyst farm in your base without the need to find a cluster. You can use an&d amethyst golem&r from Ars Nouveau for this purpose."
 	]
 	quest.4F734FC470276106.quest_subtitle: "Applies a temporary haste effect after eating food"
-	quest.4FC2652D2526E842.quest_subtitle: "&c★★★★☆ Warden!"
+	quest.4FC2652D2526E842.quest_subtitle: "&c★★★★★★☆ Warden!"
 	quest.4FDAFBD64AA710A1.quest_subtitle: "Increases experience dropped by mobs"
 	quest.4FF456152213D0AF.title: "&dVoidwalker Outfit"
+	quest.5037AA2541E439E5.quest_subtitle: "&3☠ Tier 6"
 	quest.509BB6BF39848F5B.quest_desc: [
 		"Once you've explored the Moon and gathered enough Desh, you will be able to create &dSpace Stations&r around planets!"
 		""
@@ -829,6 +838,7 @@
 	]
 	quest.52E7496E0A9118F6.title: "Basic Cabling"
 	quest.5391C1240C677127.quest_subtitle: "When used for Upgrade: &6+5% Cooldown Reduction"
+	quest.5399B06BD0D95CAE.quest_subtitle: "☠ Tier 1"
 	quest.53C9B66BEC667ED0.quest_desc: [
 		"&bIron's Spells 'n Spellbooks&r is a magic mod focused around exploring the world to find magic scrolls in order to cast fantastical magics. "
 		""
@@ -877,6 +887,7 @@
 		"When a cell is inserted in an input slot on the left, the IO Port can be toggled to either empty the cell out into other ME storages or fill the (ideally, partitioned) cell with certain items spread out across other storages."
 	]
 	quest.582E68291A96A9E7.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.583EBA8354586BFD.quest_subtitle: "&d☠ Tier 5"
 	quest.58EE67ECB33D6AE9.quest_desc: [
 		"{image:kubejs:textures/familiars/plague_doctor.png width:100 height:94 align:center}"
 		"&l&6Battle:&r&r specialized in poison magic, poisoning enemies to make them suffer a slow death."
@@ -910,6 +921,7 @@
 	quest.59B3E2C267D8B567.quest_desc: ["Warm that new dragon egg by the fire."]
 	quest.59B3E2C267D8B567.quest_subtitle: "Hold the Dragon Egg"
 	quest.59B3E2C267D8B567.title: "Obtain a Dragon Egg"
+	quest.59EB1027C6C9B043.quest_subtitle: "☠ Tier 1"
 	quest.59F5E3351D772A63.quest_subtitle: "&6+10% Eldritch Spell Power&r, Passive Ability (5s cooldown):Deal extra damage to creatures based on their maximum mana"
 	quest.5A27BA1E5C692EB1.quest_desc: [
 		"The &bWireless Terminal&f functions identically to a regular terminal, but wirelessly."
@@ -1000,6 +1012,8 @@
 	quest.5EC521DA8FF06758.quest_subtitle: "Found in Bastions treasure chest"
 	quest.5F7FBCB758D54981.quest_subtitle: "Grants &6freezing immunity."
 	quest.5F8B17F4A8CF47C7.quest_desc: ["{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"52BB4427D9F5163D\" } }"]
+	quest.5FCFD038804EFBF7.quest_subtitle: "&d☠ Tier 5"
+	quest.5FDAADD20C6A6DC7.quest_subtitle: " Bought from the market using boss tokens"
 	quest.5FE710403BE1AAF5.quest_subtitle: "right click into a tamed familiar to boost his armor permanently, limit 10 per familiar, dropped from Ancient Knights."
 	quest.607047A3D380D423.quest_subtitle: "Shrinks the wearer to half their size."
 	quest.6073AB1A816E845F.quest_subtitle: "Harness the power of &cfire&r. Increased &cfire spell power&r or &carmor&r."
@@ -1029,6 +1043,7 @@
 		""
 		"This behaviour is comparable to something like a Functional Storage drawer, wherein each compartment holds a set number of stacks as opposed to allowing items from one compartment to leak into the others and crowd other kinds of items out."
 	]
+	quest.619A108A6BC00D4F.quest_subtitle: " Bought from the market using boss tokens"
 	quest.627A25524F94FB34.quest_desc: [
 		"&aAlshanex's Familiars&r adds magical creatures called &eFamiliars&r that can be found scattered around the world and they can be tamed with &dArcane Essence.&r They follow you and fight using powerful spells.&m"
 		""
@@ -1079,6 +1094,7 @@
 	quest.6AFEDCF1CF22972F.quest_desc: ["Use your newly aquired arcane dust to make yourself some Magicians armor using it and iron armor at a smithing table."]
 	quest.6AFEDCF1CF22972F.quest_subtitle: "An early game source of &3additional mana"
 	quest.6B7CFD3808AB7DB1.title: "&cAdvanced Pyromancer Outfit"
+	quest.6BAC0A0F663D5B1F.quest_subtitle: "&d☠ Tier 5"
 	quest.6C7C101DFE4E67F3.quest_subtitle: "+5% mana regen, constantly heals tamed familiars at the cost of your own mana, found in Priest Towers."
 	quest.6C90039BB1651603.quest_subtitle: "When used for Upgrade: &6+5% Holy Spell Power"
 	quest.6CE8C3410296E977.quest_desc: [
@@ -1148,6 +1164,7 @@
 		""
 		"&e&oNote: I highly recommend checking the Ponder for all the nuances this Beam Condenser allows with its configurations with the different beam types.&r&r"
 	]
+	quest.712E35EA760A9452.quest_subtitle: "&4☠ Tier 3"
 	quest.71482AB41A355486.quest_desc: ["Throw an ender pearl at the tip of a &5Myalite Crystal&r and travel through it. "]
 	quest.71482AB41A355486.quest_subtitle: "If you can..."
 	quest.71482AB41A355486.title: "Chase Me!"
@@ -1168,8 +1185,10 @@
 	quest.72426A0FB41CD542.quest_desc: ["The &bSpatial Anchor&f is a companion device from the Spatial IO lineage that simply functions as a chunk loader. When connected to an ME network, the Anchor will force-load all the chunks occupied by the ME network across all cables and devices, excluding subnetworks, as long as the network remains powered."]
 	quest.72564111D0768098.quest_subtitle: "Increases the damage dealt by the wearer"
 	quest.725685829EF53BA4.quest_desc: ["The &bME Export Bus&r periodically transfers items from its whitelist filter to external storage. Unlike the Import Bus, the Export Bus requires a filter to function."]
+	quest.72A389F374C87353.quest_subtitle: "&b☠ Tier 4"
 	quest.731C3214BB61FDAE.quest_desc: ["Found underground in the &aOverworld&r."]
 	quest.7362AE3D474FF6E1.quest_subtitle: "Drastically increases the wearer's sprint speed and allows for auto-step"
+	quest.7363495F41F0AE8E.quest_subtitle: "&5☠ Tier 2"
 	quest.738C5CDEA3283099.quest_desc: ["The &bEnergy Card&r can be applied to most chargeable devices like Portable Cells and Wireless Terminals to increase their energy buffer."]
 	quest.73BD8A69D47D4C98.quest_subtitle: "A new school of &asound"
 	quest.73BD8A69D47D4C98.title: "&a&lSchool of Sound"

@@ -50,7 +50,7 @@ ServerEvents.recipes(event => {
   });*/
 });
 
-/*
+/* 37 total wepons falta 2 na shop na sei quais
 simplyswords:stars_edge
 simplyswords:livyatan
 simplyswords:watching_warglaive
