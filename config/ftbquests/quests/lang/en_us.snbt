@@ -893,9 +893,9 @@
 	quest.594A8459AD944A3B.quest_desc: [
 		"It's hard to keep finding single use scrolls, but by putting the scrolls into a spell book using the inscription table, one can keep using the spell without consuming the scroll."
 		""
-		"Default key is &6\"x\"&r to open wheel. cghange to scroll wheel?"
+		"Open the spell wheel with the &6scroll wheel&r (middle mouse button) by default."
 		""
-		"Default cast key is &6\"r\"&r"
+		"Default cast key is &6\"V\"&r"
 	]
 	quest.594A8459AD944A3B.quest_subtitle: "Your first Spellbook"
 	quest.594EDA0BA8DFB743.quest_subtitle: "The Priest mob will trade one for a written book that can be found in the Evoker Fort. The written book must be translated by a captive wandering trader from the Evoker Fort first."

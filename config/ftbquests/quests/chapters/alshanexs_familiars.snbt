@@ -363,8 +363,8 @@
 				item: { count: 1, id: "alshanex_familiars:broken_shield" }
 				type: "item"
 			}]
-			x: -6.5d
-			y: -1.0d
+			x: -2.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["182280CF12911D30"]
@@ -374,8 +374,8 @@
 				item: { count: 1, id: "alshanex_familiars:life_gem" }
 				type: "item"
 			}]
-			x: -5.5d
-			y: -1.0d
+			x: -2.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["182280CF12911D30"]
@@ -385,8 +385,8 @@
 				item: { count: 1, id: "alshanex_familiars:rusty_helmet" }
 				type: "item"
 			}]
-			x: -7.5d
-			y: -1.0d
+			x: -2.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["182280CF12911D30"]
@@ -396,8 +396,8 @@
 				item: { count: 1, id: "alshanex_familiars:strange_mushroom" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: -1.0d
+			x: -2.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["73BD8A69D47D4C98"]
@@ -407,8 +407,8 @@
 				item: { count: 1, id: "alshanex_familiars:bard_harp" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 4.5d
+			x: -7.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["73BD8A69D47D4C98"]
@@ -418,8 +418,8 @@
 				item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "alshanex_familiars:sound_spell_book" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 2.5d
+			x: -5.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["73BD8A69D47D4C98"]
@@ -429,11 +429,11 @@
 				item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "alshanex_familiars:familiar_spellbook" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 1.5d
+			x: -4.5d
+			y: 0.0d
 		}
 		{
-			dependencies: ["627A25524F94FB34"]
+			dependencies: ["182280CF12911D30"]
 			id: "40E256F7660DF8A9"
 			shape: "rsquare"
 			tasks: [{
@@ -441,8 +441,8 @@
 				item: { count: 1, id: "alshanex_familiars:pandora_box" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: 0.5d
+			x: -3.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["627A25524F94FB34"]
@@ -454,11 +454,11 @@
 				item: { count: 1, id: "alshanex_familiars:familiar_tome" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: 0.5d
+			x: -3.5d
+			y: 2.8d
 		}
 		{
-			dependencies: ["627A25524F94FB34"]
+			dependencies: ["182280CF12911D30"]
 			id: "093BE9C3E8D400D3"
 			shape: "rsquare"
 			tasks: [{
@@ -466,8 +466,8 @@
 				item: { count: 1, id: "alshanex_familiars:pet_bed" }
 				type: "item"
 			}]
-			x: -7.5d
-			y: 0.5d
+			x: -3.5d
+			y: 4.5d
 		}
 		{
 			hide_until_deps_complete: true
@@ -482,7 +482,7 @@
 				type: "checkmark"
 			}]
 			x: -6.0d
-			y: 3.0d
+			y: 2.85d
 		}
 		{
 			dependencies: ["627A25524F94FB34"]
@@ -492,8 +492,8 @@
 				item: { count: 1, id: "alshanex_familiars:sound_rune" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: 3.0d
+			x: -6.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["73BD8A69D47D4C98"]
@@ -503,8 +503,8 @@
 				item: { count: 1, id: "alshanex_familiars:sound_upgrade_orb" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 3.5d
+			x: -6.5d
+			y: 0.0d
 		}
 	]
 }

@@ -29,5 +29,5 @@ key_key.ftbchunks.add_waypoint:key.keyboard.keypad.add
 key_key.ftbchunks.waypoint_manager:key.keyboard.y
 key_key.kubejs.kubedex:key.keyboard.unknown
 key_create.keyinfo.rotate_menu:key.keyboard.u
-key_key.irons_spellbooks.spell_wheel:key.keyboard.x
+key_key.irons_spellbooks.spell_wheel:key.mouse.middle
 key_key.irons_spellbooks.spellbook_cast:key.keyboard.v

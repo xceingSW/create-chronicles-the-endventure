@@ -127,9 +127,9 @@
     "modId": "betterchunkloading",
     "version": "5.4"
   },
-  "bettercombat-neoforge-2.1.5+1.21.1.jar": {
+  "bettercombat-neoforge-2.1.6+1.21.1.jar": {
     "modId": "bettercombat",
-    "version": "2.1.5+1.21.1"
+    "version": "2.1.6+1.21.1"
   },
   "BetterThirdPerson-neoforge-1.9.0.jar": {
     "modId": "betterthirdperson",
@@ -163,9 +163,9 @@
     "modId": "cable_facades",
     "version": "1.5.1"
   },
-  "CerbonsAPI-NeoForge-1.21-1.2.0.jar": {
+  "CerbonsAPI-NeoForge-1.21-1.3.0.jar": {
     "modId": "cerbons_api",
-    "version": "1.2.0"
+    "version": "1.3.0"
   },
   "cfm_circuit_breaker-1.0.0.jar": {
     "modId": "cfm_circuit_breaker",
@@ -175,9 +175,9 @@
     "modId": "chalk",
     "version": "1.6.9"
   },
-  "chat_heads-0.13.17-neoforge-1.21.jar": {
+  "chat_heads-0.13.18-neoforge-1.21.jar": {
     "modId": "chat_heads",
-    "version": "0.13.17"
+    "version": "0.13.18"
   },
   "cherishedworlds-neoforge-10.1.1+1.21.1.jar": {
     "modId": "cherishedworlds",
@@ -215,9 +215,9 @@
     "modId": "collective",
     "version": "8.3"
   },
-  "combat_roll-neoforge-2.0.3+1.21.1.jar": {
+  "combat_roll-neoforge-2.0.4+1.21.1.jar": {
     "modId": "combat_roll",
-    "version": "2.0.3+1.21.1"
+    "version": "2.0.4+1.21.1"
   },
   "comforts-neoforge-9.0.3+1.21.1.jar": {
     "modId": "comforts",
@@ -267,9 +267,9 @@
     "modId": "craftingtweaks",
     "version": "21.1.5"
   },
-  "crash_assistant-neoforge-1.21.1-1.7.16.jar": {
+  "CrashAssistant-neoforge-1.21.1-1.7.18.jar": {
     "modId": "crash_assistant",
-    "version": "1.7.16"
+    "version": "1.7.18"
   },
   "create-1.21.1-6.0.4.jar": {
     "modId": "create",
@@ -489,9 +489,9 @@
     "modId": "gamediscs",
     "version": "0.3.2-neoforge"
   },
-  "garnished-2.1.3+1.21.1-neoforged.jar": {
+  "garnished-2.1.3.1+1.21.1-neoforged.jar": {
     "modId": "garnished",
-    "version": "2.1.3"
+    "version": "2.1.3.1"
   },
   "geckolib-neoforge-1.21.1-4.7.5.1.jar": {
     "modId": "geckolib",
@@ -593,9 +593,9 @@
     "modId": "keybindspurger",
     "version": "1.3.3"
   },
-  "Kiwi-1.21.1-NeoForge-15.5.1.jar": {
+  "Kiwi-1.21.1-NeoForge-15.5.2.jar": {
     "modId": "kiwi",
-    "version": "15.5.1+neoforge"
+    "version": "15.5.2+neoforge"
   },
   "konkrete_neoforge_1.9.9_MC_1.21.jar": {
     "modId": "konkrete",
@@ -778,9 +778,9 @@
     "modId": "patchouli",
     "version": "1.21-88-NEOFORGE"
   },
-  "Paxi-1.21.1-NeoForge-5.1.2.jar": {
+  "Paxi-1.21.1-NeoForge-5.1.3.jar": {
     "modId": "paxi",
-    "version": "1.21.1-NeoForge-5.1.2"
+    "version": "1.21.1-NeoForge-5.1.3"
   },
   "phantasm-1.0.3.jar": {
     "modId": "phantasm",
@@ -1042,9 +1042,9 @@
     "modId": "yigd",
     "version": "2.0.11"
   },
-  "YungsApi-1.21.1-NeoForge-5.1.4.jar": {
+  "YungsApi-1.21.1-NeoForge-5.1.5.jar": {
     "modId": "yungsapi",
-    "version": "1.21.1-NeoForge-5.1.4"
+    "version": "1.21.1-NeoForge-5.1.5"
   },
   "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar": {
     "modId": "betterdeserttemples",
