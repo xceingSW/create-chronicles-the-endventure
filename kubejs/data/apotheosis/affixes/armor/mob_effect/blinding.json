@@ -21,7 +21,7 @@
                 "step": 20.0
             },
             "amplifier": 0.0,
-            "cooldown": 300
+            "cooldown": 900
         },
         "apotheosis:rare": {
             "duration": {
@@ -30,7 +30,7 @@
                 "step": 20.0
             },
             "amplifier": 0.0,
-            "cooldown": 240
+            "cooldown": 800
         },
         "apotheosis:epic": {
             "duration": {
@@ -39,7 +39,7 @@
                 "step": 20.0
             },
             "amplifier": 0.0,
-            "cooldown": 240
+            "cooldown": 600
         },
         "apotheosis:mythic": {
             "duration": {
@@ -48,7 +48,7 @@
                 "step": 20.0
             },
             "amplifier": 0.0,
-            "cooldown": 200
+            "cooldown": 420
         }
     }
 }

@@ -17,23 +17,23 @@
     ],
     "values": {
         "apotheosis:uncommon": {
-            "duration": 100.0,
+            "duration": 40.0,
             "amplifier": 0.0,
-            "cooldown": 40
+            "cooldown": 750
         },
         "apotheosis:rare": {
             "duration": {
-                "min": 100.0,
-                "max": 120.0,
+                "min": 40.0,
+                "max": 60.0,
                 "step": 20.0
             },
             "amplifier": 0.0,
-            "cooldown": 40
+            "cooldown": 750
         },
         "apotheosis:epic": {
             "duration": {
-                "min": 100.0,
-                "max": 140.0,
+                "min": 60.0,
+                "max": 80.0,
                 "step": 20.0
             },
             "amplifier": {
@@ -41,12 +41,12 @@
                 "max": 1.0,
                 "step": 0.125
             },
-            "cooldown": 40
+            "cooldown": 750
         },
         "apotheosis:mythic": {
             "duration": {
-                "min": 100.0,
-                "max": 140.0,
+                "min": 80.0,
+                "max": 100.0,
                 "step": 20.0
             },
             "amplifier": {
@@ -54,7 +54,7 @@
                 "max": 1.0,
                 "step": 0.25
             },
-            "cooldown": 40
+            "cooldown": 750
         }
     }
 }

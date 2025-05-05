@@ -18,18 +18,18 @@
     ],
     "values": {
         "apotheosis:epic": {
-            "duration": 200.0,
+            "duration": 50.0,
             "amplifier": 0.0,
-            "cooldown": 300
+            "cooldown": 15000
         },
         "apotheosis:mythic": {
-            "duration": 200.0,
+            "duration": 100.0,
             "amplifier": {
                 "min": 0.0,
                 "max": 1.0,
                 "step": 0.25
             },
-            "cooldown": 300
+            "cooldown": 1250
         }
     }
 }

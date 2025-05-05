@@ -17,12 +17,12 @@
     "operation": "add_value",
     "values": {
         "apotheosis:epic": {
-            "min": 0.1,
-            "max": 0.2
+            "min": 0.025,
+            "max": 0.050
         },
         "apotheosis:mythic": {
-            "min": 0.1,
-            "max": 0.25
+            "min": 0.075,
+            "max": 0.1
         }
     }
 }

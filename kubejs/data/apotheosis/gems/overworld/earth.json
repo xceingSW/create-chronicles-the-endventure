@@ -39,9 +39,9 @@
             "mode": "existing",
             "values": {
                 "flawed": 1,
-                "normal": 2,
-                "flawless": 3,
-                "perfect": 4
+                "normal": 1,
+                "flawless": 1,
+                "perfect": 2
             }
         },
         {
@@ -57,9 +57,9 @@
             "mode": "existing",
             "values": {
                 "flawed": 1,
-                "normal": 2,
-                "flawless": 3,
-                "perfect": 4
+                "normal": 1,
+                "flawless": 2,
+                "perfect": 2
             }
         },
         {
@@ -70,8 +70,8 @@
             "values": {
                 "flawed": 1,
                 "normal": 2,
-                "flawless": 3,
-                "perfect": 4
+                "flawless": 2,
+                "perfect": 3
             }
         }
     ]

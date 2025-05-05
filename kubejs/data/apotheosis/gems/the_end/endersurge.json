@@ -29,8 +29,7 @@
             },
             "mode": "global",
             "values": {
-                "flawless": 1,
-                "perfect": 2
+                "perfect": 1
             }
         }
     ]

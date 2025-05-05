@@ -22,20 +22,8 @@
             "affix_type": "stat"
         },
         {
-            "type": "apotheosis:affix",
-            "affix_type": "stat"
-        },
-        {
-            "type": "apotheosis:chanced",
-            "chance": 0.5,
-            "rule": {
-                "type": "apotheosis:affix",
-                "affix_type": "basic_effect"
-            }
-        },
-        {
             "type": "apotheosis:socket",
-            "min": 0,
+            "min": 1,
             "max": 1
         }
     ],

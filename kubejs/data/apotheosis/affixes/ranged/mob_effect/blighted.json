@@ -17,8 +17,8 @@
     "values": {
         "apotheosis:epic": {
             "duration": {
-                "min": 160.0,
-                "max": 200.0,
+                "min": 20.0,
+                "max": 80.0,
                 "step": 20.0
             },
             "amplifier": {
@@ -26,20 +26,20 @@
                 "max": 1.0,
                 "step": 0.25
             },
-            "cooldown": 300
+            "cooldown": 900
         },
         "apotheosis:mythic": {
             "duration": {
-                "min": 160.0,
-                "max": 200.0,
+                "min": 40.0,
+                "max": 100.0,
                 "step": 20.0
             },
             "amplifier": {
                 "min": 0.0,
-                "max": 3.0,
+                "max": 2.0,
                 "step": 0.25
             },
-            "cooldown": 300
+            "cooldown": 750
         }
     }
 }

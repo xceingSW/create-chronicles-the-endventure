@@ -19,8 +19,8 @@
     "values": {
         "apotheosis:rare": {
             "duration": {
-                "min": 100.0,
-                "max": 180.0,
+                "min": 50.0,
+                "max": 100.0,
                 "step": 20.0
             },
             "amplifier": 0.0,
@@ -28,8 +28,8 @@
         },
         "apotheosis:epic": {
             "duration": {
-                "min": 100.0,
-                "max": 200.0,
+                "min": 80.0,
+                "max": 120.0,
                 "step": 20.0
             },
             "amplifier": {
@@ -41,8 +41,8 @@
         },
         "apotheosis:mythic": {
             "duration": {
-                "min": 200.0,
-                "max": 400.0,
+                "min": 100.0,
+                "max": 200.0,
                 "step": 20.0
             },
             "amplifier": {

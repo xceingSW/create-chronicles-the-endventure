@@ -10,12 +10,12 @@
     },
     "values": {
         "apotheosis:epic": {
-            "min": 0.5,
-            "max": 0.9
+            "min": 0.05,
+            "max": 0.1
         },
         "apotheosis:mythic": {
-            "min": 0.6,
-            "max": 1.2
+            "min": 0.1,
+            "max": 0.2
         }
     }
 }
