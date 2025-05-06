@@ -12,29 +12,29 @@
   "operation": "ADD_MULTIPLIED_BASE",
   "values": {
     "apotheosis:common": {
-      "min": 0.02,
-      "steps": 4,
-      "step": 0.005
+      "min": 0.01,
+      "steps": 2,
+      "step": 0.01
     },
     "apotheosis:uncommon": {
-      "min": 0.04,
-      "steps": 4,
+      "min": 0.03,
+      "steps": 2,
       "step": 0.01
     },
     "apotheosis:rare": {
-      "min": 0.06,
-      "steps": 4,
+      "min": 0.05,
+      "steps": 3,
       "step": 0.01
     },
     "apotheosis:epic": {
       "min": 0.08,
-      "steps": 6,
+      "steps": 4,
       "step": 0.01
     },
     "apotheosis:mythic": {
       "min": 0.1,
-      "steps": 6,
-      "step": 0.015
+      "steps": 5,
+      "step": 0.01
     }
   },
   "categories": [

@@ -16,12 +16,12 @@
                     "attribute": "apothic_attributes:experience_gained",
                     "operation": "add_multiplied_base",
                     "values": { 
-                        "cracked": 0.05, 
-                        "chipped": 0.10,
-                        "flawed": 0.15,
-                        "normal": 0.20,
-                        "flawless": 0.30,
-                        "perfect": 0.40
+                        "cracked": 0.025, 
+                        "chipped": 0.05,
+                        "flawed": 0.075,
+                        "normal": 0.1,
+                        "flawless": 0.125,
+                        "perfect": 0.15
                     }
                 },
                 {
@@ -29,11 +29,11 @@
                     "operation": "add_value",
                     "values": { 
                         "cracked": 0.25,
-                        "chipped": 0.5,
-                        "flawed": 0.75,
-                        "normal": 1.0,
-                        "flawless": 1.5,
-                        "perfect": 2.0
+                        "chipped": 0.25,
+                        "flawed": 0.50,
+                        "normal": 0.50,
+                        "flawless": 0.75,
+                        "perfect": 1.0
                     }
                 }
             ]

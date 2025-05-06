@@ -13,12 +13,12 @@
             },
             "operation": "add_multiplied_base",
             "values": {
-                "cracked": 0.02,
-                "chipped": 0.03,
-                "flawed": 0.05,
-                "normal": 0.07,
-                "flawless": 0.09,
-                "perfect": 0.12
+                "cracked": 0.01,
+                "chipped": 0.015,
+                "flawed": 0.02,
+                "normal": 0.025,
+                "flawless": 0.03,
+                "perfect": 0.05
             }
         }
     ]
