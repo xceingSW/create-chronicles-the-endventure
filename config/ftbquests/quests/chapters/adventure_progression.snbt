@@ -372,6 +372,9 @@
 			y: -8.0d
 		}
 		{
+			icon: {
+				id: "cataclysm:infernal_forge"
+			}
 			id: "7363495F41F0AE8E"
 			rewards: [{
 				count: 20
@@ -383,15 +386,22 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			tasks: [{
-				entity: "cataclysm:netherite_monstrosity"
-				icon: {
-					id: "cataclysm:infernal_forge"
+			tasks: [
+				{
+					entity: "cataclysm:netherite_monstrosity"
+					icon: {
+						id: "cataclysm:infernal_forge"
+					}
+					id: "16E38FFFB3E2CB7F"
+					type: "kill"
+					value: 1L
 				}
-				id: "16E38FFFB3E2CB7F"
-				type: "kill"
-				value: 1L
-			}]
+				{
+					id: "256EE5EB985514A6"
+					item: { count: 1, id: "kubejs:cursed_eye_fragment_shard" }
+					type: "item"
+				}
+			]
 			x: -7.5d
 			y: -10.5d
 		}
@@ -420,6 +430,15 @@
 			y: -6.5d
 		}
 		{
+			icon: {
+				components: {
+					"minecraft:rarity": "rare"
+					"obtrophies:trophy_info": {
+						entity: "bosses_of_mass_destruction:gauntlet"
+					}
+				}
+				id: "obtrophies:trophy"
+			}
 			id: "090F9541580A5130"
 			rewards: [{
 				count: 20
@@ -431,21 +450,28 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			tasks: [{
-				entity: "bosses_of_mass_destruction:gauntlet"
-				icon: {
-					components: {
-						"minecraft:rarity": "rare"
-						"obtrophies:trophy_info": {
-							entity: "bosses_of_mass_destruction:gauntlet"
+			tasks: [
+				{
+					entity: "bosses_of_mass_destruction:gauntlet"
+					icon: {
+						components: {
+							"minecraft:rarity": "rare"
+							"obtrophies:trophy_info": {
+								entity: "bosses_of_mass_destruction:gauntlet"
+							}
 						}
+						id: "obtrophies:trophy"
 					}
-					id: "obtrophies:trophy"
+					id: "1E399BE22B0347F9"
+					type: "kill"
+					value: 1L
 				}
-				id: "1E399BE22B0347F9"
-				type: "kill"
-				value: 1L
-			}]
+				{
+					id: "1F73D100ABC809F8"
+					item: { count: 1, id: "kubejs:cursed_eye_fragment_core" }
+					type: "item"
+				}
+			]
 			x: -7.5d
 			y: -11.5d
 		}
@@ -537,15 +563,22 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			tasks: [{
-				entity: "irons_spellbooks:dead_king"
-				icon: {
-					id: "irons_spellbooks:blood_staff"
+			tasks: [
+				{
+					entity: "irons_spellbooks:dead_king"
+					icon: {
+						id: "irons_spellbooks:blood_staff"
+					}
+					id: "2F9E5E269A16679D"
+					type: "kill"
+					value: 1L
 				}
-				id: "2F9E5E269A16679D"
-				type: "kill"
-				value: 1L
-			}]
+				{
+					id: "09C596450CD7D65B"
+					item: { count: 1, id: "kubejs:cursed_eye_fragment_cracked" }
+					type: "item"
+				}
+			]
 			x: -7.5d
 			y: -9.5d
 		}

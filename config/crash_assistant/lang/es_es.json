@@ -145,6 +145,7 @@
   "warnings.codex_crash_assistant_comment": "$DEFAULT",
   "commands.modlist_disabled_error_msg": "$DEFAULT",
   "commands.crash_command_done": "$DEFAULT",
+  "warnings.java_too_high": "$DEFAULT",
   "warnings.modernifx_watchdog": "$DEFAULT",
   "msg.over": "$DEFAULT",
   "gui.menu.analysis.create_dependencies": "$DEFAULT",

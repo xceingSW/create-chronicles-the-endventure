@@ -1,29 +1,16 @@
-Platform.mods.kubejs.name = 'Create Chronicles: A Simple Journey'
+Platform.mods.kubejs.name = 'Create Chronicles: The Endventure'
 
 StartupEvents.modifyCreativeTab('kubejs:tab', event => {
   event.icon = 'chronicles:logo';
-  event.displayName = 'Create Chronicles: A Simple Journey';
+  event.displayName = 'Create Chronicles: The Endventure';
 });
 
 const fragmentTypes = ['Core', 'Cracked', 'Shard']
 
-const eyes = [
-  { id: "endrem:wither_eye", name: "Forgotten Eye" },
-  { id: "endrem:cursed_eye", name: "Cursed Eye" },
-  { id: "endrem:lost_eye", name: "Lost Eye" },
-  { id: "endrem:magical_eye", name: "Lich Eye" },
-  { id: "endrem:witch_eye", name: "Omen Eye" },
-  { id: "endrem:exotic_eye", name: "Gilded Eye" },
-  { id: "endrem:cryptic_eye", name: "Cryptic Eye" },
-  { id: "endrem:old_eye", name: "Oblivion Eye" },
-  { id: "endrem:evil_eye", name: "Evil Eye" },
-  { id: "endrem:corrupted_eye", name: "Corrupted Eye" },
-  { id: "endrem:black_eye", name: "Black Eye" },
-  { id: "endrem:nether_eye", name: "Infernal Eye" }
-];
+
 
 ItemEvents.modification(event => {
-  eyes.forEach(eye => {
+  global.EYES.forEach(eye => {
     event.modify(eye.id, item => {
       item.rarity = 'EPIC'
     });
@@ -38,10 +25,10 @@ StartupEvents.registry('item', event => {
   event.create('create_chronicles').displayName("§6Create Chronicles").texture('kubejs:item/example_item')
   event.create('lootbag_boss').displayName("Loot bag of gems").texture('kubejs:item/example_item')
 
-  eyes.forEach(eye => {
+  global.EYES.forEach(eye => {
     const baseId = eye.name.toLowerCase().replace(/ /g, '_') // e.g. forgotten_eye
 
-    fragmentTypes.forEach(type => {
+    global.FRAGMENT_TYPES.forEach(type => {
       const id = `${baseId}_fragment_${type.toLowerCase()}`
       const displayName = `${eye.name} Fragment: ${type}`
 
