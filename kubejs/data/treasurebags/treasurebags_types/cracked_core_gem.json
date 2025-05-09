@@ -1,7 +1,7 @@
 {
-  "bag_color": "#244466",
-  "bag_overlay_color": "#c12697",
-  "bag_string_color": "#c33333",
+  "bag_color": "#7e7e7e",
+  "bag_overlay_color": "#ffca61",
+  "bag_string_color": "#7e7e7e",
   "display_name": "§7Cracked Core Gem Pouch",
   "drops_from_groups": [],
   "group": "default",

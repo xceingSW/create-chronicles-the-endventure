@@ -1,7 +1,7 @@
 {
-  "bag_color": "#244466",
-  "bag_overlay_color": "#c12697",
-  "bag_string_color": "#c33333",
+  "bag_color": "#41ff33",
+  "bag_overlay_color": "#ffca61",
+  "bag_string_color": "#41ff33",
   "display_name": "§aChipped Core Gem Pouch",
   "drops_from_groups": [],
   "group": "default",
