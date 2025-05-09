@@ -262,7 +262,7 @@
 	#Monstrosity's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	MonstrosityHealthMultiplier = 1.3
+	MonstrosityHealthMultiplier = 1.1
 	#Monstrosity's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
