@@ -14,8 +14,8 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "apotheosis:gem": "irons_apothic:core/bloody_pearl",
-                "apotheosis:purity": "cracked"
+                "apotheosis:gem": "apotheosis:core/ballast",
+                "apotheosis:purity": "chipped"
               }
             }
           ],
@@ -28,8 +28,8 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "apotheosis:gem": "irons_apothic:core/celsius_tear",
-                "apotheosis:purity": "cracked"
+                "apotheosis:gem": "apotheosis:core/brawlers",
+                "apotheosis:purity": "chipped"
               }
             }
           ],
@@ -42,8 +42,8 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "apotheosis:gem": "irons_apothic:core/charged_lodestone",
-                "apotheosis:purity": "cracked"
+                "apotheosis:gem": "apotheosis:core/breach",
+                "apotheosis:purity": "chipped"
               }
             }
           ],
@@ -56,8 +56,8 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "apotheosis:gem": "irons_apothic:core/dragonfire_spessartite",
-                "apotheosis:purity": "cracked"
+                "apotheosis:gem": "apotheosis:core/combatant",
+                "apotheosis:purity": "chipped"
               }
             }
           ],
@@ -70,8 +70,8 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "apotheosis:gem": "irons_apothic:core/effervescent_brimstone",
-                "apotheosis:purity": "cracked"
+                "apotheosis:gem": "apotheosis:core/guardian",
+                "apotheosis:purity": "chipped"
               }
             }
           ],
@@ -84,8 +84,8 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "apotheosis:gem": "irons_apothic:core/luminous_opal",
-                "apotheosis:purity": "cracked"
+                "apotheosis:gem": "apotheosis:core/samurai",
+                "apotheosis:purity": "chipped"
               }
             }
           ],
@@ -98,8 +98,8 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "apotheosis:gem": "irons_apothic:core/mossy_agate",
-                "apotheosis:purity": "cracked"
+                "apotheosis:gem": "apotheosis:core/slipstream",
+                "apotheosis:purity": "chipped"
               }
             }
           ],
@@ -112,8 +112,8 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "apotheosis:gem": "irons_apothic:core/void_umbalite",
-                "apotheosis:purity": "cracked"
+                "apotheosis:gem": "apotheosis:core/splendor",
+                "apotheosis:purity": "chipped"
               }
             }
           ],
@@ -126,8 +126,8 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "apotheosis:gem": "irons_apothic:core/whispering_tentaculite",
-                "apotheosis:purity": "cracked"
+                "apotheosis:gem": "apotheosis:core/lightning",
+                "apotheosis:purity": "chipped"
               }
             }
           ],
@@ -140,8 +140,8 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "apotheosis:gem": "irons_apothic:external/resonant_quartz",
-                "apotheosis:purity": "cracked"
+                "apotheosis:gem": "apotheosis:core/tyrannical",
+                "apotheosis:purity": "chipped"
               }
             }
           ],
@@ -150,5 +150,5 @@
       ]
     }
   ],
-  "random_sequence": "treasurebags:bags/cracked_arcane_gem"
+  "random_sequence": "treasurebags:bags/chipped_core_gem"
 }

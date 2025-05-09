@@ -145,9 +145,9 @@
       "canSpawn": true
     },
     "theGatekeeper": {
-      "maxHealth": 175.0,
+      "maxHealth": 700.0,
       "armor": 15.0,
-      "attackDamage": 5.0,
+      "attackDamage": 38.0,
       "followRange": 200.0,
       "canSpawn": true
     },

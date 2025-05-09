@@ -15,7 +15,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "apotheosis:gem": "irons_apothic:core/bloody_pearl",
-                "apotheosis:purity": "cracked"
+                "apotheosis:purity": "flawed"
               }
             }
           ],
@@ -29,7 +29,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "apotheosis:gem": "irons_apothic:core/celsius_tear",
-                "apotheosis:purity": "cracked"
+                "apotheosis:purity": "flawed"
               }
             }
           ],
@@ -43,7 +43,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "apotheosis:gem": "irons_apothic:core/charged_lodestone",
-                "apotheosis:purity": "cracked"
+                "apotheosis:purity": "flawed"
               }
             }
           ],
@@ -57,7 +57,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "apotheosis:gem": "irons_apothic:core/dragonfire_spessartite",
-                "apotheosis:purity": "cracked"
+                "apotheosis:purity": "flawed"
               }
             }
           ],
@@ -71,7 +71,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "apotheosis:gem": "irons_apothic:core/effervescent_brimstone",
-                "apotheosis:purity": "cracked"
+                "apotheosis:purity": "flawed"
               }
             }
           ],
@@ -85,7 +85,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "apotheosis:gem": "irons_apothic:core/luminous_opal",
-                "apotheosis:purity": "cracked"
+                "apotheosis:purity": "flawed"
               }
             }
           ],
@@ -99,7 +99,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "apotheosis:gem": "irons_apothic:core/mossy_agate",
-                "apotheosis:purity": "cracked"
+                "apotheosis:purity": "flawed"
               }
             }
           ],
@@ -113,7 +113,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "apotheosis:gem": "irons_apothic:core/void_umbalite",
-                "apotheosis:purity": "cracked"
+                "apotheosis:purity": "flawed"
               }
             }
           ],
@@ -127,7 +127,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "apotheosis:gem": "irons_apothic:core/whispering_tentaculite",
-                "apotheosis:purity": "cracked"
+                "apotheosis:purity": "flawed"
               }
             }
           ],
@@ -141,7 +141,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "apotheosis:gem": "irons_apothic:external/resonant_quartz",
-                "apotheosis:purity": "cracked"
+                "apotheosis:purity": "flawed"
               }
             }
           ],
@@ -150,5 +150,5 @@
       ]
     }
   ],
-  "random_sequence": "treasurebags:bags/cracked_arcane_gem"
+  "random_sequence": "treasurebags:bags/flawed_arcane_gem"
 }

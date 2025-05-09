@@ -919,6 +919,15 @@
 			y: -5.0d
 		}
 		{
+			icon: {
+				components: {
+					"minecraft:rarity": "rare"
+					"obtrophies:trophy_info": {
+						entity: "eternal_starlight:the_gatekeeper"
+					}
+				}
+				id: "obtrophies:trophy"
+			}
 			id: "4DF64525E5F3E1FC"
 			rewards: [{
 				count: 30
@@ -930,25 +939,41 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			tasks: [{
-				entity: "eternal_starlight:the_gatekeeper"
-				icon: {
-					components: {
-						"minecraft:rarity": "rare"
-						"obtrophies:trophy_info": {
-							entity: "eternal_starlight:the_gatekeeper"
+			tasks: [
+				{
+					entity: "eternal_starlight:the_gatekeeper"
+					icon: {
+						components: {
+							"minecraft:rarity": "rare"
+							"obtrophies:trophy_info": {
+								entity: "eternal_starlight:the_gatekeeper"
+							}
 						}
+						id: "obtrophies:trophy"
 					}
-					id: "obtrophies:trophy"
+					id: "48E0D855D7C89C65"
+					type: "kill"
+					value: 1L
 				}
-				id: "48E0D855D7C89C65"
-				type: "kill"
-				value: 1L
-			}]
+				{
+					id: "42E946E528816C56"
+					item: { count: 1, id: "kubejs:lost_eye_fragment_cracked" }
+					type: "item"
+				}
+			]
 			x: -6.0d
 			y: -9.5d
 		}
 		{
+			icon: {
+				components: {
+					"minecraft:rarity": "rare"
+					"obtrophies:trophy_info": {
+						entity: "eternal_starlight:lunar_monstrosity"
+					}
+				}
+				id: "obtrophies:trophy"
+			}
 			id: "712E35EA760A9452"
 			rewards: [{
 				count: 30
@@ -960,25 +985,41 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			tasks: [{
-				entity: "eternal_starlight:lunar_monstrosity"
-				icon: {
-					components: {
-						"minecraft:rarity": "rare"
-						"obtrophies:trophy_info": {
-							entity: "eternal_starlight:lunar_monstrosity"
+			tasks: [
+				{
+					entity: "eternal_starlight:lunar_monstrosity"
+					icon: {
+						components: {
+							"minecraft:rarity": "rare"
+							"obtrophies:trophy_info": {
+								entity: "eternal_starlight:lunar_monstrosity"
+							}
 						}
+						id: "obtrophies:trophy"
 					}
-					id: "obtrophies:trophy"
+					id: "2BA7C3C4071A5212"
+					type: "kill"
+					value: 1L
 				}
-				id: "2BA7C3C4071A5212"
-				type: "kill"
-				value: 1L
-			}]
+				{
+					id: "49E822A472A04F0B"
+					item: { count: 1, id: "kubejs:lost_eye_fragment_shard" }
+					type: "item"
+				}
+			]
 			x: -6.0d
 			y: -10.5d
 		}
 		{
+			icon: {
+				components: {
+					"minecraft:rarity": "rare"
+					"obtrophies:trophy_info": {
+						entity: "eternal_starlight:starlight_golem"
+					}
+				}
+				id: "obtrophies:trophy"
+			}
 			id: "383E2DEB48E19246"
 			rewards: [{
 				count: 30
@@ -990,21 +1031,28 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			tasks: [{
-				entity: "eternal_starlight:starlight_golem"
-				icon: {
-					components: {
-						"minecraft:rarity": "rare"
-						"obtrophies:trophy_info": {
-							entity: "eternal_starlight:starlight_golem"
+			tasks: [
+				{
+					entity: "eternal_starlight:starlight_golem"
+					icon: {
+						components: {
+							"minecraft:rarity": "rare"
+							"obtrophies:trophy_info": {
+								entity: "eternal_starlight:starlight_golem"
+							}
 						}
+						id: "obtrophies:trophy"
 					}
-					id: "obtrophies:trophy"
+					id: "0C6853CF6407B349"
+					type: "kill"
+					value: 1L
 				}
-				id: "0C6853CF6407B349"
-				type: "kill"
-				value: 1L
-			}]
+				{
+					id: "5AC919AB324361DC"
+					item: { count: 1, id: "kubejs:lost_eye_fragment_core" }
+					type: "item"
+				}
+			]
 			x: -6.0d
 			y: -11.5d
 		}
@@ -1308,7 +1356,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "5E262B4135E2F3E5"
-				item: { count: 1, id: "kubejs:evil_eye_fragment_core" }
+				item: { components: { "ftbquests:missing_item": "kubejs:evil_eye_fragment_core" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -9.0d
@@ -1319,7 +1367,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "5653A7A23EF62BF5"
-				item: { count: 1, id: "kubejs:evil_eye_fragment_shard" }
+				item: { components: { "ftbquests:missing_item": "kubejs:evil_eye_fragment_shard" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -9.0d
@@ -1330,7 +1378,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "714C8D3F5D1C5AC7"
-				item: { count: 1, id: "kubejs:evil_eye_fragment_cracked" }
+				item: { components: { "ftbquests:missing_item": "kubejs:evil_eye_fragment_cracked" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -9.0d
