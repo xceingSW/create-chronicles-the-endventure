@@ -19,6 +19,12 @@ RecipeViewerEvents.addInformation('item', item =>{
   item.add("simplyswords:frostfall", "Drops from The Gauntlet")
   item.add("simplyswords:watcher_claymore", "Drops from The Gauntlet")
 
+  item.add("simplyswords:brimstone_claymore", "Drops from Lunar Monstrosity")
+  item.add("simplyswords:molten_edge", "Drops from Lunar Monstrosity")
+
+  item.add("simplyswords:stormbringer", "Drops from Starlight Golem")
+  item.add("simplyswords:mjolnir", "Drops from Lunar Starlight Golem")
+
 
 
 

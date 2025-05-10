@@ -145,16 +145,16 @@
       "canSpawn": true
     },
     "theGatekeeper": {
-      "maxHealth": 700.0,
+      "maxHealth": 400.0,
       "armor": 15.0,
-      "attackDamage": 38.0,
+      "attackDamage": 40.0,
       "followRange": 200.0,
       "canSpawn": true
     },
     "starlightGolem": {
-      "maxHealth": 220.0,
+      "maxHealth": 500.0,
       "armor": 0.0,
-      "attackDamageScale": 1.0,
+      "attackDamageScale": 3.0,
       "followRange": 200.0,
       "canSpawn": true
     },
@@ -166,9 +166,9 @@
       "canSpawn": true
     },
     "lunarMonstrosity": {
-      "maxHealth": 200.0,
+      "maxHealth": 500.0,
       "armor": 12.0,
-      "attackDamageScale": 1.0,
+      "attackDamageScale": 6.0,
       "followRange": 200.0,
       "canSpawn": true
     },
@@ -189,7 +189,7 @@
     "tangledHatred": {
       "maxHealth": 60.0,
       "armor": 5.0,
-      "attackDamageScale": 1.0,
+      "attackDamageScale": 3.5,
       "followRange": 100.0,
       "canSpawn": true
     }

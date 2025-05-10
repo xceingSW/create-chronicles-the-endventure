@@ -224,15 +224,41 @@
 				id: "minecraft:wither_skeleton_skull"
 			}
 			id: "59EB1027C6C9B043"
-			rewards: [{
-				count: 10
-				id: "52A63AC4878BCC3C"
-				item: {
-					count: 1
-					id: "magic_coins:silver_coin"
+			rewards: [
+				{
+					count: 10
+					id: "52A63AC4878BCC3C"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					auto: "enabled"
+					id: "2E70542C9B2C4A83"
+					item: {
+						components: {
+							"silentlib:loot_container": {
+								loot_table: "treasurebags:bags/cracked_core_gem"
+							}
+							"treasurebags:bag_type": "treasurebags:cracked_core_gem"
+						}
+						count: 1
+						id: "treasurebags:treasure_bag"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4EAAF918BF1D4EA0"
+					item: {
+						count: 1
+						id: "apotheosis:common_material"
+					}
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			tasks: [
 				{
@@ -264,15 +290,40 @@
 				id: "obtrophies:trophy"
 			}
 			id: "229C5328751C93F5"
-			rewards: [{
-				count: 10
-				id: "20ABE4561BCA64A2"
-				item: {
-					count: 1
-					id: "magic_coins:silver_coin"
+			rewards: [
+				{
+					count: 5
+					id: "20ABE4561BCA64A2"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "462E5F15667682EF"
+					item: {
+						components: {
+							"silentlib:loot_container": {
+								loot_table: "treasurebags:bags/cracked_core_gem"
+							}
+							"treasurebags:bag_type": "treasurebags:cracked_core_gem"
+						}
+						count: 1
+						id: "treasurebags:treasure_bag"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "73FA1E714BBBDF87"
+					item: {
+						count: 1
+						id: "apotheosis:common_material"
+					}
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			tasks: [
 				{
@@ -304,15 +355,40 @@
 				id: "deeperdarker:warden_helmet"
 			}
 			id: "5399B06BD0D95CAE"
-			rewards: [{
-				count: 10
-				id: "3C8877CCEFCB74B1"
-				item: {
-					count: 1
-					id: "magic_coins:silver_coin"
+			rewards: [
+				{
+					count: 10
+					id: "3C8877CCEFCB74B1"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "0294E13AE2F547E3"
+					item: {
+						components: {
+							"silentlib:loot_container": {
+								loot_table: "treasurebags:bags/cracked_arcane_gem"
+							}
+							"treasurebags:bag_type": "treasurebags:cracked_arcane_gem"
+						}
+						count: 1
+						id: "treasurebags:treasure_bag"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "2B1A3165E31765AA"
+					item: {
+						count: 1
+						id: "apotheosis:common_material"
+					}
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			tasks: [
 				{
@@ -929,38 +1005,64 @@
 				id: "obtrophies:trophy"
 			}
 			id: "4DF64525E5F3E1FC"
-			rewards: [{
-				count: 30
-				id: "41591834221A4DC1"
-				item: {
-					count: 1
-					id: "magic_coins:silver_coin"
-				}
-				type: "item"
-			}]
-			shape: "rsquare"
-			tasks: [
+			rewards: [
 				{
-					entity: "eternal_starlight:the_gatekeeper"
-					icon: {
-						components: {
-							"minecraft:rarity": "rare"
-							"obtrophies:trophy_info": {
-								entity: "eternal_starlight:the_gatekeeper"
-							}
-						}
-						id: "obtrophies:trophy"
+					count: 30
+					id: "41591834221A4DC1"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
 					}
-					id: "48E0D855D7C89C65"
-					type: "kill"
-					value: 1L
+					type: "item"
 				}
 				{
-					id: "42E946E528816C56"
-					item: { count: 1, id: "kubejs:lost_eye_fragment_cracked" }
+					id: "5E94F4B63F00686D"
+					item: {
+						count: 1
+						id: "kubejs:boss_token"
+					}
+					type: "item"
+				}
+				{
+					id: "62D02BCF52EB5445"
+					item: {
+						count: 1
+						id: "kubejs:lost_eye_fragment_cracked"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2A3378D30A3C2FDF"
+					item: {
+						components: {
+							"silentlib:loot_container": {
+								loot_table: "treasurebags:bags/chipped_arcane_gem"
+							}
+							"treasurebags:bag_type": "treasurebags:chipped_arcane_gem"
+						}
+						count: 1
+						id: "treasurebags:treasure_bag"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "05853F8C274C3838"
+					item: {
+						count: 1
+						id: "apotheosis:uncommon_material"
+					}
 					type: "item"
 				}
 			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "eternal_starlight:challenge_gatekeeper"
+				criterion: ""
+				id: "7E437A5CBB7386D2"
+				type: "advancement"
+			}]
 			x: -6.0d
 			y: -9.5d
 		}
@@ -1002,7 +1104,7 @@
 					value: 1L
 				}
 				{
-					id: "49E822A472A04F0B"
+					id: "3CA27C11B3862E04"
 					item: { count: 1, id: "kubejs:lost_eye_fragment_shard" }
 					type: "item"
 				}
@@ -1501,6 +1603,24 @@
 			}]
 			x: -12.0d
 			y: -10.0d
+		}
+		{
+			dependencies: ["4DF64525E5F3E1FC"]
+			id: "2401A3C6E360DD00"
+			rewards: [{
+				id: "03C4F44FD83B3158"
+				item: {
+					count: 1
+					id: "kubejs:lost_eye_fragment_cracked"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2253937F3806BE3D"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: -9.5d
 		}
 	]
 }
