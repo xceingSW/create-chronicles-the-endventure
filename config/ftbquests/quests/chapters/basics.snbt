@@ -2974,5 +2974,15 @@
 			x: -8.5d
 			y: 24.5d
 		}
+		{
+			id: "4825F052F03A5463"
+			tasks: [{
+				id: "03AD7A1E31C66D28"
+				item: { count: 1, id: "armoroftheages:holy_armor_head" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 13.5d
+		}
 	]
 }
