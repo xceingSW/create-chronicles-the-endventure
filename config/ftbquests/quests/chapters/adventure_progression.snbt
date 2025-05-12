@@ -1541,8 +1541,8 @@
 			id: "0B71AA53E7598FCE"
 			shape: "rsquare"
 			tasks: [{
-				id: "5E262B4135E2F3E5"
-				item: { components: { "ftbquests:missing_item": "kubejs:evil_eye_fragment_core" }, count: 1, id: "ftbquests:missing_item" }
+				id: "61BFC50A5942D279"
+				item: { count: 1, id: "kubejs:spy_eye_fragment_core" }
 				type: "item"
 			}]
 			x: -9.0d
@@ -1552,8 +1552,8 @@
 			id: "3BFAFCAF4A1398FB"
 			shape: "rsquare"
 			tasks: [{
-				id: "5653A7A23EF62BF5"
-				item: { components: { "ftbquests:missing_item": "kubejs:evil_eye_fragment_shard" }, count: 1, id: "ftbquests:missing_item" }
+				id: "4E7FA9FC94700011"
+				item: { count: 1, id: "kubejs:spy_eye_fragment_shard" }
 				type: "item"
 			}]
 			x: -9.0d
@@ -1563,8 +1563,8 @@
 			id: "7E761D6BEC400CA1"
 			shape: "rsquare"
 			tasks: [{
-				id: "714C8D3F5D1C5AC7"
-				item: { components: { "ftbquests:missing_item": "kubejs:evil_eye_fragment_cracked" }, count: 1, id: "ftbquests:missing_item" }
+				id: "4D68671618599E43"
+				item: { count: 1, id: "kubejs:spy_eye_fragment_cracked" }
 				type: "item"
 			}]
 			x: -9.0d

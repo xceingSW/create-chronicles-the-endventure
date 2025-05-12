@@ -190,7 +190,7 @@
 	#EnderGuardian's DamageCap
 	# Default: 22.0
 	# Range: 0.0 ~ 1000000.0
-	EnderGuardianDamageCap = 22.0
+	EnderGuardianDamageCap = 999.0
 	#EnderGuardian's DamageTime
 	# Default: 30
 	# Range: 0 ~ 100
@@ -316,11 +316,11 @@
 	#Ignis's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	IgnisHealthMultiplier = 1.0
+	IgnisHealthMultiplier = 7.0
 	#Ignis's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	IgnisDamageMultiplier = 1.0
+	IgnisDamageMultiplier = 2.7
 	#Ignis's Healing with out target
 	# Default: 20.0
 	# Range: 0.0 ~ 1000000.0
@@ -336,7 +336,7 @@
 	#Ignis's DamageCap
 	# Default: 20.0
 	# Range: 0.0 ~ 1000000.0
-	IgnisDamageCap = 20.0
+	IgnisDamageCap = 999.0
 	#Ignis's DamageTime
 	# Default: 15
 	# Range: 0 ~ 100
@@ -412,11 +412,11 @@
 	#Leviathan's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	LeviathanHealthMultiplier = 1.0
+	LeviathanHealthMultiplier = 4.5
 	#Leviathan's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	LeviathanDamageMultiplier = 1.0
+	LeviathanDamageMultiplier = 1.8
 	#Leviathan's Healing with out target
 	# Default: 20.0
 	# Range: 0.0 ~ 1000000.0
@@ -444,7 +444,7 @@
 	#Leviathan's DamageCap
 	# Default: 20.0
 	# Range: 0.0 ~ 1000000.0
-	LeviathanDamageCap = 20.0
+	LeviathanDamageCap = 999.0
 	#Leviathan's DamageTime
 	# Default: 15
 	# Range: 0 ~ 100
@@ -498,11 +498,11 @@
 	#Ancient Remnant's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	AncientRemnantHealthMultiplier = 1.0
+	AncientRemnantHealthMultiplier = 4.5
 	#Ancient Remnant's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	AncientRemnantDamageMultiplier = 1.0
+	AncientRemnantDamageMultiplier = 1.8
 	#AncientRemnant's Healing with out target
 	# Default: 20.0
 	# Range: 0.0 ~ 1000000.0
@@ -514,7 +514,7 @@
 	#Ancient Remnant's DamageCap
 	# Default: 21.0
 	# Range: 0.0 ~ 1000000.0
-	AncientRemnantCap = 21.0
+	AncientRemnantCap = 999.0
 	#Ancient Remnant's DamageTime
 	# Default: 12
 	# Range: 0 ~ 100
@@ -524,19 +524,19 @@
 	#Remnant's Charge Hp Damage
 	# Default: 0.1
 	# Range: 0.0 ~ 1.0
-	"Remnant's Charge Hp Damage" = 0.1
+	"Remnant's Charge Hp Damage" = 0.3
 	#Remnant's Hp Damage
 	# Default: 0.05
 	# Range: 0.0 ~ 1.0
-	"Remnant's Normal attack Hp Damage" = 0.05
+	"Remnant's Normal attack Hp Damage" = 0.1
 	#Remnant's Stomp Hp Damage
 	# Default: 0.03
 	# Range: 0.0 ~ 1.0
-	"Remnant's Stomp Hp Damage" = 0.03
+	"Remnant's Stomp Hp Damage" = 0.06
 	#Remnant's EarthQuake Damage
 	# Default: 11.0
 	# Range: 0.0 ~ 1000000.0
-	"Remnant's EarthQuakeDamage" = 11.0
+	"Remnant's EarthQuakeDamage" = 70.0
 
 [Koboleton]
 	#Cause Koboleton to Drop Item In Hand Percent
@@ -584,11 +584,11 @@
 	#Maledictus's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	MaledictusHealthMultiplier = 1.0
+	MaledictusHealthMultiplier = 7.0
 	#Maledictus's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	MaledictusDamageMultiplier = 1.0
+	MaledictusDamageMultiplier = 2.7
 	#Maledictus's Immune to Long distance attack range.
 	# Default: 12.0
 	# Range: 1.0 ~ 1000000.0
@@ -604,7 +604,7 @@
 	#Maledictus's DamageCap
 	# Default: 20.0
 	# Range: 0.0 ~ 1000000.0
-	MaledictusDamageCap = 20.0
+	MaledictusDamageCap = 999.0
 	#Maledictus's DamageTime
 	# Default: 30
 	# Range: 0 ~ 100
