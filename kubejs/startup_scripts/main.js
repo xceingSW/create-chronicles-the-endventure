@@ -1,7 +1,6 @@
 Platform.mods.kubejs.name = 'Create Chronicles: The Endventure'
 
 StartupEvents.modifyCreativeTab('kubejs:tab', event => {
-  event.icon = 'chronicles:logo';
   event.displayName = 'Create Chronicles: The Endventure';
 });
 

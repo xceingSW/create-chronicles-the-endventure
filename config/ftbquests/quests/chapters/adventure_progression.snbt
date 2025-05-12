@@ -482,6 +482,9 @@
 			y: -10.5d
 		}
 		{
+			icon: {
+				id: "cataclysm:emp"
+			}
 			id: "72A389F374C87353"
 			rewards: [{
 				count: 40
@@ -493,15 +496,22 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			tasks: [{
-				entity: "cataclysm:the_harbinger"
-				icon: {
-					id: "cataclysm:emp"
+			tasks: [
+				{
+					entity: "cataclysm:the_harbinger"
+					icon: {
+						id: "cataclysm:emp"
+					}
+					id: "49B39AE71358B808"
+					type: "kill"
+					value: 1L
 				}
-				id: "49B39AE71358B808"
-				type: "kill"
-				value: 1L
-			}]
+				{
+					id: "5474EC5F37E3FBD9"
+					item: { count: 1, id: "kubejs:lich_eye_fragment_shard" }
+					type: "item"
+				}
+			]
 			x: -3.0d
 			y: -6.5d
 		}
@@ -565,19 +575,29 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			tasks: [{
-				entity: "bosses_of_mass_destruction:void_blossom"
-				icon: {
-					id: "bosses_of_mass_destruction:void_lily"
+			tasks: [
+				{
+					entity: "bosses_of_mass_destruction:void_blossom"
+					icon: {
+						id: "bosses_of_mass_destruction:void_lily"
+					}
+					id: "62D225564ACD2B22"
+					type: "kill"
+					value: 1L
 				}
-				id: "62D225564ACD2B22"
-				type: "kill"
-				value: 1L
-			}]
+				{
+					id: "700ABBA028A07F15"
+					item: { count: 1, id: "kubejs:omen_eye_fragment_cracked" }
+					type: "item"
+				}
+			]
 			x: -3.0d
 			y: -5.0d
 		}
 		{
+			icon: {
+				id: "bosses_of_mass_destruction:obsidian_heart"
+			}
 			id: "5FCFD038804EFBF7"
 			rewards: [{
 				id: "0EA4F19B9144D443"
@@ -588,19 +608,29 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			tasks: [{
-				entity: "bosses_of_mass_destruction:obsidilith"
-				icon: {
-					id: "bosses_of_mass_destruction:obsidian_heart"
+			tasks: [
+				{
+					entity: "bosses_of_mass_destruction:obsidilith"
+					icon: {
+						id: "bosses_of_mass_destruction:obsidian_heart"
+					}
+					id: "27D6852B41658084"
+					type: "kill"
+					value: 1L
 				}
-				id: "27D6852B41658084"
-				type: "kill"
-				value: 1L
-			}]
+				{
+					id: "2C6336C869C61992"
+					item: { count: 1, id: "kubejs:omen_eye_fragment_shard" }
+					type: "item"
+				}
+			]
 			x: -2.0d
 			y: -5.0d
 		}
 		{
+			icon: {
+				id: "bosses_of_mass_destruction:ancient_anima"
+			}
 			id: "2965B8DD03DA1142"
 			rewards: [{
 				count: 40
@@ -612,15 +642,22 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			tasks: [{
-				entity: "bosses_of_mass_destruction:lich"
-				icon: {
-					id: "bosses_of_mass_destruction:ancient_anima"
+			tasks: [
+				{
+					entity: "bosses_of_mass_destruction:lich"
+					icon: {
+						id: "bosses_of_mass_destruction:ancient_anima"
+					}
+					id: "0DBF314F946308D6"
+					type: "kill"
+					value: 1L
 				}
-				id: "0DBF314F946308D6"
-				type: "kill"
-				value: 1L
-			}]
+				{
+					id: "193E110B214C66D2"
+					item: { count: 1, id: "kubejs:lich_eye_fragment_core" }
+					type: "item"
+				}
+			]
 			x: -2.0d
 			y: -6.5d
 		}
@@ -659,6 +696,9 @@
 			y: -9.5d
 		}
 		{
+			icon: {
+				id: "cataclysm:remnant_skull"
+			}
 			id: "5037AA2541E439E5"
 			rewards: [{
 				count: 5
@@ -670,19 +710,29 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			tasks: [{
-				entity: "cataclysm:ancient_remnant"
-				icon: {
-					id: "cataclysm:remnant_skull"
+			tasks: [
+				{
+					entity: "cataclysm:ancient_remnant"
+					icon: {
+						id: "cataclysm:remnant_skull"
+					}
+					id: "435BD0B8953180AA"
+					type: "kill"
+					value: 1L
 				}
-				id: "435BD0B8953180AA"
-				type: "kill"
-				value: 1L
-			}]
+				{
+					id: "1F8CA2E5D03AF77E"
+					item: { count: 1, id: "kubejs:gilded_eye_fragment_shard" }
+					type: "item"
+				}
+			]
 			x: -3.0d
 			y: -3.5d
 		}
 		{
+			icon: {
+				id: "cataclysm:abyssal_sacrifice"
+			}
 			id: "00D7A88C4C686C02"
 			rewards: [{
 				count: 5
@@ -694,19 +744,29 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			tasks: [{
-				entity: "cataclysm:the_leviathan"
-				icon: {
-					id: "cataclysm:abyssal_sacrifice"
+			tasks: [
+				{
+					entity: "cataclysm:the_leviathan"
+					icon: {
+						id: "cataclysm:abyssal_sacrifice"
+					}
+					id: "250F9C999D35AF33"
+					type: "kill"
+					value: 1L
 				}
-				id: "250F9C999D35AF33"
-				type: "kill"
-				value: 1L
-			}]
+				{
+					id: "78C2F5034799E25F"
+					item: { count: 1, id: "kubejs:gilded_eye_fragment_core" }
+					type: "item"
+				}
+			]
 			x: -2.0d
 			y: -3.5d
 		}
 		{
+			icon: {
+				id: "cataclysm:cursium_helmet"
+			}
 			id: "543052F17CF1380B"
 			rewards: [{
 				count: 15
@@ -718,19 +778,29 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			tasks: [{
-				entity: "cataclysm:maledictus"
-				icon: {
-					id: "cataclysm:cursium_helmet"
+			tasks: [
+				{
+					entity: "cataclysm:maledictus"
+					icon: {
+						id: "cataclysm:cursium_helmet"
+					}
+					id: "174EF47CC2A7F588"
+					type: "kill"
+					value: 1L
 				}
-				id: "174EF47CC2A7F588"
-				type: "kill"
-				value: 1L
-			}]
+				{
+					id: "0446C1655892AE19"
+					item: { count: 1, id: "kubejs:cryptic_eye_fragment_shard" }
+					type: "item"
+				}
+			]
 			x: -6.0d
 			y: 0.5d
 		}
 		{
+			icon: {
+				id: "cataclysm:altar_of_fire"
+			}
 			id: "066B217CF45625F9"
 			rewards: [{
 				count: 15
@@ -742,15 +812,22 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			tasks: [{
-				entity: "cataclysm:ignis"
-				icon: {
-					id: "cataclysm:altar_of_fire"
+			tasks: [
+				{
+					entity: "cataclysm:ignis"
+					icon: {
+						id: "cataclysm:altar_of_fire"
+					}
+					id: "02143D01FA175F6E"
+					type: "kill"
+					value: 1L
 				}
-				id: "02143D01FA175F6E"
-				type: "kill"
-				value: 1L
-			}]
+				{
+					id: "758D5C92709C4A08"
+					item: { count: 1, id: "kubejs:cryptic_eye_fragment_core" }
+					type: "item"
+				}
+			]
 			x: -6.0d
 			y: -0.5d
 		}
@@ -982,15 +1059,22 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			tasks: [{
-				entity: "irons_spellbooks:fire_boss"
-				icon: {
-					id: "irons_spellbooks:decrepit_scythe"
+			tasks: [
+				{
+					entity: "irons_spellbooks:fire_boss"
+					icon: {
+						id: "irons_spellbooks:decrepit_scythe"
+					}
+					id: "176B16F5034D6904"
+					type: "kill"
+					value: 1L
 				}
-				id: "176B16F5034D6904"
-				type: "kill"
-				value: 1L
-			}]
+				{
+					id: "472838B09346EC44"
+					item: { count: 1, id: "kubejs:omen_eye_fragment_core" }
+					type: "item"
+				}
+			]
 			x: -1.0d
 			y: -5.0d
 		}

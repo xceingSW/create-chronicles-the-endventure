@@ -128,7 +128,7 @@
 	#Wither Homing Missile's Damage
 	# Default: 3.0
 	# Range: 0.0 ~ 1000000.0
-	WitherHomingMissiledamage = 3.0
+	WitherHomingMissiledamage = 60.0
 	#Abyss Blast's Damage
 	# Default: 10.0
 	# Range: 0.0 ~ 1000000.0
@@ -262,7 +262,7 @@
 	#Monstrosity's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	MonstrosityHealthMultiplier = 1.1
+	MonstrosityHealthMultiplier = 1.0
 	#Monstrosity's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
@@ -372,11 +372,11 @@
 	#Harbinger's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	HarbingerHealthMultiplier = 1.0
+	HarbingerHealthMultiplier = 1.9
 	#Harbinger's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	HarbingerDamageMultiplier = 1.0
+	HarbingerDamageMultiplier = 2.2
 	#Harbinger's Healing Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
@@ -384,11 +384,11 @@
 	#Harbinger's Wither Missile's Damage
 	# Default: 8.0
 	# Range: 0.0 ~ 1000000.0
-	"Harbinger's WitherMissiledamage" = 8.0
+	"Harbinger's WitherMissiledamage" = 60.0
 	#Harbinger's laser's Damage
 	# Default: 5.0
 	# Range: 0.0 ~ 1000000.0
-	"Harbinger's laser damage" = 5.0
+	"Harbinger's laser damage" = 60.0
 	#Harbinger's Immune to Long distance attack range.
 	# Default: 35.0
 	# Range: 1.0 ~ 1000000.0
@@ -396,7 +396,7 @@
 	#Harbinger's DamageCap
 	# Default: 22.0
 	# Range: 0.0 ~ 1000000.0
-	"The Harbinger DamageCap" = 22.0
+	"The Harbinger DamageCap" = 999.0
 	#Harbinger's DamageTime
 	# Default: 12
 	# Range: 0 ~ 100
@@ -406,7 +406,7 @@
 	#The Harbinger's charge attack Hp Damage
 	# Default: 0.06
 	# Range: 0.0 ~ 1.0
-	"The Harbinger's charge attack Hp Damage" = 0.06
+	"The Harbinger's charge attack Hp Damage" = 0.2
 
 ["The Leviathan"]
 	#Leviathan's Health Multiplier

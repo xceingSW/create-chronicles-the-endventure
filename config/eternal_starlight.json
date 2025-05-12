@@ -147,12 +147,12 @@
     "theGatekeeper": {
       "maxHealth": 400.0,
       "armor": 15.0,
-      "attackDamage": 40.0,
+      "attackDamage": 38.0,
       "followRange": 200.0,
       "canSpawn": true
     },
     "starlightGolem": {
-      "maxHealth": 500.0,
+      "maxHealth": 400.0,
       "armor": 0.0,
       "attackDamageScale": 3.0,
       "followRange": 200.0,
@@ -166,7 +166,7 @@
       "canSpawn": true
     },
     "lunarMonstrosity": {
-      "maxHealth": 500.0,
+      "maxHealth": 400.0,
       "armor": 12.0,
       "attackDamageScale": 6.0,
       "followRange": 200.0,
