@@ -2,7 +2,7 @@
 	#Set lower amount to make the item zoom less.
 	# Default: 80
 	# Range: 10 ~ 100
-	zoom_amount = 80
+	zoom_amount = 50
 	#Zoom items only from the JEI ingredient and bookmark list overlays.
 	jei_only = false
 

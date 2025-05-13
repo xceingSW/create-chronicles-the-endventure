@@ -7,7 +7,6 @@ StartupEvents.modifyCreativeTab('kubejs:tab', event => {
 const fragmentTypes = ['Core', 'Cracked', 'Shard']
 
 
-
 ItemEvents.modification(event => {
   global.EYES.forEach(eye => {
     event.modify(eye.id, item => {

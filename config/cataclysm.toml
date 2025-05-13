@@ -182,11 +182,11 @@
 	#EnderGuardian's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	EnderGuardianHealthMultiplier = 1.0
+	EnderGuardianHealthMultiplier = 25.0
 	#EnderGuardian's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	EnderGuardianDamageMultiplier = 1.0
+	EnderGuardianDamageMultiplier = 6.0
 	#EnderGuardian's DamageCap
 	# Default: 22.0
 	# Range: 0.0 ~ 1000000.0
@@ -306,11 +306,11 @@
 	#Golem's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	GolemHealthMultiplier = 1.0
+	GolemHealthMultiplier = 16.0
 	#Golem's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	GolemDamageMultiplier = 1.0
+	GolemDamageMultiplier = 5.0
 
 [Ignis]
 	#Ignis's Health Multiplier

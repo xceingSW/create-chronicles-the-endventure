@@ -5,14 +5,14 @@
 	chapter.20497405FCFCFADA.title: "Chapter VII: Infernal Mechanism"
 	chapter.2385B4F2FA029016.title: "&aAlshanex's Familiars&r"
 	chapter.38FE3E0C86FF237B.title: "Chapter V: Steel Mechanism"
-	chapter.464FB437D5DF7824.title: "x&aArtifacts"
+	chapter.464FB437D5DF7824.title: "&aArtifacts"
 	chapter.4B6E4A0215F45FC0.title: " X&3The Otherside: &0Deeper and Darker"
 	chapter.4F11D0F95BB94F2B.title: "Refined Storage"
 	chapter.50471206A7BA908F.title: "XEternal Starlight"
 	chapter.576F6A1E4D30F4F2.title: "Adventure Progression"
 	chapter.6183184A27691A5F.title: "Chapter IX: Calculation Mechanism"
 	chapter.77CB82601BCDCA86.title: "aewe"
-	chapter.784A6CC38A657526.title: "x&bSimply Swords"
+	chapter.784A6CC38A657526.title: "&bSimply Swords"
 	chapter_group.10BAE746B6F04D66.title: "Magic"
 	chapter_group.20996729F10511FA.title: "oldcro"
 	chapter_group.37AD19D80019787F.title: "Storage"
@@ -74,20 +74,15 @@
 		"You also have an option to change the Polarization of the Light Ray, the basics of this is that changing this setting will affect how the Light Rays interact with certain blocks."
 	]
 	quest.07CCF0EE3BC96DB1.quest_desc: [
-		"Sweeney wants it to be somewhat cryptic in game, and a psuedo-secret. That's why it isnt directly listed in game. However, here are the steps to get it if you don't want to figure out the secret for yourself:"
+		"Begin by crafting a &6Contained Remnant.&r"
 		""
-		"Craft a contained remnant"
+		"Step into &ethe End&r with a &5Runic Tablet&r in your offhand and the &6Contained Remnant&r in your inventory. After a short time, it will transform into a &cTampered Remnant.&r"
 		""
-		"Go to the end, hold a runic tablet in your offhand and have the contained remant in your inventory, after a little while it should turn into a tampered remnant"
+		"&cThe Tampered Remnant&r will evolve into one of several possible items while in your inventory. Repeat this process until it turns into the &bDecaying Relic.&r"
 		""
-		"The tampered remnant will turn into one of a few different items when in your inventory for a while, you need to repeat these steps until you get the decaying relic"
-		""
-		"With the decaying relic in your inventory, there are three different steps depending on the magi-weapon you want:"
-		""
-		"a. For magispear, have the relic in your inventory and be inflicted by darkness, after a little bit of time it will transform."
-		"b. For magiblade, have the relic in your hand and step onto a sculk sensor"
-		"c. For magiscythe, have the relic in your hand and be hit by the warden's sonic boom attack "
+		"With the &bDecaying Relic,&r follow one of the paths below depending on the &aMagi-Weapon&r you want:"
 	]
+	quest.07CCF0EE3BC96DB1.quest_subtitle: "&3Unlock the Secrets of the Magi-Weapons"
 	quest.07E12DA2B3EC76D1.title: "&cPyromancer Outfit"
 	quest.07FDCB535DE4C4BA.quest_desc: [
 		"&6The Optical Receptor&r converts the &bLight Rays&r that output from the Optical Source back into &dRotational Power&r."
@@ -796,6 +791,7 @@
 	quest.50B4EEBAF5CF3122.quest_subtitle: "Found in Jungle Pyramids"
 	quest.50CDAAB5AECA6B27.quest_subtitle: "opcional"
 	quest.51A4E097156A6DC1.quest_subtitle: "The wearer slightly heals from attacks"
+	quest.51E18D8B67394EC2.quest_desc: ["Hold the relic in your hand and step on a &6Sculk Sensor.&r"]
 	quest.5236164BE64893D2.quest_desc: [
 		"&bSpatial Storage Cells&f are used to hold one defined volume each, and come in three different capacities allowing for a maximum of 2x2x2, 16x16x16 and 128x128x128 blocks' worth of space."
 		""
@@ -1009,6 +1005,7 @@
 	quest.5EC521DA8FF06758.quest_subtitle: "Found in Bastions treasure chest"
 	quest.5F7FBCB758D54981.quest_subtitle: "Grants &6freezing immunity."
 	quest.5F8B17F4A8CF47C7.quest_desc: ["{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"52BB4427D9F5163D\" } }"]
+	quest.5F9DC6A4D253217D.quest_desc: ["Keep the relic in your inventory and get inflicted with &6Darkness.&r Wait briefly for the transformation."]
 	quest.5FCFD038804EFBF7.quest_subtitle: "&d☠ Tier 5"
 	quest.5FDAADD20C6A6DC7.quest_subtitle: " Bought from the market using boss tokens"
 	quest.5FE710403BE1AAF5.quest_subtitle: "right click into a tamed familiar to boost his armor permanently, limit 10 per familiar, dropped from Ancient Knights."
@@ -1041,6 +1038,7 @@
 		"This behaviour is comparable to something like a Functional Storage drawer, wherein each compartment holds a set number of stacks as opposed to allowing items from one compartment to leak into the others and crowd other kinds of items out."
 	]
 	quest.619A108A6BC00D4F.quest_subtitle: " Bought from the market using boss tokens"
+	quest.624E99A4E08167EA.quest_desc: ["Hold the relic in your hand and get hit by the &6Warden's Sonic Boom.&r"]
 	quest.627A25524F94FB34.quest_desc: [
 		"&aAlshanex's Familiars&r adds magical creatures called &eFamiliars&r that can be found scattered around the world and they can be tamed with &dArcane Essence.&r They follow you and fight using powerful spells.&m"
 		""
@@ -1092,6 +1090,7 @@
 	quest.6AFEDCF1CF22972F.quest_subtitle: "An early game source of &3additional mana"
 	quest.6B7CFD3808AB7DB1.title: "&cAdvanced Pyromancer Outfit"
 	quest.6BAC0A0F663D5B1F.quest_subtitle: "&d☠ Tier 5"
+	quest.6C71E2ABAA99C005.title: "&6Collect All the Simply Swords"
 	quest.6C7C101DFE4E67F3.quest_subtitle: "+5% mana regen, constantly heals tamed familiars at the cost of your own mana, found in Priest Towers."
 	quest.6C90039BB1651603.quest_subtitle: "When used for Upgrade: &6+5% Holy Spell Power"
 	quest.6CE8C3410296E977.quest_desc: [
@@ -1150,6 +1149,7 @@
 		""
 		"F3 will show the direction you are headed if you ever get confused."
 	]
+	quest.703CC46FAC00A5D9.title: "&6Collect All the Artifacts"
 	quest.704435187B4BD245.quest_desc: [
 		"&eRunestones&r are rare items found in magical structures, usually blank. Combine one with 8 focuses to attune it to a specific school, allowing you to craft themed gear."
 		""

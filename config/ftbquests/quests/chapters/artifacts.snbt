@@ -9,7 +9,8 @@
 	id: "464FB437D5DF7824"
 	images: [
 		{
-			color: 26367
+			alpha: 160
+			color: 2559560
 			height: 1.0d
 			hover: ["Head"]
 			image: "curios:slot/empty_head_slot"
@@ -19,7 +20,8 @@
 			y: -4.0d
 		}
 		{
-			color: 26367
+			alpha: 160
+			color: 2559560
 			height: 1.0d
 			hover: ["Necklace"]
 			image: "curios:slot/empty_necklace_slot"
@@ -29,7 +31,8 @@
 			y: -2.5d
 		}
 		{
-			color: 26367
+			alpha: 160
+			color: 2559560
 			height: 1.0d
 			hover: ["Belt"]
 			image: "curios:slot/empty_belt_slot"
@@ -39,7 +42,8 @@
 			y: -1.0d
 		}
 		{
-			color: 26367
+			alpha: 160
+			color: 2559560
 			height: 1.0d
 			hover: ["Hands"]
 			image: "curios:slot/empty_hands_slot"
@@ -49,7 +53,8 @@
 			y: 0.5d
 		}
 		{
-			color: 26367
+			alpha: 160
+			color: 2559560
 			height: 1.0d
 			hover: ["Feet"]
 			image: "minecraft:item/empty_armor_slot_boots"
@@ -59,7 +64,8 @@
 			y: 2.0d
 		}
 		{
-			color: 26367
+			alpha: 160
+			color: 2559560
 			height: 1.0d
 			image: "curios:slot/empty_curio_slot"
 			rotation: 0.0d
@@ -73,6 +79,15 @@
 	quests: [
 		{
 			id: "36FB336313E5E377"
+			rewards: [{
+				count: 5
+				id: "0870B73C8347D502"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "5AC95B1F43548911"
@@ -84,6 +99,15 @@
 		}
 		{
 			id: "78DFD8815E2AE291"
+			rewards: [{
+				count: 5
+				id: "2C5DAE543FD3729C"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "3E2B6425881CF371"
@@ -97,6 +121,15 @@
 			hide_dependency_lines: false
 			hide_until_deps_complete: false
 			id: "1ADACCB1A8BB9E7E"
+			rewards: [{
+				count: 5
+				id: "2A84762657501F77"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "1E0F0BDFC63184EA"
@@ -108,6 +141,15 @@
 		}
 		{
 			id: "14CB47511F2D0E01"
+			rewards: [{
+				count: 5
+				id: "289E533CD47A8CCC"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "7EB9142E4FE6ADDA"
@@ -119,6 +161,15 @@
 		}
 		{
 			id: "0E0532BA6E3FFEF9"
+			rewards: [{
+				count: 5
+				id: "57FFCD9D3CA7D895"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "2317C696DA5FD8A3"
@@ -130,6 +181,15 @@
 		}
 		{
 			id: "78E34F3F9A19F275"
+			rewards: [{
+				count: 5
+				id: "15118F300C425E61"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "7BE008CE94B2C56D"
@@ -141,6 +201,15 @@
 		}
 		{
 			id: "419A16655447AA92"
+			rewards: [{
+				count: 5
+				id: "609DA665BB8F1C37"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "1912A0752E6FADBF"
@@ -152,6 +221,15 @@
 		}
 		{
 			id: "016C498DFB704536"
+			rewards: [{
+				count: 5
+				id: "3618A27B9ACE2BB7"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "12F439628FB7CDCB"
@@ -163,6 +241,15 @@
 		}
 		{
 			id: "7F1AB8E8DA7BFD77"
+			rewards: [{
+				count: 5
+				id: "200147AFFCBBE19E"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "0C442789304872B6"
@@ -174,6 +261,15 @@
 		}
 		{
 			id: "5A2F0B2712D9C667"
+			rewards: [{
+				count: 5
+				id: "581E490BA739B714"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "782DD0DFCE4325EB"
@@ -185,6 +281,15 @@
 		}
 		{
 			id: "3F0D2D8C1CFD1F2A"
+			rewards: [{
+				count: 5
+				id: "134D3474F91FF63D"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "5DE8E457A9DCEF7C"
@@ -196,6 +301,15 @@
 		}
 		{
 			id: "39AD4C222874D63F"
+			rewards: [{
+				count: 5
+				id: "5AD9FF956DEE084B"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "502B6242B9078D87"
@@ -207,6 +321,15 @@
 		}
 		{
 			id: "2B619746DAF80A5E"
+			rewards: [{
+				count: 5
+				id: "2427B4F90A0C5BE7"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "11116ADB3F4FC685"
@@ -218,6 +341,15 @@
 		}
 		{
 			id: "66A8B9C4C4AC291A"
+			rewards: [{
+				count: 5
+				id: "21127988EBDB78D6"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "70A77066CB447D08"
@@ -229,6 +361,15 @@
 		}
 		{
 			id: "042259C7B1BF773A"
+			rewards: [{
+				count: 5
+				id: "22518C53C6F3AF63"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "5BCCB7CCA6B46C3B"
@@ -240,6 +381,15 @@
 		}
 		{
 			id: "4D38017F83D30E13"
+			rewards: [{
+				count: 5
+				id: "4A55AE2E04403DD0"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "74EEC207D510DBA4"
@@ -251,6 +401,15 @@
 		}
 		{
 			id: "6E98473128936047"
+			rewards: [{
+				count: 5
+				id: "7301FDA2C416C821"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "7DA4EB63F0107E6C"
@@ -262,6 +421,15 @@
 		}
 		{
 			id: "3121D591D3807584"
+			rewards: [{
+				count: 5
+				id: "3E46BFA43FADC23D"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "7E7E73C398B3F243"
@@ -273,6 +441,15 @@
 		}
 		{
 			id: "60B9F9AD8F49371D"
+			rewards: [{
+				count: 5
+				id: "7C5D6937A71CAA7F"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "3D559D5149F4FDA0"
@@ -284,6 +461,15 @@
 		}
 		{
 			id: "05A39ED901BC6569"
+			rewards: [{
+				count: 5
+				id: "143EF5C0D2FC744D"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "29DE9C6CED103B59"
@@ -295,6 +481,15 @@
 		}
 		{
 			id: "10CDACBCA03AEDF7"
+			rewards: [{
+				count: 5
+				id: "0F412D69EED22EED"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "1FEAD956C8A38974"
@@ -306,6 +501,15 @@
 		}
 		{
 			id: "29491A4A65DEDCDC"
+			rewards: [{
+				count: 5
+				id: "60C8088BDFA286D9"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "324F62127E57BC1A"
@@ -317,6 +521,15 @@
 		}
 		{
 			id: "4CCAD1EBB977DF2E"
+			rewards: [{
+				count: 5
+				id: "64A56347BC790F5B"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "0AB4D6FE3AB4D9F5"
@@ -328,6 +541,15 @@
 		}
 		{
 			id: "0424F3DCA7620F49"
+			rewards: [{
+				count: 5
+				id: "0482D6B854407734"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "16E3E1B1926B22B2"
@@ -339,6 +561,15 @@
 		}
 		{
 			id: "7940D8A4ECBD6541"
+			rewards: [{
+				count: 5
+				id: "3625ECE7503FA2F4"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "3CD6D96568CD66E5"
@@ -350,6 +581,15 @@
 		}
 		{
 			id: "72564111D0768098"
+			rewards: [{
+				count: 5
+				id: "5945E4DA46C95267"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "140CF92060A56D91"
@@ -361,6 +601,15 @@
 		}
 		{
 			id: "13449219998C54E1"
+			rewards: [{
+				count: 5
+				id: "1487E11DA7B3BCF5"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "4D955A0AF058959D"
@@ -372,6 +621,15 @@
 		}
 		{
 			id: "136F140D9A3ED036"
+			rewards: [{
+				count: 5
+				id: "5C846C3B04E2455A"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "59C81AFB80F49937"
@@ -383,6 +641,15 @@
 		}
 		{
 			id: "51A4E097156A6DC1"
+			rewards: [{
+				count: 5
+				id: "1B815652C1524A20"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "18C5FE1CDE31AF99"
@@ -394,6 +661,15 @@
 		}
 		{
 			id: "4FDAFBD64AA710A1"
+			rewards: [{
+				count: 5
+				id: "2090DD610CD70670"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "7301B6DA08D2D14F"
@@ -405,6 +681,15 @@
 		}
 		{
 			id: "5ABC7CE1A9B9FB7C"
+			rewards: [{
+				count: 5
+				id: "641FF2FE452E6DB4"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "36E5A04FB77769B8"
@@ -416,6 +701,15 @@
 		}
 		{
 			id: "2ED49410115A9FDC"
+			rewards: [{
+				count: 5
+				id: "6CEC41D7A47C9949"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "4518BD43BAE189E6"
@@ -427,6 +721,15 @@
 		}
 		{
 			id: "632F1D52317286A8"
+			rewards: [{
+				count: 5
+				id: "465ECFEE19B1B041"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "7A00BCA9914E1A38"
@@ -438,6 +741,15 @@
 		}
 		{
 			id: "7362AE3D474FF6E1"
+			rewards: [{
+				count: 5
+				id: "4B32D6D816070466"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "03DC25753703FF8B"
@@ -449,6 +761,15 @@
 		}
 		{
 			id: "17C488042DB187A3"
+			rewards: [{
+				count: 5
+				id: "17B409BDCD00C180"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "2EA3AE6B42E8DAC4"
@@ -460,6 +781,15 @@
 		}
 		{
 			id: "2F8EAC597AB7E760"
+			rewards: [{
+				count: 5
+				id: "6FF2F308AE3F0822"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "4BAB959E80D724B1"
@@ -471,6 +801,15 @@
 		}
 		{
 			id: "250E32D632A506B2"
+			rewards: [{
+				count: 5
+				id: "37FC153162E213A2"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "04BE5FA924E1D9A9"
@@ -531,35 +870,26 @@
 				"629831A093BC1F03"
 			]
 			dependency_requirement: "all_started"
+			hide_dependency_lines: true
+			icon: {
+				id: "eternal_starlight:loot_bag"
+			}
 			id: "703CC46FAC00A5D9"
 			rewards: [
 				{
-					id: "4443BADF7DDA2981"
+					id: "7F32D3E50A6E4C37"
 					item: {
 						count: 1
-						id: "simplyswords:dormant_relic"
+						id: "kubejs:heart_container"
 					}
 					type: "item"
 				}
 				{
-					id: "2F33E5A50DB9E0D3"
+					count: 2
+					id: "34BB3953AD5FB159"
 					item: {
-						components: {
-							"ftbquests:missing_item": "kubejs:relic_badge"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-				{
-					id: "75C99BE6CCC96D15"
-					item: {
-						components: {
-							"ftbquests:missing_item": "numismatics:crown"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
+						id: "magic_coins:gold_coin"
 					}
 					type: "item"
 				}
@@ -575,6 +905,15 @@
 		}
 		{
 			id: "409E9857A7494319"
+			rewards: [{
+				count: 5
+				id: "668F075EBEFC4BA9"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "4D62BAD6B4C83E2F"
@@ -586,6 +925,15 @@
 		}
 		{
 			id: "37D5E493E9DB64D4"
+			rewards: [{
+				count: 5
+				id: "03170F4410C3B75B"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "21D7D7A5EA397DA5"
@@ -597,6 +945,15 @@
 		}
 		{
 			id: "5590204A473913AC"
+			rewards: [{
+				count: 5
+				id: "41C2FC2B4ACDAB9A"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "509B0BEC6B28E229"
@@ -608,6 +965,15 @@
 		}
 		{
 			id: "4F734FC470276106"
+			rewards: [{
+				count: 5
+				id: "20C5EE5CF24E3EB3"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "503ED9E5B1EC5719"
@@ -619,6 +985,15 @@
 		}
 		{
 			id: "37D3986933A263DB"
+			rewards: [{
+				count: 5
+				id: "6029E1A6E293781C"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "491B091BBB272AF5"
@@ -630,6 +1005,15 @@
 		}
 		{
 			id: "681E258AB577FF73"
+			rewards: [{
+				count: 5
+				id: "4A2D2E4F48079924"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "10D69FEA1C976555"
@@ -641,6 +1025,15 @@
 		}
 		{
 			id: "65663D9E051280F2"
+			rewards: [{
+				count: 5
+				id: "6E27C5466039A991"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "4B8834EE76FD1549"
@@ -652,6 +1045,15 @@
 		}
 		{
 			id: "629831A093BC1F03"
+			rewards: [{
+				count: 5
+				id: "2199F830B884D2DD"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "412E152EAEE7D0BB"
@@ -663,6 +1065,15 @@
 		}
 		{
 			id: "607047A3D380D423"
+			rewards: [{
+				count: 5
+				id: "5E11A39C4AF16A46"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "085C8B384657B953"
@@ -674,6 +1085,15 @@
 		}
 		{
 			id: "5E0BD4E4E6C9E146"
+			rewards: [{
+				count: 5
+				id: "0A76A2CCC45F9BEB"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "0EE241245E04B38D"
