@@ -23,4 +23,14 @@ ServerEvents.recipes(event => {
     event.shapeless(eye.id, fragments);
   });
 
+  event.replaceInput({id:'apotheosis:salvaging_table'}, 'apotheosis:gem_dust', 'minecraft:diamond_block')
+
+  event.replaceInput({id:'crystal_chronicles:hemalite_shard'}, 'minecraft:amethyst_shard', 'irons_spellbooks:divine_soulshard')
+  event.replaceInput({id:'crystal_chronicles:voidstone_shard'}, 'minecraft:amethyst_shard', 'irons_spellbooks:divine_soulshard')
+  event.replaceInput({id:'crystal_chronicles:divinite_shard'}, 'minecraft:amethyst_shard', 'irons_spellbooks:divine_soulshard')
+  event.replaceInput({id:'crystal_chronicles:voltite_shard'}, 'minecraft:amethyst_shard', 'irons_spellbooks:divine_soulshard')
+  event.replaceInput({id:'crystal_chronicles:floralite_shard'}, 'minecraft:amethyst_shard', 'irons_spellbooks:divine_soulshard')
+  event.replaceInput({id:'crystal_chronicles:volcanite_shard'}, 'minecraft:amethyst_shard', 'irons_spellbooks:divine_soulshard')
+  event.replaceInput({id:'crystal_chronicles:ice_shard'}, 'minecraft:amethyst_shard', 'irons_spellbooks:divine_soulshard')
+
 });

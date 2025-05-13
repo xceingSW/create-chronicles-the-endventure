@@ -2214,6 +2214,15 @@
 					}
 					type: "item"
 				}
+				{
+					count: 2
+					id: "40097531B786F313"
+					item: {
+						count: 1
+						id: "irons_spellbooks:divine_soulshard"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "20885A4CE5A8DDE7"

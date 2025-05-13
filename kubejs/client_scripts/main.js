@@ -77,8 +77,15 @@ RecipeViewerEvents.addInformation('item', item =>{
   item.add("simplyswords:storms_edge", "Drops from Maledictus")
   item.add("simplyswords:stars_edge", "Drops from Maledictus")
 
-//maledictus
-//the_leviathan
+  item.add("simplyswords:hearthflame", "Drops from Ender Dragon")
+  item.add("simplyswords:soulkeeper", "Drops from Ender Dragon")
+  item.add("simplyswords:icewhisper", "Drops from Ender Dragon")
+  item.add("simplyswords:arcanethyst", "Drops from Ender Dragon")
+  item.add("simplyswords:thunderbrand", "Drops from Ender Dragon")
+  item.add("simplyswords:shadowsting", "Drops from Ender Dragon")
+  item.add("simplyswords:dormant_relic", "Drops from Ender Dragon")
+  item.add("simplyswords:livyatan", "Drops from Ender Dragon")
+  //34 total
 })
 
 

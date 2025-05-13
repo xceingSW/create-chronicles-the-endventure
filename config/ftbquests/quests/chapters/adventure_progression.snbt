@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "adventure_progression"
 	group: ""
+	icon: {
+		id: "kubejs:black_eye_fragment_core"
+	}
 	id: "576F6A1E4D30F4F2"
 	images: [
 		{
@@ -214,6 +217,15 @@
 			width: 0.35d
 			x: -8.0d
 			y: -1.5d
+		}
+		{
+			color: 12948991
+			height: 1.0d
+			image: "chalk:block/mark/arrow"
+			rotation: 180.0d
+			width: 1.0d
+			x: -10.5d
+			y: -9.0d
 		}
 	]
 	order_index: 1
@@ -1224,6 +1236,11 @@
 		}
 		{
 			id: "619A108A6BC00D4F"
+			rewards: [{
+				id: "4D325363444DDFFB"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "50B33589152EE05E"
@@ -1235,6 +1252,11 @@
 		}
 		{
 			id: "5FDAADD20C6A6DC7"
+			rewards: [{
+				id: "3860C0281CD14E32"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "39FA65B3A27B2CCA"
@@ -1246,6 +1268,11 @@
 		}
 		{
 			id: "4CABBBFC66009A4D"
+			rewards: [{
+				id: "1CF4AF86730EFC54"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "292FE367D61F3807"
@@ -1401,6 +1428,23 @@
 					}
 					type: "item"
 				}
+				{
+					advancement: "apotheosis:progression/pinnacle"
+					auto: "enabled"
+					criterion: ""
+					id: "64B2A3D6FD979CF8"
+					type: "advancement"
+				}
+				{
+					auto: "enabled"
+					command: "/apoth set_world_tier @s pinnacle"
+					icon: {
+						id: "deeperdarker:heart_of_the_deep"
+					}
+					id: "65BE13A64559DB0F"
+					silent: true
+					type: "command"
+				}
 			]
 			shape: "rsquare"
 			size: 2.0d
@@ -1524,6 +1568,11 @@
 		}
 		{
 			id: "46CE26B4185E78F6"
+			rewards: [{
+				id: "77EF7D6B1337D689"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "27EEE76D637AC25F"
@@ -1535,6 +1584,11 @@
 		}
 		{
 			id: "215659C97E225CD9"
+			rewards: [{
+				id: "52703B049021E7D3"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "665A43CE9657B1B7"
@@ -1546,6 +1600,11 @@
 		}
 		{
 			id: "15F3F247BBD99FFC"
+			rewards: [{
+				id: "0A6C2519FED3EE40"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "0AEAA35B1850327B"
@@ -1557,6 +1616,11 @@
 		}
 		{
 			id: "0B71AA53E7598FCE"
+			rewards: [{
+				id: "51F54D1E268DB3C2"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "61BFC50A5942D279"
@@ -1568,6 +1632,11 @@
 		}
 		{
 			id: "3BFAFCAF4A1398FB"
+			rewards: [{
+				id: "5D19421363BB1721"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "4E7FA9FC94700011"
@@ -1579,6 +1648,11 @@
 		}
 		{
 			id: "7E761D6BEC400CA1"
+			rewards: [{
+				id: "4CFEE450156C3F62"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "4D68671618599E43"
@@ -1590,6 +1664,11 @@
 		}
 		{
 			id: "680E7452223F50D3"
+			rewards: [{
+				id: "50B0DC47A38BCC95"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "3208E2756C186C11"
@@ -1601,6 +1680,11 @@
 		}
 		{
 			id: "6468BAD773321D19"
+			rewards: [{
+				id: "4A29328C737023C0"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "46C75B92A0292985"
@@ -1612,6 +1696,11 @@
 		}
 		{
 			id: "78EECB9BBD130464"
+			rewards: [{
+				id: "573D4A70C299E2E3"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "40D62ECF4B808272"
@@ -1623,6 +1712,11 @@
 		}
 		{
 			id: "0F510AF1AE426138"
+			rewards: [{
+				id: "5EE6DAC1BA4A3E60"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "07FD5F30A59B5152"
@@ -1634,6 +1728,11 @@
 		}
 		{
 			id: "18AA717744A8656B"
+			rewards: [{
+				id: "06F91684B87E7961"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "25438E3DA9B0D20D"
@@ -1645,6 +1744,11 @@
 		}
 		{
 			id: "0237F10FF6D641B7"
+			rewards: [{
+				id: "484CDD714E2B9479"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "64DFF238CAF92D4F"
@@ -1656,6 +1760,11 @@
 		}
 		{
 			id: "78D8F2513F3701A0"
+			rewards: [{
+				id: "23DCD09EAD5AFB65"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "75DB4243E856AD0F"
@@ -1667,6 +1776,11 @@
 		}
 		{
 			id: "65F7AAFEB0A39681"
+			rewards: [{
+				id: "17616ABCE9732B72"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "7D8C205685773FC8"
@@ -1678,6 +1792,11 @@
 		}
 		{
 			id: "36D5E490C9A7843D"
+			rewards: [{
+				id: "3F32C2F190199772"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "61F5D5ED8D0ECB90"
@@ -1709,23 +1828,18 @@
 			dependencies: ["3052F9967211F448"]
 			id: "7C3B4C2C5210096F"
 			rewards: [{
-				count: 4
-				id: "7C658C9E2F0632BE"
+				id: "7EDDDB66661A5036"
 				item: {
 					count: 1
-					id: "apotheosis:mythic_material"
+					id: "magic_coins:silver_coin"
 				}
 				type: "item"
 			}]
 			shape: "rsquare"
 			size: 1.5d
 			tasks: [{
-				dimension: "deeperdarker:otherside"
-				icon: {
-					id: "minecraft:reinforced_deepslate"
-				}
-				id: "4FC2F9DC0058C29F"
-				type: "dimension"
+				id: "59B37915ED9CA935"
+				type: "checkmark"
 			}]
 			x: -5.25d
 			y: 8.25d
@@ -1754,9 +1868,9 @@
 			shape: "rsquare"
 			size: 1.5d
 			tasks: [{
-				entity: "cataclysm:ender_golem"
+				entity: "cataclysm:ender_guardian"
 				icon: {
-					id: "cataclysm:void_core"
+					id: "cataclysm:gauntlet_of_guard"
 				}
 				id: "1B9F5CE5C4437C07"
 				type: "kill"

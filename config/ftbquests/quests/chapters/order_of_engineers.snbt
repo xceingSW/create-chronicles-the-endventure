@@ -1,0 +1,13 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "order_of_engineers"
+	group: ""
+	icon: {
+		id: "kubejs:token_advanced"
+	}
+	id: "00BD5759F8E2525F"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

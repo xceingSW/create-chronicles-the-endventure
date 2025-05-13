@@ -1,13 +1,13 @@
 {
   "general": {
     "itemModNameTooltip": true,
-    "bossBarOverlapMode": "PUSH_DOWN",
+    "bossBarOverlapMode": "HIDE_TOOLTIP",
     "builtinCamouflage": true,
     "hideFromTabList": true,
     "hideFromGUIs": true,
     "accessibilityModMemory": false,
     "enableAccessibilityPlugin": false,
-    "fluidMode": "ANY",
+    "fluidMode": "NONE",
     "perspectiveMode": "CAMERA",
     "extendedReach": 0.0,
     "debug": false,
@@ -42,6 +42,7 @@
     }
   },
   "history": {
+    "hintOverlayToggle": false,
     "themesHash": -328442023
   }
 }

@@ -1,9 +1,19 @@
 // === REMOVE BY RECIPE ID ===
-const removeRecipesById = [];
+const removeRecipesById = [
+  'simplyswords:sword_on_a_stick',
+    'apotheosis:book',
+  'apothic_enchanting:library',
+  'apothic_enchanting:ender_library',
+  'irons_spellbooks:lesser_spell_slot_upgrade',
+  'irons_spellbooks:druidic_spell_book',
+  'gamediscs:gaming_console',
+];
 
 // === REMOVE BY MOD ID ===
 const removeByMod = [
-  'endrem'
+  'endrem',
+  'armoroftheages',
+  'cosmeticarmoursmod'
 ];
 
 // === REMOVE BY INPUT ===
@@ -24,7 +34,7 @@ const removeByTag = [
 
 ServerEvents.recipes(event => {
   // Remove by ID
-  //removeRecipesById.forEach(id => event.remove({id: id}));
+  removeRecipesById.forEach(id => event.remove({id: id}));
   global.REMOVE_ITEMS.forEach(id => event.remove({id: id}));
 
   // Remove by mod ID
