@@ -56,11 +56,11 @@
   // CATEGORY: GAMEPLAY
   "gameplay": {
     // Should End portals teleport to the outer islands instead of the Dragon's
-    "outer_end_in_gameloop": true,
+    "outer_end_in_gameloop": false,
 
     "dragon": {
       // Should the Dragon's Fireballs create a firey explosion on impact
-      "explosive_fireballs": true,
+      "explosive_fireballs": false,
       // Should Endermen not be aggroed when looked at during the fight
       "no_pesky_endermen": false
     },

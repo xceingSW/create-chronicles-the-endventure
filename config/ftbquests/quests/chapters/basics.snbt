@@ -2984,5 +2984,15 @@
 			x: -7.5d
 			y: 13.5d
 		}
+		{
+			id: "7C68CB331F9E5212"
+			tasks: [{
+				id: "58AB9E040CA1B6E7"
+				item: { components: { "apotheosis:gem": "apotheosis:overworld/royalty", "apotheosis:purity": "flawed" }, count: 1, id: "apotheosis:gem" }
+				type: "item"
+			}]
+			x: -13.5d
+			y: 15.0d
+		}
 	]
 }

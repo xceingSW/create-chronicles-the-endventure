@@ -204,8 +204,8 @@
 			image: "chalk:block/mark/arrow"
 			rotation: 90.0d
 			width: 1.0d
-			x: -17.0d
-			y: -7.5d
+			x: -11.5d
+			y: -8.0d
 		}
 		{
 			height: 0.35d
@@ -1007,45 +1007,6 @@
 			y: -5.0d
 		}
 		{
-			id: "3755F5BB283AEC30"
-			progression_mode: "flexible"
-			rewards: [
-				{
-					id: "4542B0A44E23663C"
-					type: "xp"
-					xp: 50
-				}
-				{
-					id: "6236C5FFB7051509"
-					item: {
-						components: {
-							"ftbquests:missing_item": "numismatics:spur"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "7C44135DEB649949"
-				item: { count: 1, id: "endrem:guardian_eye" }
-				type: "item"
-			}]
-			x: -17.0d
-			y: -6.0d
-		}
-		{
-			id: "315FAAF3AC56AA6E"
-			tasks: [{
-				id: "1E93D200860C47AD"
-				item: { count: 1, id: "endrem:cold_eye" }
-				type: "item"
-			}]
-			x: -16.5d
-			y: -5.0d
-		}
-		{
 			icon: {
 				id: "irons_spellbooks:decrepit_scythe"
 			}
@@ -1296,35 +1257,32 @@
 		}
 		{
 			id: "5B7298316481A1CF"
-			tasks: [{
-				id: "4D534FB778B8E964"
-				item: { count: 1, id: "minecraft:stripped_oak_log" }
+			rewards: [{
+				count: 2
+				id: "4968C71B8513376B"
+				item: {
+					count: 1
+					id: "minecraft:enchanted_golden_apple"
+				}
 				type: "item"
 			}]
-			x: -7.5d
-			y: -13.5d
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "509D5321A4F9841D"
+				type: "checkmark"
+			}]
+			x: -10.5d
+			y: -8.0d
 		}
 		{
 			hide_dependency_lines: true
 			id: "3D6259FBCAA99583"
-			rewards: [
-				{
-					id: "620A0DB3D8E30D97"
-					type: "xp"
-					xp: 50
-				}
-				{
-					id: "1AF00C305AD0DD53"
-					item: {
-						components: {
-							"ftbquests:missing_item": "numismatics:spur"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-			]
+			rewards: [{
+				id: "620A0DB3D8E30D97"
+				type: "xp"
+				xp: 50
+			}]
 			size: 3.0d
 			tasks: [{
 				dimension: "minecraft:the_end"
@@ -1335,34 +1293,51 @@
 			y: -4.9d
 		}
 		{
+			dependencies: ["3052F9967211F448"]
 			id: "07655CF543C452F8"
-			rewards: [{
-				id: "0354D96FC9B509BC"
-				item: {
-					count: 1
-					id: "create_sa:heap_of_experience"
+			rewards: [
+				{
+					id: "0354D96FC9B509BC"
+					item: {
+						count: 1
+						id: "create_sa:heap_of_experience"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 3
+					id: "44EA99BDE4A6C0C3"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				advancement: "minecraft:end/dragon_breath"
 				criterion: ""
 				id: "0D5FDB7F41EE9FD3"
 				type: "advancement"
 			}]
-			x: -8.0d
-			y: 4.0d
+			x: -8.5d
+			y: 4.5d
 		}
 		{
+			dependencies: ["3D6259FBCAA99583"]
 			dependency_requirement: "all_started"
+			icon: {
+				id: "minecraft:dragon_head"
+			}
 			id: "3052F9967211F448"
 			rewards: [
 				{
 					id: "719B6E67C4260F9D"
 					type: "xp"
-					xp: 100
+					xp: 8000
 				}
 				{
+					count: 8
 					id: "026D8E966C2A624F"
 					item: {
 						count: 1
@@ -1370,19 +1345,76 @@
 					}
 					type: "item"
 				}
+				{
+					id: "2C0B380E4B356E59"
+					item: {
+						count: 1
+						id: "kubejs:heart_container"
+					}
+					type: "item"
+				}
+				{
+					count: 15
+					id: "35A9BBAA673CC56B"
+					item: {
+						count: 1
+						id: "apotheosis:mythic_material"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "31211236F9630A27"
+					item: {
+						components: {
+							"silentlib:loot_container": {
+								loot_table: "treasurebags:bags/perfect_core_gem"
+							}
+							"treasurebags:bag_type": "treasurebags:perfect_core_gem"
+						}
+						count: 1
+						id: "treasurebags:treasure_bag"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0E348C974FB8C796"
+					item: {
+						components: {
+							"silentlib:loot_container": {
+								loot_table: "treasurebags:bags/perfect_arcane_gem"
+							}
+							"treasurebags:bag_type": "treasurebags:perfect_arcane_gem"
+						}
+						count: 1
+						id: "treasurebags:treasure_bag"
+					}
+					type: "item"
+				}
+				{
+					count: 30
+					id: "0A2426D47236AF45"
+					item: {
+						count: 1
+						id: "magic_coins:gold_coin"
+					}
+					type: "item"
+				}
 			]
 			shape: "rsquare"
 			size: 2.0d
 			tasks: [{
-				entity: "minecraft:ender_dragon"
-				id: "2B70A77966C497BD"
-				type: "kill"
-				value: 1L
+				advancement: "minecraft:end/kill_dragon"
+				criterion: ""
+				id: "2DC46985587EDE9C"
+				type: "advancement"
 			}]
-			x: -8.0d
+			x: -7.5d
 			y: 6.0d
 		}
 		{
+			dependencies: ["3052F9967211F448"]
 			id: "7C185DB8566F7E33"
 			rewards: [
 				{
@@ -1391,28 +1423,28 @@
 					xp: 100
 				}
 				{
-					id: "3D3495E522B254DB"
+					count: 3
+					id: "7F33BFF7FD7C7785"
 					item: {
-						components: {
-							"ftbquests:missing_item": "numismatics:bevel"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "magic_coins:silver_coin"
 					}
 					type: "item"
 				}
 			]
 			shape: "rsquare"
+			size: 1.5d
 			tasks: [{
 				advancement: "minecraft:end/dragon_egg"
 				criterion: ""
 				id: "1F7A7FA9CAFCCC1F"
 				type: "advancement"
 			}]
-			x: -8.0d
-			y: 8.0d
+			x: -6.75d
+			y: 8.25d
 		}
 		{
+			dependencies: ["3052F9967211F448"]
 			id: "746F82D541EBA386"
 			optional: true
 			rewards: [
@@ -1431,13 +1463,11 @@
 					type: "item"
 				}
 				{
-					id: "4530D03C268FC38B"
+					count: 3
+					id: "08C814605C789C34"
 					item: {
-						components: {
-							"ftbquests:missing_item": "numismatics:bevel"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "magic_coins:silver_coin"
 					}
 					type: "item"
 				}
@@ -1449,19 +1479,18 @@
 				item: { count: 1, id: "minecraft:elytra" }
 				type: "item"
 			}]
-			x: -11.0d
-			y: 6.0d
+			x: -8.25d
+			y: 8.25d
 		}
 		{
+			dependencies: ["746F82D541EBA386"]
 			id: "793C4FD3470AC117"
 			rewards: [{
-				id: "259448AF87285C81"
+				count: 3
+				id: "6CEA4F80E9492B8F"
 				item: {
-					components: {
-						"ftbquests:missing_item": "numismatics:bevel"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "magic_coins:silver_coin"
 				}
 				type: "item"
 			}]
@@ -1470,19 +1499,18 @@
 				item: { count: 1, id: "cataclysm:ignitium_elytra_chestplate" }
 				type: "item"
 			}]
-			x: -12.0d
-			y: 8.0d
+			x: -7.5d
+			y: 9.5d
 		}
 		{
+			dependencies: ["746F82D541EBA386"]
 			id: "0A69851F5CC1A1F0"
 			rewards: [{
-				id: "0FD0494D5E552AD2"
+				count: 3
+				id: "681078A5EEB88763"
 				item: {
-					components: {
-						"ftbquests:missing_item": "numismatics:bevel"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "magic_coins:silver_coin"
 				}
 				type: "item"
 			}]
@@ -1491,18 +1519,8 @@
 				item: { count: 1, id: "deeperdarker:soul_elytra" }
 				type: "item"
 			}]
-			x: -13.5d
-			y: 8.0d
-		}
-		{
-			id: "4FC2652D2526E842"
-			tasks: [{
-				id: "70076B25F54BA741"
-				item: { count: 1, id: "minecraft:oak_log" }
-				type: "item"
-			}]
-			x: -11.0d
-			y: -12.0d
+			x: -9.0d
+			y: 9.5d
 		}
 		{
 			id: "46CE26B4185E78F6"
@@ -1670,25 +1688,6 @@
 			y: -6.5d
 		}
 		{
-			id: "7DAEBFB6739BC14E"
-			tasks: [{
-				id: "53C18716A59B10AC"
-				type: "checkmark"
-			}]
-			x: -12.0d
-			y: -1.5d
-		}
-		{
-			id: "211162689A730E91"
-			tasks: [{
-				id: "4FF64409D010E86B"
-				item: { components: { "apotheosis:gem": "apotheosis:overworld/royalty", "apotheosis:purity": "flawed" }, count: 1, id: "apotheosis:gem" }
-				type: "item"
-			}]
-			x: -12.0d
-			y: -10.0d
-		}
-		{
 			dependencies: ["4DF64525E5F3E1FC"]
 			id: "2401A3C6E360DD00"
 			rewards: [{
@@ -1705,6 +1704,66 @@
 			}]
 			x: -5.0d
 			y: -9.5d
+		}
+		{
+			dependencies: ["3052F9967211F448"]
+			id: "7C3B4C2C5210096F"
+			rewards: [{
+				count: 4
+				id: "7C658C9E2F0632BE"
+				item: {
+					count: 1
+					id: "apotheosis:mythic_material"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				dimension: "deeperdarker:otherside"
+				icon: {
+					id: "minecraft:reinforced_deepslate"
+				}
+				id: "4FC2F9DC0058C29F"
+				type: "dimension"
+			}]
+			x: -5.25d
+			y: 8.25d
+		}
+		{
+			dependencies: ["3052F9967211F448"]
+			id: "008BB9099EFA03A0"
+			rewards: [
+				{
+					id: "13B98A78EF795180"
+					item: {
+						count: 1
+						id: "kubejs:heart_container"
+					}
+					type: "item"
+				}
+				{
+					id: "7CC68A773A991E68"
+					item: {
+						count: 1
+						id: "magic_coins:crystal_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				entity: "cataclysm:ender_golem"
+				icon: {
+					id: "cataclysm:void_core"
+				}
+				id: "1B9F5CE5C4437C07"
+				type: "kill"
+				value: 1L
+			}]
+			x: -9.75d
+			y: 8.25d
 		}
 	]
 }
