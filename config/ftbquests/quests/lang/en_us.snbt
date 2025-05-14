@@ -159,6 +159,7 @@
 		"{image:kubejs:textures/blastfurnace_switch.png width:130 height:48 align:center}"
 	]
 	quest.0AB740B18E5FA805.title: "Build a blast furnace"
+	quest.0AB78F7C8EC68C08.quest_subtitle: "Not repeatable"
 	quest.0C61389C18B4A2B4.quest_desc: ["A holy talisman said to protect its owner from bad luck"]
 	quest.0C61389C18B4A2B4.quest_subtitle: "Buy it from a master cleric"
 	quest.0CFFF58986CE7733.quest_subtitle: "you know how to make coal don't you? "
@@ -314,6 +315,7 @@
 		""
 		"d&5"
 	]
+	quest.2497E4DD60E74225.quest_subtitle: "Not repeatable"
 	quest.2506598B0A22BE75.quest_desc: [
 		"The &bMolecular Assembler&r is AE2's automatic crafting table, essential for all crafting pattern jobs. "
 		""
@@ -401,6 +403,7 @@
 		""
 		"&bHeart Container&r"
 	]
+	quest.2C0A86D7F9D1A0D8.quest_subtitle: "You can repeat as many times you want!"
 	quest.2C1C7767F66A6453.quest_subtitle: "right click into a cleric familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Priest Towers."
 	quest.2C203D19752E2E2A.quest_desc: ["The &eLesser Spell Slot Improvement&r can be applied to a spellbook multiple times, up to a maximum of 12 slots."]
 	quest.2C7EE6C411E3CF59.quest_desc: [
@@ -552,6 +555,7 @@
 		"Right-click with &4Mundabitur Dust&r and you'll create the obelisk."
 	]
 	quest.39AD4C222874D63F.quest_subtitle: "Increases the user's invulnerability frames after taking a hit (1s)"
+	quest.3A00CAE9E315BFE7.quest_subtitle: "Not repeatable"
 	quest.3AB3B4308FA14C9E.quest_desc: [
 		"To make Bauxite you must use &a5 Mechanical Crafters&r. There’s various ways you can do this such as using a Mechanical Arm to place the items in their correct slots. "
 		""
@@ -685,6 +689,7 @@
 	]
 	quest.453F0E5926BA4AB1.quest_desc: ["{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7739373308A83503\" } }"]
 	quest.453F0E5926BA4AB1.quest_subtitle: "This can be found in blue skies dimension"
+	quest.45BE2DE3977F53E9.quest_subtitle: "Not repeatable"
 	quest.465CE0F51624F8EA.quest_desc: [
 		"This pack comes with a lot of keybinds built in. Here are some of key ones:"
 		""
@@ -869,6 +874,7 @@
 		""
 		"{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3D862A3D3F83CA26\" } }"
 	]
+	quest.569EEAB237D75495.quest_subtitle: "Not repeatable"
 	quest.56F1F049F20B29A7.title: "&aArchevoker Outfit"
 	quest.57FCF653EDA81DE0.quest_subtitle: "use a beacon to convert it"
 	quest.580F889F027A87FE.quest_desc: [
@@ -1079,7 +1085,9 @@
 	quest.66630803C9EA0DEA.title: "&6&lSchool of Holy"
 	quest.66A8B9C4C4AC291A.quest_subtitle: "Strikes attackers with lightning. Grants immunity to lightning strikes."
 	quest.671D0A62B7171DBB.quest_subtitle: "&6Long Casts become uninterruptible"
+	quest.6767C398AD003D14.quest_subtitle: "Not repeatable"
 	quest.681E258AB577FF73.quest_subtitle: " Increases Lure and Luck of the Sea by 1 level"
+	quest.6831FF0CBA2E0FD2.quest_subtitle: "Not repeatable"
 	quest.6907C5959F72930E.quest_subtitle: "+5% mana regen. Found in Catacombs."
 	quest.692D79D601534A2E.quest_desc: [
 		"{image:kubejs:textures/familiars/summoner.png width:100 height:105 align:center}"
@@ -1253,6 +1261,7 @@
 	]
 	quest.78425DC3875B9854.quest_subtitle: "&lWelcome to &bApplied Energistics 2&f!"
 	quest.78425DC3875B9854.title: "Virtual Storage System"
+	quest.78CCC3928AD94E59.quest_subtitle: "Not repeatable"
 	quest.78DFD8815E2AE291.quest_subtitle: "Does not get consumed when eaten, meaning it's an infinite food source."
 	quest.78E34F3F9A19F275.quest_subtitle: "Gives you water breathing"
 	quest.793C4FD3470AC117.quest_subtitle: "Better Elytra!"

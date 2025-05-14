@@ -311,9 +311,17 @@
     "modId": "create_sa",
     "version": "2.1.0."
   },
+  "create_cardboarded_conveynience-0.0.3b.jar": {
+    "modId": "create_cardboarded_conveynience",
+    "version": "0.0.3b"
+  },
   "create_mechanical_extruder-1.21.1-2.1.1-6.0.4.jar": {
     "modId": "create_mechanical_extruder",
     "version": "1.21.1-2.1.1-6.0.4"
+  },
+  "create_mobile_packages-1.21.1-0.4.4.jar": {
+    "modId": "create_mobile_packages",
+    "version": "0.4.4"
   },
   "create_pattern_schematics-2.0.6.jar": {
     "modId": "create_pattern_schematics",

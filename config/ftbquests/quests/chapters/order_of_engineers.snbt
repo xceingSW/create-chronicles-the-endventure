@@ -7,7 +7,276 @@
 		id: "kubejs:token_advanced"
 	}
 	id: "00BD5759F8E2525F"
+	images: [
+		{
+			height: 14.0d
+			image: "connectedglass:borderless_glass/borderless_glass_orange_edge"
+			rotation: 90.0d
+			width: 1.0d
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			height: 14.0d
+			image: "connectedglass:borderless_glass/borderless_glass_orange_edge"
+			rotation: 90.0d
+			width: 1.0d
+			x: 1.0d
+			y: 6.5d
+		}
+	]
 	order_index: 2
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			can_repeat: false
+			id: "6831FF0CBA2E0FD2"
+			rewards: [{
+				id: "179C75E114868346"
+				item: {
+					count: 1
+					id: "kubejs:token_basic"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "5D787970EC367EAF"
+				item: { count: 1, id: "minecraft:apple" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: false
+			id: "45BE2DE3977F53E9"
+			rewards: [{
+				id: "58417EB0FC5D7DAB"
+				item: {
+					count: 1
+					id: "kubejs:token_medium"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "291F78ED50B807F4"
+				item: { count: 1, id: "create:precision_mechanism" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: false
+			id: "569EEAB237D75495"
+			rewards: [{
+				id: "5A0A29E4480A3A65"
+				item: {
+					count: 1
+					id: "kubejs:token_advanced"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "094E600D5D12DBED"
+				item: { count: 1, id: "garnished:phantom_steak" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 7.5d
+		}
+		{
+			can_repeat: false
+			id: "2497E4DD60E74225"
+			rewards: [{
+				id: "7F70469E29C14B11"
+				item: {
+					count: 1
+					id: "kubejs:token_basic"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "4B2A1CF02357C758"
+				item: { count: 1, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: false
+			id: "78CCC3928AD94E59"
+			rewards: [{
+				id: "395801492AAFC62E"
+				item: {
+					count: 1
+					id: "kubejs:token_basic"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "5F160A6034DA1275"
+				item: { count: 1, id: "minecraft:baked_potato" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: false
+			id: "080114C9009671CE"
+			rewards: [{
+				id: "55ECF6C1EE51AD07"
+				item: {
+					count: 1
+					id: "kubejs:token_basic"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "6C06CEBA98A6FE19"
+				item: { count: 1, id: "minecraft:beetroot" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: false
+			id: "3A00CAE9E315BFE7"
+			rewards: [{
+				id: "5A20558FE4FE626F"
+				item: {
+					count: 1
+					id: "kubejs:token_basic"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "0D641D200E5B5390"
+				item: { count: 1, id: "farmersdelight:onion" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: false
+			id: "7B42482FC8EEA8F8"
+			rewards: [{
+				id: "6A1E5DE49E06C812"
+				item: {
+					count: 1
+					id: "kubejs:token_basic"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "5CE8311B7424C12F"
+				item: { count: 1, id: "farmersdelight:cabbage_rolls" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: false
+			id: "0AB78F7C8EC68C08"
+			rewards: [{
+				id: "28323E0D3CB221FE"
+				item: {
+					count: 1
+					id: "kubejs:token_basic"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "77B834EA2F3D97A7"
+				item: { count: 1, id: "create:belt_connector" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"080114C9009671CE"
+				"6831FF0CBA2E0FD2"
+				"0AB78F7C8EC68C08"
+				"2497E4DD60E74225"
+				"7B42482FC8EEA8F8"
+				"3A00CAE9E315BFE7"
+				"78CCC3928AD94E59"
+			]
+			id: "2C0A86D7F9D1A0D8"
+			rewards: [{
+				count: 5
+				id: "24AE81562045FD53"
+				item: {
+					count: 1
+					id: "kubejs:token_basic"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.0d
+			tasks: [{
+				id: "039D96EA984D5BDA"
+				item: { count: 1, id: "minecraft:stripped_oak_wood" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: false
+			id: "6767C398AD003D14"
+			rewards: [{
+				id: "027F2FBE3A9DA669"
+				item: {
+					count: 1
+					id: "kubejs:token_basic"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "1CC8D34CE3E8694C"
+				item: { count: 1, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+	]
 }

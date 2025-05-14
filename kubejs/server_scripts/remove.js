@@ -2,11 +2,21 @@
 const removeRecipesById = [
   'simplyswords:sword_on_a_stick',
     'apotheosis:book',
+  'waystones:warp_stone',
   'apothic_enchanting:library',
   'apothic_enchanting:ender_library',
   'irons_spellbooks:lesser_spell_slot_upgrade',
   'irons_spellbooks:druidic_spell_book',
   'gamediscs:gaming_console',
+
+  'farmingforblockheads:green_fertilizer',
+  'farmingforblockheads:red_fertilizer',
+  'farmingforblockheads:yellow_fertilizer',
+  'farmingforblockheads:feeding_trough',
+  'farmingforblockheads:chicken_nest',
+  'create_sa:block_picker_recipe',
+  'create_mechanical_extruder:mechanical_brass_extruder',
+  'create_mechanical_extruder:crafting/mechanical_extruder'
 ];
 
 // === REMOVE BY MOD ID ===

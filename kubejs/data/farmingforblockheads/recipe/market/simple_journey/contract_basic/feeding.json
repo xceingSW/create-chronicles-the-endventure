@@ -4,12 +4,12 @@
   "preset": "simple_journey:empty",
   "payment": {
     "ingredient": {
-      "item": "kubejs:contract_basic"
+      "item": "kubejs:token_basic"
     },
-    "count": 6
+    "count": 3
   },
   "result": {
     "count": 1,
-    "item": "kubejs:lich_eye_fragment_cracked"
+    "item": "farmingforblockheads:feeding_trough"
   }
 }
