@@ -227,6 +227,7 @@
 			y: -1.5d
 		}
 		{
+			can_repeat: true
 			dependencies: [
 				"080114C9009671CE"
 				"6831FF0CBA2E0FD2"
@@ -238,6 +239,7 @@
 			]
 			id: "2C0A86D7F9D1A0D8"
 			rewards: [{
+				auto: "enabled"
 				count: 5
 				id: "24AE81562045FD53"
 				item: {
@@ -249,8 +251,10 @@
 			shape: "rsquare"
 			size: 1.0d
 			tasks: [{
+				consume_items: true
+				count: 10L
 				id: "039D96EA984D5BDA"
-				item: { count: 1, id: "minecraft:stripped_oak_wood" }
+				item: { count: 1, id: "minecraft:oak_log" }
 				type: "item"
 			}]
 			x: 0.5d
