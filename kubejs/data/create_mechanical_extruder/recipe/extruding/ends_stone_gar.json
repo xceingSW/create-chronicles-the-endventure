@@ -1,0 +1,14 @@
+{
+  "type": "create_mechanical_extruder:extruding",
+  "blockIngredients": {
+    "first": {
+      "blocks": "garnished:cashew_mixture"
+    },
+    "second": {
+      "blocks": "minecraft:lava"
+    }
+  },
+  "result": {
+    "id": "minecraft:end_stone"
+  }
+}

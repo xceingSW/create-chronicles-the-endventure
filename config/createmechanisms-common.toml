@@ -1,0 +1,6 @@
+#Should initial recipes be generated?
+generateRecipes = true
+#Revenues from uses must be generated?
+generateUsesRecipes = true
+#Revenues from uses must be generated?
+removeCreateRecipes = false

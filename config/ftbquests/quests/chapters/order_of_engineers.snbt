@@ -4,7 +4,10 @@
 	filename: "order_of_engineers"
 	group: ""
 	icon: {
-		id: "kubejs:token_advanced"
+		components: {
+			"ftbquests:missing_item": "kubejs:token_advanced"
+		}
+		id: "ftbquests:missing_item"
 	}
 	id: "00BD5759F8E2525F"
 	images: [
@@ -34,8 +37,11 @@
 			rewards: [{
 				id: "179C75E114868346"
 				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
 					count: 1
-					id: "kubejs:token_basic"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -56,8 +62,11 @@
 			rewards: [{
 				id: "58417EB0FC5D7DAB"
 				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_medium"
+					}
 					count: 1
-					id: "kubejs:token_medium"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -78,8 +87,11 @@
 			rewards: [{
 				id: "5A0A29E4480A3A65"
 				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_advanced"
+					}
 					count: 1
-					id: "kubejs:token_advanced"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -100,8 +112,11 @@
 			rewards: [{
 				id: "7F70469E29C14B11"
 				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
 					count: 1
-					id: "kubejs:token_basic"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -122,8 +137,11 @@
 			rewards: [{
 				id: "395801492AAFC62E"
 				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
 					count: 1
-					id: "kubejs:token_basic"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -144,8 +162,11 @@
 			rewards: [{
 				id: "55ECF6C1EE51AD07"
 				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
 					count: 1
-					id: "kubejs:token_basic"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -166,8 +187,11 @@
 			rewards: [{
 				id: "5A20558FE4FE626F"
 				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
 					count: 1
-					id: "kubejs:token_basic"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -188,8 +212,11 @@
 			rewards: [{
 				id: "6A1E5DE49E06C812"
 				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
 					count: 1
-					id: "kubejs:token_basic"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -210,8 +237,11 @@
 			rewards: [{
 				id: "28323E0D3CB221FE"
 				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
 					count: 1
-					id: "kubejs:token_basic"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -243,8 +273,11 @@
 				count: 5
 				id: "24AE81562045FD53"
 				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
 					count: 1
-					id: "kubejs:token_basic"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -266,8 +299,11 @@
 			rewards: [{
 				id: "027F2FBE3A9DA669"
 				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
 					count: 1
-					id: "kubejs:token_basic"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -281,6 +317,406 @@
 			}]
 			x: -3.0d
 			y: 0.0d
+		}
+		{
+			can_repeat: false
+			id: "6BFD66913FB72821"
+			rewards: [{
+				id: "368C61FEB8C0945A"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "2BF8A7C3821C9C6A"
+				item: { count: 1, id: "farmersdelight:melon_popsicle" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: false
+			id: "643C5300349FEAD3"
+			rewards: [{
+				id: "60656F98C4D2607B"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "6BB55047F9E6AA3B"
+				item: { count: 1, id: "farmersdelight:barbecue_stick" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: -2.5d
+		}
+		{
+			can_repeat: false
+			id: "59BCE0313DEEC492"
+			rewards: [{
+				id: "0E6BBC1875686243"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "21B28CA8244E0436"
+				item: { count: 1, id: "farmersdelight:mutton_wrap" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: -4.0d
+		}
+		{
+			can_repeat: false
+			id: "014F61321354C298"
+			rewards: [{
+				id: "21F8AED4E528DE0A"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "10EA7961FE698E51"
+				item: { count: 1, id: "farmersdelight:salmon_roll" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -2.0d
+		}
+		{
+			can_repeat: false
+			id: "1846FF9F624A9148"
+			rewards: [{
+				id: "17BE279E31FE1F45"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "364246347E89B021"
+				item: { count: 1, id: "farmersdelight:cod_roll" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -2.0d
+		}
+		{
+			can_repeat: false
+			id: "2136A142781BBE2B"
+			rewards: [{
+				id: "7D08A202A927B185"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "1306F9952E707F99"
+				item: { count: 1, id: "farmersdelight:kelp_roll" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -3.5d
+		}
+		{
+			can_repeat: false
+			id: "3B9ECAF48D8F47A1"
+			rewards: [{
+				id: "777451F1579422D1"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "18467152CBB752A5"
+				item: { count: 1, id: "farmersdelight:shepherds_pie_block" }
+				type: "item"
+			}]
+			x: -12.5d
+			y: -2.5d
+		}
+		{
+			can_repeat: false
+			id: "0FFFB592D103B2BF"
+			rewards: [{
+				id: "152EBE1592BBC9BF"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "50796C01D88FE7EF"
+				item: { count: 1, id: "farmersdelight:stuffed_potato" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: false
+			id: "750B5209C7EBC44D"
+			rewards: [{
+				id: "528A5C0C872190EA"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "44175C69EDF178C3"
+				item: { count: 1, id: "farmersdelight:steak_and_potatoes" }
+				type: "item"
+			}]
+			x: -13.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: false
+			id: "4A23A110747B9775"
+			rewards: [{
+				id: "2A830FA2E530E37E"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "190DB28F696CF84C"
+				item: { count: 1, id: "farmersdelight:rice_roll_medley_block" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -2.0d
+		}
+		{
+			can_repeat: false
+			id: "54A602CE0328A07F"
+			rewards: [{
+				id: "7DE5DA4654143574"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "3DCCAE0585AC31FD"
+				item: { count: 1, id: "farmersdelight:roasted_mutton_chops" }
+				type: "item"
+			}]
+			x: -12.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: false
+			id: "61F3DAB3A2BD35B6"
+			rewards: [{
+				id: "2999913A20D09013"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "7DD503BCE5A1E6FC"
+				item: { count: 1, id: "farmersdelight:grilled_salmon" }
+				type: "item"
+			}]
+			x: -14.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: false
+			id: "36081971EC8925F2"
+			rewards: [{
+				id: "6EFF724674760B7F"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "23D11BA18B928A38"
+				item: { count: 1, id: "farmersdelight:roast_chicken_block" }
+				type: "item"
+			}]
+			x: -15.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: false
+			id: "0380B5A5A39AA95A"
+			rewards: [{
+				id: "65C157518FC214D8"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "76C550AFCA14B499"
+				item: { count: 1, id: "farmersdelight:bacon_and_eggs" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: false
+			id: "7E6A7C0CB37A4120"
+			rewards: [{
+				id: "1D69F0071D520AC4"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "1FB944D9A4721997"
+				item: { count: 1, id: "farmersdelight:barbecue_stick" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 2.5d
+		}
+		{
+			can_repeat: false
+			id: "431B64F86C738BC8"
+			rewards: [{
+				id: "5A044FCD0711A763"
+				item: {
+					components: {
+						"ftbquests:missing_item": "kubejs:token_basic"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "74E9EDA9EE4094C2"
+				item: { count: 1, id: "farmersdelight:barbecue_stick" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 2.0d
 		}
 	]
 }

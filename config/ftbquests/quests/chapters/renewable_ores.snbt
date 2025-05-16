@@ -3,7 +3,7 @@
 	default_quest_shape: ""
 	filename: "renewable_ores"
 	group: ""
-	id: "01299364BAF193B6"
+	id: "01299355BAF193B6"
 	images: [{
 		alpha: 200
 		color: 16672790
@@ -14,14 +14,14 @@
 		x: -1.0d
 		y: -8.5d
 	}]
-	order_index: 3
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
 			dependencies: ["47B87C4A6EF446E9"]
-			id: "507B899E6467E189"
+			id: "60F382891E0678B9"
 			tasks: [{
-				id: "74FC72CBFFE5E319"
+				id: "49B1DADFB1D64932"
 				item: { count: 1, id: "create:asurine" }
 				type: "item"
 			}]
@@ -30,9 +30,9 @@
 		}
 		{
 			dependencies: ["7951B19407FEE024"]
-			id: "5D9857A81A9DC029"
+			id: "58B50F558F2F5FF5"
 			tasks: [{
-				id: "03D0BB3FA50990EE"
+				id: "16C053A23760EC58"
 				item: { count: 1, id: "create:crimsite" }
 				type: "item"
 			}]
@@ -41,9 +41,9 @@
 		}
 		{
 			dependencies: ["4174526248A5CC4C"]
-			id: "6E596E1F969F1208"
+			id: "13A8678F9A561F84"
 			tasks: [{
-				id: "6F729EC5F9258FE9"
+				id: "2966CEFAB0CADB3C"
 				item: { count: 1, id: "create:veridium" }
 				type: "item"
 			}]
@@ -51,21 +51,21 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["47E3008A1C7F64CE"]
-			id: "5F7A18E1DDDDD166"
+			dependencies: ["2485C10AD3B7F71B"]
+			id: "446586025BDFA705"
 			tasks: [{
-				id: "7503F6388197D05A"
+				id: "4AD17A7ABD1C6F32"
 				item: { count: 1, id: "create:scorchia" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: -1.5d
+			x: 7.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["1A68D9BF5A34686F"]
-			id: "24B79D5E984A2873"
+			id: "725D9410E88AFF26"
 			tasks: [{
-				id: "783211D8A6D8F80B"
+				id: "27EC17E02ECAA336"
 				item: { count: 1, id: "create:ochrum" }
 				type: "item"
 			}]
@@ -74,9 +74,9 @@
 		}
 		{
 			dependencies: ["507B899E6467E189"]
-			id: "397A95F9519D300D"
+			id: "07E6BEA4B0B74287"
 			tasks: [{
-				id: "7E48FF4DB049FA12"
+				id: "7C3A7A3265DB4780"
 				item: { count: 1, id: "create:crushed_raw_zinc" }
 				type: "item"
 			}]
@@ -85,9 +85,9 @@
 		}
 		{
 			dependencies: ["5D9857A81A9DC029"]
-			id: "7399876A60EEAF40"
+			id: "3E71FB99EAABD870"
 			tasks: [{
-				id: "3B697BE5B6CFFF50"
+				id: "66DA6C3ECAD59743"
 				item: { count: 1, id: "create:crushed_raw_iron" }
 				type: "item"
 			}]
@@ -96,9 +96,9 @@
 		}
 		{
 			dependencies: ["6E596E1F969F1208"]
-			id: "59FE9435C6E0AD38"
+			id: "05F8A6DCC0629658"
 			tasks: [{
-				id: "45F8F429E2B4BA25"
+				id: "7D22735E54A3C9C1"
 				item: { count: 1, id: "create:crushed_raw_copper" }
 				type: "item"
 			}]
@@ -107,31 +107,20 @@
 		}
 		{
 			dependencies: ["5F7A18E1DDDDD166"]
-			id: "14EFD8B3724D55E8"
+			id: "7620B956E4325913"
 			tasks: [{
-				id: "4FE96F799D2BD6DE"
-				item: { components: { "ftbquests:missing_item": "create_dd:coal_piece" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 7.5d
-			y: 0.0d
-		}
-		{
-			dependencies: ["5F7A18E1DDDDD166"]
-			id: "022345647C99BAF1"
-			tasks: [{
-				id: "73982AA6E580FF35"
+				id: "19191156E76DD6C4"
 				item: { count: 1, id: "create:cinder_flour" }
 				type: "item"
 			}]
-			x: 9.5d
-			y: 0.0d
+			x: 8.0d
+			y: 10.5d
 		}
 		{
 			dependencies: ["24B79D5E984A2873"]
-			id: "4BD4EBA30864D035"
+			id: "421C016C1A10F9AD"
 			tasks: [{
-				id: "304B5BEAC49C0F67"
+				id: "637F2DE9CA9CAC33"
 				item: { count: 1, id: "create:crushed_raw_gold" }
 				type: "item"
 			}]
@@ -143,9 +132,9 @@
 				"018B793486C6832C"
 				"5198C559E16FE5F8"
 			]
-			id: "2FF8179BFB33AF6A"
+			id: "7F5375352237D301"
 			tasks: [{
-				id: "2B83BBE744F5592D"
+				id: "6D080D4EA3E3688A"
 				item: { components: { "ftbquests:missing_item": "create_dd:asurine_cobble" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
@@ -155,9 +144,9 @@
 		{
 			dependencies: ["2AA838B09218F700"]
 			hide_dependency_lines: true
-			id: "018B793486C6832C"
+			id: "3158411E728EF7E7"
 			tasks: [{
-				id: "2D87BDFD46F201D8"
+				id: "10312BCEA9201871"
 				item: { count: 1, id: "minecraft:lava_bucket" }
 				type: "item"
 			}]
@@ -167,9 +156,9 @@
 		{
 			dependencies: ["2AA838B09218F700"]
 			hide_dependency_lines: true
-			id: "5198C559E16FE5F8"
+			id: "4F554E3E342D9828"
 			tasks: [{
-				id: "68BEB9774FE81AE6"
+				id: "4C76605E237BEB0B"
 				item: { components: { "ftbquests:missing_item": "create_dd:cream_bucket" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
@@ -178,9 +167,9 @@
 		}
 		{
 			dependencies: ["2FF8179BFB33AF6A"]
-			id: "47B87C4A6EF446E9"
+			id: "37FE078C45FB1087"
 			tasks: [{
-				id: "4D081A9FDA8FE0F7"
+				id: "47CA197D80E40B2F"
 				type: "checkmark"
 			}]
 			x: -9.5d
@@ -191,9 +180,9 @@
 				"5F205D0B5CFB0EA0"
 				"74C870915AD24CFA"
 			]
-			id: "336C8972DC395FF8"
+			id: "2E533FE22A3E1DAB"
 			tasks: [{
-				id: "0BE4B8900AE5A845"
+				id: "7ED087357D100FCB"
 				item: { components: { "ftbquests:missing_item": "create_dd:crimsite_cobble" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
@@ -202,9 +191,9 @@
 		}
 		{
 			dependencies: ["336C8972DC395FF8"]
-			id: "7951B19407FEE024"
+			id: "19A1C8810A8FBF35"
 			tasks: [{
-				id: "650021AF1A83B634"
+				id: "45DF34D752337A79"
 				type: "checkmark"
 			}]
 			x: -0.5d
@@ -213,9 +202,9 @@
 		{
 			dependencies: ["2AA838B09218F700"]
 			hide_dependency_lines: true
-			id: "74C870915AD24CFA"
+			id: "65419296363E7A34"
 			tasks: [{
-				id: "06A03782D88255E0"
+				id: "7B6E0D9AA5C1FF09"
 				item: { components: { "ftbquests:missing_item": "create_dd:strawberry_milkshake_bucket" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
@@ -225,9 +214,9 @@
 		{
 			dependencies: ["2AA838B09218F700"]
 			hide_dependency_lines: true
-			id: "5F205D0B5CFB0EA0"
+			id: "60EFE4A224220607"
 			tasks: [{
-				id: "1D3C1DDB3E385620"
+				id: "71B979EB285C145B"
 				item: { count: 1, id: "minecraft:lava_bucket" }
 				type: "item"
 			}]
@@ -237,9 +226,9 @@
 		{
 			dependencies: ["2AA838B09218F700"]
 			hide_dependency_lines: true
-			id: "46986B63A3F554C9"
+			id: "31DA912417CA44D3"
 			tasks: [{
-				id: "1A77DCE03CE0BF47"
+				id: "10DFA9C96CD98B9F"
 				item: { count: 1, id: "minecraft:lava_bucket" }
 				type: "item"
 			}]
@@ -249,9 +238,9 @@
 		{
 			dependencies: ["2AA838B09218F700"]
 			hide_dependency_lines: true
-			id: "72B77FB74E6F9EE4"
+			id: "1674B3141FEB079D"
 			tasks: [{
-				id: "58320519FC21B1FD"
+				id: "51EF63CECC384F4A"
 				item: { components: { "ftbquests:missing_item": "create_dd:caramel_milkshake_bucket" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
@@ -263,9 +252,9 @@
 				"46986B63A3F554C9"
 				"72B77FB74E6F9EE4"
 			]
-			id: "31E945A1E3AB77D3"
+			id: "2208DFC3AC5BECDA"
 			tasks: [{
-				id: "4F623A949A37AD98"
+				id: "6CDB12DBE1D30400"
 				item: { components: { "ftbquests:missing_item": "create_dd:veridium_cobble" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
@@ -274,23 +263,12 @@
 		}
 		{
 			dependencies: ["31E945A1E3AB77D3"]
-			id: "4174526248A5CC4C"
+			id: "031A6960A621C0BF"
 			tasks: [{
-				id: "13174EE6D0045679"
+				id: "401B29F993434D83"
 				type: "checkmark"
 			}]
 			x: -5.0d
-			y: -1.5d
-		}
-		{
-			dependencies: ["1D22D77A69AFEA20"]
-			id: "3FDA4ADCC08B6CFB"
-			tasks: [{
-				id: "128F9FDC1B585D22"
-				item: { components: { "ftbquests:missing_item": "create_dd:potassic" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 13.0d
 			y: -1.5d
 		}
 		{
@@ -298,9 +276,9 @@
 				"559F6C7AC2FFAF8B"
 				"5D4101FAF388E3C6"
 			]
-			id: "71D8883DC01C822C"
+			id: "040364F47DD0B67E"
 			tasks: [{
-				id: "33D49184724A950B"
+				id: "6D2475A673BE1992"
 				item: { components: { "ftbquests:missing_item": "create_dd:ochrum_cobble" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
@@ -308,21 +286,11 @@
 			y: -3.0d
 		}
 		{
-			dependencies: ["64E747B93D74A16E"]
-			id: "1D22D77A69AFEA20"
-			tasks: [{
-				id: "1D8F55CF1C66A060"
-				type: "checkmark"
-			}]
-			x: 13.0d
-			y: -3.0d
-		}
-		{
 			dependencies: ["2AA838B09218F700"]
 			hide_dependency_lines: true
-			id: "5D4101FAF388E3C6"
+			id: "7E5988169B4B8C1B"
 			tasks: [{
-				id: "33BF6F231376B2EA"
+				id: "0D54A40B5E672813"
 				item: { count: 1, id: "minecraft:lava_bucket" }
 				type: "item"
 			}]
@@ -332,9 +300,9 @@
 		{
 			dependencies: ["2AA838B09218F700"]
 			hide_dependency_lines: true
-			id: "559F6C7AC2FFAF8B"
+			id: "63B47126806A36E3"
 			tasks: [{
-				id: "25A1022365E34FC2"
+				id: "04BE83C21CA85098"
 				item: { components: { "ftbquests:missing_item": "create_dd:glowberry_milkshake_bucket" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
@@ -343,9 +311,9 @@
 		}
 		{
 			dependencies: ["71D8883DC01C822C"]
-			id: "1A68D9BF5A34686F"
+			id: "7776209FA546B0B5"
 			tasks: [{
-				id: "2B10DBAC24916BD1"
+				id: "487B1BC907CAF589"
 				type: "checkmark"
 			}]
 			x: 4.0d
@@ -353,9 +321,9 @@
 		}
 		{
 			dependencies: ["4BD4EBA30864D035"]
-			id: "12054E6E7E054B04"
+			id: "0C1F38A8ADD2F0D7"
 			tasks: [{
-				id: "22BEAE7421B33830"
+				id: "624E3EE47AE60052"
 				item: { count: 1, id: "minecraft:gold_ingot" }
 				type: "item"
 			}]
@@ -364,9 +332,9 @@
 		}
 		{
 			dependencies: ["4BD4EBA30864D035"]
-			id: "59C16E6BCAF98A94"
+			id: "49E498B467D15E92"
 			tasks: [{
-				id: "50B348E70B22267B"
+				id: "09E89FDF468CBBBB"
 				item: { count: 1, id: "minecraft:gold_nugget" }
 				type: "item"
 			}]
@@ -375,9 +343,9 @@
 		}
 		{
 			dependencies: ["7399876A60EEAF40"]
-			id: "439399D867FFBC87"
+			id: "143E302295373857"
 			tasks: [{
-				id: "255EFC24ECB6F92F"
+				id: "30600166A763BF50"
 				item: { count: 1, id: "minecraft:iron_ingot" }
 				type: "item"
 			}]
@@ -386,9 +354,9 @@
 		}
 		{
 			dependencies: ["5D9857A81A9DC029"]
-			id: "6AD883909EE03BA6"
+			id: "6C72248B6CDD1D93"
 			tasks: [{
-				id: "66D65E019FB6F75C"
+				id: "774D93676F5E3A0F"
 				item: { count: 1, id: "minecraft:iron_nugget" }
 				type: "item"
 			}]
@@ -397,9 +365,9 @@
 		}
 		{
 			dependencies: ["7399876A60EEAF40"]
-			id: "72D74DA40D497C07"
+			id: "5BFE66491E70F450"
 			tasks: [{
-				id: "3B9A03A8D8B3B89D"
+				id: "3C45EA5A6DA5B6AE"
 				item: { count: 1, id: "minecraft:redstone" }
 				type: "item"
 			}]
@@ -407,32 +375,21 @@
 			y: 3.0d
 		}
 		{
-			dependencies: ["7399876A60EEAF40"]
-			id: "57C615D858014A73"
-			tasks: [{
-				id: "45C8C3829A246258"
-				item: { components: { "ftbquests:missing_item": "tfmg:blasting_mixture" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: -0.5d
-			y: 3.0d
-		}
-		{
 			dependencies: ["59FE9435C6E0AD38"]
-			id: "23B2DAE2A251304B"
+			id: "129A4FCA628E3040"
 			tasks: [{
-				id: "4C40F6C4B0D4B1E5"
+				id: "48B3D1E54092A192"
 				item: { count: 1, id: "minecraft:copper_ingot" }
 				type: "item"
 			}]
-			x: -5.0d
+			x: -6.0d
 			y: 3.0d
 		}
 		{
 			dependencies: ["6E596E1F969F1208"]
-			id: "1F377B6B64AE2EC7"
+			id: "28B8F9BD311A693C"
 			tasks: [{
-				id: "59364F5F3D9FDCFE"
+				id: "21925659FF213799"
 				item: { count: 1, id: "create:copper_nugget" }
 				type: "item"
 			}]
@@ -440,21 +397,20 @@
 			y: 1.5d
 		}
 		{
-			dependencies: ["59FE9435C6E0AD38"]
-			id: "7CF45E77B745C349"
+			id: "31E193F20CF79C3F"
 			tasks: [{
-				id: "4BA5CE69F73C29D6"
+				id: "18EC03A9706DDD20"
 				item: { count: 1, id: "minecraft:clay_ball" }
 				type: "item"
 			}]
-			x: -7.0d
-			y: 3.0d
+			x: -2.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["397A95F9519D300D"]
-			id: "61CE0B3B33DA5D5E"
+			id: "7E62A11C0716F8C3"
 			tasks: [{
-				id: "7D4C7F7635DB455D"
+				id: "1DE1517F8951979C"
 				item: { count: 1, id: "create:zinc_nugget" }
 				type: "item"
 			}]
@@ -463,9 +419,9 @@
 		}
 		{
 			dependencies: ["397A95F9519D300D"]
-			id: "60146911132AB559"
+			id: "52E142D1397C2B5C"
 			tasks: [{
-				id: "20964593CD0DB805"
+				id: "6DAC526DE4AA0BEB"
 				item: { count: 1, id: "create:zinc_ingot" }
 				type: "item"
 			}]
@@ -475,9 +431,9 @@
 		{
 			dependencies: ["2AA838B09218F700"]
 			hide_dependency_lines: true
-			id: "6B5CD61BEC5DA6C4"
+			id: "47156FF558EFB40E"
 			tasks: [{
-				id: "7FC15F3809767EA9"
+				id: "536B38E5D2328E24"
 				item: { count: 1, id: "minecraft:lava_bucket" }
 				type: "item"
 			}]
@@ -487,10 +443,10 @@
 		{
 			dependencies: ["2AA838B09218F700"]
 			hide_dependency_lines: true
-			id: "22E56EC81482F489"
+			id: "46710E586B88B63D"
 			tasks: [{
-				id: "3DBFF09408F7F13D"
-				item: { components: { "ftbquests:missing_item": "create_dd:condense_milk_bucket" }, count: 1, id: "ftbquests:missing_item" }
+				id: "0F0722B3469B56F3"
+				item: { count: 1, id: "garnished:garnish_bucket" }
 				type: "item"
 			}]
 			x: -5.5d
@@ -501,9 +457,9 @@
 				"22E56EC81482F489"
 				"6B5CD61BEC5DA6C4"
 			]
-			id: "745042FB41CB4628"
+			id: "61295EEC634F75F7"
 			tasks: [{
-				id: "211FEB4669FDA479"
+				id: "51C4A85AEC36EE94"
 				item: { count: 1, id: "minecraft:calcite" }
 				type: "item"
 			}]
@@ -513,57 +469,57 @@
 		{
 			dependencies: ["2AA838B09218F700"]
 			hide_dependency_lines: true
-			id: "1311E2CC15060E74"
+			id: "4A82C888E569E723"
 			tasks: [{
-				id: "11CF3681EB71B846"
+				id: "304FAA0F629D2D81"
 				item: { count: 1, id: "minecraft:lava_bucket" }
 				type: "item"
 			}]
-			x: -3.5d
-			y: 5.5d
+			x: -10.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["2AA838B09218F700"]
 			hide_dependency_lines: true
-			id: "0CB74126AF8CF746"
+			id: "69CF762E52B22862"
 			tasks: [{
-				id: "6DA9D88107E43D4D"
-				item: { components: { "ftbquests:missing_item": "create_dd:glowberry_bucket" }, count: 1, id: "ftbquests:missing_item" }
+				id: "13597EE1E082C092"
+				item: { count: 1, id: "garnished:peanut_oil_bucket" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 5.5d
+			x: -8.5d
+			y: 6.0d
 		}
 		{
 			dependencies: [
 				"0CB74126AF8CF746"
 				"1311E2CC15060E74"
 			]
-			id: "67D984605442ECC2"
+			id: "5CF7591522CD95B1"
 			tasks: [{
-				id: "4925B3A1CF288150"
+				id: "77D9D43EB4F82BE7"
 				item: { count: 1, id: "minecraft:dripstone_block" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: 7.0d
+			x: -9.5d
+			y: 7.5d
 		}
 		{
 			dependencies: ["67D984605442ECC2"]
-			id: "592C387371A68936"
+			id: "3A4EF51BC28E01BB"
 			tasks: [{
-				id: "7D9420DC166ACBBB"
+				id: "1D56BFCF1D2D5360"
 				item: { count: 1, id: "minecraft:clay_ball" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: 8.5d
+			x: -9.5d
+			y: 9.0d
 		}
 		{
 			dependencies: ["745042FB41CB4628"]
-			id: "22CB87048793F5B0"
+			id: "2BC317DB960A0B7A"
 			tasks: [{
-				id: "08B627B0D7DF6485"
+				id: "73B3605DF5C29EC4"
 				item: { count: 1, id: "minecraft:bone_meal" }
 				type: "item"
 			}]
@@ -572,9 +528,9 @@
 		}
 		{
 			dependencies: ["745042FB41CB4628"]
-			id: "68CE49FE4E9D77D4"
+			id: "5B98C1F522D8F1CF"
 			tasks: [{
-				id: "5929C0C8C09FC2F4"
+				id: "03B77432F7CFDD64"
 				item: { count: 1, id: "minecraft:diorite" }
 				type: "item"
 			}]
@@ -584,9 +540,9 @@
 		{
 			dependencies: ["2AA838B09218F700"]
 			hide_dependency_lines: true
-			id: "6AC3F323E4B49E41"
+			id: "566EA0CDF34400FB"
 			tasks: [{
-				id: "573EBA06ABFEFE3A"
+				id: "443BE660287980FF"
 				item: { count: 1, id: "minecraft:lava_bucket" }
 				type: "item"
 			}]
@@ -596,9 +552,9 @@
 		{
 			dependencies: ["2AA838B09218F700"]
 			hide_dependency_lines: true
-			id: "3315B175F187D742"
+			id: "06912E0D94355DAF"
 			tasks: [{
-				id: "2F27C22E1DFC124E"
+				id: "35538678DD575FD8"
 				item: { count: 1, id: "minecraft:honey_bottle" }
 				type: "item"
 			}]
@@ -610,9 +566,9 @@
 				"6AC3F323E4B49E41"
 				"3315B175F187D742"
 			]
-			id: "6C9BBE9754A99A96"
+			id: "06CE4071BD91B22A"
 			tasks: [{
-				id: "5FDE13EBCECE7FD5"
+				id: "5AE20C2ECF7BF666"
 				item: { count: 1, id: "create:limestone" }
 				type: "item"
 			}]
@@ -620,22 +576,11 @@
 			y: 7.0d
 		}
 		{
-			dependencies: ["6C9BBE9754A99A96"]
-			id: "5C147AE4E96DA8DF"
-			tasks: [{
-				id: "6CC14C2F47BDD331"
-				item: { components: { "ftbquests:missing_item": "tfmg:limesand" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 1.0d
-			y: 8.5d
-		}
-		{
 			dependencies: ["2AA838B09218F700"]
 			hide_dependency_lines: true
-			id: "0B8ACADB9A7124D8"
+			id: "4B95B8443F2544C7"
 			tasks: [{
-				id: "5C41D743B5C55BE8"
+				id: "55CE27FDC3EC955B"
 				item: { components: { "ftbquests:missing_item": "create_dd:caramel_bucket" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
@@ -645,9 +590,9 @@
 		{
 			dependencies: ["2AA838B09218F700"]
 			hide_dependency_lines: true
-			id: "552C77EEE62B7E83"
+			id: "1052372425FA049D"
 			tasks: [{
-				id: "03C6D3452F0CCFE7"
+				id: "7A0C2FD93B55FBD9"
 				item: { count: 1, id: "minecraft:lava_bucket" }
 				type: "item"
 			}]
@@ -659,74 +604,14 @@
 				"0B8ACADB9A7124D8"
 				"552C77EEE62B7E83"
 			]
-			id: "7648E46FEC9803B8"
+			id: "464BEA6DF854C17B"
 			tasks: [{
-				id: "7B60B405DE3AF61E"
+				id: "1005BCDFE7718EF2"
 				item: { count: 1, id: "minecraft:blackstone" }
 				type: "item"
 			}]
 			x: 8.5d
 			y: 7.0d
-		}
-		{
-			dependencies: [
-				"2A49012030A688AE"
-				"08555DFB93FE3B92"
-			]
-			id: "0031D1C76E2C598C"
-			tasks: [{
-				id: "1E1ED0FCF0F1D25A"
-				item: { components: { "ftbquests:missing_item": "create_dd:gabbro" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 5.0d
-			y: 7.0d
-		}
-		{
-			dependencies: ["2AA838B09218F700"]
-			hide_dependency_lines: true
-			id: "2A49012030A688AE"
-			tasks: [{
-				id: "01CA3EE66F719C79"
-				item: { components: { "ftbquests:missing_item": "create_dd:strawberry_bucket" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 4.0d
-			y: 5.5d
-		}
-		{
-			dependencies: ["2AA838B09218F700"]
-			hide_dependency_lines: true
-			id: "08555DFB93FE3B92"
-			tasks: [{
-				id: "77C79E673FDBA1EF"
-				item: { count: 1, id: "minecraft:lava_bucket" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: 5.5d
-		}
-		{
-			dependencies: ["3FDA4ADCC08B6CFB"]
-			id: "40102220F51B35B6"
-			tasks: [{
-				id: "5FD619E6A4E60B71"
-				item: { count: 1, id: "create:crushed_raw_tin" }
-				type: "item"
-			}]
-			x: 12.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["3FDA4ADCC08B6CFB"]
-			id: "20A8242D2D7277A2"
-			tasks: [{
-				id: "3CE120D5EB545C78"
-				item: { components: { "ftbquests:missing_item": "create_dd:tin_nugget" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 13.0d
-			y: 0.0d
 		}
 		{
 			id: "2A24C1514D1D58D9"
@@ -742,11 +627,11 @@
 			dependencies: ["67145CE26EFAD16D"]
 			hide_dependent_lines: true
 			hide_until_deps_complete: true
-			id: "2AA838B09218F700"
+			id: "1966106C6C9C67A4"
 			rewards: [
 				{
 					count: 10
-					id: "6952FDAD954BBBD3"
+					id: "6CB0243C062FBB4A"
 					item: {
 						count: 1
 						id: "createaddition:chocolate_cake"
@@ -755,7 +640,7 @@
 				}
 				{
 					count: 10
-					id: "407C26120D175763"
+					id: "23F34357FDD2B489"
 					item: {
 						components: {
 							"ftbquests:missing_item": "create_dd:asurine_cobble"
@@ -767,7 +652,7 @@
 				}
 				{
 					count: 10
-					id: "06DC7BD3E1AEB21E"
+					id: "3FE65C7FAD79CFCC"
 					item: {
 						components: {
 							"ftbquests:missing_item": "create_dd:crimsite_cobble"
@@ -779,7 +664,7 @@
 				}
 				{
 					count: 10
-					id: "13C73C1A477CAA4B"
+					id: "50825547E80DA76F"
 					item: {
 						components: {
 							"ftbquests:missing_item": "create_dd:ochrum_cobble"
@@ -791,7 +676,7 @@
 				}
 				{
 					count: 10
-					id: "514046EDCCA5C157"
+					id: "2A7417393C22C950"
 					item: {
 						components: {
 							"ftbquests:missing_item": "create_dd:veridium_cobble"
@@ -805,173 +690,264 @@
 			shape: "rsquare"
 			size: 2.0d
 			tasks: [{
-				id: "7C93AC02F8D93AA3"
+				id: "193DA397E4F1D957"
 				type: "checkmark"
 			}]
 			x: -1.0d
 			y: -7.0d
 		}
 		{
-			dependencies: [
-				"12F66417863F4017"
-				"101A5F8BD84CBE03"
-			]
-			id: "47E3008A1C7F64CE"
+			dependencies: ["2AA838B09218F700"]
+			hide_dependency_lines: true
+			id: "2CDBC70384078171"
 			tasks: [{
-				id: "32BD95D152335FD6"
+				id: "45FBE6420BEE5DA1"
 				type: "checkmark"
 			}]
-			x: 8.5d
-			y: -3.0d
+			x: 5.5d
+			y: 11.0d
 		}
 		{
 			dependencies: ["2AA838B09218F700"]
 			hide_dependency_lines: true
-			id: "101A5F8BD84CBE03"
+			id: "1FEA34121C0BF537"
 			tasks: [{
-				id: "18E4D92CE1E6F701"
-				item: { count: 1, id: "createaddition:chocolate_cake" }
-				type: "item"
-			}]
-			x: 7.5d
-			y: -4.5d
-		}
-		{
-			dependencies: ["2AA838B09218F700"]
-			hide_dependency_lines: true
-			id: "12F66417863F4017"
-			tasks: [{
-				id: "53A819FC7ADDA736"
-				item: { count: 1, id: "createaddition:honey_cake" }
-				type: "item"
-			}]
-			x: 9.5d
-			y: -4.5d
-		}
-		{
-			dependencies: ["2AA838B09218F700"]
-			hide_dependency_lines: true
-			id: "64E747B93D74A16E"
-			tasks: [{
-				id: "33AEC4DB0724378C"
-				item: { components: { "ftbquests:missing_item": "tfmg:napalm_bomb" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 13.0d
-			y: -4.5d
-		}
-		{
-			dependencies: ["3FDA4ADCC08B6CFB"]
-			id: "2AD4EFBB9601D4AE"
-			tasks: [{
-				id: "25ABDD5C10F8C053"
-				item: { count: 1, id: "create:crushed_raw_silver" }
-				type: "item"
-			}]
-			x: 14.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["2AA838B09218F700"]
-			hide_dependency_lines: true
-			id: "3BC3FE0A42564D1D"
-			tasks: [{
-				id: "11389E6FD6660C6C"
-				type: "checkmark"
-			}]
-			x: 11.0d
-			y: 5.5d
-		}
-		{
-			dependencies: ["2AA838B09218F700"]
-			hide_dependency_lines: true
-			id: "08BA0F4F88612CBC"
-			tasks: [{
-				id: "3164FC4D9FC2E805"
+				id: "12499FE9DBF0875D"
 				item: { count: 1, id: "minecraft:lava_bucket" }
 				type: "item"
 			}]
-			x: 13.0d
-			y: 5.5d
+			x: 6.5d
+			y: 11.0d
 		}
 		{
 			dependencies: [
 				"3BC3FE0A42564D1D"
 				"08BA0F4F88612CBC"
 			]
-			id: "2485C10AD3B7F71B"
+			id: "58B3B7D5AA3924FA"
 			tasks: [{
-				id: "2DB8B9755697B2AF"
+				id: "6E6431CC3D9F6F20"
 				item: { count: 1, id: "create:scoria" }
 				type: "item"
 			}]
-			x: 12.0d
-			y: 7.0d
+			x: 6.0d
+			y: 9.5d
 		}
 		{
-			dependencies: ["2AA838B09218F700"]
-			hide_dependency_lines: true
-			id: "150AAEDADADFEC87"
+			id: "272490B7A9BD0327"
 			tasks: [{
-				id: "7EF1B8871A254CDB"
-				item: { components: { "ftbquests:missing_item": "tfmg:cooling_fluid_bucket" }, count: 1, id: "ftbquests:missing_item" }
+				id: "1D53889C75651A15"
+				item: { count: 1, id: "createaddition:electrum_nugget" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			id: "6A7CBA74E327FDB5"
+			tasks: [{
+				id: "12C65119FB8F6492"
+				item: { count: 1, id: "minecraft:blue_ice" }
+				type: "item"
+			}]
+			x: 15.5d
+			y: 6.0d
+		}
+		{
+			id: "618DD639A00283D3"
+			tasks: [{
+				id: "03C7E749B076F489"
+				item: { count: 1, id: "minecraft:lava_bucket" }
 				type: "item"
 			}]
 			x: 17.0d
-			y: -4.5d
+			y: 6.0d
 		}
 		{
-			dependencies: ["150AAEDADADFEC87"]
-			id: "35B51603EF890F6D"
+			dependencies: [
+				"64F3D888B5ED712C"
+				"786057AB7CCC35B9"
+			]
+			id: "0DF4526D2D3F1966"
 			tasks: [{
-				id: "46D4072BC6A564C5"
-				type: "checkmark"
-			}]
-			x: 17.0d
-			y: -3.0d
-		}
-		{
-			dependencies: ["35B51603EF890F6D"]
-			id: "46D6FC597EC468E2"
-			tasks: [{
-				id: "332B6AD8ACFEF022"
-				item: { components: { "ftbquests:missing_item": "kubejs:battery_ore" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 17.0d
-			y: -1.5d
-		}
-		{
-			dependencies: ["46D6FC597EC468E2"]
-			id: "0D753356A1B2D67D"
-			tasks: [{
-				id: "17ED37CD6CCBB9A9"
-				item: { count: 1, id: "create:crushed_raw_nickel" }
-				type: "item"
-			}]
-			x: 17.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["46D6FC597EC468E2"]
-			id: "683DC26CE864CE3A"
-			tasks: [{
-				id: "3863B1347BD1CC2F"
-				item: { components: { "ftbquests:missing_item": "tfmg:raw_lithium" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 18.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["46D6FC597EC468E2"]
-			id: "2E160FEF0A1D64B9"
-			tasks: [{
-				id: "0AEDC7E68014F009"
-				item: { count: 1, id: "create:crushed_raw_lead" }
+				id: "66D6BBAB61A04610"
+				item: { count: 1, id: "minecraft:end_stone" }
 				type: "item"
 			}]
 			x: 16.0d
+			y: 8.0d
+		}
+		{
+			id: "1267BB5383249A1E"
+			tasks: [{
+				id: "3358102F07FF8832"
+				item: { count: 1, id: "minecraft:water_bucket" }
+				type: "item"
+			}]
+			x: 18.5d
+			y: 6.0d
+		}
+		{
+			id: "37A4ADFADD5BEC78"
+			tasks: [{
+				id: "124D3DF3EF24AC34"
+				item: { count: 1, id: "minecraft:lava_bucket" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: 6.5d
+		}
+		{
+			dependencies: [
+				"7A80BF4678BB83F8"
+				"292B43A00A7B5595"
+			]
+			id: "77EF4F0C77A3A2CD"
+			tasks: [{
+				id: "401A064342B205D3"
+				item: { count: 1, id: "minecraft:obsidian" }
+				type: "item"
+			}]
+			x: 19.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["6C9BBE9754A99A96"]
+			id: "2B7C376ED370FD86"
+			tasks: [{
+				id: "32005E4B632A8F2E"
+				item: { count: 1, id: "garnished:crushed_salt" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.5d
+		}
+		{
+			id: "2D6BD566224F1B90"
+			tasks: [{
+				id: "0477237D111432B3"
+				item: { count: 1, id: "minecraft:lava_bucket" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 5.5d
+		}
+		{
+			id: "3F9BA2A7D1EDC163"
+			tasks: [{
+				id: "10862A7E1087E2FC"
+				item: { count: 1, id: "garnished:apple_cider_bucket" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"6997A67F96B28682"
+				"1D9FE053BDABBC04"
+			]
+			id: "67680B720781D433"
+			tasks: [{
+				id: "6C31227047D5CD12"
+				item: { count: 1, id: "garnished:carnotite" }
+				type: "item"
+			}]
+			x: -12.5d
+			y: 7.5d
+		}
+		{
+			id: "3DA2A9A94896AC38"
+			tasks: [{
+				id: "4D2A23E67260FF1E"
+				item: { count: 1, id: "minecraft:lava_bucket" }
+				type: "item"
+			}]
+			x: -15.5d
+			y: 5.5d
+		}
+		{
+			id: "08F44335B96869E3"
+			tasks: [{
+				id: "79C2915D1C00D56D"
+				item: { count: 1, id: "garnished:cashew_mixture_bucket" }
+				type: "item"
+			}]
+			x: -17.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"44C8520325FC701F"
+				"3B1762EB89C9FE59"
+			]
+			id: "4BB6FF92D04BDF45"
+			tasks: [{
+				id: "059EAC53FD36B19F"
+				item: { count: 1, id: "minecraft:end_stone" }
+				type: "item"
+			}]
+			x: -16.0d
+			y: 7.5d
+		}
+		{
+			id: "780289168CA03BD4"
+			tasks: [{
+				id: "36B702AEA0928461"
+				item: { count: 1, id: "createaddition:chocolate_cake" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			id: "4D5014275CE3209E"
+			tasks: [{
+				id: "602512F287DFC758"
+				item: { count: 1, id: "createaddition:honey_cake" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			id: "52E38B5F4E0F03C8"
+			tasks: [{
+				id: "4D28C745EF25CCCF"
+				item: { count: 1, id: "garnished:garnished_nut_block" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 0.0d
+		}
+		{
+			id: "7A67D7A716BD1B1F"
+			tasks: [{
+				id: "6C656CC3CD8CBDD6"
+				item: { count: 1, id: "garnished:solidified_garnish" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "46F4C02770C4FE11"
+			tasks: [{
+				id: "35E857B43B6AC7B8"
+				item: { count: 1, id: "garnished:mulch_block" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "649A26748171C78A"
+			tasks: [{
+				id: "4951B6C1C82B63A7"
+				item: { count: 1, id: "farmersdelight:organic_compost" }
+				type: "item"
+			}]
+			x: 7.0d
 			y: 0.0d
 		}
 	]

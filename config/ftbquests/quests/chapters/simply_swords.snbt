@@ -103,8 +103,11 @@
 				{
 					id: "22293AF6FF6CAE55"
 					item: {
+						components: {
+							"ftbquests:missing_item": "kubejs:heart_container"
+						}
 						count: 1
-						id: "kubejs:heart_container"
+						id: "ftbquests:missing_item"
 					}
 					type: "item"
 				}

@@ -33,4 +33,53 @@ ServerEvents.recipes(event => {
   event.replaceInput({id:'crystal_chronicles:volcanite_shard'}, 'minecraft:amethyst_shard', 'irons_spellbooks:divine_soulshard')
   event.replaceInput({id:'crystal_chronicles:ice_shard'}, 'minecraft:amethyst_shard', 'irons_spellbooks:divine_soulshard')
 
+  event.smoking('minecraft:andesite', 'minecraft:gravel').cookingTime(6000)
+  event.smoking('minecraft:leather', 'minecraft:rotten_flesh').cookingTime(900)
+  event.custom({
+    "type": "create_enchantment_industry:grinding",
+    "ingredients": [
+      {
+        "item": "minecraft:rotten_flesh"
+      }
+    ],
+    "results": [
+      {
+        "amount": 1,
+        "id": "minecraft:leather"
+      }
+    ]
+  })
+
+  event.custom({
+    "type": "create_enchantment_industry:grinding",
+    "ingredients": [
+      {
+        "item": "minecraft:redstone"
+      }
+    ],
+    "results": [
+      {
+        "amount": 120,
+        "id": "kubejs:fluid_redstone"
+      }
+    ]
+  })
+
+  event.shapeless('cosmeticarmoursmod:rose_gold_nugget','cosmeticarmoursmod:rose_gold_ingot');
+  event.shaped('cosmeticarmoursmod:rose_gold_block', [
+      'SSS',
+      'SSS',
+      'SSS'
+  ], {
+      S: 'cosmeticarmoursmod:rose_gold_ingot',
+  })
+  event.shaped('cosmeticarmoursmod:rose_gold_ingot', [
+      'SSS',
+      'SSS',
+      'SSS'
+  ], {
+      S: 'cosmeticarmoursmod:rose_gold_nugget',
+  })  
+
+  
 });

@@ -77,6 +77,7 @@ global.REMOVE_ITEMS = [
   'gamediscs:display', 
   'gamediscs:control_pad', 
 
-  'magic_coins:prosperity_amulet', 
+  'magic_coins:prosperity_amulet',
+  'cosmeticarmoursmod:cosmeticarmours_book' 
 ]
 

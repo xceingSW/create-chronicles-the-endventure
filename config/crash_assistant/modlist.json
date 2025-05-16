@@ -342,6 +342,10 @@
     "modId": "createcompounds",
     "version": "1.0.0"
   },
+  "createmechanisms-2.1.0.jar": {
+    "modId": "createmechanisms",
+    "version": "2.1.0"
+  },
   "createteleporters2.4-1.21.1.jar": {
     "modId": "createteleporters",
     "version": "2.4"
@@ -353,10 +357,6 @@
   "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar": {
     "modId": "creeperoverhaul",
     "version": "4.0.6"
-  },
-  "cristellib-neoforge-1.2.8.jar": {
-    "modId": "cristellib",
-    "version": "1.2.8"
   },
   "crystal_chronicles-0.0.7-alpha.jar": {
     "modId": "crystal_chronicles",
@@ -433,6 +433,10 @@
     "modId": "equipmentcompare",
     "version": "1.3.13"
   },
+  "escalated-1.0.4-create.6.0.4-mc.1.21.1-neoforge.jar": {
+    "modId": "escalated",
+    "version": "1.0.4"
+  },
   "eternalstarlight-0.4.3+1.21.1+neoforge.jar": {
     "modId": "eternal_starlight",
     "version": "0.4.3+1.21.1+neoforge"
@@ -444,6 +448,10 @@
   "fancymenu_neoforge_3.5.0_MC_1.21.1.jar": {
     "modId": "fancymenu",
     "version": "3.5.0"
+  },
+  "farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-neoforge.jar": {
+    "modId": "mr_farmers_cuttingohthebiomeswevegone",
+    "version": "1.21.1-2.1-neoforge"
   },
   "FarmersDelight-1.21.1-1.2.7.jar": {
     "modId": "farmersdelight",
@@ -650,10 +658,6 @@
     "version": "1.9.9"
   },
   "kotlinforforge-5.8.0-all.jar": {},
-  "kubejs-neoforge-2101.7.1-build.181.jar": {
-    "modId": "kubejs",
-    "version": "2101.7.1-build.181"
-  },
   "L_Ender\u0027s Cataclysm-2.66-1.21.1.jar": {
     "modId": "cataclysm",
     "version": "2.66-1.21.1"
@@ -669,10 +673,6 @@
   "lionfishapi-2.6.jar": {
     "modId": "lionfishapi",
     "version": "2.6"
-  },
-  "lootjs-neoforge-1.21.1-3.4.0.jar": {
-    "modId": "lootjs",
-    "version": "1.21.1-3.4.0"
   },
   "lootr-neoforge-1.21-1.10.35.91.jar": {
     "modId": "lootr",
@@ -765,10 +765,6 @@
   "NBTac-NEOFORGE-1.21.1-1.3.10.jar": {
     "modId": "nbt_ac",
     "version": "1.3.10"
-  },
-  "Neruina-2.2.11-neoforge+1.21.jar": {
-    "modId": "neruina",
-    "version": "2.2.11"
   },
   "netherportalfix-neoforge-1.21.1-21.1.1.jar": {
     "modId": "netherportalfix",
@@ -957,10 +953,6 @@
   "sodium-neoforge-0.6.13+mc1.21.1.jar": {
     "modId": "sodium",
     "version": "0.6.13+mc1.21.1"
-  },
-  "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar": {
-    "modId": "sodiumdynamiclights",
-    "version": "1.0.9"
   },
   "sodiumextras-neoforge-1.0.8-1.21.1.jar": {
     "modId": "sodiumextras",

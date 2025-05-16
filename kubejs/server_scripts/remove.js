@@ -16,7 +16,18 @@ const removeRecipesById = [
   'farmingforblockheads:chicken_nest',
   'create_sa:block_picker_recipe',
   'create_mechanical_extruder:mechanical_brass_extruder',
-  'create_mechanical_extruder:crafting/mechanical_extruder'
+  'create_mechanical_extruder:crafting/mechanical_extruder',
+  //
+  //'garnished:crushing\zultanite\iron_from_zultanite',
+  'garnished:crushing/zultanite/iron_from_zultanite',
+  'garnished:crushing/zultanite/zinc_from_zultanite',
+  'garnished:crushing/zultanite/gold_from_zultanite',
+  'garnished:crushing/zultanite/copper_from_zultanite',
+  'garnished:crushing/materials_from_unstable_stone',
+  'minecraft:andesite',
+  'create:crafting/kinetics/belt_connector'
+  
+  //'garnished:recipe/crushing/zultanite/iron_from_zultanite'
 ];
 
 // === REMOVE BY MOD ID ===

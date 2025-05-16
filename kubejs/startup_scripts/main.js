@@ -4,6 +4,20 @@ StartupEvents.modifyCreativeTab('kubejs:tab', event => {
   event.displayName = 'Create Chronicles: The Endventure';
 });
 
+//Stack Sizes
+ItemEvents.modification(event => {
+    event.modify('minecraft:ender_pearl', item => {
+      item.maxStackSize = 64
+    })
+    event.modify('minecraft:egg', item => {
+        item.maxStackSize = 64
+    })
+    event.modify('deeperdarker:heart_of_the_deep', item => {
+        item.maxStackSize = 64
+    })
+})
+
+
 const fragmentTypes = ['Core', 'Cracked', 'Shard']
 
 
@@ -13,6 +27,15 @@ ItemEvents.modification(event => {
       item.rarity = 'EPIC'
     });
   });
+  event.modify('minecraft:leather_helmet',item=>{
+    let modifiedAttr = Item.of(item.item().id).attributeModifiers.withModifierAdded(
+      'generic.armor',
+      { amount:50, id:'minecraft:armor.helmet', operation:'add_value'},
+      'head'
+    );
+    //apply
+    item.setAttributeModifiersWithTooltip(modifiedAttr.modifiers())
+  })
 });
 
 StartupEvents.registry('item', event => {
@@ -63,5 +86,20 @@ StartupEvents.registry('item', event => {
     .displayName("§6Boss Token")
     .rarity("EPIC")
 
+    //Farmer's Stuff
+    event.create('incomplete_barbecue_stick')
+    event.create('incomplete_cod_roll')
+    event.create('incomplete_kelp_roll')
+    event.create('incomplete_melon_popsicle')
+    event.create('incomplete_mutton_wrap')
+    event.create('incomplete_salmon_roll')
+    event.create('incomplete_stuffed_potato')
+    event.create('incomplete_bacon_and_eggs')
+    event.create('incomplete_grilled_salmon')
+    event.create('incomplete_rice_roll_medley_block')
+    event.create('incomplete_roast_chicken_block')
+    event.create('incomplete_roasted_mutton_chops')
+    event.create('incomplete_shepherds_pie_block')
+    event.create('incomplete_steak_and_potatoes')
    
 })
