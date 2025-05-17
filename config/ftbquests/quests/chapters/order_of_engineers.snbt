@@ -687,7 +687,7 @@
 				consume_items: true
 				count: 256L
 				id: "1FB944D9A4721997"
-				item: { count: 1, id: "farmersdelight:barbecue_stick" }
+				item: { count: 1, id: "farmersdelight:hamburger" }
 				type: "item"
 			}]
 			x: -8.0d
