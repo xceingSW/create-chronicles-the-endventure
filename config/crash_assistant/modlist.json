@@ -27,9 +27,9 @@
     "modId": "almanac",
     "version": "1.0.2"
   },
-  "alshanex_familiars-1.21.1_v2.0.jar": {
+  "alshanex_familiars-1.21.1_v2.0_HotFix.jar": {
     "modId": "alshanex_familiars",
-    "version": "1.21.1_v2.0"
+    "version": "1.21.1_v2.0_HotFix"
   },
   "alternate_current-mc1.21-1.9.0.jar": {
     "modId": "alternate_current",
@@ -75,9 +75,9 @@
     "modId": "armorstatues",
     "version": "21.1.0"
   },
-  "artifacts-neoforge-13.0.3.jar": {
+  "artifacts-neoforge-13.0.5.jar": {
     "modId": "artifacts",
-    "version": "13.0.3"
+    "version": "13.0.5"
   },
   "arts_and_crafts-neoforge-1.21.1-1.4.3.jar": {
     "modId": "arts_and_crafts",
@@ -99,9 +99,9 @@
     "modId": "auroras",
     "version": "1.6.2"
   },
-  "azurelib-neo-1.21.1-3.0.15.jar": {
+  "azurelib-neo-1.21.1-3.0.18.jar": {
     "modId": "azurelib",
-    "version": "3.0.15"
+    "version": "3.0.18"
   },
   "BadOptimizations-2.2.2-1.21.1.jar": {
     "modId": "badoptimizations",
@@ -131,9 +131,9 @@
     "modId": "betterchunkloading",
     "version": "5.4"
   },
-  "bettercombat-neoforge-2.2.0+1.21.1.jar": {
+  "bettercombat-neoforge-2.2.4+1.21.1.jar": {
     "modId": "bettercombat",
-    "version": "2.2.0+1.21.1"
+    "version": "2.2.4+1.21.1"
   },
   "BetterThirdPerson-neoforge-1.9.0.jar": {
     "modId": "betterthirdperson",
@@ -299,9 +299,9 @@
     "modId": "create_dragons_plus",
     "version": "1.5.0"
   },
-  "create-enchantment-industry-2.1.3.jar": {
+  "create-enchantment-industry-2.1.4.jar": {
     "modId": "create_enchantment_industry",
-    "version": "2.1.3"
+    "version": "2.1.4"
   },
   "create-integrated-farming-1.0.5.jar": {
     "modId": "create_integrated_farming",
@@ -366,9 +366,9 @@
     "modId": "cupboard",
     "version": "2.9"
   },
-  "curios-neoforge-9.4.2+1.21.1.jar": {
+  "curios-neoforge-9.5.1+1.21.1.jar": {
     "modId": "curios",
-    "version": "9.4.2+1.21.1"
+    "version": "9.5.1+1.21.1"
   },
   "darkpaintings-neoforge-1.21.1-21.1.2.jar": {
     "modId": "darkpaintings",
@@ -497,9 +497,9 @@
     "modId": "formationsnether",
     "version": "1.0.5"
   },
-  "framework-neoforge-1.21.1-0.9.4.jar": {
+  "framework-neoforge-1.21.1-0.9.6.jar": {
     "modId": "framework",
-    "version": "0.9.4"
+    "version": "0.9.6"
   },
   "friendsandfoes-neoforge-4.0.5+mc1.21.1.jar": {
     "modId": "friendsandfoes",
@@ -658,6 +658,10 @@
     "version": "1.9.9"
   },
   "kotlinforforge-5.8.0-all.jar": {},
+  "kubejs-neoforge-2101.7.1-build.181.jar": {
+    "modId": "kubejs",
+    "version": "2101.7.1-build.181"
+  },
   "L_Ender\u0027s Cataclysm-2.66-1.21.1.jar": {
     "modId": "cataclysm",
     "version": "2.66-1.21.1"
@@ -673,6 +677,10 @@
   "lionfishapi-2.6.jar": {
     "modId": "lionfishapi",
     "version": "2.6"
+  },
+  "lootjs-neoforge-1.21.1-3.4.0.jar": {
+    "modId": "lootjs",
+    "version": "1.21.1-3.4.0"
   },
   "lootr-neoforge-1.21-1.10.35.91.jar": {
     "modId": "lootr",
@@ -726,17 +734,17 @@
     "modId": "mns",
     "version": "1.0.8-1.21"
   },
-  "modernfix-neoforge-5.21.0+mc1.21.1.jar": {
+  "modernfix-neoforge-5.22.0+mc1.21.1.jar": {
     "modId": "modernfix",
-    "version": "5.21.0+mc1.21.1"
+    "version": "5.22.0+mc1.21.1"
   },
   "modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar": {
     "modId": "modernworldcreation",
     "version": "2.0.1"
   },
-  "molten_vents-1.21.1-2.0.9.jar": {
+  "molten_vents-2.0.10.jar": {
     "modId": "molten_vents",
-    "version": "2.0.9"
+    "version": "2.0.10"
   },
   "moonlight-1.21-2.18.13-neoforge.jar": {
     "modId": "moonlight",
@@ -954,6 +962,10 @@
     "modId": "sodium",
     "version": "0.6.13+mc1.21.1"
   },
+  "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar": {
+    "modId": "sodiumdynamiclights",
+    "version": "1.0.9"
+  },
   "sodiumextras-neoforge-1.0.8-1.21.1.jar": {
     "modId": "sodiumextras",
     "version": "1.0.7"
@@ -974,25 +986,25 @@
     "modId": "sootychimneys",
     "version": "1.3.3"
   },
-  "sophisticatedbackpacks-1.21.1-3.24.11.1237.jar": {
+  "sophisticatedbackpacks-1.21.1-3.24.12.1244.jar": {
     "modId": "sophisticatedbackpacks",
-    "version": "3.24.11"
+    "version": "3.24.12"
   },
-  "sophisticatedbackpackscreateintegration-1.21.1-0.1.1.5.jar": {
+  "sophisticatedbackpackscreateintegration-1.21.1-0.1.2.7.jar": {
     "modId": "sophisticatedbackpackscreateintegration",
-    "version": "0.1.1"
+    "version": "0.1.2"
   },
-  "sophisticatedcore-1.21.1-1.3.37.974.jar": {
+  "sophisticatedcore-1.21.1-1.3.40.981.jar": {
     "modId": "sophisticatedcore",
-    "version": "1.3.37"
+    "version": "1.3.40"
   },
-  "sophisticatedstorage-1.21.1-1.4.30.1145.jar": {
+  "sophisticatedstorage-1.21.1-1.4.33.1155.jar": {
     "modId": "sophisticatedstorage",
-    "version": "1.4.30"
+    "version": "1.4.33"
   },
-  "sophisticatedstoragecreateintegration-1.21.1-0.1.8.27.jar": {
+  "sophisticatedstoragecreateintegration-1.21.1-0.1.9.29.jar": {
     "modId": "sophisticatedstoragecreateintegration",
-    "version": "0.1.8"
+    "version": "0.1.9"
   },
   "sound-physics-remastered-neoforge-1.21.1-1.4.10.jar": {
     "modId": "sound_physics_remastered",
@@ -1082,9 +1094,9 @@
     "modId": "wits",
     "version": "1.3.0+1.21-neoforge"
   },
-  "Xaeros_Minimap_25.2.0_NeoForge_1.21.jar": {
+  "Xaeros_Minimap_25.2.6_NeoForge_1.21.jar": {
     "modId": "xaerominimap",
-    "version": "25.2.0"
+    "version": "25.2.6"
   },
   "yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar": {
     "modId": "yet_another_config_lib_v3",
