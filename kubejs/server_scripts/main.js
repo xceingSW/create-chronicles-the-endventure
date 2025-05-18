@@ -79,7 +79,14 @@ ServerEvents.recipes(event => {
       'SSS'
   ], {
       S: 'cosmeticarmoursmod:rose_gold_nugget',
-  })  
+  })
 
-  
+  event.shaped('2x create:belt_connector', [
+      '   ',
+      'SSS',
+      'SSS'
+  ], {
+      S: 'createmechanisms:cured_rubber',
+  })  
+  event.smoking('createmechanisms:cured_rubber', 'createmechanisms:rubber').cookingTime(200)
 });

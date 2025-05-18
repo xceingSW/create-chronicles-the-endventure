@@ -43,8 +43,8 @@ StartupEvents.registry('item', event => {
   // If you want a custom item model has to be placed kubejs/assets/kubejs/models/item/test_item.json
   /*
   event.create('kubejs:village_capacity_permit').maxStackSize(1)*/
-  event.create('create_chronicles').displayName("§6Create Chronicles").texture('kubejs:item/example_item')
-  event.create('lootbag_boss').displayName("Loot bag of gems").texture('kubejs:item/example_item')
+  //event.create('create_chronicles').displayName("§6Create Chronicles").texture('kubejs:item/example_item')
+  //event.create('lootbag_boss').displayName("Loot bag of gems").texture('kubejs:item/example_item')
 
   global.EYES.forEach(eye => {
     const baseId = eye.name.toLowerCase().replace(/ /g, '_') // e.g. forgotten_eye

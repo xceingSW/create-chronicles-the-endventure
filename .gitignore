@@ -40,6 +40,7 @@ user-prefs.json
 /downloads/
 /spark-modernfix/
 /kiwipacks/
+/cachex/
 .vscode
 win_event*
 
