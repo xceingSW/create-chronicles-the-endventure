@@ -5,7 +5,7 @@
 	filename: "basics"
 	group: ""
 	icon: {
-		id: "patchouli:guide_book"
+		id: "minecraft:writable_book"
 	}
 	id: "09B56D111668F538"
 	images: [

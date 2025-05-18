@@ -1,5 +1,5 @@
 {
-	chapter.00BD5759F8E2525F.title: "Order of Engineers"
+	chapter.00BD5759F8E2525F.title: "&l&eOrder of Engineers&r&r"
 	chapter.09B56D111668F538.title: "&6&nGetting Started!"
 	chapter.19BE083ACF488E0F.title: "&bIron's Spells 'n Spellbooks&r"
 	chapter.1B9B51E90A5A29A0.title: "vents?"
@@ -52,6 +52,7 @@
 	quest.058E04C43D9139A0.quest_desc: ["NNEED TO BE REVIEWED"]
 	quest.05A39ED901BC6569.quest_subtitle: "Reduces the time of debuffs"
 	quest.05D652475C442E78.quest_subtitle: "Not repeatable"
+	quest.05DF598DEBADABC3.quest_desc: ["&l&eOrder of Engineers&r&r"]
 	quest.06252C87B61A19F3.quest_desc: [
 		"Before you can carry out an auto-crafting job, you need a device to actually store the request itself along with any interim items for multi-step crafts. This device is known as a &ecrafting CPU&f."
 		""
@@ -205,6 +206,8 @@
 		"Used to awaken the &cEcho of Tyros, First Flamebearer&r in the &6Citadel Arena&6, located in the Nether."
 		""
 		"You can find the arena by exploring or by crafting an &aAncient Furled Map&r."
+		""
+		"Use the &eCinderous Soulcaller&r in the arena to summon the boss."
 	]
 	quest.136F140D9A3ED036.quest_subtitle: "Increases knockback from attacks"
 	quest.137CC533B864B25F.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
@@ -341,7 +344,6 @@
 		""
 		"The &bEnergy Cell&f allows for an ME network to hold significantly more energy, adding another 200kAE per regular Energy Cell and 1.6MAE per &bDense&f Energy Cell. These can also be placed anywhere in the network to provide the increased energy buffer."
 	]
-	quest.25F8D49B732EF7C7.quest_subtitle: "Once crafted, it finds the&2 nearest Catacombs&r and &3leads you towards it&r. The trapped soul points toward its home"
 	quest.2651428AF7D72328.quest_desc: [
 		"{image:kubejs:textures/familiars/lightmage.png width:100 height:113 align:center}"
 		"&l&6Battle:&r&r specialized in lightning magic, casting spells that hit multiple targets at the same time."

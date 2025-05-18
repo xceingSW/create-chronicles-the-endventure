@@ -789,25 +789,6 @@
 			y: 4.0d
 		}
 		{
-			dependencies: ["357E9B952643A99D"]
-			id: "25F8D49B732EF7C7"
-			rewards: [{
-				id: "7AC0CDA31B6EE485"
-				item: {
-					count: 1
-					id: "magic_coins:silver_coin"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "615B5BD499A95CCE"
-				item: { count: 1, id: "irons_spellbooks:wayward_compass" }
-				type: "item"
-			}]
-			x: -21.5d
-			y: -5.5d
-		}
-		{
 			dependencies: ["53C9B66BEC667ED0"]
 			id: "391E94F1938AC865"
 			rewards: [{

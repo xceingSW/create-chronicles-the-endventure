@@ -11,6 +11,12 @@
   "catalyst": {
     "blocks": "minecraft:soul_soil"
   },
+  "requirements": [
+    {
+      "type": "mechanicals:biome_tag",
+      "value": "minecraft:is_nether"
+    }
+  ],
   "result": {
     "id": "minecraft:basalt"
   }

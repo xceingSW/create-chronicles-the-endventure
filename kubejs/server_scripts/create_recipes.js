@@ -33,7 +33,10 @@ ServerEvents.recipes((event) => {
        withChance("minecraft:glowstone_dust", 0.1),
        withChance("minecraft:glowstone_dust", 0.06)
     ], 'minecraft:soul_sand').processingTime(100)
-
+    event.recipes.createCrushing([
+      'irons_spellbooks:common_ink',
+      withChance("irons_spellbooks:uncommon_ink", 0.5)
+    ], Item.of('irons_spellbooks:scroll')) 
     
     // Filing
     event.recipes.createFilling("minecraft:magma_block",  ["minecraft:netherrack",Fluid.of("lava", 250)]);
@@ -51,11 +54,12 @@ ServerEvents.recipes((event) => {
     event.recipes.createSequencedAssembly([
       'createmechanisms:wooden_mechanism',
     ], '#c:stripped_woods', [
-          event.recipes.createPressing(transitional,transitional),
+          event.recipes.createDeploying(transitional, [transitional, '#createmechanisms:sawing_tools']),
           event.recipes.createDeploying(transitional, [transitional, 'garnished:boarded_pulp']),
           event.recipes.createDeploying(transitional, [transitional, 'create:andesite_alloy']),
           event.recipes.createDeploying(transitional, [transitional, 'create:cogwheel']),
           event.recipes.createDeploying(transitional, [transitional, 'create:large_cogwheel']),
+          event.recipes.createPressing(transitional,transitional)
     ]).transitionalItem(transitional)
       .loops(1)
       .id('end:wooden_mechanism')
@@ -91,7 +95,7 @@ ServerEvents.recipes((event) => {
     event.recipes.createSequencedAssembly([
       'createmechanisms:ender_mechanism',
     ], 'biomeswevegone:mossy_stone_slab', [
-          event.recipes.createDeploying(transitional, [transitional, 'garnished:ender_jelly']),
+          event.recipes.createDeploying(transitional, [transitional, 'eternal_starlight:lunaris_cactus_fruit']),
           event.recipes.createDeploying(transitional, [transitional, 'garnished:wrapped_warped_tangle']),
           event.recipes.createDeploying(transitional, [transitional, 'garnished:ethereal_compound']),
           event.recipes.createDeploying(transitional, [transitional, 'minecraft:ender_eye']),

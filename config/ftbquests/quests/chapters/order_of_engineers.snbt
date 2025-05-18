@@ -467,6 +467,9 @@
 		}
 		{
 			can_repeat: false
+			icon: {
+				id: "eternal_starlight:lunar_berries"
+			}
 			id: "54A602CE0328A07F"
 			rewards: [{
 				id: "0BAF4E5ACF7140DB"
@@ -480,8 +483,8 @@
 			tasks: [{
 				consume_items: true
 				count: 256L
-				id: "3DCCAE0585AC31FD"
-				item: { count: 1, id: "farmersdelight:roasted_mutton_chops" }
+				id: "4D042E97F6463721"
+				item: { count: 1, id: "eternal_starlight:lunar_berries" }
 				type: "item"
 			}]
 			x: -4.5d

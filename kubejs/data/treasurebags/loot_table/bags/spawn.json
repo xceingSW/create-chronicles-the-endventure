@@ -6,6 +6,15 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "name": "ftbquests:book"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
           "name": "minecraft:wooden_sword"
         }
       ]
@@ -15,22 +24,13 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "farmersdelight:sweet_berry_cookie",
+          "name": "farmersdelight:chicken_sandwich",
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 20
+              "count": 5
             }
           ]
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "waystones:waystone"
         }
       ]
     },
@@ -46,15 +46,6 @@
               "count": 10
             }
           ]
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "ftbquests:book"
         }
       ]
     }

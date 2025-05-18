@@ -1,14 +1,20 @@
 // === REMOVE BY RECIPE ID ===
 const removeRecipesById = [
   'simplyswords:sword_on_a_stick',
-    'apotheosis:book',
+  'apotheosis:book',
   'waystones:warp_stone',
   'apothic_enchanting:library',
   'apothic_enchanting:ender_library',
   'irons_spellbooks:lesser_spell_slot_upgrade',
   'irons_spellbooks:druidic_spell_book',
+  'irons_spellbooks:cinderous_soulcaller',
+  'irons_spellbooks:wayward_compass',
   'gamediscs:gaming_console',
 
+  'apotheosis:sigil_of_socketing',
+  'apotheosis:sigil_of_withdrawal',
+  'apotheosis:sigil_of_rebirth',
+  'apotheosis:sigil_of_enhancement',      
   'farmingforblockheads:green_fertilizer',
   'farmingforblockheads:red_fertilizer',
   'farmingforblockheads:yellow_fertilizer',

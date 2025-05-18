@@ -509,6 +509,10 @@
     "modId": "ftbchunks",
     "version": "2101.1.9"
   },
+  "ftb-filter-system-neoforge-21.1.0.jar": {
+    "modId": "ftbfiltersystem",
+    "version": "21.1.0"
+  },
   "ftb-library-neoforge-2101.1.13.jar": {
     "modId": "ftblibrary",
     "version": "2101.1.13"
