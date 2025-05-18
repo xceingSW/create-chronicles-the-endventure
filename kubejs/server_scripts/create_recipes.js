@@ -80,7 +80,7 @@ ServerEvents.recipes((event) => {
           event.recipes.createDeploying(transitional, [transitional, 'createmechanisms:bronze']),
           event.recipes.createDeploying(transitional, [transitional, 'minecraft:gunpowder']),
           event.recipes.createDeploying(transitional, [transitional, 'garnished:baklava']),
-          event.recipes.createDeploying(transitional, [transitional, 'minecraft:magma_block']),
+          event.recipes.createDeploying(transitional, [transitional, 'create_things_and_misc:crushed_magma']),
           event.recipes.createFilling(transitional, [transitional,  Fluid.of('minecraft:lava', 450)]),
           event.recipes.createPressing(transitional,transitional),
     ]).transitionalItem(transitional)

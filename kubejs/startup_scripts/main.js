@@ -61,45 +61,32 @@ StartupEvents.registry('item', event => {
     })
   })
 
-  event.create('token_basic')
-    .displayName("§7Seal of Apprentice")
-    .rarity("UNCOMMON")
-    .tooltip('§7You\'ve taken your first steps, engineer.\n§eUsable in §lCategory 1§r§e contracts.')
-
-    event.create('token_medium')
-    .displayName("§fSeal of Operator")
-    .rarity("RARE")
-    .tooltip('§7Precision is your language.\n§eUsable in §lCategory 2§r§e contracts.')
-
-
-    event.create('token_advanced')
-    .displayName("§eSeal of Master Engineer")
-    .rarity("EPIC")
-    .tooltip('§7You command machines like no other.\n§eUsable in §lCategory 3§r§e contracts.')
-
-    event.create('heart_container')
+  event.create('token_basic').displayName("§7Seal of Apprentice").rarity("UNCOMMON")
+  event.create('token_medium').displayName("§fSeal of Operator").rarity("RARE")
+  event.create('token_advanced').displayName("§eSeal of Master Engineer").rarity("EPIC")
+  event.create('boss_token').displayName("§6Boss Token").rarity("EPIC")
+  
+  event.create('heart_container')
     .displayName("§6Heart Container")
     .rarity("EPIC")
     .tooltip('§7Permanently increases your maximum health by §c+1 Heart§7.')
 
-    event.create('boss_token')
-    .displayName("§6Boss Token")
-    .rarity("EPIC")
 
-    //Farmer's Stuff
-    event.create('incomplete_barbecue_stick')
-    event.create('incomplete_cod_roll')
-    event.create('incomplete_kelp_roll')
-    event.create('incomplete_melon_popsicle')
-    event.create('incomplete_mutton_wrap')
-    event.create('incomplete_salmon_roll')
-    event.create('incomplete_stuffed_potato')
-    event.create('incomplete_bacon_and_eggs')
-    event.create('incomplete_grilled_salmon')
-    event.create('incomplete_rice_roll_medley_block')
-    event.create('incomplete_roast_chicken_block')
-    event.create('incomplete_roasted_mutton_chops')
-    event.create('incomplete_shepherds_pie_block')
-    event.create('incomplete_steak_and_potatoes')
+
+  //Farmer's Stuff
+  event.create('incomplete_barbecue_stick')
+  event.create('incomplete_cod_roll')
+  event.create('incomplete_kelp_roll')
+  event.create('incomplete_melon_popsicle')
+  event.create('incomplete_mutton_wrap')
+  event.create('incomplete_salmon_roll')
+  event.create('incomplete_stuffed_potato')
+  event.create('incomplete_bacon_and_eggs')
+  event.create('incomplete_grilled_salmon')
+  event.create('incomplete_rice_roll_medley_block')
+  event.create('incomplete_roast_chicken_block')
+  event.create('incomplete_roasted_mutton_chops')
+  event.create('incomplete_shepherds_pie_block')
+  event.create('incomplete_steak_and_potatoes')
    
 })

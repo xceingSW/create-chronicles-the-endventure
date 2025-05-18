@@ -92,7 +92,6 @@ RecipeViewerEvents.addInformation('item', item =>{
 
 
 
-
 // Language names
 ClientEvents.lang("en_us", event => {
   global.EYES.forEach(eye => {
@@ -108,4 +107,18 @@ ItemEvents.modifyTooltips(event => {
       tooltip.insert(1, Text.of(`#${index + 1} Used to activate the End Portal.`).color(0xFFA5F7));
     });
   });
+  event.modify('kubejs:token_basic', tooltip => {
+    tooltip.insert(1, Text.of('§7You\'ve taken your first steps, engineer.'))
+    tooltip.insert(2, Text.of('§eUsable in §lCategory 1§r§e contracts.'))
+  })
+
+  event.modify('kubejs:token_medium', tooltip => {
+    tooltip.insert(1, Text.of('§7Precision is your language.'))
+    tooltip.insert(2, Text.of('§eUsable in §lCategory 2§r§e contracts.'))
+  })
+
+  event.modify('kubejs:token_advanced', tooltip => {
+    tooltip.insert(1, Text.of('§7You command machines like no other.'))
+    tooltip.insert(2, Text.of('§eUsable in §lCategory 3§r§e contracts.'))
+  })  
 });

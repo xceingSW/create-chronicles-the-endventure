@@ -2962,8 +2962,8 @@
 				item: { count: 1, id: "minecraft:spruce_wood" }
 				type: "item"
 			}]
-			x: -7.5d
-			y: 22.5d
+			x: 5.0d
+			y: 21.0d
 		}
 		{
 			id: "465CE0F51624F8EA"
@@ -2972,8 +2972,8 @@
 				item: { count: 1, id: "minecraft:stripped_oak_wood" }
 				type: "item"
 			}]
-			x: -8.5d
-			y: 24.5d
+			x: 5.0d
+			y: 22.0d
 		}
 		{
 			id: "4825F052F03A5463"

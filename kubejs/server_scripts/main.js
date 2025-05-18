@@ -1,12 +1,3 @@
-/*event.shaped('kubejs:air_essence_block', [
-    'SSS',
-    'SSS',
-    'SSS'
-], {
-    S: 'ars_nouveau:air_essence'
-})*/
-
-
 ServerEvents.recipes(event => {
 
   // Create Crafting Recipe of all the 12 eyes

@@ -879,11 +879,8 @@
 				{
 					id: "7F32D3E50A6E4C37"
 					item: {
-						components: {
-							"ftbquests:missing_item": "kubejs:heart_container"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "kubejs:heart_container"
 					}
 					type: "item"
 				}

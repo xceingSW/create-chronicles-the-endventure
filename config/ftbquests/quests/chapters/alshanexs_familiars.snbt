@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "alshanexs_familiars"
-	group: "10BAE746B6F04D66"
+	group: "3808ABBD2D934E7D"
 	icon: {
 		id: "alshanex_familiars:familiar_tome"
 	}
@@ -16,7 +16,7 @@
 		x: -7.5d
 		y: 3.0d
 	}]
-	order_index: 1
+	order_index: 3
 	quest_links: [ ]
 	quests: [
 		{
@@ -505,6 +505,54 @@
 			}]
 			x: -6.5d
 			y: 0.0d
+		}
+		{
+			dependencies: [
+				"20BFB23E1ADDC3DF"
+				"2A844214CE94E140"
+				"2651428AF7D72328"
+				"692D79D601534A2E"
+				"58EE67ECB33D6AE9"
+				"47F3B09688DFA1DC"
+				"5AA39CCAEED433CA"
+				"7B09AFE245BA7808"
+				"3DD814B346F1B543"
+				"54480115AF9A1DAD"
+				"5D0DCD2B1AB653BB"
+			]
+			dependency_requirement: "all_started"
+			hide_dependency_lines: true
+			icon: {
+				id: "eternal_starlight:loot_bag"
+			}
+			id: "4CB49F7B92D1E840"
+			rewards: [
+				{
+					id: "1AFAF1E71761959E"
+					item: {
+						count: 1
+						id: "kubejs:heart_container"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1AAF312C9BB8D364"
+					item: {
+						count: 1
+						id: "magic_coins:gold_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 2.5d
+			tasks: [{
+				id: "52A67A04A0DB5C7D"
+				type: "checkmark"
+			}]
+			x: 1.25d
+			y: -2.5d
 		}
 	]
 }

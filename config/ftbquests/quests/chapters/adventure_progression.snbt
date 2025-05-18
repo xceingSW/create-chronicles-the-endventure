@@ -4,10 +4,7 @@
 	filename: "adventure_progression"
 	group: ""
 	icon: {
-		components: {
-			"ftbquests:missing_item": "kubejs:black_eye_fragment_core"
-		}
-		id: "ftbquests:missing_item"
+		id: "endrem:cursed_eye"
 	}
 	id: "576F6A1E4D30F4F2"
 	images: [
@@ -287,7 +284,7 @@
 				}
 				{
 					id: "14EE6E229854C088"
-					item: { components: { "ftbquests:missing_item": "kubejs:forgotten_eye_fragment_shard" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "kubejs:forgotten_eye_fragment_shard" }
 					type: "item"
 				}
 			]
@@ -358,7 +355,7 @@
 				}
 				{
 					id: "2AB55B49A6187CEF"
-					item: { components: { "ftbquests:missing_item": "kubejs:forgotten_eye_fragment_cracked" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "kubejs:forgotten_eye_fragment_cracked" }
 					type: "item"
 				}
 			]
@@ -417,7 +414,7 @@
 				}
 				{
 					id: "0E32B6275EB31EFA"
-					item: { components: { "ftbquests:missing_item": "kubejs:forgotten_eye_fragment_core" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "kubejs:forgotten_eye_fragment_core" }
 					type: "item"
 				}
 			]
@@ -427,13 +424,10 @@
 		{
 			id: "38C09CF7914BEE30"
 			rewards: [{
-				id: "0AD7D73D9200F4A2"
+				id: "36ADBB6B6002B69C"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:heart_container"
 				}
 				type: "item"
 			}]
@@ -449,13 +443,10 @@
 		{
 			id: "047ACE4F6C1560F0"
 			rewards: [{
-				id: "0E7C708B08EED5EF"
+				id: "49E87057F15759B9"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:heart_container"
 				}
 				type: "item"
 			}]
@@ -495,7 +486,7 @@
 				}
 				{
 					id: "256EE5EB985514A6"
-					item: { components: { "ftbquests:missing_item": "kubejs:cursed_eye_fragment_shard" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "kubejs:cursed_eye_fragment_shard" }
 					type: "item"
 				}
 			]
@@ -529,7 +520,7 @@
 				}
 				{
 					id: "5474EC5F37E3FBD9"
-					item: { components: { "ftbquests:missing_item": "kubejs:lich_eye_fragment_shard" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "kubejs:lich_eye_fragment_shard" }
 					type: "item"
 				}
 			]
@@ -575,7 +566,7 @@
 				}
 				{
 					id: "1F73D100ABC809F8"
-					item: { components: { "ftbquests:missing_item": "kubejs:cursed_eye_fragment_core" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "kubejs:cursed_eye_fragment_core" }
 					type: "item"
 				}
 			]
@@ -608,7 +599,7 @@
 				}
 				{
 					id: "700ABBA028A07F15"
-					item: { components: { "ftbquests:missing_item": "kubejs:omen_eye_fragment_cracked" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "kubejs:omen_eye_fragment_cracked" }
 					type: "item"
 				}
 			]
@@ -641,7 +632,7 @@
 				}
 				{
 					id: "2C6336C869C61992"
-					item: { components: { "ftbquests:missing_item": "kubejs:omen_eye_fragment_shard" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "kubejs:omen_eye_fragment_shard" }
 					type: "item"
 				}
 			]
@@ -675,7 +666,7 @@
 				}
 				{
 					id: "193E110B214C66D2"
-					item: { components: { "ftbquests:missing_item": "kubejs:lich_eye_fragment_core" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "kubejs:lich_eye_fragment_core" }
 					type: "item"
 				}
 			]
@@ -709,7 +700,7 @@
 				}
 				{
 					id: "09C596450CD7D65B"
-					item: { components: { "ftbquests:missing_item": "kubejs:cursed_eye_fragment_cracked" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "kubejs:cursed_eye_fragment_cracked" }
 					type: "item"
 				}
 			]
@@ -743,7 +734,7 @@
 				}
 				{
 					id: "1F8CA2E5D03AF77E"
-					item: { components: { "ftbquests:missing_item": "kubejs:gilded_eye_fragment_shard" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "kubejs:gilded_eye_fragment_shard" }
 					type: "item"
 				}
 			]
@@ -777,7 +768,7 @@
 				}
 				{
 					id: "78C2F5034799E25F"
-					item: { components: { "ftbquests:missing_item": "kubejs:gilded_eye_fragment_core" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "kubejs:gilded_eye_fragment_core" }
 					type: "item"
 				}
 			]
@@ -811,7 +802,7 @@
 				}
 				{
 					id: "0446C1655892AE19"
-					item: { components: { "ftbquests:missing_item": "kubejs:cryptic_eye_fragment_shard" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "kubejs:cryptic_eye_fragment_shard" }
 					type: "item"
 				}
 			]
@@ -845,7 +836,7 @@
 				}
 				{
 					id: "758D5C92709C4A08"
-					item: { components: { "ftbquests:missing_item": "kubejs:cryptic_eye_fragment_core" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "kubejs:cryptic_eye_fragment_core" }
 					type: "item"
 				}
 			]
@@ -855,13 +846,10 @@
 		{
 			id: "498D22534A947B79"
 			rewards: [{
-				id: "53E1A2871590E315"
+				id: "2C105732C749E77A"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:heart_container"
 				}
 				type: "item"
 			}]
@@ -877,13 +865,10 @@
 		{
 			id: "41C643E334BA412E"
 			rewards: [{
-				id: "2FDDC2BB7B92EDED"
+				id: "4BF1C08EEF8D1191"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:heart_container"
 				}
 				type: "item"
 			}]
@@ -899,13 +884,10 @@
 		{
 			id: "79B7F2CF9843FFCB"
 			rewards: [{
-				id: "158F85D24DC5F30D"
+				id: "0489CEFD7C24D096"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:heart_container"
 				}
 				type: "item"
 			}]
@@ -921,13 +903,10 @@
 		{
 			id: "473610BEA4E1765D"
 			rewards: [{
-				id: "7C8ED31870F46475"
+				id: "6E54EFB7B95866E5"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:heart_container"
 				}
 				type: "item"
 			}]
@@ -943,13 +922,10 @@
 		{
 			id: "4D54723C26FB8C44"
 			rewards: [{
-				id: "57BC3348DF7FE393"
+				id: "3E3A8177CD44370B"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:heart_container"
 				}
 				type: "item"
 			}]
@@ -966,13 +942,10 @@
 			id: "5B2ECDE4D4FF3D8D"
 			progression_mode: "flexible"
 			rewards: [{
-				id: "23B6C4ED3EF3EC14"
+				id: "4BF11700E35278B9"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:heart_container"
 				}
 				type: "item"
 			}]
@@ -989,13 +962,10 @@
 			id: "509760809535E55E"
 			progression_mode: "flexible"
 			rewards: [{
-				id: "75B4CEB0EDC570C9"
+				id: "59D101B1AE99A085"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:heart_container"
 				}
 				type: "item"
 			}]
@@ -1012,13 +982,10 @@
 			id: "1B876E65905AE114"
 			progression_mode: "flexible"
 			rewards: [{
-				id: "0B6C157A8026C904"
+				id: "51CC91D19E89E084"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:heart_container"
 				}
 				type: "item"
 			}]
@@ -1035,13 +1002,10 @@
 			id: "7DDA573B83BD4B2D"
 			progression_mode: "flexible"
 			rewards: [{
-				id: "0CC5C6D7F72D9415"
+				id: "75C78C022C18AEBB"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:heart_container"
 				}
 				type: "item"
 			}]
@@ -1080,7 +1044,7 @@
 				}
 				{
 					id: "472838B09346EC44"
-					item: { components: { "ftbquests:missing_item": "kubejs:omen_eye_fragment_core" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "kubejs:omen_eye_fragment_core" }
 					type: "item"
 				}
 			]
@@ -1111,22 +1075,16 @@
 				{
 					id: "5E94F4B63F00686D"
 					item: {
-						components: {
-							"ftbquests:missing_item": "kubejs:boss_token"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "kubejs:boss_token"
 					}
 					type: "item"
 				}
 				{
 					id: "62D02BCF52EB5445"
 					item: {
-						components: {
-							"ftbquests:missing_item": "kubejs:lost_eye_fragment_cracked"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "kubejs:lost_eye_fragment_cracked"
 					}
 					type: "item"
 				}
@@ -1204,7 +1162,7 @@
 				}
 				{
 					id: "3CA27C11B3862E04"
-					item: { components: { "ftbquests:missing_item": "kubejs:lost_eye_fragment_shard" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "kubejs:lost_eye_fragment_shard" }
 					type: "item"
 				}
 			]
@@ -1250,7 +1208,7 @@
 				}
 				{
 					id: "5AC919AB324361DC"
-					item: { components: { "ftbquests:missing_item": "kubejs:lost_eye_fragment_core" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "kubejs:lost_eye_fragment_core" }
 					type: "item"
 				}
 			]
@@ -1260,13 +1218,10 @@
 		{
 			id: "1A1A29A846DABADB"
 			rewards: [{
-				id: "466A417B26F7F170"
+				id: "4BC88A230CCF33B9"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:heart_container"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:heart_container"
 				}
 				type: "item"
 			}]
@@ -1289,7 +1244,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "50B33589152EE05E"
-				item: { components: { "ftbquests:missing_item": "kubejs:lich_eye_fragment_cracked" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:lich_eye_fragment_cracked" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -1305,7 +1260,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "39FA65B3A27B2CCA"
-				item: { components: { "ftbquests:missing_item": "kubejs:gilded_eye_fragment_cracked" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:gilded_eye_fragment_cracked" }
 				type: "item"
 			}]
 			x: -1.0d
@@ -1321,7 +1276,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "292FE367D61F3807"
-				item: { components: { "ftbquests:missing_item": "kubejs:cryptic_eye_fragment_cracked" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:cryptic_eye_fragment_cracked" }
 				type: "item"
 			}]
 			x: -6.0d
@@ -1420,11 +1375,8 @@
 				{
 					id: "2C0B380E4B356E59"
 					item: {
-						components: {
-							"ftbquests:missing_item": "kubejs:heart_container"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "kubejs:heart_container"
 					}
 					type: "item"
 				}
@@ -1624,7 +1576,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "27EEE76D637AC25F"
-				item: { components: { "ftbquests:missing_item": "kubejs:oblivion_eye_fragment_core" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:oblivion_eye_fragment_core" }
 				type: "item"
 			}]
 			x: -7.5d
@@ -1640,7 +1592,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "665A43CE9657B1B7"
-				item: { components: { "ftbquests:missing_item": "kubejs:oblivion_eye_fragment_shard" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:oblivion_eye_fragment_shard" }
 				type: "item"
 			}]
 			x: -7.5d
@@ -1656,7 +1608,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "0AEAA35B1850327B"
-				item: { components: { "ftbquests:missing_item": "kubejs:oblivion_eye_fragment_cracked" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:oblivion_eye_fragment_cracked" }
 				type: "item"
 			}]
 			x: -7.5d
@@ -1672,7 +1624,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "61BFC50A5942D279"
-				item: { components: { "ftbquests:missing_item": "kubejs:spy_eye_fragment_core" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:spy_eye_fragment_core" }
 				type: "item"
 			}]
 			x: -9.0d
@@ -1688,7 +1640,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "4E7FA9FC94700011"
-				item: { components: { "ftbquests:missing_item": "kubejs:spy_eye_fragment_shard" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:spy_eye_fragment_shard" }
 				type: "item"
 			}]
 			x: -9.0d
@@ -1704,7 +1656,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "4D68671618599E43"
-				item: { components: { "ftbquests:missing_item": "kubejs:spy_eye_fragment_cracked" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:spy_eye_fragment_cracked" }
 				type: "item"
 			}]
 			x: -9.0d
@@ -1720,7 +1672,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "3208E2756C186C11"
-				item: { components: { "ftbquests:missing_item": "kubejs:corrupted_eye_fragment_core" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:corrupted_eye_fragment_core" }
 				type: "item"
 			}]
 			x: -12.0d
@@ -1736,7 +1688,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "46C75B92A0292985"
-				item: { components: { "ftbquests:missing_item": "kubejs:corrupted_eye_fragment_shard" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:corrupted_eye_fragment_shard" }
 				type: "item"
 			}]
 			x: -13.0d
@@ -1752,7 +1704,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "40D62ECF4B808272"
-				item: { components: { "ftbquests:missing_item": "kubejs:corrupted_eye_fragment_cracked" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:corrupted_eye_fragment_cracked" }
 				type: "item"
 			}]
 			x: -14.0d
@@ -1768,7 +1720,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "07FD5F30A59B5152"
-				item: { components: { "ftbquests:missing_item": "kubejs:black_eye_fragment_core" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:black_eye_fragment_core" }
 				type: "item"
 			}]
 			x: -12.0d
@@ -1784,7 +1736,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "25438E3DA9B0D20D"
-				item: { components: { "ftbquests:missing_item": "kubejs:black_eye_fragment_shard" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:black_eye_fragment_shard" }
 				type: "item"
 			}]
 			x: -13.0d
@@ -1800,7 +1752,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "64DFF238CAF92D4F"
-				item: { components: { "ftbquests:missing_item": "kubejs:black_eye_fragment_cracked" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:black_eye_fragment_cracked" }
 				type: "item"
 			}]
 			x: -14.0d
@@ -1816,7 +1768,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "75DB4243E856AD0F"
-				item: { components: { "ftbquests:missing_item": "kubejs:infernal_eye_fragment_core" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:infernal_eye_fragment_core" }
 				type: "item"
 			}]
 			x: -12.0d
@@ -1832,7 +1784,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "7D8C205685773FC8"
-				item: { components: { "ftbquests:missing_item": "kubejs:infernal_eye_fragment_shard" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:infernal_eye_fragment_shard" }
 				type: "item"
 			}]
 			x: -13.0d
@@ -1848,7 +1800,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "61F5D5ED8D0ECB90"
-				item: { components: { "ftbquests:missing_item": "kubejs:infernal_eye_fragment_cracked" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "kubejs:infernal_eye_fragment_cracked" }
 				type: "item"
 			}]
 			x: -14.0d
@@ -1860,11 +1812,8 @@
 			rewards: [{
 				id: "03C4F44FD83B3158"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:lost_eye_fragment_cracked"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:lost_eye_fragment_cracked"
 				}
 				type: "item"
 			}]
@@ -1902,11 +1851,8 @@
 				{
 					id: "13B98A78EF795180"
 					item: {
-						components: {
-							"ftbquests:missing_item": "kubejs:heart_container"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "kubejs:heart_container"
 					}
 					type: "item"
 				}

@@ -11,10 +11,7 @@
 	emergency_items_cooldown: 300
 	grid_scale: 0.5d
 	icon: {
-		components: {
-			"ftbquests:missing_item": "kubejs:cursed_eye_fragment_core"
-		}
-		id: "ftbquests:missing_item"
+		id: "kubejs:cursed_eye_fragment_core"
 	}
 	lock_message: ""
 	loot_crate_no_drop: {

@@ -1,20 +1,17 @@
 {
-	chapter.00B2BB3A1CF3EA69.title: "Chapter X: Applied Energetics 2"
 	chapter.00BD5759F8E2525F.title: "Order of Engineers"
 	chapter.09B56D111668F538.title: "&6&nGetting Started!"
 	chapter.19BE083ACF488E0F.title: "&bIron's Spells 'n Spellbooks&r"
-	chapter.20497405FCFCFADA.title: "Chapter VII: Infernal Mechanism"
+	chapter.1B9B51E90A5A29A0.title: "vents?"
 	chapter.2385B4F2FA029016.title: "&aAlshanex's Familiars&r"
-	chapter.38FE3E0C86FF237B.title: "Chapter V: Steel Mechanism"
 	chapter.464FB437D5DF7824.title: "&aArtifacts"
 	chapter.4B6E4A0215F45FC0.title: " X&3The Otherside: &0Deeper and Darker"
 	chapter.4F11D0F95BB94F2B.title: "Refined Storage"
 	chapter.50471206A7BA908F.title: "XEternal Starlight"
 	chapter.576F6A1E4D30F4F2.title: "&l&aThe Endventure"
-	chapter.6183184A27691A5F.title: "Chapter IX: Calculation Mechanism"
+	chapter.66515D165B519FE2.title: "Game Discs"
 	chapter.784A6CC38A657526.title: "&bSimply Swords"
 	chapter_group.10BAE746B6F04D66.title: "Magic"
-	chapter_group.20996729F10511FA.title: "oldcro"
 	chapter_group.37AD19D80019787F.title: "Storage"
 	chapter_group.3808ABBD2D934E7D.title: "Collectibles"
 	chapter_group.58944126F4575319.title: "Others"
@@ -50,9 +47,11 @@
 	quest.03A09B606040AD2E.quest_subtitle: "Rare random drop from Blazes."
 	quest.042259C7B1BF773A.quest_subtitle: "Lights your attackers on fire"
 	quest.0424F3DCA7620F49.quest_subtitle: "Increases the wearers mining speed and allows the wearer to break blocks like stone with their fist"
+	quest.043C8846B7402FB3.quest_subtitle: "Not repeatable"
 	quest.0560F717010F1833.quest_subtitle: "right click into a tamed familiar to give him a stack of enraged (when getting hit, has a chance to consume a stack of enraged to gain heartstop for some seconds), limit 10 per familiar, dropped from Mooshrooms."
 	quest.058E04C43D9139A0.quest_desc: ["NNEED TO BE REVIEWED"]
 	quest.05A39ED901BC6569.quest_subtitle: "Reduces the time of debuffs"
+	quest.05D652475C442E78.quest_subtitle: "Not repeatable"
 	quest.06252C87B61A19F3.quest_desc: [
 		"Before you can carry out an auto-crafting job, you need a device to actually store the request itself along with any interim items for multi-step crafts. This device is known as a &ecrafting CPU&f."
 		""
@@ -101,6 +100,7 @@
 		""
 		"You need to use an&c Optical Device&r on the &6Optical Receptor&r &nby right-clicking&r with the &cOptical Device&r on the Optical Receptor for it to receive the &bLight Rays.&r"
 	]
+	quest.080114C9009671CE.quest_subtitle: "Not repeatable"
 	quest.0819B8A983F38919.quest_desc: [
 		"A handy spell to always keep with you is a &dteleport spell&r that sends you back to your last respawn point."
 		""
@@ -163,10 +163,13 @@
 	quest.0C61389C18B4A2B4.quest_desc: ["A holy talisman said to protect its owner from bad luck"]
 	quest.0C61389C18B4A2B4.quest_subtitle: "Buy it from a master cleric"
 	quest.0CFFF58986CE7733.quest_subtitle: "you know how to make coal don't you? "
+	quest.0D0A907FD6B9A21F.quest_subtitle: "Not repeatable"
 	quest.0DDCE73E115DCE86.quest_subtitle: "When used for Upgrade: &6+5% Evocation Spell Power"
 	quest.0E0532BA6E3FFEF9.quest_subtitle: "Allows you to drink items faster, but now with style!"
+	quest.0E5216DF2717D1DC.quest_subtitle: "Not repeatable"
 	quest.0EC55B2CACD070C2.quest_subtitle: "right click into a hunter familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Evoker Forts."
 	quest.0FF69526C1DC1593.quest_desc: ["Can be tamed with enchanted &cNetherite Chestplates&r. When tamed, they will occasionally drop enchanted books. "]
+	quest.0FFFB592D103B2BF.quest_subtitle: "Not repeatable"
 	quest.108EA49E8421CCC7.quest_desc: [""]
 	quest.109FBFA37FF99341.quest_desc: [
 		"AE2 provides devices to manage ME data and move stored items around the world. "
@@ -214,6 +217,7 @@
 		"The base AE2 co-processor provides one co-processor \"thread\"."
 	]
 	quest.15B4189EFAD4B6E2.quest_subtitle: "Download more CPU cores"
+	quest.15F6FE3D9D8F8EFD.quest_subtitle: "Not repeatable"
 	quest.16BF82CCB4624E9C.quest_desc: [
 		"Individual ME devices can also be configured to respond to redstone signals. When upgraded with a &bRedstone Card&f, a device can be configured to do work only when powered with redstone or otherwise as needed."
 		""
@@ -254,6 +258,7 @@
 	quest.192C9C5B4F236448.quest_subtitle: "right click into a plague doctor familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Impaled Shipwrecks."
 	quest.192EE909C57F390A.quest_subtitle: "Rare chance of spawning after breaking an &8Ancient Vase&r."
 	quest.1ADACCB1A8BB9E7E.quest_subtitle: "An infinite steak"
+	quest.1C051DC0D07AF588.quest_subtitle: "Not repeatable"
 	quest.1C267CC53FD04C88.title: "&4Cultist Outfit"
 	quest.1C60254EAE960673.quest_desc: [
 		"&e&nBottle o' Lightning&r&r"
@@ -266,6 +271,7 @@
 	quest.1C89D285F0501472.quest_subtitle: "small chance to get it when enchanting"
 	quest.1D9D2E1FF9BD8A91.quest_desc: ["{ \"text\": \"☞ Click here for more information about beams visit Chapter V at the end.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"265960CE3104527E\" } }"]
 	quest.1D9D2E1FF9BD8A91.quest_subtitle: "It uses a &6Beam Focuser&r"
+	quest.1DB59AA0F0D77623.quest_subtitle: "Not repeatable"
 	quest.1DBB6264A5603E04.quest_desc: [
 		"This block lets you polarize the &eLight Ray&r &nreducing its intensity to half&r, which will affect the &cRedstone Signal Strength&r from the &eLight Ray&r. "
 		""
@@ -280,6 +286,7 @@
 	quest.1F4AE081014800B4.quest_desc: ["It was lost by a demon in the battle between the Aether and the Nether"]
 	quest.1F4AE081014800B4.quest_subtitle: "Found in Nether Fortresses"
 	quest.1F4AE081014800B4.title: "Nether Eye"
+	quest.1FC9B5F673D2BDD3.quest_subtitle: "Not repeatable"
 	quest.203CEDAC6E1CAB91.quest_subtitle: "&6+100 Max Mana"
 	quest.20BFB23E1ADDC3DF.quest_desc: [
 		"{image:kubejs:textures/familiars/necromancer.png width:100 height:88 align:center}"
@@ -297,7 +304,9 @@
 	quest.20BFB23E1ADDC3DF.quest_subtitle: "Tame one Necromancer Familiar"
 	quest.20BFB23E1ADDC3DF.title: "Necromancer Familiar"
 	quest.20EAD0D76E8C2683.quest_subtitle: "When used for Upgrade: &6+50 Max Mana"
+	quest.2136A142781BBE2B.quest_subtitle: "Not repeatable"
 	quest.216E2ED7D793F72A.quest_subtitle: "Rare random drop from Evokers or Archevokers."
+	quest.223E243BADB0CFAA.quest_subtitle: "Not repeatable"
 	quest.2241F84F6AAD5933.quest_subtitle: "Teleport amulet gives you evasion after you teleport if your Ender spell power is high enough"
 	quest.229C5328751C93F5.quest_subtitle: "☠ Tier 1"
 	quest.22E0846B96BBD5DD.quest_desc: ["Legends say this eye once belonged to one of the great Sandworms"]
@@ -359,6 +368,7 @@
 		""
 		"&o&eNote: Press U on the Beam Focuser to see all the recipes allowed.&r&r"
 	]
+	quest.266448538B44953C.quest_subtitle: "Not repeatable"
 	quest.2699917C42D48985.quest_subtitle: "where it leads?"
 	quest.26BEA55560AE0368.quest_desc: [
 		"&6The Optical Sensor&r transforms the Light rays that receive from the Optical Source into RedStone Signal outputting Redstone Signal from all 4 sides and also emits light. "
@@ -368,6 +378,7 @@
 		"&eNote: I recommend checking the Ponder menu for further information on each mode.&r"
 	]
 	quest.26FB758B3706B935.quest_subtitle: "Slain creatures drop &6+25% experience."
+	quest.27A2D421D6C98CC6.quest_subtitle: "Not repeatable"
 	quest.2807106C369DF042.quest_subtitle: "Get your hands on a Sculk Transmitter."
 	quest.29491A4A65DEDCDC.quest_subtitle: "Grants +5 Hearts"
 	quest.2965B8DD03DA1142.quest_subtitle: "&b☠ Tier 4"
@@ -426,7 +437,9 @@
 		"&6https://discord.gg/Dm4B7UfhXd&r"
 	]
 	quest.2CBF8CC3EB107804.title: "&l&6Better Energy Production"
+	quest.2D430D14A2F6C60A.quest_subtitle: "Not repeatable"
 	quest.2D69922251E3D2CB.quest_subtitle: "&6Allows visible creatures to be seen"
+	quest.2D7A94A67C6BC008.quest_subtitle: "Not repeatable"
 	quest.2E4D0196673FCE5A.quest_subtitle: "Harness the power of &aevocation&r. Increased &aevocation magic spell power&r or &aarmor&r."
 	quest.2E4D0196673FCE5A.title: "&a&lSchool of Evocation"
 	quest.2E9E011F51858EF2.quest_desc: [
@@ -441,6 +454,7 @@
 		"Patterns can be set to hold either a regular &ecrafting&f recipe, which will require the use of a &eMolecular Assembler&f on the face of its Provider, or a more general \"&eprocessing&f\" recipe, wherein any input items can be sent out by the provider into some other machine block or specialised processing plant."
 	]
 	quest.2F40B3F9E34F9B1F.title: "Patterns"
+	quest.2F622A7B13D36360.quest_subtitle: "Not repeatable"
 	quest.2F8EAC597AB7E760.quest_subtitle: "Increases the wearer's swim speed"
 	quest.3026C7FFA3B230FA.quest_desc: ["&3Processors&r are essential crafting ingredients used to make the majority of ME-connected devices."]
 	quest.30378E9E82826E3A.quest_subtitle: "Need more mana? This is needed for that upgrade."
@@ -462,6 +476,7 @@
 	]
 	quest.3052F9967211F448.quest_subtitle: "Kill the Ender Dragon"
 	quest.3052F9967211F448.title: "&4End of All Things"
+	quest.30D5BC1EFA23D92E.quest_subtitle: "Not repeatable"
 	quest.3121D591D3807584.quest_subtitle: "Allows you to double jump"
 	quest.312D4E8EBE475538.quest_desc: [
 		"Nipas can be found in &2&n&aPrimordial Caves from Alex's Caves&r&r&r, so keep your eyes open—they are rare to find."
@@ -469,6 +484,7 @@
 		"{ \"text\": \"☞ Click here to learn more\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"260F19B468957BCD\" } }"
 	]
 	quest.313B26E365615526.title: "&bCryomancecr Outfit"
+	quest.31A4BB6E2C1C1FA9.quest_subtitle: "Not repeatable"
 	quest.323963AAF0375942.quest_desc: [
 		"The &bME Storage Bus&f, when facing some external storage container, will allow the container to be used as though it were part of the ME network, allowing items to be taken out from the container or inserted into it purely via ME."
 		""
@@ -494,6 +510,7 @@
 	quest.3409D29DC6A2360E.quest_subtitle: " right click into a tamed familiar to allow him to block attacks with a low chance, limit 1 per familiar, found in Blacksmith Structures."
 	quest.343AB719F81DFC63.quest_desc: ["This pupil is believed to have seen the ancient brewing recipes that were lost in time."]
 	quest.343AB719F81DFC63.quest_subtitle: " Craft it using the witch pupil"
+	quest.3481C6DF7EF96590.quest_subtitle: "Not repeatable"
 	quest.35029D28522C7A28.quest_desc: [
 		"Each individual cell has a certain capacity dictated by the &ecomponent&f that the cell has been crafted with."
 		""
@@ -511,6 +528,7 @@
 	]
 	quest.35FDE052B50EFAAF.quest_desc: ["The &bME Import Bus&f periodically sucks items in from whatever external storage the bus is facing. It can optionally be filtered to only take in certain items from said inventory."]
 	quest.36032C287CC77A74.quest_subtitle: "Mechanical Crafting"
+	quest.36081971EC8925F2.quest_subtitle: "Not repeatable"
 	quest.3629B7D03A59F516.quest_desc: [
 		"The &eThermal Optical Source&r requires an additional source to function, which is fluids, such as &bWater&r and &cLava&r to send &6Light Rays&r. "
 		""
@@ -582,6 +600,7 @@
 		"When two of these individual rings have been linked using the Quantum Entangled Singularities and jumpstarted with some AE power, an ME network can be expanded wirelessly on the other side of the bridge, across either long distances or even dimensions."
 	]
 	quest.3B06C0FF8E28AC91.title: "Quantum Network Bridge"
+	quest.3B9ECAF48D8F47A1.quest_subtitle: "Not repeatable"
 	quest.3BC1492D43F6B120.quest_desc: ["It is told that it was forged by the first blacksmiths of time"]
 	quest.3BC1492D43F6B120.quest_subtitle: "Found in Mineshafts"
 	quest.3BC3FE0A42564D1D.title: "Chocolate do Create"
@@ -690,7 +709,6 @@
 	]
 	quest.453F0E5926BA4AB1.quest_desc: ["{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7739373308A83503\" } }"]
 	quest.453F0E5926BA4AB1.quest_subtitle: "This can be found in blue skies dimension"
-	quest.45BE2DE3977F53E9.quest_subtitle: "Not repeatable"
 	quest.465CE0F51624F8EA.quest_desc: [
 		"This pack comes with a lot of keybinds built in. Here are some of key ones:"
 		""
@@ -738,6 +756,7 @@
 	quest.4919AEB1300D63B7.quest_subtitle: "From previous chapter"
 	quest.496C8280CF77787E.quest_subtitle: "Use coarse dirt to make mud."
 	quest.4A1D33BF381320FD.quest_subtitle: "Affinity Rings are randomly generated as loot, and will boost the level of a select spell by one. This effect can stack. Spell can be set in the Arcane Anvil using a scroll."
+	quest.4A23A110747B9775.quest_subtitle: "Not repeatable"
 	quest.4A5C011878F7BB63.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
 	quest.4A905C23B855B8C3.quest_desc: [
 		"There’s one last type of spell the &3Eldritch Spells&r but their knowledge has long been forgotten."
@@ -757,6 +776,7 @@
 		""
 		"The second function of a memory card is to link &eP2P tunnels&f together. When doing so, the P2P tunnel being linked will be assigned a unique ID, which is stored on the memory card for further linking."
 	]
+	quest.4B558B16C458E141.quest_subtitle: "Not repeatable"
 	quest.4B630597BCFA97AC.quest_desc: [
 		"The &5ender dragon&r is a giant flying hostile boss mob found when first entering &5the End&r. It is the largest naturally spawning mob in the game. "
 		""
@@ -778,6 +798,7 @@
 		"This can automate machines to craft resources when they fall below a specified amount."
 	]
 	quest.4CABBBFC66009A4D.quest_subtitle: " Bought from the market using boss tokens"
+	quest.4CB49F7B92D1E840.title: "&6Tame all the Familiars"
 	quest.4CCA16E6E4070E37.quest_desc: [
 		"This items can be found in &ldungeons chests on the moon&r."
 		""
@@ -788,6 +809,7 @@
 	quest.4CCAD1EBB977DF2E.quest_subtitle: "Press CTRL while airborne to perform a short and slow glide"
 	quest.4D308AD544372410.quest_subtitle: "When used for Upgrade: &6+5% Lightning Spell Power"
 	quest.4D38017F83D30E13.quest_subtitle: "Damages attackers similar to the Thorns enchantment"
+	quest.4D82E252D1E6B5B6.quest_subtitle: "Not repeatable"
 	quest.4DF64525E5F3E1FC.quest_subtitle: "&4☠ Tier 3"
 	quest.4DF64525E5F3E1FC.title: "Pass the Gatekeeper's Trial"
 	quest.4EA88BEBCCF09C54.quest_desc: ["The &bFuzzy Card&f allows a filtered item to be matched regardless of any (NBT) metadata such as damage or enchantments, while the &bInverter Card&f toggles the filter on such buses from being a whitelist to being a blacklist."]
@@ -810,6 +832,7 @@
 	quest.50B4EEBAF5CF3122.quest_desc: ["This eye is believed to have given our ancestors the knowledge of Redstone"]
 	quest.50B4EEBAF5CF3122.quest_subtitle: "Found in Jungle Pyramids"
 	quest.50CDAAB5AECA6B27.quest_subtitle: "opcional"
+	quest.50E7A4D14F2C485A.quest_subtitle: "Not repeatable"
 	quest.51A4E097156A6DC1.quest_subtitle: "The wearer slightly heals from attacks"
 	quest.51E18D8B67394EC2.quest_desc: ["Hold the relic in your hand and step on a &6Sculk Sensor.&r"]
 	quest.5236164BE64893D2.quest_desc: [
@@ -868,7 +891,9 @@
 		""
 		"Changing the Polarization option in the&6 Optical Source&r, will affect how the Light Ray splits with the Polarizing Beam Splitter so I encourage you to play around with it."
 	]
+	quest.54A602CE0328A07F.quest_subtitle: "Not repeatable"
 	quest.5590204A473913AC.quest_subtitle: "Automatically smelts mined ores"
+	quest.561A753B404A8C0A.quest_subtitle: "Not repeatable"
 	quest.56487ACFC2360FE0.title: "&6Paladin Outfit"
 	quest.5690FCED46349207.quest_desc: [
 		"Please visit &6magic chapter Ars Nouveau&r to learn how to use &cEnchanting Apparatus&r"
@@ -918,6 +943,7 @@
 	quest.59B3E2C267D8B567.quest_desc: ["Warm that new dragon egg by the fire."]
 	quest.59B3E2C267D8B567.quest_subtitle: "Hold the Dragon Egg"
 	quest.59B3E2C267D8B567.title: "Obtain a Dragon Egg"
+	quest.59BCE0313DEEC492.quest_subtitle: "Not repeatable"
 	quest.59EB1027C6C9B043.quest_subtitle: "☠ Tier 1"
 	quest.59F5E3351D772A63.quest_subtitle: "&6+10% Eldritch Spell Power&r, Passive Ability (5s cooldown):Deal extra damage to creatures based on their maximum mana"
 	quest.5A27BA1E5C692EB1.quest_desc: [
@@ -1085,11 +1111,13 @@
 	quest.66630803C9EA0DEA.quest_subtitle: "Harness the power of &6holy&r. Increased &6holy spell power&r or &6armor&r."
 	quest.66630803C9EA0DEA.title: "&6&lSchool of Holy"
 	quest.66A8B9C4C4AC291A.quest_subtitle: "Strikes attackers with lightning. Grants immunity to lightning strikes."
+	quest.66EA4FE46D64E00B.quest_subtitle: "Not repeatable"
 	quest.671D0A62B7171DBB.quest_subtitle: "&6Long Casts become uninterruptible"
 	quest.6767C398AD003D14.quest_subtitle: "Not repeatable"
 	quest.681E258AB577FF73.quest_subtitle: " Increases Lure and Luck of the Sea by 1 level"
 	quest.6831FF0CBA2E0FD2.quest_subtitle: "Not repeatable"
 	quest.6907C5959F72930E.quest_subtitle: "+5% mana regen. Found in Catacombs."
+	quest.692451647E98D133.quest_subtitle: "Not repeatable"
 	quest.692D79D601534A2E.quest_desc: [
 		"{image:kubejs:textures/familiars/summoner.png width:100 height:105 align:center}"
 		"&l&6Battle:&r&r specialized in eldrith magic and unknown arts, being able to summon creatures born in the shadows."
@@ -1110,8 +1138,11 @@
 	quest.6AD87BACD480D27B.quest_desc: ["Check the Renewable Ores chapter to see a renewable way to have Crushed Raw Iron."]
 	quest.6AFEDCF1CF22972F.quest_desc: ["Use your newly aquired arcane dust to make yourself some Magicians armor using it and iron armor at a smithing table."]
 	quest.6AFEDCF1CF22972F.quest_subtitle: "An early game source of &3additional mana"
+	quest.6B183EED87689D0E.quest_subtitle: "Help please"
 	quest.6B7CFD3808AB7DB1.title: "&cAdvanced Pyromancer Outfit"
+	quest.6BA1A3DFE41ACB6A.quest_subtitle: "Not repeatable"
 	quest.6BAC0A0F663D5B1F.quest_subtitle: "&d☠ Tier 5"
+	quest.6BFD66913FB72821.quest_subtitle: "Not repeatable"
 	quest.6C71E2ABAA99C005.title: "&6Collect All the Simply Swords"
 	quest.6C7C101DFE4E67F3.quest_subtitle: "+5% mana regen, constantly heals tamed familiars at the cost of your own mana, found in Priest Towers."
 	quest.6C90039BB1651603.quest_subtitle: "When used for Upgrade: &6+5% Holy Spell Power"
@@ -1208,6 +1239,7 @@
 	quest.731C3214BB61FDAE.quest_desc: ["Found underground in the &aOverworld&r."]
 	quest.7362AE3D474FF6E1.quest_subtitle: "Drastically increases the wearer's sprint speed and allows for auto-step"
 	quest.7363495F41F0AE8E.quest_subtitle: "&5☠ Tier 2"
+	quest.7367C1FC6696E4B1.quest_subtitle: "Not repeatable"
 	quest.738C5CDEA3283099.quest_desc: ["The &bEnergy Card&r can be applied to most chargeable devices like Portable Cells and Wireless Terminals to increase their energy buffer."]
 	quest.73BD8A69D47D4C98.quest_subtitle: "A new school of &asound"
 	quest.73BD8A69D47D4C98.title: "&a&lSchool of Sound"
@@ -1268,6 +1300,7 @@
 	quest.793C4FD3470AC117.quest_subtitle: "Better Elytra!"
 	quest.7940D8A4ECBD6541.quest_subtitle: "Increases the wearer's attack speed"
 	quest.79604D7C48A2B350.quest_subtitle: "right click into a bard familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, obtained from the Mysterious Orb."
+	quest.797410E5DF1F96E5.quest_subtitle: "Not repeatable"
 	quest.79A7417475A593C6.quest_desc: [
 		"Most of an ME network uses its own dedicated power system called AE. "
 		""
@@ -1300,6 +1333,7 @@
 	]
 	quest.7B09AFE245BA7808.quest_subtitle: "Tame one Arcmage Familiar"
 	quest.7B09AFE245BA7808.title: "Archmage Familiar"
+	quest.7B42482FC8EEA8F8.quest_subtitle: "Not repeatable"
 	quest.7C185DB8566F7E33.quest_desc: [
 		"After the Dragon is defeated, a &dDragon Egg&r appears on the Exit Portal. You can't mine it like normal blocks."
 		""
@@ -1342,6 +1376,8 @@
 		"3 Gem Slots"
 		"1 Unique Ability"
 	]
+	quest.7CC7FD9C32B77B35.quest_subtitle: "Not repeatable"
+	quest.7DFCA72EC274F3D9.quest_subtitle: "Not repeatable"
 	quest.7EF4A265C25EFF12.quest_subtitle: "When used for Upgrade: &6+5% Ice Spell Power"
 	quest.7F1AB8E8DA7BFD77.quest_subtitle: "Adds a looting effect to killed mobs"
 	reward_table.173F5B7A61A12D48.title: "teste"

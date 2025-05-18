@@ -4,10 +4,7 @@
 	filename: "order_of_engineers"
 	group: ""
 	icon: {
-		components: {
-			"ftbquests:missing_item": "kubejs:token_advanced"
-		}
-		id: "ftbquests:missing_item"
+		id: "kubejs:token_advanced"
 	}
 	id: "00BD5759F8E2525F"
 	images: [
@@ -16,7 +13,7 @@
 			image: "connectedglass:borderless_glass/borderless_glass_orange_edge"
 			rotation: 90.0d
 			width: 1.0d
-			x: -2.0d
+			x: -3.0d
 			y: 1.0d
 		}
 		{
@@ -24,8 +21,32 @@
 			image: "connectedglass:borderless_glass/borderless_glass_orange_edge"
 			rotation: 90.0d
 			width: 1.0d
-			x: -2.0d
+			x: -3.0d
 			y: 6.0d
+		}
+		{
+			height: 1.0d
+			image: "kubejs:item/token_basic"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "kubejs:item/token_medium"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			height: 1.0d
+			image: "kubejs:item/token_advanced"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: 8.5d
 		}
 	]
 	order_index: 2
@@ -35,13 +56,10 @@
 			can_repeat: false
 			id: "6831FF0CBA2E0FD2"
 			rewards: [{
-				id: "179C75E114868346"
+				id: "6570B37E3CE6AD14"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_basic"
 				}
 				type: "item"
 			}]
@@ -68,27 +86,25 @@
 				"266448538B44953C"
 				"1C051DC0D07AF588"
 				"7CC7FD9C32B77B35"
-				"15F6FE3D9D8F8EFD"
 				"6BFD66913FB72821"
 				"4B558B16C458E141"
 				"4A23A110747B9775"
 				"1FC9B5F673D2BDD3"
 				"31A4BB6E2C1C1FA9"
+				"54A602CE0328A07F"
 			]
+			hide_dependency_lines: true
 			id: "45BE2DE3977F53E9"
 			rewards: [{
-				auto: "enabled"
-				id: "58417EB0FC5D7DAB"
+				id: "31108CFA80B1F51D"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_medium"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
 			shape: "rsquare"
+			size: 1.5d
 			tasks: [{
 				consume_items: true
 				count: 256L
@@ -103,13 +119,10 @@
 			can_repeat: false
 			id: "569EEAB237D75495"
 			rewards: [{
-				id: "5A0A29E4480A3A65"
+				id: "7AE827F8599A298E"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_advanced"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -128,13 +141,10 @@
 			can_repeat: false
 			id: "2497E4DD60E74225"
 			rewards: [{
-				id: "7F70469E29C14B11"
+				id: "4C540300DA0B83A5"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_basic"
 				}
 				type: "item"
 			}]
@@ -153,13 +163,10 @@
 			can_repeat: false
 			id: "78CCC3928AD94E59"
 			rewards: [{
-				id: "395801492AAFC62E"
+				id: "4271D08120AC84BF"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_basic"
 				}
 				type: "item"
 			}]
@@ -178,13 +185,10 @@
 			can_repeat: false
 			id: "080114C9009671CE"
 			rewards: [{
-				id: "55ECF6C1EE51AD07"
+				id: "2DB44C7872A7E20C"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_basic"
 				}
 				type: "item"
 			}]
@@ -203,13 +207,10 @@
 			can_repeat: false
 			id: "3A00CAE9E315BFE7"
 			rewards: [{
-				id: "5A20558FE4FE626F"
+				id: "60D2F55532FB2997"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_basic"
 				}
 				type: "item"
 			}]
@@ -228,13 +229,10 @@
 			can_repeat: false
 			id: "7B42482FC8EEA8F8"
 			rewards: [{
-				id: "6A1E5DE49E06C812"
+				id: "5056080FB9649D34"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_basic"
 				}
 				type: "item"
 			}]
@@ -253,13 +251,10 @@
 			can_repeat: false
 			id: "0AB78F7C8EC68C08"
 			rewards: [{
-				id: "28323E0D3CB221FE"
+				id: "75CB498E7E5B854B"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_basic"
 				}
 				type: "item"
 			}]
@@ -293,22 +288,19 @@
 				"2136A142781BBE2B"
 				"797410E5DF1F96E5"
 			]
+			hide_dependency_lines: true
 			id: "2C0A86D7F9D1A0D8"
 			rewards: [{
 				auto: "enabled"
-				count: 5
-				id: "24AE81562045FD53"
+				id: "47B030563047626A"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_basic"
 				}
 				type: "item"
 			}]
 			shape: "rsquare"
-			size: 1.0d
+			size: 1.5d
 			tasks: [{
 				consume_items: true
 				count: 256L
@@ -323,13 +315,10 @@
 			can_repeat: false
 			id: "6767C398AD003D14"
 			rewards: [{
-				id: "027F2FBE3A9DA669"
+				id: "0842C29D1C27445F"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_basic"
 				}
 				type: "item"
 			}]
@@ -348,13 +337,10 @@
 			can_repeat: false
 			id: "6BFD66913FB72821"
 			rewards: [{
-				id: "368C61FEB8C0945A"
+				id: "1CED29FB4CE0B633"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -371,40 +357,12 @@
 		}
 		{
 			can_repeat: false
-			id: "643C5300349FEAD3"
-			rewards: [{
-				id: "60656F98C4D2607B"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
-			shape: "rsquare"
-			tasks: [{
-				consume_items: true
-				count: 256L
-				id: "6BB55047F9E6AA3B"
-				item: { count: 1, id: "farmersdelight:barbecue_stick" }
-				type: "item"
-			}]
-			x: -11.0d
-			y: -2.5d
-		}
-		{
-			can_repeat: false
 			id: "59BCE0313DEEC492"
 			rewards: [{
-				id: "0E6BBC1875686243"
+				id: "06E2351F7A6724DF"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_basic"
 				}
 				type: "item"
 			}]
@@ -421,65 +379,12 @@
 		}
 		{
 			can_repeat: false
-			id: "014F61321354C298"
-			rewards: [{
-				id: "21F8AED4E528DE0A"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
-			shape: "rsquare"
-			tasks: [{
-				consume_items: true
-				count: 256L
-				id: "10EA7961FE698E51"
-				item: { count: 1, id: "farmersdelight:salmon_roll" }
-				type: "item"
-			}]
-			x: -10.5d
-			y: -4.0d
-		}
-		{
-			can_repeat: false
-			id: "1846FF9F624A9148"
-			rewards: [{
-				id: "17BE279E31FE1F45"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
-			shape: "rsquare"
-			tasks: [{
-				consume_items: true
-				count: 256L
-				id: "364246347E89B021"
-				item: { count: 1, id: "farmersdelight:cod_roll" }
-				type: "item"
-			}]
-			x: -12.5d
-			y: -2.5d
-		}
-		{
-			can_repeat: false
 			id: "2136A142781BBE2B"
 			rewards: [{
-				id: "7D08A202A927B185"
+				id: "5E149BA435DBDF67"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_basic"
 				}
 				type: "item"
 			}]
@@ -498,13 +403,10 @@
 			can_repeat: false
 			id: "3B9ECAF48D8F47A1"
 			rewards: [{
-				id: "777451F1579422D1"
+				id: "0634D56FCAD4BCC9"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -523,13 +425,10 @@
 			can_repeat: false
 			id: "0FFFB592D103B2BF"
 			rewards: [{
-				id: "152EBE1592BBC9BF"
+				id: "2ABC258B2DC1A5E8"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_basic"
 				}
 				type: "item"
 			}]
@@ -546,40 +445,12 @@
 		}
 		{
 			can_repeat: false
-			id: "750B5209C7EBC44D"
-			rewards: [{
-				id: "528A5C0C872190EA"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
-			shape: "rsquare"
-			tasks: [{
-				consume_items: true
-				count: 256L
-				id: "44175C69EDF178C3"
-				item: { count: 1, id: "farmersdelight:steak_and_potatoes" }
-				type: "item"
-			}]
-			x: -13.5d
-			y: -0.5d
-		}
-		{
-			can_repeat: false
 			id: "4A23A110747B9775"
 			rewards: [{
-				id: "2A830FA2E530E37E"
+				id: "0A3734091A110FE6"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -598,13 +469,10 @@
 			can_repeat: false
 			id: "54A602CE0328A07F"
 			rewards: [{
-				id: "7DE5DA4654143574"
+				id: "0BAF4E5ACF7140DB"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -616,45 +484,17 @@
 				item: { count: 1, id: "farmersdelight:roasted_mutton_chops" }
 				type: "item"
 			}]
-			x: -12.5d
-			y: -0.5d
-		}
-		{
-			can_repeat: false
-			id: "61F3DAB3A2BD35B6"
-			rewards: [{
-				id: "2999913A20D09013"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
-			shape: "rsquare"
-			tasks: [{
-				consume_items: true
-				count: 256L
-				id: "7DD503BCE5A1E6FC"
-				item: { count: 1, id: "farmersdelight:grilled_salmon" }
-				type: "item"
-			}]
-			x: -14.5d
-			y: -0.5d
+			x: -4.5d
+			y: 3.5d
 		}
 		{
 			can_repeat: false
 			id: "36081971EC8925F2"
 			rewards: [{
-				id: "6EFF724674760B7F"
+				id: "318F441BD086755C"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -670,82 +510,15 @@
 			y: 2.0d
 		}
 		{
-			can_repeat: false
-			id: "0380B5A5A39AA95A"
-			rewards: [{
-				id: "65C157518FC214D8"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
-			shape: "rsquare"
-			tasks: [{
-				consume_items: true
-				count: 256L
-				id: "76C550AFCA14B499"
-				item: { count: 1, id: "farmersdelight:bacon_and_eggs" }
-				type: "item"
-			}]
-			x: -11.5d
-			y: -0.5d
-		}
-		{
-			can_repeat: false
-			id: "7E6A7C0CB37A4120"
-			rewards: [{
-				id: "1D69F0071D520AC4"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
-			shape: "rsquare"
-			tasks: [{
-				consume_items: true
-				count: 256L
-				id: "1FB944D9A4721997"
-				item: { count: 1, id: "farmersdelight:hamburger" }
-				type: "item"
-			}]
-			x: -11.5d
-			y: 1.5d
-		}
-		{
-			can_repeat: false
-			id: "431B64F86C738BC8"
-			rewards: [{
-				id: "5A044FCD0711A763"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
-			shape: "rsquare"
-			tasks: [{
-				consume_items: true
-				count: 256L
-				id: "74E9EDA9EE4094C2"
-				item: { count: 1, id: "farmersdelight:barbecue_stick" }
-				type: "item"
-			}]
-			x: -12.5d
-			y: 1.5d
-		}
-		{
 			id: "66EA4FE46D64E00B"
+			rewards: [{
+				id: "7F52C41847400F51"
+				item: {
+					count: 1
+					id: "kubejs:token_basic"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				consume_items: true
@@ -761,13 +534,10 @@
 			can_repeat: false
 			id: "266448538B44953C"
 			rewards: [{
-				id: "78345A28D514DDA0"
+				id: "3074B00CA29EA012"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -786,13 +556,10 @@
 			can_repeat: false
 			id: "043C8846B7402FB3"
 			rewards: [{
-				id: "7F9B803F35A168DE"
+				id: "0080DD7A3E6B7A83"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_basic"
 				}
 				type: "item"
 			}]
@@ -811,13 +578,10 @@
 			can_repeat: false
 			id: "0D0A907FD6B9A21F"
 			rewards: [{
-				id: "12E175A74E54A1AC"
+				id: "09B71D56B3B5762A"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_basic"
 				}
 				type: "item"
 			}]
@@ -836,13 +600,10 @@
 			can_repeat: false
 			id: "797410E5DF1F96E5"
 			rewards: [{
-				id: "13545C31935987FF"
+				id: "73AB5C5C98F52D7F"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_basic"
 				}
 				type: "item"
 			}]
@@ -861,13 +622,10 @@
 			can_repeat: false
 			id: "4B558B16C458E141"
 			rewards: [{
-				id: "6DCB822008D9009B"
+				id: "640976B5E667EFB8"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -886,13 +644,10 @@
 			can_repeat: false
 			id: "27A2D421D6C98CC6"
 			rewards: [{
-				id: "5C723CA2BAB065ED"
+				id: "3A2D84BE8C918E58"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -911,13 +666,10 @@
 			can_repeat: false
 			id: "1C051DC0D07AF588"
 			rewards: [{
-				id: "0D20C0EF162A3294"
+				id: "6A04BAC360ABE6EE"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -936,13 +688,10 @@
 			can_repeat: false
 			id: "2D7A94A67C6BC008"
 			rewards: [{
-				id: "17079EC659908A2C"
+				id: "086F5F5EBA5D0A75"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -961,13 +710,10 @@
 			can_repeat: false
 			id: "0E5216DF2717D1DC"
 			rewards: [{
-				id: "4601977C423DD660"
+				id: "38E3CAC77C726ADC"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -986,13 +732,10 @@
 			can_repeat: false
 			id: "1DB59AA0F0D77623"
 			rewards: [{
-				id: "5ACF45A467128C6B"
+				id: "3F4C04986B21B3CA"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -1012,13 +755,10 @@
 			can_repeat: false
 			id: "7CC7FD9C32B77B35"
 			rewards: [{
-				id: "58A51034DB798A8F"
+				id: "14D9E93A99C62E90"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -1037,13 +777,10 @@
 			can_repeat: false
 			id: "30D5BC1EFA23D92E"
 			rewards: [{
-				id: "2E0B41CAAF453225"
+				id: "0F2D3C1FF9C7D0EE"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -1062,13 +799,10 @@
 			can_repeat: false
 			id: "31A4BB6E2C1C1FA9"
 			rewards: [{
-				id: "2800302D7F478FBE"
+				id: "757619ADA6773366"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -1085,40 +819,12 @@
 		}
 		{
 			can_repeat: false
-			id: "67A9397CEC7E694A"
-			rewards: [{
-				id: "3A700AB2B10DF698"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
-			shape: "rsquare"
-			tasks: [{
-				consume_items: true
-				count: 256L
-				id: "22C52F70C6782399"
-				item: { count: 1, id: "create:pulp" }
-				type: "item"
-			}]
-			x: -11.5d
-			y: 4.5d
-		}
-		{
-			can_repeat: false
 			id: "15F6FE3D9D8F8EFD"
 			rewards: [{
-				id: "73B60927794F7A50"
+				id: "47BE34837D137F61"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -1130,20 +836,17 @@
 				item: { count: 1, id: "garnished:dusty_regale" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: 3.5d
+			x: -6.0d
+			y: 10.0d
 		}
 		{
 			can_repeat: false
 			id: "1FC9B5F673D2BDD3"
 			rewards: [{
-				id: "43EF2F5C1A460D7C"
+				id: "4B815133574BE21D"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_basic"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -1172,25 +875,24 @@
 				"569EEAB237D75495"
 				"3481C6DF7EF96590"
 				"7367C1FC6696E4B1"
-				"30EFB4E8EF9C2C46"
 				"2D7A94A67C6BC008"
 				"223E243BADB0CFAA"
 				"7DFCA72EC274F3D9"
+				"15F6FE3D9D8F8EFD"
 			]
+			hide_dependency_lines: true
 			id: "6B95EF7446936BCD"
 			rewards: [{
 				auto: "enabled"
-				id: "31B3EF9926F13DC3"
+				id: "2FB2F8E4632963B0"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_medium"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
 			shape: "rsquare"
+			size: 1.5d
 			tasks: [{
 				consume_items: true
 				count: 256L
@@ -1205,13 +907,10 @@
 			can_repeat: false
 			id: "3481C6DF7EF96590"
 			rewards: [{
-				id: "46213FC767F6C4DB"
+				id: "7AC90F600720F5B9"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_advanced"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -1230,13 +929,10 @@
 			can_repeat: false
 			id: "6BA1A3DFE41ACB6A"
 			rewards: [{
-				id: "08CE63225B2092F8"
+				id: "47EBAE3D0D25EC0E"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_advanced"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -1255,13 +951,10 @@
 			can_repeat: false
 			id: "2D430D14A2F6C60A"
 			rewards: [{
-				id: "323A7558982B3D70"
+				id: "6DC69EAAD4FF51DC"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_advanced"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -1280,13 +973,10 @@
 			can_repeat: false
 			id: "561A753B404A8C0A"
 			rewards: [{
-				id: "44472E6078896E54"
+				id: "7F5751F13AA01D47"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_advanced"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -1305,13 +995,10 @@
 			can_repeat: false
 			id: "50E7A4D14F2C485A"
 			rewards: [{
-				id: "7CCE36DD4E6AA909"
+				id: "0521BD0B7C0C08FE"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_advanced"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -1330,13 +1017,10 @@
 			can_repeat: false
 			id: "7367C1FC6696E4B1"
 			rewards: [{
-				id: "76881F98D12CDB25"
+				id: "60D848567A92542C"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_advanced"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -1355,13 +1039,10 @@
 			can_repeat: false
 			id: "692451647E98D133"
 			rewards: [{
-				id: "06D5CD558AB24AE8"
+				id: "3070219B8BF680B8"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_advanced"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -1380,13 +1061,10 @@
 			can_repeat: false
 			id: "223E243BADB0CFAA"
 			rewards: [{
-				id: "01F98C09EDC686DE"
+				id: "578C8297C9E5A500"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_advanced"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -1405,13 +1083,10 @@
 			can_repeat: false
 			id: "4D82E252D1E6B5B6"
 			rewards: [{
-				id: "77CE4C620F9854A7"
+				id: "1DE2F2B8BABD7256"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_advanced"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -1428,40 +1103,12 @@
 		}
 		{
 			can_repeat: false
-			id: "30EFB4E8EF9C2C46"
-			rewards: [{
-				id: "6C6C3AAB6037470A"
-				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_advanced"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
-			shape: "rsquare"
-			tasks: [{
-				consume_items: true
-				count: 256L
-				id: "0F06F031F332333A"
-				item: { count: 1, id: "garnished:murky_macadamia_malice" }
-				type: "item"
-			}]
-			x: -6.0d
-			y: 10.0d
-		}
-		{
-			can_repeat: false
 			id: "05D652475C442E78"
 			rewards: [{
-				id: "234B4694E50C1C3B"
+				id: "7FFD2074D1A7CF52"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_advanced"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -1480,13 +1127,10 @@
 			can_repeat: false
 			id: "7DFCA72EC274F3D9"
 			rewards: [{
-				id: "630F35AC0968DDF8"
+				id: "29D3BD1FF18B45E8"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_advanced"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
@@ -1505,13 +1149,10 @@
 			can_repeat: false
 			id: "2F622A7B13D36360"
 			rewards: [{
-				id: "64545A67978A4401"
+				id: "2A4EF10612E71184"
 				item: {
-					components: {
-						"ftbquests:missing_item": "kubejs:token_advanced"
-					}
 					count: 1
-					id: "ftbquests:missing_item"
+					id: "kubejs:token_advanced"
 				}
 				type: "item"
 			}]
