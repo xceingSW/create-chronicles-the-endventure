@@ -185,6 +185,13 @@
 	quest.10CDACBCA03AEDF7.quest_subtitle: "Attracts dropped items to the wearer"
 	quest.111C5C1353823847.quest_subtitle: "Can be found in market"
 	quest.112F3359CF96132C.quest_subtitle: "Better Elytra!"
+	quest.115E1EFAC600C1EA.quest_desc: [
+		"&6Task Screens&r allow you to automate the submission of items for a quest instead of doing it manually."
+		""
+		"Once you unlock the repeatable task, you can use a &6Task Screen&r to automate it as well. "
+		""
+		"This is especially useful because this quest is set to auto-claim by default—meaning that once completed, the reward items will go directly into your inventory."
+	]
 	quest.12506A200E56E7E9.quest_desc: [
 		"&e&nBlood Vial&r&r"
 		"Place a lit campfire beneath a cauldron, and put a mob in the cauldron to cook the mob. This will fill the cauldron with blood, which can be withdrawn with glass bottles to obtain vials of blood."
@@ -1065,8 +1072,12 @@
 		""
 		"The Order recognizes &nthree ranks&r: Apprentice, Operator, and Master Engineer. "
 		""
-		"You begin at &8Apprentice&r, with 15 tasks ahead of you. Each completed task grants a seal of the representing rank, and completing all 15 will elevate you to the next rank. After advancement, you can repeat tasks from previous tiers to earn additional seals."
+		"You begin at &cApprentice&r, with 15 tasks ahead of you. Each completed task grants a seal of the representing rank and completing all 15 tasks, &2unlocks a repeatable task, allowing you to earn an infinite amount of seals.&r"
+		""
+		"These seals can be used at the &amarket&r for &nunique rewards.&r"
 	]
+	quest.5F65870D9A816C6E.quest_subtitle: "Complete tasks, earn seals, and climb the ranks of the Engineers"
+	quest.5F65870D9A816C6E.title: "&6Initiation into the Order&r"
 	quest.5F7FBCB758D54981.quest_subtitle: "Grants &6freezing immunity."
 	quest.5F8B17F4A8CF47C7.quest_desc: ["{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"52BB4427D9F5163D\" } }"]
 	quest.5F9DC6A4D253217D.quest_desc: ["Keep the relic in your inventory and get inflicted with &6Darkness.&r Wait briefly for the transformation."]
@@ -1414,7 +1425,7 @@
 	task.432F4520E99A0F94.title: "Kill The Ender Dragon"
 	task.451EC360A3F38231.title: "Craft a &cRover"
 	task.4556BCEDA60FD43A.title: "Crafting Co-Processor"
-	task.499D737E23F4843B.title: "sd"
+	task.499D737E23F4843B.title: "&6Ascend"
 	task.4F8C0625674B4C26.title: "Quartz Wrench"
 	task.509D5321A4F9841D.title: "&6I'm Ready"
 	task.51AA3BC3AFF2FEDA.title: "Click to Acknowledge"

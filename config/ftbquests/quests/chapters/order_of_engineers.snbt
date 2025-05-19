@@ -29,11 +29,11 @@
 			y: 6.0d
 		}
 		{
-			height: 4.9d
+			height: 3.91d
 			image: "kubejs:item/orderengineers"
 			rotation: 0.0d
 			width: 7.0d
-			x: -4.5d
+			x: -4.3d
 			y: -7.0d
 		}
 		{
@@ -1204,20 +1204,21 @@
 		{
 			dependencies: ["5F65870D9A816C6E"]
 			id: "115E1EFAC600C1EA"
+			rewards: [{
+				id: "5D2BFCD1C3548272"
+				item: {
+					count: 1
+					id: "ftbquests:task_screen_configurator"
+				}
+				type: "item"
+			}]
 			shape: "gear"
 			size: 1.2d
-			tasks: [
-				{
-					id: "20873B3ED88B3D44"
-					item: { count: 1, id: "ftbquests:screen_1" }
-					type: "item"
-				}
-				{
-					id: "7AB1A80D404672DC"
-					item: { count: 1, id: "ftbquests:task_screen_configurator" }
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "20873B3ED88B3D44"
+				item: { count: 1, id: "ftbquests:screen_1" }
+				type: "item"
+			}]
 			x: -3.5d
 			y: -4.5d
 		}
