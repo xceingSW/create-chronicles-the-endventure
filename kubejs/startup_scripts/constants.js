@@ -79,7 +79,7 @@ global.REMOVE_ITEMS = [
   'gamediscs:battery', 
   'gamediscs:display', 
   'gamediscs:control_pad', 
-
+  'irons_spellbooks:wayward_compass',
   'magic_coins:prosperity_amulet',
   'cosmeticarmoursmod:cosmeticarmours_book' 
 ]

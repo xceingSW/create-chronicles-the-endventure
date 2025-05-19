@@ -6,10 +6,10 @@
     "ingredient": {
       "item": "kubejs:token_basic"
     },
-    "count": 2
+    "count": 3
   },
   "result": {
     "count": 1,
-    "item": "farmingforblockheads:feeding_trough"
+    "item": "apothic_enchanting:filtering_shelf"
   }
 }
