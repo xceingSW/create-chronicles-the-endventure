@@ -9,44 +9,56 @@
 	id: "00BD5759F8E2525F"
 	images: [
 		{
+			alpha: 120
+			color: 1446925
 			height: 14.0d
 			image: "connectedglass:borderless_glass/borderless_glass_orange_edge"
 			rotation: 90.0d
 			width: 1.0d
-			x: -3.0d
+			x: -2.0d
 			y: 1.0d
 		}
 		{
+			alpha: 120
+			color: 1446925
 			height: 14.0d
 			image: "connectedglass:borderless_glass/borderless_glass_orange_edge"
 			rotation: 90.0d
 			width: 1.0d
-			x: -3.0d
+			x: -2.0d
 			y: 6.0d
 		}
 		{
-			height: 1.0d
-			image: "kubejs:item/token_basic"
+			height: 4.9d
+			image: "kubejs:item/orderengineers"
 			rotation: 0.0d
-			width: 1.0d
-			x: 2.0d
-			y: -1.5d
+			width: 7.0d
+			x: -4.5d
+			y: -7.0d
 		}
 		{
-			height: 1.0d
-			image: "kubejs:item/token_medium"
+			height: 1.57d
+			image: "kubejs:item/tier1"
 			rotation: 0.0d
-			width: 1.0d
-			x: 2.0d
-			y: 3.5d
+			width: 4.0d
+			x: 1.8d
+			y: -2.3d
 		}
 		{
-			height: 1.0d
-			image: "kubejs:item/token_advanced"
+			height: 1.57d
+			image: "kubejs:item/tier2"
 			rotation: 0.0d
-			width: 1.0d
-			x: 2.0d
-			y: 8.5d
+			width: 3.76d
+			x: 1.7d
+			y: 3.0d
+		}
+		{
+			height: 1.47d
+			image: "kubejs:item/tier3"
+			rotation: 0.0d
+			width: 5.64d
+			x: 2.5d
+			y: 7.5d
 		}
 	]
 	order_index: 2
@@ -112,8 +124,8 @@
 				item: { count: 1, id: "createmechanisms:heat_mechanism" }
 				type: "item"
 			}]
-			x: 0.5d
-			y: 3.5d
+			x: 0.75d
+			y: 4.5d
 		}
 		{
 			can_repeat: false
@@ -308,8 +320,8 @@
 				item: { count: 1, id: "createmechanisms:wooden_mechanism" }
 				type: "item"
 			}]
-			x: 0.5d
-			y: -1.5d
+			x: 0.75d
+			y: -0.75d
 		}
 		{
 			can_repeat: false
@@ -903,8 +915,8 @@
 				item: { count: 1, id: "createmechanisms:advanced_precision_mechanism" }
 				type: "item"
 			}]
-			x: 0.5d
-			y: 8.5d
+			x: 0.75d
+			y: 9.0d
 		}
 		{
 			can_repeat: false
@@ -1169,6 +1181,45 @@
 			}]
 			x: -1.5d
 			y: 10.0d
+		}
+		{
+			id: "5F65870D9A816C6E"
+			rewards: [{
+				id: "50A6020078B7A78F"
+				item: {
+					count: 1
+					id: "create:wrench"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.2d
+			tasks: [{
+				id: "499D737E23F4843B"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["5F65870D9A816C6E"]
+			id: "115E1EFAC600C1EA"
+			shape: "gear"
+			size: 1.2d
+			tasks: [
+				{
+					id: "20873B3ED88B3D44"
+					item: { count: 1, id: "ftbquests:screen_1" }
+					type: "item"
+				}
+				{
+					id: "7AB1A80D404672DC"
+					item: { count: 1, id: "ftbquests:task_screen_configurator" }
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: -4.5d
 		}
 	]
 }

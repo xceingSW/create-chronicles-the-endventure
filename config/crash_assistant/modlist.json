@@ -778,6 +778,10 @@
     "modId": "nbt_ac",
     "version": "1.3.10"
   },
+  "Neruina-2.2.11-neoforge+1.21.jar": {
+    "modId": "neruina",
+    "version": "2.2.11"
+  },
   "netherportalfix-neoforge-1.21.1-21.1.1.jar": {
     "modId": "netherportalfix",
     "version": "21.1.1"

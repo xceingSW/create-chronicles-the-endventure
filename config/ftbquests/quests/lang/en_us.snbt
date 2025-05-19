@@ -711,6 +711,7 @@
 	]
 	quest.453F0E5926BA4AB1.quest_desc: ["{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7739373308A83503\" } }"]
 	quest.453F0E5926BA4AB1.quest_subtitle: "This can be found in blue skies dimension"
+	quest.45BE2DE3977F53E9.quest_subtitle: "You can repeat as many times you want!"
 	quest.465CE0F51624F8EA.quest_desc: [
 		"This pack comes with a lot of keybinds built in. Here are some of key ones:"
 		""
@@ -1051,6 +1052,21 @@
 	quest.5EC30214D9EE2A0C.title: "&2&lSchool of Nature"
 	quest.5EC521DA8FF06758.quest_desc: ["A powerful yet destructive artifact; the Piglins swore to protect it at the cost of their lives"]
 	quest.5EC521DA8FF06758.quest_subtitle: "Found in Bastions treasure chest"
+	quest.5F65870D9A816C6E.quest_desc: [
+		"You have been chosen as a &dNovice Engineer&r, beginning your journey toward mastery of Create. "
+		""
+		"&6The Order of Engineers&r is an ancient society dedicated to the secrets of automation, precision, and innovation. "
+		""
+		"To advance through its ranks, you must demonstrate your dedication, creativity, and resourcefulness by tackling tasks of increasing complexity."
+		""
+		"Your first assignments will be modest—gathering resources, harvesting crops—but each completed task is an essential gear turning within the grand machine of progress. "
+		""
+		"Successfully finishing these initial tasks will open doors to even greater wonders of automation. "
+		""
+		"The Order recognizes &nthree ranks&r: Apprentice, Operator, and Master Engineer. "
+		""
+		"You begin at &8Apprentice&r, with 15 tasks ahead of you. Each completed task grants a seal of the representing rank, and completing all 15 will elevate you to the next rank. After advancement, you can repeat tasks from previous tiers to earn additional seals."
+	]
 	quest.5F7FBCB758D54981.quest_subtitle: "Grants &6freezing immunity."
 	quest.5F8B17F4A8CF47C7.quest_desc: ["{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"52BB4427D9F5163D\" } }"]
 	quest.5F9DC6A4D253217D.quest_desc: ["Keep the relic in your inventory and get inflicted with &6Darkness.&r Wait briefly for the transformation."]
@@ -1142,6 +1158,7 @@
 	quest.6AFEDCF1CF22972F.quest_subtitle: "An early game source of &3additional mana"
 	quest.6B183EED87689D0E.quest_subtitle: "Help please"
 	quest.6B7CFD3808AB7DB1.title: "&cAdvanced Pyromancer Outfit"
+	quest.6B95EF7446936BCD.quest_subtitle: "You can repeat as many times you want!"
 	quest.6BA1A3DFE41ACB6A.quest_subtitle: "Not repeatable"
 	quest.6BAC0A0F663D5B1F.quest_subtitle: "&d☠ Tier 5"
 	quest.6BFD66913FB72821.quest_subtitle: "Not repeatable"
@@ -1397,6 +1414,7 @@
 	task.432F4520E99A0F94.title: "Kill The Ender Dragon"
 	task.451EC360A3F38231.title: "Craft a &cRover"
 	task.4556BCEDA60FD43A.title: "Crafting Co-Processor"
+	task.499D737E23F4843B.title: "sd"
 	task.4F8C0625674B4C26.title: "Quartz Wrench"
 	task.509D5321A4F9841D.title: "&6I'm Ready"
 	task.51AA3BC3AFF2FEDA.title: "Click to Acknowledge"
