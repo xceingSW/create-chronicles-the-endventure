@@ -38,6 +38,7 @@ user-prefs.json
 /spark-modernfix/
 /kiwipacks/
 /cache/
+/journeymap/
 .vscode
 win_event*
 

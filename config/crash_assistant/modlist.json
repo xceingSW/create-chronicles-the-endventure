@@ -91,10 +91,6 @@
     "modId": "attributefix",
     "version": "21.1.2"
   },
-  "aue-1.21-1.2.jar": {
-    "modId": "aue",
-    "version": "1.2"
-  },
   "Auroras-1.21-1.6.2.jar": {
     "modId": "auroras",
     "version": "1.6.2"
@@ -187,10 +183,6 @@
     "modId": "chat_heads",
     "version": "0.13.18"
   },
-  "ChatShot (1.21.x-neoforge)-1.0.4.jar": {
-    "modId": "chatshot",
-    "version": "1.0.4"
-  },
   "cherishedworlds-neoforge-10.1.1+1.21.1.jar": {
     "modId": "cherishedworlds",
     "version": "10.1.1+1.21.1"
@@ -246,10 +238,6 @@
   "configurableextramobdrops-1.21.1-3.6.jar": {
     "modId": "configurableextramobdrops",
     "version": "3.6"
-  },
-  "configured-neoforge-1.21.1-2.6.0.jar": {
-    "modId": "configured",
-    "version": "2.6.0"
   },
   "connectedglass-1.1.13-neoforge-mc1.21.jar": {
     "modId": "connectedglass",
@@ -649,6 +637,14 @@
     "modId": "jinxedlib",
     "version": "1.0.3"
   },
+  "jmi-neoforge-1.21.1-1.9.jar": {
+    "modId": "jmi",
+    "version": "1.21.1-1.9"
+  },
+  "journeymap-neoforge-1.21.1-6.0.0-beta.47.jar": {
+    "modId": "journeymap",
+    "version": "1.21.1-6.0.0-beta.47"
+  },
   "justenoughbreeding-neoforge-1.21-1.21.1-1.6.0.jar": {
     "modId": "justenoughbreeding",
     "version": "1.6.0"
@@ -660,10 +656,6 @@
   "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar": {
     "modId": "jeresources",
     "version": "1.6.0.17"
-  },
-  "keybindspurger-1.21.x-neoforge-1.3.3.jar": {
-    "modId": "keybindspurger",
-    "version": "1.3.3"
   },
   "Kiwi-1.21.1-NeoForge-15.5.2.jar": {
     "modId": "kiwi",
@@ -741,10 +733,6 @@
   "mes-1.3.5-1.21.jar": {
     "modId": "mes",
     "version": "1.3.5-1.21"
-  },
-  "mixintracereforged-neoforge-1.0.0-1.21.1.jar": {
-    "modId": "mixintracereforged",
-    "version": "1.0.0"
   },
   "mns-1.0.8-1.21.jar": {
     "modId": "mns",
@@ -958,10 +946,6 @@
     "modId": "sdrp",
     "version": "87.0.1-build.49+mc1.21"
   },
-  "simplelootviewer-neoforge-1.21.1-21.1.2.jar": {
-    "modId": "simplelootviewer",
-    "version": "21.1.2"
-  },
   "simplyswords-neoforge-1.60.11-1.21.1.jar": {
     "modId": "simplyswords",
     "version": "1.60.11-1.21.1"
@@ -1113,10 +1097,6 @@
   "wits-1.3.0+1.21-neoforge.jar": {
     "modId": "wits",
     "version": "1.3.0+1.21-neoforge"
-  },
-  "Xaeros_Minimap_25.2.6_NeoForge_1.21.jar": {
-    "modId": "xaerominimap",
-    "version": "25.2.6"
   },
   "yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar": {
     "modId": "yet_another_config_lib_v3",
