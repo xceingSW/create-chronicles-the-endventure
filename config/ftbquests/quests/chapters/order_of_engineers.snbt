@@ -1000,7 +1000,7 @@
 				consume_items: true
 				count: 256L
 				id: "181945874A44BEB3"
-				item: { count: 1, id: "minecraft:blaze_rod" }
+				item: { count: 1, id: "minecraft:breeze_rod" }
 				type: "item"
 			}]
 			x: -7.5d

@@ -10,14 +10,6 @@
 	id: "09B56D111668F538"
 	images: [
 		{
-			height: 6.0d
-			image: "kubejs:textures/logo.png"
-			rotation: 0.0d
-			width: 8.0d
-			x: -40.0d
-			y: 18.1d
-		}
-		{
 			color: 14522965
 			height: 1.0d
 			image: "chalk:block/mark/arrow"
@@ -47,7 +39,7 @@
 		{
 			click: "https://discord.gg/yRAmua5keG"
 			height: 1.0d
-			image: "supplementaries:textures/gui/book/icon/discord.png"
+			image: "moonlight:textures/gui/sprites/media/discord.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: -32.1d
@@ -71,6 +63,40 @@
 			x: -18.0d
 			y: 15.0d
 		}
+		{
+			height: 1.0d
+			image: "kubejs:item/iconpack"
+			rotation: 0.0d
+			width: 1.0d
+			x: -26.0d
+			y: 21.5d
+		}
+		{
+			height: 6.27d
+			image: "kubejs:textures/the_endventure.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: -40.0d
+			y: 18.0d
+		}
+		{
+			alpha: 120
+			color: 1446925
+			height: 14.0d
+			image: "connectedglass:borderless_glass/borderless_glass_orange_edge"
+			rotation: 0.0d
+			width: 1.0d
+			x: -31.0d
+			y: 19.0d
+		}
+		{
+			height: 0.7d
+			image: "kubejs:textures/wip.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: -27.5d
+			y: 16.0d
+		}
 	]
 	order_index: 0
 	quest_links: [ ]
@@ -78,13 +104,6 @@
 		{
 			dependencies: ["1F6BC8C2A5B8F9B2"]
 			id: "072DA448D144179C"
-			rewards: [{
-				command: "/puffish_skills points add @s talentree 1"
-				id: "2F72B652621B93C9"
-				permission_level: 2
-				silent: true
-				type: "command"
-			}]
 			tasks: [{
 				id: "13FDAAB9648E3D0D"
 				type: "checkmark"
@@ -175,14 +194,6 @@
 		{
 			dependencies: ["1F6BC8C2A5B8F9B2"]
 			id: "67FA8896AD563A77"
-			rewards: [{
-				id: "7B0DEB5DF9F95C18"
-				item: {
-					count: 1
-					id: "waystones:waystone"
-				}
-				type: "item"
-			}]
 			tasks: [{
 				id: "6F08B962A9B440A2"
 				type: "checkmark"
@@ -478,18 +489,6 @@
 		{
 			dependencies: ["1F6BC8C2A5B8F9B2"]
 			id: "7436ABDD8951C18F"
-			rewards: [{
-				count: 4
-				id: "434657B780CD3573"
-				item: {
-					components: {
-						"ftbquests:missing_item": "paraglider:spirit_orb"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
 			tasks: [{
 				id: "122AA19F6DAFA8EF"
 				type: "checkmark"
@@ -1274,18 +1273,6 @@
 			dependencies: ["1F6BC8C2A5B8F9B2"]
 			dependency_requirement: "one_completed"
 			id: "567ED608748850A8"
-			rewards: [{
-				count: 10
-				id: "2892B66CBC8A26C7"
-				item: {
-					components: {
-						"ftbquests:missing_item": "numismatics:spur"
-					}
-					count: 1
-					id: "ftbquests:missing_item"
-				}
-				type: "item"
-			}]
 			tasks: [{
 				id: "65A099F8209103AE"
 				type: "checkmark"
@@ -2879,46 +2866,6 @@
 			y: 14.5d
 		}
 		{
-			dependencies: ["4F9B4B7F2D747375"]
-			id: "7D6CA452A433EBD7"
-			tasks: [{
-				id: "110A241E6410CDC0"
-				type: "checkmark"
-			}]
-			x: -32.9d
-			y: 13.0d
-		}
-		{
-			dependencies: ["5525E70F7FBDBD92"]
-			id: "4F9B4B7F2D747375"
-			tasks: [{
-				id: "554F2A68817444F8"
-				type: "checkmark"
-			}]
-			x: -32.9d
-			y: 14.4d
-		}
-		{
-			dependencies: ["4F9B4B7F2D747375"]
-			id: "12B9DBB08E1A760D"
-			tasks: [{
-				id: "3959EA9AF3798912"
-				type: "checkmark"
-			}]
-			x: -33.9d
-			y: 13.3d
-		}
-		{
-			dependencies: ["4F9B4B7F2D747375"]
-			id: "44B6029E40E5AFE4"
-			tasks: [{
-				id: "5FC14712A8CB8147"
-				type: "checkmark"
-			}]
-			x: -34.2d
-			y: 14.3d
-		}
-		{
 			dependencies: ["0ADF7E30D7F5B61E"]
 			id: "31DB2CD7ECC30BF9"
 			tasks: [{
@@ -2928,32 +2875,6 @@
 			}]
 			x: 10.0d
 			y: 11.4d
-		}
-		{
-			dependencies: ["4F9B4B7F2D747375"]
-			icon: {
-				components: {
-					"ftbquests:missing_item": "ars_nouveau:warp_scroll"
-				}
-				id: "ftbquests:missing_item"
-			}
-			id: "600B5CE699E3DE1D"
-			tasks: [{
-				id: "2B2C58EC9086DE24"
-				type: "checkmark"
-			}]
-			x: -31.8d
-			y: 13.2d
-		}
-		{
-			dependencies: ["4F9B4B7F2D747375"]
-			id: "0A95DD8CC46A30B5"
-			tasks: [{
-				id: "1B9E935A0CC30B89"
-				type: "checkmark"
-			}]
-			x: -31.4d
-			y: 14.1d
 		}
 		{
 			id: "70078CDA548D3393"

@@ -26,6 +26,14 @@
 			x: 0.2d
 			y: 4.8d
 		}
+		{
+			height: 0.7d
+			image: "kubejs:textures/wip.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: -4.0d
+			y: 2.5d
+		}
 	]
 	order_index: 0
 	quest_links: [ ]

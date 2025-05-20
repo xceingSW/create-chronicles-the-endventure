@@ -4,6 +4,14 @@
 	filename: "refined_storage_2"
 	group: "37AD19D80019787F"
 	id: "4F11D0F95BB94F2B"
+	images: [{
+		height: 0.7d
+		image: "kubejs:textures/wip.png"
+		rotation: 0.0d
+		width: 7.0d
+		x: -3.0d
+		y: -3.0d
+	}]
 	order_index: 1
 	quest_links: [ ]
 	quests: [{

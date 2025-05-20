@@ -8,16 +8,26 @@
 		id: "deeperdarker:heart_of_the_deep"
 	}
 	id: "4B6E4A0215F45FC0"
-	images: [{
-		alpha: 200
-		color: 16672790
-		height: 1.2d
-		image: "chalk:block/mark/arrow"
-		rotation: 0.0d
-		width: 1.2d
-		x: 7.1d
-		y: 7.3d
-	}]
+	images: [
+		{
+			alpha: 200
+			color: 16672790
+			height: 1.2d
+			image: "chalk:block/mark/arrow"
+			rotation: 0.0d
+			width: 1.2d
+			x: 7.1d
+			y: 7.3d
+		}
+		{
+			height: 0.7d
+			image: "kubejs:textures/wip.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 1.5d
+			y: 5.0d
+		}
+	]
 	order_index: 0
 	quest_links: [ ]
 	quests: [

@@ -13,18 +13,18 @@
 		{
 			id: "1E3C1257A1048B85"
 			rewards: [{
-				count: 5
-				id: "120C12B52F36D88A"
+				count: 60
+				id: "2FE7AFDBEA086F92"
 				item: {
 					count: 1
-					id: "magic_coins:silver_coin"
+					id: "create:experience_nugget"
 				}
 				type: "item"
 			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "21DEBB43B6B43459"
-				item: { count: 1, id: "gamediscs:game_disc_flappy_bird" }
+				item: { count: 1, id: "gamediscs:game_disc_rabbit" }
 				type: "item"
 			}]
 			x: 0.5d
@@ -33,11 +33,11 @@
 		{
 			id: "1456C26C92A56C10"
 			rewards: [{
-				count: 5
-				id: "00E7970F18BF14DB"
+				count: 60
+				id: "3DD1AD7C7283BC8A"
 				item: {
 					count: 1
-					id: "magic_coins:silver_coin"
+					id: "create:experience_nugget"
 				}
 				type: "item"
 			}]
@@ -53,11 +53,11 @@
 		{
 			id: "23D7FCA6FD1D3EA5"
 			rewards: [{
-				count: 5
-				id: "637C3B6FD17DFF45"
+				count: 60
+				id: "122E7DCAEC39C79B"
 				item: {
 					count: 1
-					id: "magic_coins:silver_coin"
+					id: "create:experience_nugget"
 				}
 				type: "item"
 			}]
@@ -76,31 +76,31 @@
 			}
 			id: "1E6F5EB0D07001C1"
 			rewards: [{
-				count: 5
-				id: "4A3993FDC8CAD06A"
+				count: 60
+				id: "62EEC48C7657EB32"
 				item: {
 					count: 1
-					id: "magic_coins:silver_coin"
+					id: "create:experience_nugget"
 				}
 				type: "item"
 			}]
 			shape: "rsquare"
 			tasks: [{
 				id: "603D62232F4D0CC8"
-				item: { count: 1, id: "gamediscs:game_disc_flappy_bird" }
+				item: { count: 1, id: "gamediscs:game_disc_tnt_sweeper" }
 				type: "item"
 			}]
-			x: 3.5d
-			y: 1.5d
+			x: 5.0d
+			y: 0.0d
 		}
 		{
 			id: "4E8C513048CB4D01"
 			rewards: [{
-				count: 5
-				id: "47919606E0B08B62"
+				count: 60
+				id: "6D4006240CC938FA"
 				item: {
 					count: 1
-					id: "magic_coins:silver_coin"
+					id: "create:experience_nugget"
 				}
 				type: "item"
 			}]
@@ -115,15 +115,15 @@
 		}
 		{
 			icon: {
-				id: "gamediscs:game_disc_rabbit"
+				id: "gamediscs:game_disc_flappy_bird"
 			}
 			id: "144A3346C18A992F"
 			rewards: [{
-				count: 5
-				id: "1FC6FDA1E1E6CEC4"
+				count: 60
+				id: "458BE7FB7C5C34C7"
 				item: {
 					count: 1
-					id: "magic_coins:silver_coin"
+					id: "create:experience_nugget"
 				}
 				type: "item"
 			}]
@@ -144,6 +144,7 @@
 				"1E3C1257A1048B85"
 				"1E6F5EB0D07001C1"
 				"1456C26C92A56C10"
+				"34AB7EB1F6BF5457"
 			]
 			dependency_requirement: "all_started"
 			hide_dependency_lines: true
@@ -151,14 +152,24 @@
 				id: "eternal_starlight:loot_bag"
 			}
 			id: "490B9CE61B5F7D4A"
-			rewards: [{
-				id: "1469AE97868CFAAF"
-				item: {
-					count: 1
-					id: "kubejs:heart_container"
+			rewards: [
+				{
+					id: "1469AE97868CFAAF"
+					item: {
+						count: 1
+						id: "kubejs:heart_container"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "3A9D321AF57FAFE3"
+					item: {
+						count: 1
+						id: "magic_coins:gold_coin"
+					}
+					type: "item"
+				}
+			]
 			shape: "hexagon"
 			size: 2.5d
 			tasks: [{
@@ -167,6 +178,47 @@
 			}]
 			x: 2.0d
 			y: -2.5d
+		}
+		{
+			id: "588B50B33502D3E4"
+			rewards: [{
+				count: 30
+				id: "6802CDD2F2A4AF6E"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "1338976FDA98911D"
+				item: { count: 1, id: "gamediscs:gaming_console" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.75d
+		}
+		{
+			id: "34AB7EB1F6BF5457"
+			rewards: [{
+				count: 60
+				id: "2C47DCB7FD9D7A9C"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "1C3FE3968F6712AE"
+				item: { count: 1, id: "gamediscs:game_disc_pong" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.5d
 		}
 	]
 }
