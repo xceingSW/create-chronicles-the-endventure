@@ -5,4 +5,4 @@
 	#Whether or not to generate molten vents on land. Default: true
 	generateLandVents = true
 	#Whether or not to generate molten vents underwater. Default: true
-	generateUnderwaterVents = true
+	generateUnderwaterVents = false

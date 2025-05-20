@@ -87,7 +87,7 @@
 			y: -3.0d
 		}
 		{
-			can_repeat: false
+			can_repeat: true
 			dependencies: [
 				"1DB59AA0F0D77623"
 				"36081971EC8925F2"
@@ -877,7 +877,7 @@
 			y: 5.0d
 		}
 		{
-			can_repeat: false
+			can_repeat: true
 			dependencies: [
 				"50E7A4D14F2C485A"
 				"4D82E252D1E6B5B6"

@@ -176,29 +176,8 @@
 				id: "6D0A8F05CE6EBEB2"
 				type: "checkmark"
 			}]
-			x: 2.0d
+			x: 2.7d
 			y: -2.5d
-		}
-		{
-			id: "588B50B33502D3E4"
-			rewards: [{
-				count: 30
-				id: "6802CDD2F2A4AF6E"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
-				}
-				type: "item"
-			}]
-			shape: "rsquare"
-			size: 1.5d
-			tasks: [{
-				id: "1338976FDA98911D"
-				item: { count: 1, id: "gamediscs:gaming_console" }
-				type: "item"
-			}]
-			x: -1.5d
-			y: 0.75d
 		}
 		{
 			id: "34AB7EB1F6BF5457"

@@ -1146,16 +1146,13 @@
 			y: 4.799999999999999d
 		}
 		{
-			dependencies: ["261651FB7B600587"]
+			dependencies: ["0C49795E134A27E0"]
 			hide_until_deps_complete: true
 			id: "7261FED43BDDEFA8"
 			rewards: [{
-				id: "6936CD16F9688A12"
-				item: {
-					count: 1
-					id: "sophisticatedbackpacks:upgrade_base"
-				}
-				type: "item"
+				id: "759477746249AD5A"
+				type: "xp_levels"
+				xp_levels: 5
 			}]
 			shape: "circle"
 			size: 1.0d

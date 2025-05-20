@@ -315,6 +315,10 @@
     "modId": "create_cardboarded_conveynience",
     "version": "0.0.3b"
   },
+  "create_connected-1.0.2-mc1.21.1.jar": {
+    "modId": "create_connected",
+    "version": "1.0.2-mc1.21.1"
+  },
   "create_mechanical_extruder-1.21.1-2.1.1-6.0.4.jar": {
     "modId": "create_mechanical_extruder",
     "version": "1.21.1-2.1.1-6.0.4"
@@ -528,6 +532,10 @@
   "ftb-teams-neoforge-2101.1.2.jar": {
     "modId": "ftbteams",
     "version": "2101.1.2"
+  },
+  "ftb-xmod-compat-neoforge-21.1.3.jar": {
+    "modId": "ftbxmodcompat",
+    "version": "21.1.3"
   },
   "fusion-1.2.7b-neoforge-mc1.21.jar": {
     "modId": "fusion",
@@ -753,10 +761,6 @@
   "molten_vents-1.21.1-2.1.0.jar": {
     "modId": "molten_vents",
     "version": "2.1.0"
-  },
-  "molten_vents-2.0.10.jar": {
-    "modId": "molten_vents",
-    "version": "2.0.10"
   },
   "moonlight-1.21-2.18.13-neoforge.jar": {
     "modId": "moonlight",
