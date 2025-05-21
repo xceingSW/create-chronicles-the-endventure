@@ -27,7 +27,7 @@ ItemEvents.modification(event => {
       item.rarity = 'EPIC'
     });
   });
-  event.modify('minecraft:leather_helmet',item=>{
+  /*event.modify('minecraft:leather_helmet',item=>{
     let modifiedAttr = Item.of(item.item().id).attributeModifiers.withModifierAdded(
       'generic.armor',
       { amount:50, id:'minecraft:armor.helmet', operation:'add_value'},
@@ -35,7 +35,7 @@ ItemEvents.modification(event => {
     );
     //apply
     item.setAttributeModifiersWithTooltip(modifiedAttr.modifiers())
-  })
+  })*/
 });
 
 StartupEvents.registry('item', event => {

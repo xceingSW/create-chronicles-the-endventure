@@ -2,7 +2,7 @@ LootJS.modifiers((event) => {
   //event.addTableModifier("minecraft:chests/simple_dungeon").addLoot("minecraft:netherite_sword");
   //event.addTableModifier(/dungeons_arise:chests.*/).addLoot("minecraft:netherite_sword");
 
-  // Remove diamonds from all loot tables
+
   event.addTableModifier(/.*/).removeLoot("bosses_of_mass_destruction:blazing_eye");
 
   event
@@ -12,6 +12,15 @@ LootJS.modifiers((event) => {
   .addLoot(LootEntry.of(`simplyswords:frostfall`).setCount(1).randomChance(0.2))
   .addLoot(LootEntry.of(`simplyswords:watcher_claymore`).setCount(1).randomChance(0.2))
   .addLoot(LootEntry.of(`kubejs:boss_token`).setCount(1).randomChance(1.0));
+
+  // Add Create Stuff to villages
+  event
+    .addTableModifier(/(revampedvillages:.*)/)
+    .addLoot(LootEntry.of("create:belt_connector").setCount([1, 6]).randomChance(0.35))
+    .addLoot(LootEntry.of("create:shaft").setCount([1, 4]).randomChance(0.35))
+    .addLoot(LootEntry.of("create:zinc_ingot").setCount([1, 5]).randomChance(0.20))
+    .addLoot(LootEntry.of("create:andesite_alloy").setCount([2, 10]).randomChance(0.40))
+    .addLoot(LootEntry.of("create:gearbox").setCount([1, 3]).randomChance(0.20));
 
   // Easy
   event
@@ -31,6 +40,7 @@ LootJS.modifiers((event) => {
 
   const trialChamberTables = [
     "minecraft:chests/trial_chambers/corridor",
+    "ancient_cities:ancient_city_barrel",
     "minecraft:chests/trial_chambers/entrance",
     "minecraft:chests/trial_chambers/intersection",
     "minecraft:chests/trial_chambers/intersection_barrel"
@@ -49,7 +59,8 @@ LootJS.modifiers((event) => {
     "irons_spellbooks:chests/catacombs/hidden_trough_treasure",
     "irons_spellbooks:chests/citadel/citadel_vault",
     "irons_spellbooks:chests/citadel/rampart_chest",
-    "irons_spellbooks:chests/citadel/citadel_bookshelf"
+    "irons_spellbooks:chests/citadel/citadel_bookshelf",
+    "revampedvillages:treasure"
   ];
   for (const table of ironsAdvanced) {
     event

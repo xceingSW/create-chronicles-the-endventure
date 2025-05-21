@@ -126,5 +126,49 @@
 			x: -5.0d
 			y: 1.5d
 		}
+		{
+			dependencies: ["6F83900602D42B9A"]
+			id: "4594693B70583513"
+			tasks: [{
+				id: "4F98D134A9600453"
+				item: { count: 1, id: "create:crushed_raw_zinc" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["545D568E01B3BE3E"]
+			id: "753E2FBD24CA4228"
+			tasks: [{
+				id: "097A7ADE727F3D66"
+				item: { count: 1, id: "create:crushed_raw_copper" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["30FF1405E26D8703"]
+			id: "30C6F83B7034FC37"
+			tasks: [{
+				id: "765D811E4B22A7BC"
+				item: { count: 1, id: "create:crushed_raw_iron" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["16C73D254B843465"]
+			id: "5A7A7D6CE78977CC"
+			tasks: [{
+				id: "1E03D0524D02C39A"
+				item: { count: 1, id: "create:crushed_raw_gold" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
 	]
 }
