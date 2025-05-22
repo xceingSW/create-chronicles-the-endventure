@@ -2,3 +2,5 @@
 generateRecipes = false
 #Revenues from uses must be generated?
 generateUsesRecipes = false
+#Revenues from uses must be generated?
+removeCreateRecipes = false

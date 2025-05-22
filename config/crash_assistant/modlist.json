@@ -334,9 +334,9 @@
     "modId": "createcompounds",
     "version": "1.0.0"
   },
-  "createmechanisms-2.1.0.jar": {
+  "createmechanisms-2.0.2.jar": {
     "modId": "createmechanisms",
-    "version": "2.1.0"
+    "version": "2.0.2"
   },
   "createteleporters2.4-1.21.1.jar": {
     "modId": "createteleporters",
