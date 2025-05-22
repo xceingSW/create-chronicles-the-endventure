@@ -1,7 +1,7 @@
 {
-  "neoforge-21.1.158 (modloader)": {
+  "neoforge-21.1.172 (modloader)": {
     "modId": "neoforge",
-    "version": "neoforge-21.1.158"
+    "version": "neoforge-21.1.172"
   },
   "accelerated-decay-neoforge-21.0.0.jar": {
     "modId": "accelerateddecay",
@@ -103,17 +103,13 @@
     "modId": "badoptimizations",
     "version": "2.2.2"
   },
-  "balm-neoforge-1.21.1-21.0.44.jar": {
+  "balm-neoforge-1.21.1-21.0.45.jar": {
     "modId": "balm",
-    "version": "21.0.44"
+    "version": "21.0.45"
   },
   "bcc-21.1.3+mc1.21.1.jar": {
     "modId": "bcc",
     "version": "21.1.3"
-  },
-  "Better Tags-1.21.1-NEO-1.5.jar": {
-    "modId": "bettertags",
-    "version": "1.5"
   },
   "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar": {
     "modId": "betteradvancements",
@@ -279,13 +275,13 @@
     "modId": "create",
     "version": "6.0.4"
   },
-  "create-central-kitchen-2.0.2.jar": {
+  "create-central-kitchen-2.1.2.jar": {
     "modId": "create_central_kitchen",
-    "version": "2.0.2"
+    "version": "2.1.2"
   },
-  "create-dragons-plus-1.5.1.jar": {
+  "create-dragons-plus-1.5.2.jar": {
     "modId": "create_dragons_plus",
-    "version": "1.5.1"
+    "version": "1.5.2"
   },
   "create-enchantment-industry-2.1.5.jar": {
     "modId": "create_enchantment_industry",
@@ -303,9 +299,9 @@
     "modId": "create_cardboarded_conveynience",
     "version": "0.0.3b"
   },
-  "create_connected-1.0.2-mc1.21.1.jar": {
+  "create_connected-1.0.3-mc1.21.1.jar": {
     "modId": "create_connected",
-    "version": "1.0.2-mc1.21.1"
+    "version": "1.0.3-mc1.21.1"
   },
   "create_mechanical_extruder-1.21.1-2.1.1-6.0.4.jar": {
     "modId": "create_mechanical_extruder",
@@ -330,9 +326,9 @@
   "createaddition-1.4.2.jar": {
     "modId": "createaddition"
   },
-  "createcompounds-1.21.1-NeoForge-1.0.0.jar": {
+  "createcompounds-1.21.1-NeoForge-1.0.1.jar": {
     "modId": "createcompounds",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "createmechanisms-2.0.2.jar": {
     "modId": "createmechanisms",
@@ -342,9 +338,9 @@
     "modId": "createteleporters",
     "version": "2.4"
   },
-  "CreativeCore_NEOFORGE_v2.13.3_mc1.21.1.jar": {
+  "CreativeCore_NEOFORGE_v2.13.5_mc1.21.1.jar": {
     "modId": "creativecore",
-    "version": "2.13.3"
+    "version": "2.13.5"
   },
   "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar": {
     "modId": "creeperoverhaul",
@@ -433,9 +429,9 @@
     "modId": "eternal_starlight",
     "version": "0.4.3+1.21.1+neoforge"
   },
-  "exposure-neoforge-1.21.1-1.9.2.jar": {
+  "exposure-neoforge-1.21.1-1.9.3.jar": {
     "modId": "exposure",
-    "version": "1.9.2"
+    "version": "1.9.3"
   },
   "fancymenu_neoforge_3.5.0_MC_1.21.1.jar": {
     "modId": "fancymenu",
@@ -533,9 +529,9 @@
     "modId": "gamediscs",
     "version": "0.3.2-neoforge"
   },
-  "garnished-2.1.3.3+1.21.1-neoforged.jar": {
+  "garnished-2.1.3.4+1.21.1-neoforged.jar": {
     "modId": "garnished",
-    "version": "2.1.3.3"
+    "version": "2.1.3.4"
   },
   "geckolib-neoforge-1.21.1-4.7.5.1.jar": {
     "modId": "geckolib",
@@ -605,9 +601,9 @@
     "modId": "irons_apothic",
     "version": "1.3.0"
   },
-  "irons_spellbooks-1.21.1-3.12.0.jar": {
+  "irons_spellbooks-1.21.1-3.12.1.jar": {
     "modId": "irons_spellbooks",
-    "version": "1.21.1-3.12.0"
+    "version": "1.21.1-3.12.1"
   },
   "itemzoom-1.21-3.0.0.jar": {
     "modId": "itemzoom",
@@ -765,10 +761,6 @@
   "NaturesCompass-1.21.1-3.0.3-neoforge.jar": {
     "modId": "naturescompass",
     "version": "1.21.1-3.0.2-neoforge"
-  },
-  "NBTac-NEOFORGE-1.21.1-1.3.10.jar": {
-    "modId": "nbt_ac",
-    "version": "1.3.10"
   },
   "Neruina-2.2.11-neoforge+1.21.jar": {
     "modId": "neruina",
@@ -990,9 +982,9 @@
     "modId": "sophisticatedbackpackscreateintegration",
     "version": "0.1.2"
   },
-  "sophisticatedcore-1.21.1-1.3.42.986.jar": {
+  "sophisticatedcore-1.21.1-1.3.45.992.jar": {
     "modId": "sophisticatedcore",
-    "version": "1.3.42"
+    "version": "1.3.45"
   },
   "sophisticatedstorage-1.21.1-1.4.34.1156.jar": {
     "modId": "sophisticatedstorage",
@@ -1082,9 +1074,9 @@
     "modId": "watut",
     "version": "1.21.0-1.2.7"
   },
-  "waystones-neoforge-1.21.1-21.1.18.jar": {
+  "waystones-neoforge-1.21.1-21.1.19.jar": {
     "modId": "waystones",
-    "version": "21.1.18"
+    "version": "21.1.19"
   },
   "wits-1.3.0+1.21-neoforge.jar": {
     "modId": "wits",
