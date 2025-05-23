@@ -16,7 +16,7 @@
 	#The percentage of coins lost on death
 	# Default: 50
 	# Range: 0 ~ 100
-	percentageCoinsLostOnDeath = 0
+	percentageCoinsLostOnDeath = 100
 
 [LOOTS]
 	#Should coins be lootable from chests
