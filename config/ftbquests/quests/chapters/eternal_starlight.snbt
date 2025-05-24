@@ -3,7 +3,7 @@
 	default_quest_shape: ""
 	filename: "eternal_starlight_50471206A7BA908F"
 	group: "61769445B9D5700E"
-	id: "744924FDE4ECD47D"
+	id: "50471206A7BA908F"
 	images: [{
 		height: 0.7d
 		image: "kubejs:textures/wip.png"
@@ -12,12 +12,12 @@
 		x: 0.5d
 		y: -2.0d
 	}]
-	order_index: 2
+	order_index: 1
 	quest_links: [ ]
 	quests: [{
-		id: "13E329C20475C9D6"
+		id: "2475C6740BBD5273"
 		tasks: [{
-			id: "4A3F4D9CC8A84508"
+			id: "28D59D9439299028"
 			item: { count: 1, id: "minecraft:stripped_oak_log" }
 			type: "item"
 		}]

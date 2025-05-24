@@ -198,9 +198,9 @@ StartupEvents.registry('item', event => {
     })
   })
 
-  event.create('token_basic').displayName("§7Seal of Apprentice").rarity("UNCOMMON")
-  event.create('token_medium').displayName("§fSeal of Operator").rarity("RARE")
-  event.create('token_advanced').displayName("§eSeal of Master Engineer").rarity("EPIC")
+  event.create('token_basic').displayName("§7Seal of the Apprentice").rarity("UNCOMMON")
+  event.create('token_medium').displayName("§fSeal of the Operator").rarity("RARE")
+  event.create('token_advanced').displayName("§eSeal of the Master Engineer").rarity("EPIC")
   event.create('boss_token').displayName("§6Boss Token").rarity("EPIC")
   
   event.create('heart_container')

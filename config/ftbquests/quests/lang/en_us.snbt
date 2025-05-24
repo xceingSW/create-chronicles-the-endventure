@@ -10,6 +10,7 @@
 	chapter.50471206A7BA908F.title: "XEternal Starlight"
 	chapter.576F6A1E4D30F4F2.title: "&l&aThe Endventure"
 	chapter.66515D165B519FE2.title: "&aGame Discs"
+	chapter.699146B31CBD0538.title: "&aEnchantment Industry&r"
 	chapter.784A6CC38A657526.title: "&bSimply Swords"
 	chapter_group.10BAE746B6F04D66.title: "Magic"
 	chapter_group.37AD19D80019787F.title: "Storage"
@@ -349,6 +350,11 @@
 	]
 	quest.15B4189EFAD4B6E2.quest_subtitle: "Download more CPU cores"
 	quest.15B432E69AB118B5.quest_desc: ["A &6spyglass&r can be equipped in your Curios slot. The default key to access it is &d\"Z\".&r"]
+	quest.15DC45E7658A8628.quest_desc: [
+		"Allows you to store enchantments that can then be transferred into an item."
+		""
+		"Only works with &bsuper enchantments&r that go beyond vanilla level 30+."
+	]
 	quest.15F6FE3D9D8F8EFD.quest_subtitle: "Not repeatable"
 	quest.16BF82CCB4624E9C.quest_desc: [
 		"Individual ME devices can also be configured to respond to redstone signals. When upgraded with a &bRedstone Card&f, a device can be configured to do work only when powered with redstone or otherwise as needed."
@@ -356,6 +362,11 @@
 		"This behavour can also apply to entire &osections&r of an ME network by using an &bME Toggle Bus&f. This allows a section of the network on the other side of the bus to come online only when the bus is powered by redstone, or to go offline if using an &einverted&f toggle bus."
 	]
 	quest.16BF82CCB4624E9C.title: "Redstone-Controlled ME"
+	quest.16FE44DE7D93172C.quest_desc: [
+		"The &a&lExperience Lantern&r&r absorbs experience from nearby players as well as experience orbs and it glows accordingly to the amount of experience it has stored."
+		""
+		"The &a&lExperience Lantern&r&r works &6&lon contraptions&r&r."
+	]
 	quest.171DB69D600EBD90.quest_desc: [
 		"Arguably the most important aspect of Applied Energistics 2 is its storage system, making use of digital &eStorage Cells&f. These cells are accessible through either an &eME Chest&r for single cells, or an &eME Drive&r for multiple cells."
 		""
@@ -578,6 +589,14 @@
 		"d&5"
 	]
 	quest.2497E4DD60E74225.quest_subtitle: "Not repeatable"
+	quest.24A56D98CF3ABB1B.quest_desc: [
+		"The &6&lBlaze Forger&r&r functions like an &8&lAnvil&r&r with little extras. Like the Blaze Enchanter, the Blaze Forger also required Liquid Experience to activate. "
+		""
+		"Blaze Forger &ccan merge enchantments of the same item type&r just like an Anvil, but with no repair cost. It can also merge Enchanting Templates and can apply Enchanting Templates into items,"
+		""
+		"&6The Blaze Forger can strip enchantments from equipment, books and Enchanting templates into an Empty Enchanting Template. &r"
+	]
+	quest.24F854A847AE7722.quest_desc: ["Allows you to store enchanemtns to then be transfered into an item."]
 	quest.2506598B0A22BE75.quest_desc: [
 		"The &bMolecular Assembler&r is AE2's automatic crafting table, essential for all crafting pattern jobs. "
 		""
@@ -1163,6 +1182,18 @@
 	quest.4D308AD544372410.quest_subtitle: "When used for Upgrade: &6+5% Lightning Spell Power"
 	quest.4D38017F83D30E13.quest_subtitle: "Damages attackers similar to the Thorns enchantment"
 	quest.4D82E252D1E6B5B6.quest_subtitle: "Not repeatable"
+	quest.4DA92919147B3E18.quest_desc: [
+		"The &a&lBlaze Enchanter&r&r functions like an Enchanting Table. To activate you need to pump liquid experience into the Blaze Enchanter."
+		""
+		"Before enchanting you must set the Level of the enchanting in the Panel present in the Blaze Enchanter. &b(Vanilla level cap is 30)&r. This Panel also works as a filter slot where you can place an item, which activates &6&lTemplate Enchanting Mode&r&r"
+		""
+		"&6&lTemplate Enchanting Mode&r&r allows the Blaze Enchanter to enchant an &a&lEnchanting Template&r&r that only produces enchantments supported by the item you placed in the filter slot."
+		"For example placing a Diamond Chest Armor in the Filter slot will only generate Diamond Chest Armor enchantments to be transfered into an empty Enchanting Template."
+		""
+		"&lDifferent item types&r such as Gold Chest Armor or materials will produce different enchantments or better enchantments and higher enchanting level is not always recommended. Some enchantments will not appear in higher levels."
+		""
+		"&o&l&cHIGHLY RECOMMEND&r checking the Ponder (Pressing W) for a better understanding.&r&r"
+	]
 	quest.4DAA0A4DF5A7A575.quest_desc: [
 		"This mod adds many new lights. All 8 types, 2 types fire, Over 200 variations."
 		""
@@ -1173,6 +1204,17 @@
 	quest.4DAA0A4DF5A7A575.title: "&6Additional Lights"
 	quest.4DF64525E5F3E1FC.quest_subtitle: "&4☠ Tier 3"
 	quest.4DF64525E5F3E1FC.title: "Pass the Gatekeeper's Trial"
+	quest.4DFE436CD88DAF36.quest_desc: [
+		"The &l&6Printer&r&r allows you to use two types of liquids. "
+		""
+		"&l&9Ink&r&r for copying Books and changing Package patterns"
+		""
+		"&a&lExperience&r&r&6 &nto duplicate Enchanting Books. &r&r"
+		""
+		"To do either of those things, be a change pattern, copying or duplicating you must place the corresponding item in the Filter Slot."
+		""
+		"It can also name items, copy train schedules, clipboards, change packages addresses and more. Use Jei to look up printing recipes. "
+	]
 	quest.4E256AAA75ECF41E.quest_desc: ["After defeating the &0Wither&r, use the &eNether Star&r to craft a &cBeacon&r and place it to claim your reward."]
 	quest.4E2CDE150137F5E9.quest_desc: [
 		"To make it, combine a &bRunic Tablet&r with a &cEmpowered Remnant&r in a Smithing Table."
@@ -1241,6 +1283,18 @@
 	]
 	quest.53C9B66BEC667ED0.quest_subtitle: "Magic and towers"
 	quest.53C9B66BEC667ED0.title: "&bGetting Started"
+	quest.5429DCF7C5A3EC97.quest_desc: [
+		"The &aCreate: Enchantment Industry&r is a core part of your progression, as Apotheosis enchantment shelves are disabled."
+		""
+		"The intended path is to use Enchantment Industry."
+		""
+		"It introduces a powerful and fully automated way to handle &ddisenchanting&r, &astore experience&r, and even go &cbeyond vanilla limits&r — allowing enchantments to reach levels as high as &e60&r!"
+		""
+		"Forget the grindy vanilla setup. With this mod, you'll use mechanical power to enchant, extract, combine, and recycle gear all while integrating seamlessly with your factory."
+		""
+		"&d@create_en &r"
+	]
+	quest.5429DCF7C5A3EC97.title: "&aCreate: Enchantment Industry&r "
 	quest.543052F17CF1380B.quest_subtitle: "&a☠ Tier 7"
 	quest.54480115AF9A1DAD.quest_desc: [
 		"{image:kubejs:textures/familiars/druid.png width:100 height:115 align:center}"
@@ -1277,6 +1331,7 @@
 		"https://discord.gg/yRAmua5keG"
 	]
 	quest.5525E70F7FBDBD92.title: "&6Your feedback is important :)"
+	quest.5534C553D15CD96B.quest_desc: ["The &6Item Drain&r has the ability to extract liquid from a container and temporarily store it until it is piped out into another container."]
 	quest.5590204A473913AC.quest_subtitle: "Automatically smelts mined ores"
 	quest.561A753B404A8C0A.quest_subtitle: "Not repeatable"
 	quest.56487ACFC2360FE0.title: "&6Paladin Outfit"
@@ -1461,6 +1516,11 @@
 	quest.5D52508105645DD0.quest_subtitle: "Obtained from the Mysterious Orb"
 	quest.5D94118C96E07BAA.title: "&2Venomous Outfit"
 	quest.5E0BD4E4E6C9E146.quest_subtitle: "Allows the player to stand on lava while sneaking. Grants protection against hot floors."
+	quest.5E0CC434DF548813.quest_desc: [
+		"To craf the &l&bBlock of Super Experience&r&r, you first have to craft the &l&aBlock of Experience&r&r, then you place it on the overworld, place a &l&6Lightning Rod&r&r on top of the &l&aBlock of Experience&r&r and wait for a &l&eLightning Strike&r&r. "
+		""
+		"When the &e&lLightning Strikes&r&r the&l &aBlock of Experience&r&r it will change into &b&lBlock of Super Experience&r&r."
+	]
 	quest.5EC30214D9EE2A0C.quest_subtitle: "Harness the power of &2nature&r. Increased &2nature spell power&r or &2armor&r."
 	quest.5EC30214D9EE2A0C.title: "&2&lSchool of Nature"
 	quest.5EC521DA8FF06758.quest_desc: ["A powerful yet destructive artifact; the Piglins swore to protect it at the cost of their lives"]
@@ -1527,6 +1587,27 @@
 	]
 	quest.627A25524F94FB34.title: "&aAlshanex's Familiars&r"
 	quest.629831A093BC1F03.quest_subtitle: "Melee attacks have a chance to inflict Wither."
+	quest.62C8A74B9C0AC8A4.quest_desc: [
+		"&l&o&cHIGHLY RECOMMEND&r checking the Ponder (Pressing W) of &6&lBlaze Enchanter&r&r and &6&lBlaze Forger&r&r for a better understanding.&r&r"
+		""
+		"&6The Blaze Enchanter &r can be fed the &bCake o’ Enchanting&r, changing it into &bSuper Enchanting Mode.&r"
+		""
+		"In &bSuper Enchanting Mode&r allows you to increase the &dlevel cap to 60.&r  Additionally it can now produce Treasured Enchantments."
+		""
+		"In this mode it also exclusively only allows &3Super Enchanting Templates.&r"
+		""
+		"While in this mode, make sure to place a block ontop of the Blaze Enchanter and place a Lightning Rod on a block beside it. Super Enchanting Mode attracts Lightning Strikes."
+		""
+		"&l&5..................................................................&r&r"
+		""
+		"&6The Blaze Forger&r can be fed the &bCake o’ Enchanting&r, changing it into &bSuper Enchanting Mode.&r"
+		""
+		"In &bSuper Enchanting Mode&r allows to surpass the Vanilla enchantment level cap while merging enchantments. Conflicting enchantments can also be merged together."
+		""
+		"In this mode it also exclusively only allows &3Super Enchanting Templates.&r"
+		""
+		"While in this mode, make sure to place a block on top of the Blaze Forger and place a Lightning Rod on a block beside it. Super Enchanting Mode attracts Lightning Strikes."
+	]
 	quest.630BDF564F7516D7.quest_desc: ["To enable wireless network access, create the &eME Wireless Access Point&r. It allows access to the network via a wireless terminal, with range determined by the number of &aWireless Boosters&r inserted."]
 	quest.632F1D52317286A8.quest_subtitle: "Creepers will avoid the wearer. Hisses at attacking phantoms."
 	quest.63A35C0C01372EB6.quest_desc: ["Those who followed this eye were never seen again; rumors say they found the great city of Atlantis, or lost their way trying"]
@@ -1608,6 +1689,17 @@
 	quest.66630803C9EA0DEA.quest_subtitle: "Harness the power of &6holy&r. Increased &6holy spell power&r or &6armor&r."
 	quest.66630803C9EA0DEA.title: "&6&lSchool of Holy"
 	quest.66A8B9C4C4AC291A.quest_subtitle: "Strikes attackers with lightning. Grants immunity to lightning strikes."
+	quest.66E127ED18F447AD.quest_desc: [
+		"&6&lRight-click&r&r with the &a&lMechanical Grindstone&r&r on an &b&lItem Drain&r&r, then place another Mechanical Grindstone on top to activate the setup."
+		""
+		"With the &a&lMechanical Grindstone&r&r, you can extract experience from enchanted items. It also functions as sandpaper and is used in various other recipes."
+		""
+		"The &a&lMechanical Grindstone&r&r can also be interacted with manually to insert items."
+		""
+		"Some recipes return liquids. The block stores these fluids internally and can output them using a fluid pipe."
+		""
+		"&o&l&cCheck the Ponder&r (press W) for a better understanding.&r&r"
+	]
 	quest.66EA4FE46D64E00B.quest_subtitle: "Not repeatable"
 	quest.671D0A62B7171DBB.quest_subtitle: "&6Long Casts become uninterruptible"
 	quest.6767C398AD003D14.quest_subtitle: "Not repeatable"
@@ -1773,6 +1865,14 @@
 	]
 	quest.72A5DEFDD0F3470D.title: "&cTo The Nether!&r"
 	quest.731C3214BB61FDAE.quest_desc: ["Found underground in the &aOverworld&r."]
+	quest.732543EAB9ADB411.quest_desc: [
+		"The &l&aExperience Hatch&r&r allows you to deposit or extract experience from a Fluid Tank or Basin. "
+		"&dRight-Click&r deposits the experience and &dShift + Right-Click&r extracts the experience."
+		""
+		"It has a Scroll Panel which allows you to set the amount of experience that is deposited or extracted  when interacting."
+		""
+		"It also features a &aFilter Slot&r, used to handle experience fluids from other mods. Simply place the bucket in the filter to make the hatch recognize and interact with that fluid like standard experience."
+	]
 	quest.7362AE3D474FF6E1.quest_subtitle: "Drastically increases the wearer's sprint speed and allows for auto-step"
 	quest.7363495F41F0AE8E.quest_subtitle: "&5☠ Tier 2"
 	quest.736512E2075451A1.quest_desc: [

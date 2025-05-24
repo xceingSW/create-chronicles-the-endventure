@@ -1,0 +1,167 @@
+{
+	autofocus_id: "4DA92919147B3E18"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "enchanting_meh"
+	group: "781F17A4DC3D0E66"
+	icon: {
+		id: "create_enchantment_industry:blaze_enchanter"
+	}
+	id: "699146B31CBD0538"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["66E127ED18F447AD"]
+			id: "4DA92919147B3E18"
+			tasks: [{
+				id: "081B1C43DC769029"
+				item: { count: 1, id: "create_enchantment_industry:blaze_enchanter" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2063E02B38B40A82"]
+			id: "732543EAB9ADB411"
+			tasks: [{
+				id: "5C7C0CEEB2BFD5C5"
+				item: { count: 1, id: "create_enchantment_industry:experience_hatch" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5534C553D15CD96B"]
+			id: "66E127ED18F447AD"
+			tasks: [{
+				id: "556FA81225403608"
+				item: { count: 1, id: "create_enchantment_industry:mechanical_grindstone" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2063E02B38B40A82"]
+			id: "5E0CC434DF548813"
+			tasks: [{
+				id: "211DF8984269B408"
+				item: { count: 1, id: "create_enchantment_industry:super_experience_block" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["66E127ED18F447AD"]
+			id: "2063E02B38B40A82"
+			tasks: [{
+				id: "21935D017CA2FECA"
+				item: { count: 1, id: "create:experience_block" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"24A56D98CF3ABB1B"
+				"4DA92919147B3E18"
+			]
+			id: "62C8A74B9C0AC8A4"
+			tasks: [{
+				id: "4DA9CCA51070B879"
+				item: { count: 1, id: "create_enchantment_industry:experience_cake" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2063E02B38B40A82"]
+			id: "16FE44DE7D93172C"
+			tasks: [{
+				id: "5A52014045FB1939"
+				item: { count: 1, id: "create_enchantment_industry:experience_lantern" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2063E02B38B40A82"]
+			id: "24F854A847AE7722"
+			tasks: [{
+				id: "545A1A6CD10EE290"
+				item: { count: 1, id: "create_enchantment_industry:enchanting_template" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["62C8A74B9C0AC8A4"]
+			id: "15DC45E7658A8628"
+			tasks: [{
+				id: "1F8AC7414C8FC0C3"
+				item: { count: 1, id: "create_enchantment_industry:super_enchanting_template" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["66E127ED18F447AD"]
+			id: "4DFE436CD88DAF36"
+			tasks: [{
+				id: "6454D6F2A17EAB17"
+				item: { count: 1, id: "create_enchantment_industry:printer" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["66E127ED18F447AD"]
+			id: "24A56D98CF3ABB1B"
+			tasks: [{
+				id: "7BD6999673E34B30"
+				item: { count: 1, id: "create_enchantment_industry:blaze_forger" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			icon: {
+				components: {
+					"patchouli:book": "buildinggadgets2:buildinggadgets2book"
+				}
+				id: "patchouli:guide_book"
+			}
+			id: "5429DCF7C5A3EC97"
+			shape: "rsquare"
+			tasks: [{
+				id: "7619805808FB6D1D"
+				item: { count: 1, id: "minecraft:oak_log" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5429DCF7C5A3EC97"]
+			id: "5534C553D15CD96B"
+			tasks: [{
+				id: "2C7988558DD33E62"
+				item: { count: 1, id: "create:item_drain" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+	]
+}
