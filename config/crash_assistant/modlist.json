@@ -35,9 +35,9 @@
     "modId": "alternate_current",
     "version": "1.9.0"
   },
-  "AmbientSounds_NEOFORGE_v6.1.10_mc1.21.1.jar": {
+  "AmbientSounds_NEOFORGE_v6.1.11_mc1.21.1.jar": {
     "modId": "ambientsounds",
-    "version": "6.1.10"
+    "version": "6.1.11"
   },
   "amendments-1.21-1.2.24-neoforge.jar": {
     "modId": "amendments",
@@ -227,9 +227,9 @@
     "modId": "combat_roll",
     "version": "2.0.4+1.21.1"
   },
-  "comforts-neoforge-9.0.3+1.21.1.jar": {
+  "comforts-neoforge-9.0.4+1.21.1.jar": {
     "modId": "comforts",
-    "version": "9.0.3+1.21.1"
+    "version": "9.0.4+1.21.1"
   },
   "configurableextramobdrops-1.21.1-3.6.jar": {
     "modId": "configurableextramobdrops",
@@ -429,9 +429,9 @@
     "modId": "eternal_starlight",
     "version": "0.4.3+1.21.1+neoforge"
   },
-  "exposure-neoforge-1.21.1-1.9.3.jar": {
+  "exposure-neoforge-1.21.1-1.9.4.jar": {
     "modId": "exposure",
-    "version": "1.9.3"
+    "version": "1.9.4"
   },
   "fancymenu_neoforge_3.5.0_MC_1.21.1.jar": {
     "modId": "fancymenu",
@@ -529,9 +529,9 @@
     "modId": "gamediscs",
     "version": "0.3.2-neoforge"
   },
-  "garnished-2.1.3.4+1.21.1-neoforged.jar": {
+  "garnished-2.1.3.5+1.21.1-neoforged.jar": {
     "modId": "garnished",
-    "version": "2.1.3.4"
+    "version": "2.1.3.5"
   },
   "geckolib-neoforge-1.21.1-4.7.5.1.jar": {
     "modId": "geckolib",
@@ -552,6 +552,10 @@
   "handcrafted-neoforge-1.21.1-4.0.3.jar": {
     "modId": "handcrafted",
     "version": "4.0.3"
+  },
+  "hazennstuff-1.2.0.jar": {
+    "modId": "hazennstuff",
+    "version": "1.2.0"
   },
   "Highlighter-1.21-neoforge-1.1.11.jar": {
     "modId": "highlighter",
@@ -612,6 +616,10 @@
   "Jade-1.21.1-NeoForge-15.10.0.jar": {
     "modId": "jade",
     "version": "15.10.0+neoforge"
+  },
+  "JadeAddons-1.21.1-NeoForge-6.1.0.jar": {
+    "modId": "jadeaddons",
+    "version": "6.1.0+neoforge"
   },
   "jamlib-neoforge-1.3.5+1.21.1.jar": {
     "modId": "jamlib",
