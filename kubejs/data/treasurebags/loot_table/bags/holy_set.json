@@ -94,7 +94,7 @@
                   {
                     "type": "generic.armor",
                     "id": "1747082024215",
-                    "amount": 7,
+                    "amount": 8,
                     "operation": "add_value",
                     "slot": "legs"
                   },
