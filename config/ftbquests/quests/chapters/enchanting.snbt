@@ -145,9 +145,8 @@
 			id: "5429DCF7C5A3EC97"
 			shape: "rsquare"
 			tasks: [{
-				id: "7619805808FB6D1D"
-				item: { count: 1, id: "minecraft:oak_log" }
-				type: "item"
+				id: "5AEF67BE7BA61DB9"
+				type: "checkmark"
 			}]
 			x: -7.0d
 			y: -0.5d
@@ -162,6 +161,15 @@
 			}]
 			x: -4.5d
 			y: -0.5d
+		}
+		{
+			id: "6B2BB3A3AAC179FE"
+			tasks: [{
+				id: "2E11C158DD5E8E3E"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 2.5d
 		}
 	]
 }

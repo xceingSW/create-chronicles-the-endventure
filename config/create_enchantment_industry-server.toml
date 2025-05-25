@@ -67,38 +67,6 @@
 		# Range: > 1000
 		printerFluidCapacity = 4000
 		#.
-		#Whether printing custom names (displayed in italics) should instead print as as item names (displayed in non-italics).
-		printingCustomNameAsItemName = false
-		#.
-		#The generation change when copying Written Books; a value of 1 will prevent copying copy of copy
-		# Default: -3
-		# Range: -3 ~ 1
-		printingGenerationChange = -3
-		#.
-		#The amount of liquid a Blaze Enchanter can hold (mB).
-		#[@cui:RequiresReload:server]
-		# Default: 4000
-		# Range: > 1000
-		blazeEnchanterFluidCapacity = 4000
-		#.
-		#The amount of liquid a Blaze Forger can hold (mB).
-		#[@cui:RequiresReload:server]
-		# Default: 4000
-		# Range: > 1000
-		blazeForgerFluidCapacity = 4000
-		#.
-		#The amount of liquid an Experience Lantern can hold (mB).
-		#[@cui:RequiresReload:server]
-		# Default: 1000
-		# Range: > 100
-		experienceLanternFluidCapacity = 1000
-		#.
-		#The amount of experience an Experience Lantern can drain from player per 0.5 ticks (mB).
-		#[@cui:RequiresReload:server]
-		# Default: 50
-		# Range: > 1
-		experienceLanternDrainRate = 50
-		#.
 		#If the printing of Written Books function of Printers should be enabled.
 		#[@cui:RequiresReload:server]
 		enableWrittenBookPrinting = true
@@ -123,6 +91,14 @@
 		#[@cui:RequiresReload:server]
 		enableCustomNamePrinting = true
 		#.
+		#Whether printing custom names (displayed in italics) should instead print as as item names (displayed in non-italics).
+		printingCustomNameAsItemName = false
+		#.
+		#The generation change when copying Written Books; a value of 1 will prevent copying copy of copy
+		# Default: -3
+		# Range: -3 ~ 1
+		printingGenerationChange = -3
+		#.
 		#The cost multiplier of printing Enchanted Books.
 		# Default: 1.0
 		# Range: 0.009999999776482582 ~ 100.0
@@ -130,6 +106,30 @@
 		#.
 		#Whether the Printer denylist prevents Enchanted Books from being copied.Setting this to false allows copying Enchanted Books without denied enchantments
 		printingEnchantedBookDenylistStopCopying = true
+		#.
+		#The amount of liquid a Blaze Enchanter can hold (mB).
+		#[@cui:RequiresReload:server]
+		# Default: 4000
+		# Range: > 1000
+		blazeEnchanterFluidCapacity = 4000
+		#.
+		#The amount of liquid a Blaze Forger can hold (mB).
+		#[@cui:RequiresReload:server]
+		# Default: 4000
+		# Range: > 1000
+		blazeForgerFluidCapacity = 4000
+		#.
+		#The amount of liquid an Experience Lantern can hold (mB).
+		#[@cui:RequiresReload:server]
+		# Default: 1000
+		# Range: > 100
+		experienceLanternFluidCapacity = 1000
+		#.
+		#The amount of experience an Experience Lantern can drain from player per 0.5 ticks (mB).
+		#[@cui:RequiresReload:server]
+		# Default: 50
+		# Range: > 1
+		experienceLanternDrainRate = 50
 		#.
 		#Whether the Experience Lantern will pull in experience orbs from nearby.
 		experienceLanternPullToggle = true
@@ -162,7 +162,7 @@
 		#Max enchantment level in Super Enchanting will be extended by this value
 		# Default: 1
 		# Range: 0 ~ 255
-		enchantmentMaxLevelExtension = 1
+		enchantmentMaxLevelExtension = 2
 		#.
 		#If Super Enchanting and Super Forging ignores enchantment compatibility
 		ignoreEnchantmentCompatibility = true

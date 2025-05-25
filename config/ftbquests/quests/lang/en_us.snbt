@@ -354,6 +354,8 @@
 		"Allows you to store enchantments that can then be transferred into an item."
 		""
 		"Only works with &bsuper enchantments&r that go beyond vanilla level 30+."
+		""
+		"&cIt can only store one enchantment at a time.&r"
 	]
 	quest.15F6FE3D9D8F8EFD.quest_subtitle: "Not repeatable"
 	quest.16BF82CCB4624E9C.quest_desc: [
@@ -596,7 +598,11 @@
 		""
 		"&6The Blaze Forger can strip enchantments from equipment, books and Enchanting templates into an Empty Enchanting Template. &r"
 	]
-	quest.24F854A847AE7722.quest_desc: ["Allows you to store enchanemtns to then be transfered into an item."]
+	quest.24F854A847AE7722.quest_desc: [
+		"Allows you to store enchantments to be later transferred into an item."
+		""
+		"&cIt can only store one enchantment at a time.&r"
+	]
 	quest.2506598B0A22BE75.quest_desc: [
 		"The &bMolecular Assembler&r is AE2's automatic crafting table, essential for all crafting pattern jobs. "
 		""
@@ -1740,6 +1746,16 @@
 	quest.6AFEDCF1CF22972F.quest_desc: ["Use your newly aquired arcane dust to make yourself some Magicians armor using it and iron armor at a smithing table."]
 	quest.6AFEDCF1CF22972F.quest_subtitle: "An early game source of &3additional mana"
 	quest.6B183EED87689D0E.quest_subtitle: "Help please"
+	quest.6B2BB3A3AAC179FE.quest_desc: [
+		"Imagine you have a piece of armor with an enchantment you really like and want to transfer it to another item. This can be done using the &6Blaze Forge.&r"
+		""
+		"Simply place your enchanted item and an &aEnchanting Template&r into the &6Blaze Forge&r. It will remove one random enchantment from the item and transfer it to the template."
+		""
+		"Each template can only store one enchantment at a time, so you'll need to repeat the process until you extract the enchantment you want."
+		""
+		"Depending on your enchantment level, you may need to use&b Super Enchanting&r to reapply it."
+	]
+	quest.6B2BB3A3AAC179FE.title: "&6Disenchanting Your Equipment"
 	quest.6B7CFD3808AB7DB1.title: "&cAdvanced Pyromancer Outfit"
 	quest.6B95EF7446936BCD.quest_subtitle: "You can repeat as many times you want!"
 	quest.6BA1A3DFE41ACB6A.quest_subtitle: "Not repeatable"
@@ -2123,6 +2139,7 @@
 	task.2253937F3806BE3D.title: "Are you sure? Don't be stupid."
 	task.25CF2279A5441A33.title: "Memory Card"
 	task.2C451A484DE8CB1B.title: "Quartz Cutting Knife"
+	task.2E11C158DD5E8E3E.title: "d"
 	task.356C92DD277FF662.title: "ME Portable Cell"
 	task.3D5C2226F8539904.title: "Dense Smart Cable"
 	task.3DC2851D386057E8.title: "ME Fluid Storage Cell"
@@ -2137,6 +2154,7 @@
 	task.554F69A27BBC5A76.title: "Craft a &bWater Pump"
 	task.585856CE2186DE81.title: "Crafting Storage"
 	task.59B37915ED9CA935.title: "&3Sounds interesting...."
+	task.5AEF67BE7BA61DB9.title: "Click to Acknowledge"
 	task.5E8BAFC4CC8E2FC7.title: "Crafting Monitor"
 	task.611993D53E1538E9.title: "Spatial Cell Component"
 	task.650AD081A386407A.title: "Click to Acknowledge"
