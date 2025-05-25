@@ -54,6 +54,27 @@
 	]
 	quest.026469F32F5639EB.quest_subtitle: "&aRetro Fun in a Blocky World"
 	quest.026469F32F5639EB.title: "&6🎮 My first console"
+	quest.02ABDDCDE6E1CCAE.quest_desc: [
+		"You might be wondering: what’s the limit for enchantment levels with &bSuper Enchanting&r?"
+		""
+		"It’s simple the &dmaximum level is usually the vanilla level + 2&r, when using &bSuper Enchanting.&r"
+		""
+		"&6&oFor example:&r&r Protection normally goes up to level &eIV in vanilla.&r &bWith Super Enchanting,&r you can reach &eProtection VI.&r"
+		""
+		"You probably know that in vanilla, you can combine Sharpness IV + IV in an anvil to get Sharpness V right?"
+		""
+		""
+		"&a&nTo go beyond that:&r&r"
+		"&a1)&r Transfer the Sharpness V book into a &bSuper Enchantment Template.&r"
+		""
+		"&a2)&r Then, use the &6Blaze Forger&r to combine two Sharpness V templates. This will create a Sharpness VI template."
+		""
+		"Repeat the process to keep increasing the level until you reach the max allowed."
+		""
+		""
+		"&l&6Pro tip:&r&r &7You can copy enchantment books using the Printer, and convert templates back into books if needed.&r"
+	]
+	quest.02ABDDCDE6E1CCAE.title: "&l&cMax Enchantments!&r&r"
 	quest.02DE3FA28CBAE857.quest_desc: ["The eye of a greedy king faded in solitude. Legend says it will bring infinite fortune to its owner"]
 	quest.02DE3FA28CBAE857.quest_subtitle: "Found in Pillager Outposts"
 	quest.03A09B606040AD2E.quest_subtitle: "Rare random drop from Blazes."
@@ -807,6 +828,16 @@
 	]
 	quest.3052F9967211F448.quest_subtitle: "Kill the Ender Dragon"
 	quest.3052F9967211F448.title: "&4End of All Things"
+	quest.30A49F7BE86E7B7D.quest_desc: [
+		"The &6Blaze Forger&r works like an anvil and is &6sensitive to the order of item placement&r if a recipe isn’t working, try reversing the order. &cIt matters!&r"
+		""
+		""
+		"To &aapply an enchantment&r from a book or template to an item, place the item first, then the enchanted book or template."
+		""
+		""
+		"To &bextract an enchantment&r into a template, place the &eEmpty Enchanting Template&r first, then the enchanted item."
+	]
+	quest.30A49F7BE86E7B7D.title: "&dPlacement Order Affects Results"
 	quest.30D5BC1EFA23D92E.quest_subtitle: "Not repeatable"
 	quest.3121D591D3807584.quest_subtitle: "Allows you to double jump"
 	quest.312D4E8EBE475538.quest_desc: [
@@ -1129,6 +1160,14 @@
 	quest.47F3B09688DFA1DC.quest_subtitle: "Tame one Illusionist Familiar"
 	quest.47F3B09688DFA1DC.title: "Illusionist Familiar"
 	quest.48503955A124184F.title: "&bHeavy Knight Outfit"
+	quest.485444C876FDECFF.quest_desc: [
+		"The way you locate structures has also changed you'll now need to &6buy special maps from the Market.&r "
+		""
+		"These maps work differently &ethey don’t guide you to the nearest location, but instead give you random coordinates&r for the structure you’re looking for."
+		""
+		"Because of that, buying more than one map might point you to different spots. That randomness is part of the challenge!"
+	]
+	quest.485444C876FDECFF.title: "&aFinding Structures with Maps"
 	quest.490B9CE61B5F7D4A.title: "&6Collect all the Game Discs"
 	quest.4919AEB1300D63B7.quest_subtitle: "From previous chapter"
 	quest.496C8280CF77787E.quest_subtitle: "Use coarse dirt to make mud."
@@ -1255,6 +1294,7 @@
 	quest.50B4EEBAF5CF3122.quest_subtitle: "Found in Jungle Pyramids"
 	quest.50CDAAB5AECA6B27.quest_subtitle: "opcional"
 	quest.50E7A4D14F2C485A.quest_subtitle: "Not repeatable"
+	quest.517A961E44115FE5.title: "teste2"
 	quest.51A4E097156A6DC1.quest_subtitle: "The wearer slightly heals from attacks"
 	quest.51E18D8B67394EC2.quest_desc: ["Hold the relic in your hand and step on a &6Sculk Sensor.&r"]
 	quest.51E19ACD3F0994BE.quest_desc: ["&3Rich Farmland&r is immune to trampling and automatically bone-meals anything planted on it when hydrated, effectively doubling growing speed! It even works with Saplings!"]
@@ -1646,6 +1686,14 @@
 	]
 	quest.64A2A85357384A51.title: "Spatial IO"
 	quest.64D7956A3E6681A5.quest_subtitle: "You already know how to make sulfur don't you?"
+	quest.64DF63794FBD1F2C.quest_desc: [
+		"&l&aThe Market &r&ris a central part of this pack. It allows you to access a shop filled with exclusive items that can’t be crafted or found anywhere else. These special items can only be purchased using Magic Coins, Boss Tokens, or Seal Tokens so make sure to hold onto them!"
+		""
+		"You can filter using the tabs on the left of Market."
+		""
+		"&aSkipping the Market means missing out on essential progression items, so don’t overlook it!&r"
+	]
+	quest.64DF63794FBD1F2C.title: "&6The Market – A Must Have!"
 	quest.65663D9E051280F2.quest_subtitle: "Increases the speed of ridden mounts"
 	quest.660C3D5CB407247F.quest_desc: [
 		"&l&cCheck Your Keybinds!&r&r"
@@ -1755,7 +1803,7 @@
 		""
 		"Depending on your enchantment level, you may need to use&b Super Enchanting&r to reapply it."
 	]
-	quest.6B2BB3A3AAC179FE.title: "&6Disenchanting Your Equipment"
+	quest.6B2BB3A3AAC179FE.title: "&l&6Disenchanting Your Equipment"
 	quest.6B7CFD3808AB7DB1.title: "&cAdvanced Pyromancer Outfit"
 	quest.6B95EF7446936BCD.quest_subtitle: "You can repeat as many times you want!"
 	quest.6BA1A3DFE41ACB6A.quest_subtitle: "Not repeatable"
@@ -1968,6 +2016,7 @@
 		"When using &6ink&r in the&6 Scroll Forge&r, it will allow you to craft a spell of the corresponding rarity, at the lowest level available. If the minimum rarity of a spell is higher than the ink provided, you will not be able to craft it at all, instead needing a higher quality ink to craft its first level."
 	]
 	quest.75813E7A5E88D3B8.quest_subtitle: "When used for Upgrade: &6+5% Spell Resistance"
+	quest.7587516549657E55.title: "teste1"
 	quest.75BD9E93A6143DC7.quest_desc: [
 		"A Rocket needs something to launch off of, so we'll need to make a &aLaunch Pad&r."
 		""
@@ -2130,8 +2179,10 @@
 	quest.7FF84508B3E0168F.title: "Subspace Bubble"
 	reward_table.173F5B7A61A12D48.title: "teste"
 	task.02603EEC37FE0012.title: "Glass Cable"
+	task.0A88BBBA01BD37FD.title: "Click to Acknowledge"
 	task.0B18DCF021EC9073.title: "ME Interface"
 	task.0BEEDF43E748F047.title: "Dense Covered Cable"
+	task.0F3183766102B3CA.title: "Click to Acknowledge"
 	task.184D02801FC28C38.title: "&6I'm so excited to play the pack"
 	task.186E974B0E4A0EF6.title: "Smart Cable"
 	task.1C2E3C609A8DFD6D.title: "Covered Cable"
@@ -2139,7 +2190,7 @@
 	task.2253937F3806BE3D.title: "Are you sure? Don't be stupid."
 	task.25CF2279A5441A33.title: "Memory Card"
 	task.2C451A484DE8CB1B.title: "Quartz Cutting Knife"
-	task.2E11C158DD5E8E3E.title: "d"
+	task.2E11C158DD5E8E3E.title: "Click to Acknowledge"
 	task.356C92DD277FF662.title: "ME Portable Cell"
 	task.3D5C2226F8539904.title: "Dense Smart Cable"
 	task.3DC2851D386057E8.title: "ME Fluid Storage Cell"
@@ -2153,8 +2204,10 @@
 	task.53C18716A59B10AC.title: "aa"
 	task.554F69A27BBC5A76.title: "Craft a &bWater Pump"
 	task.585856CE2186DE81.title: "Crafting Storage"
+	task.58CC3A8EEF79C291.title: "Click to Acknowledge"
 	task.59B37915ED9CA935.title: "&3Sounds interesting...."
 	task.5AEF67BE7BA61DB9.title: "Click to Acknowledge"
+	task.5C3C1B05DB934DC4.title: "Click to Acknowledge"
 	task.5E8BAFC4CC8E2FC7.title: "Crafting Monitor"
 	task.611993D53E1538E9.title: "Spatial Cell Component"
 	task.650AD081A386407A.title: "Click to Acknowledge"

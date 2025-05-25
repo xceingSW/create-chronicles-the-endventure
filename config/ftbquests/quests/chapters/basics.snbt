@@ -48,7 +48,7 @@
 			image: "kubejs:textures/wip.png"
 			rotation: 0.0d
 			width: 7.0d
-			x: 13.5d
+			x: 22.5d
 			y: 20.0d
 		}
 		{
@@ -136,8 +136,8 @@
 				item: { count: 1, id: "create_sa:andesite_jetpack_chestplate" }
 				type: "item"
 			}]
-			x: 12.5d
-			y: 16.0d
+			x: 19.0d
+			y: 18.5d
 		}
 		{
 			dependencies: ["7EF948B39FBEA377"]
@@ -1514,8 +1514,13 @@
 		}
 		{
 			id: "70078CDA548D3393"
-			x: 12.5d
-			y: 19.0d
+			tasks: [{
+				id: "171B4E4A2A7882C0"
+				item: { components: { "minecraft:rarity": "uncommon", "obtrophies:trophy_info": { entity: "eternal_starlight:tiny_creteor" } }, count: 1, id: "obtrophies:trophy" }
+				type: "item"
+			}]
+			x: 19.0d
+			y: 21.5d
 		}
 		{
 			id: "4825F052F03A5463"
@@ -1524,8 +1529,8 @@
 				item: { count: 1, id: "armoroftheages:holy_armor_head" }
 				type: "item"
 			}]
-			x: 12.5d
-			y: 18.0d
+			x: 19.0d
+			y: 20.5d
 		}
 		{
 			id: "7C68CB331F9E5212"
@@ -1534,8 +1539,8 @@
 				item: { components: { "apotheosis:gem": "apotheosis:overworld/royalty", "apotheosis:purity": "flawed" }, count: 1, id: "apotheosis:gem" }
 				type: "item"
 			}]
-			x: 12.5d
-			y: 17.0d
+			x: 19.0d
+			y: 19.5d
 		}
 		{
 			dependencies: ["06267D7C266DE215"]
@@ -1691,6 +1696,17 @@
 				type: "item"
 			}]
 			x: -11.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["64DF63794FBD1F2C"]
+			id: "485444C876FDECFF"
+			tasks: [{
+				id: "24463456EC55FF34"
+				item: { count: 1, id: "minecraft:map" }
+				type: "item"
+			}]
+			x: 11.0d
 			y: 20.0d
 		}
 	]
