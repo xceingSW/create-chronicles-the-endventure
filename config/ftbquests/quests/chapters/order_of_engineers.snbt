@@ -209,7 +209,7 @@
 				consume_items: true
 				count: 256L
 				id: "6C06CEBA98A6FE19"
-				item: { count: 1, id: "minecraft:beetroot" }
+				item: { count: 1, id: "culturaldelights:tortilla_chips" }
 				type: "item"
 			}]
 			x: -3.0d
@@ -231,7 +231,7 @@
 				consume_items: true
 				count: 256L
 				id: "0D641D200E5B5390"
-				item: { count: 1, id: "farmersdelight:mixed_salad" }
+				item: { count: 1, id: "culturaldelights:hearty_salad" }
 				type: "item"
 			}]
 			x: -1.5d
@@ -675,7 +675,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: 3.5d
+			y: 5.0d
 		}
 		{
 			can_repeat: false
@@ -870,11 +870,11 @@
 				consume_items: true
 				count: 256L
 				id: "47BCFE0C5D295E23"
-				item: { count: 1, id: "farmersdelight:fried_rice" }
+				item: { count: 1, id: "ubesdelight:ube_cake" }
 				type: "item"
 			}]
 			x: -1.5d
-			y: 5.0d
+			y: 3.5d
 		}
 		{
 			can_repeat: true

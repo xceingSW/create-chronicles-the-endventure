@@ -33,6 +33,13 @@
 	quest.008BB9099EFA03A0.quest_subtitle: "The Final Gatekeeper Awaits"
 	quest.008BB9099EFA03A0.title: "&dFace the Ender Guardian"
 	quest.00D7A88C4C686C02.quest_subtitle: "&3☠ Tier 6"
+	quest.00E7A8B5F17E3D4A.quest_desc: [
+		"&6Another Furniture&r adds various furniture blocks, all with the goal of staying vanilla-styled and consistently sized, keeping normal blocks and player sizes in mind."
+		""
+		"&d@another&r"
+	]
+	quest.00E7A8B5F17E3D4A.quest_subtitle: "Decorating your home just got better! "
+	quest.00E7A8B5F17E3D4A.title: "&6Another Furniture"
 	quest.01219DEB95032DC7.title: "&dShadow-Walker Outfit"
 	quest.016C498DFB704536.quest_subtitle: "Allows you to trade with villagers for much cheaper"
 	quest.01B1F88F57961B10.quest_desc: [

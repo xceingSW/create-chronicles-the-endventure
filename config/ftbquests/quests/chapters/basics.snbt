@@ -1743,6 +1743,7 @@
 			y: 21.0d
 		}
 		{
+			dependencies: ["05B32DE12868C6DE"]
 			id: "4B5810F5938DEA32"
 			rewards: [{
 				count: 2
@@ -1911,8 +1912,8 @@
 				item: { count: 1, id: "multibeds:sheet" }
 				type: "item"
 			}]
-			x: -27.5d
-			y: 20.0d
+			x: -29.0d
+			y: 21.0d
 		}
 		{
 			dependencies: ["1A39F6601A18F853"]
@@ -1923,7 +1924,7 @@
 				type: "item"
 			}]
 			x: -26.5d
-			y: 21.5d
+			y: 22.0d
 		}
 		{
 			dependencies: ["1A39F6601A18F853"]
@@ -1934,7 +1935,7 @@
 				type: "item"
 			}]
 			x: -27.5d
-			y: 22.0d
+			y: 22.5d
 		}
 		{
 			dependencies: ["1A39F6601A18F853"]
@@ -1945,7 +1946,7 @@
 				type: "item"
 			}]
 			x: -28.5d
-			y: 21.5d
+			y: 22.0d
 		}
 		{
 			dependencies: ["1A39F6601A18F853"]
@@ -1956,7 +1957,7 @@
 				type: "item"
 			}]
 			x: -28.5d
-			y: 20.5d
+			y: 20.0d
 		}
 		{
 			dependencies: ["1A39F6601A18F853"]
@@ -1966,8 +1967,24 @@
 				item: { count: 1, id: "multibeds:ladder_tools" }
 				type: "item"
 			}]
-			x: -26.5d
-			y: 20.5d
+			x: -26.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["5BAE6CD47D4ABF2D"]
+			id: "00E7A8B5F17E3D4A"
+			rewards: [{
+				id: "682878869805362B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "73AE43E62C2EE00E"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(another_furniture))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 15.100000000000001d
 		}
 	]
 }
