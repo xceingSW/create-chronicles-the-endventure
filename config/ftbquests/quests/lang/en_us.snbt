@@ -5,12 +5,13 @@
 	chapter.1B9B51E90A5A29A0.title: "&aMolten Vents and Renewables&r"
 	chapter.2385B4F2FA029016.title: "&eAlshanex's Familiars&r"
 	chapter.464FB437D5DF7824.title: "&dArtifacts"
-	chapter.4B6E4A0215F45FC0.title: " X&3The Otherside: &0Deeper and Darker"
+	chapter.4B6E4A0215F45FC0.title: "&3The Otherside: &0Deeper and Darker"
 	chapter.4F11D0F95BB94F2B.title: "Refined Storage"
-	chapter.50471206A7BA908F.title: "XEternal Starlight"
+	chapter.50471206A7BA908F.title: "Eternal Starlight"
 	chapter.576F6A1E4D30F4F2.title: "&l&aThe Endventure"
 	chapter.66515D165B519FE2.title: "&aGame Discs"
 	chapter.699146B31CBD0538.title: "&aEnchantment Industry&r"
+	chapter.734C4C2CDBC52F6C.title: "&6Sophisticated Storage"
 	chapter.784A6CC38A657526.title: "&bSimply Swords"
 	chapter_group.10BAE746B6F04D66.title: "Magic"
 	chapter_group.37AD19D80019787F.title: "Storage"
@@ -75,6 +76,11 @@
 		"&l&6Pro tip:&r&r &7You can copy enchantment books using the Printer, and convert templates back into books if needed.&r"
 	]
 	quest.02ABDDCDE6E1CCAE.title: "&l&cMax Enchantments!&r&r"
+	quest.02C5BA2428FADEAF.quest_desc: [
+		"&6Camera Stand&r securely holds your camera in place perfect for hands-free shots and timed photos."
+		""
+		"It can be powered by &credstone&r for remote activation and is even placeable in boats and minecarts for creative, dynamic shots!"
+	]
 	quest.02DE3FA28CBAE857.quest_desc: ["The eye of a greedy king faded in solitude. Legend says it will bring infinite fortune to its owner"]
 	quest.02DE3FA28CBAE857.quest_subtitle: "Found in Pillager Outposts"
 	quest.03A09B606040AD2E.quest_subtitle: "Rare random drop from Blazes."
@@ -91,7 +97,7 @@
 		"To configure, &2shift right-click&r with an empty hand and explore a wide array of options."
 	]
 	quest.0560F717010F1833.quest_subtitle: "right click into a tamed familiar to give him a stack of enraged (when getting hit, has a chance to consume a stack of enraged to gain heartstop for some seconds), limit 10 per familiar, dropped from Mooshrooms."
-	quest.058E04C43D9139A0.quest_desc: ["NNEED TO BE REVIEWED"]
+	quest.0562F21AA82B2961.quest_subtitle: "Craft any Diamond Chest type."
 	quest.05A39ED901BC6569.quest_subtitle: "Reduces the time of debuffs"
 	quest.05B32DE12868C6DE.quest_desc: [
 		"With your &ewooden pickaxe&r in hand, breaking stone is no longer a problem."
@@ -116,6 +122,7 @@
 		"These rare gems are not just for bragging rights; they’re used in powerful tools and machines."
 	]
 	quest.06267D7C266DE215.title: "&bShiny and Rare"
+	quest.065D5E33586CE44C.quest_desc: ["Apply your custom decoration at the table by inserting a paintbrush. Once applied, you can use the paintbrush directly on a chest without breaking it, instantly transferring the chosen style."]
 	quest.066B217CF45625F9.quest_subtitle: "&a☠ Tier 7"
 	quest.0730951B2B34EA50.quest_desc: [
 		"&6The Encased Mirror&r lets you change the direction of the Light Ray. "
@@ -190,6 +197,13 @@
 		"{ \"text\": \"☞ Click here to learn more.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"52034A3AD5A347C8\" } }"
 	]
 	quest.086223FF8861479F.title: "&aSuiting Up&r"
+	quest.08838CFB8BF290E5.quest_desc: [
+		"The &6Upgrade Base&r is the foundational component for crafting all the various upgrades for Sophisticated Storage."
+		""
+		"It serves as the essential starting point for enhancing your storage functionality and capacity."
+		""
+		"To explore all available upgrades, use JEI and type `&d@sophisticatedstorage upgrade&r`."
+	]
 	quest.089899282C7F87E4.quest_desc: [
 		"An important concept within AE2 is a technique known as \"&esubnetting&f\", wherein an extra separate ME network (a &esubnetwork&f) acts in conjuction with the main network to perform some specialised function or process."
 		""
@@ -229,6 +243,15 @@
 	]
 	quest.0AB740B18E5FA805.title: "Build a blast furnace"
 	quest.0AB78F7C8EC68C08.quest_subtitle: "Not repeatable"
+	quest.0AB9F56A501FEFED.quest_desc: [
+		"Photographs are printed using the &6Lightroom&r block from developed film, which requires a &elight source to function.&r"
+		""
+		"You can preview negatives to help choose the best exposure before printing."
+		""
+		"->&n Black and White prints&r require Paper and Black Dye."
+		""
+		"-> &nColor prints&r need Cyan, Magenta, and Yellow Dyes in addition to Paper."
+	]
 	quest.0ADF7E30D7F5B61E.quest_desc: [
 		"&cThe electricity system in this mod is exclusively for its own components and cannot be used with other mods.&r"
 		""
@@ -242,6 +265,14 @@
 		""
 		"So power up your &6workbench&r and start crafting the amazing furniture to decorate your house!"
 	]
+	quest.0BD070E54EF86FDA.quest_desc: [
+		"You can display items outside of chests to better organize your storage. For example, a food chest can display a carrot to indicate its contents."
+		""
+		"To do this, go to the settings of the chest and navigate to the Item Display Settings. Left-click on an item inside the chest to display it. The selected item will be marked with a border square. To remove the display, right-click on the square."
+	]
+	quest.0BD070E54EF86FDA.title: "Display labels"
+	quest.0C28D365031DFBB9.quest_desc: ["The &6diamond backpack&r is the upgrade of the &egold backpack&r. It has 108 storage slots and can hold 5 upgrades"]
+	quest.0C28D365031DFBB9.quest_subtitle: "Massive storage on the go"
 	quest.0C4974DE21CEDF4B.quest_desc: [
 		"&6Archaeology&r allows players to uncover hidden items inside &eSuspicious Sand&r and &eSuspicious Gravel&r."
 		""
@@ -285,6 +316,9 @@
 	quest.0D0A907FD6B9A21F.quest_subtitle: "Not repeatable"
 	quest.0DDCE73E115DCE86.quest_subtitle: "When used for Upgrade: &6+5% Evocation Spell Power"
 	quest.0E0532BA6E3FFEF9.quest_subtitle: "Allows you to drink items faster, but now with style!"
+	quest.0E10A137480D309E.quest_desc: ["The &6netherite backpack&r is the upgrade of the &ediamond backpack&r. It has 120 storage slots and can hold 7 upgrades"]
+	quest.0E10A137480D309E.quest_subtitle: "Insane storage on the go"
+	quest.0E2DD647FACCEE2A.quest_desc: ["&6Storage I/O&r combines the functionalities of both Storage Input and Storage Output into a single block. This allows items to be both inserted into and extracted from the network seamlessly."]
 	quest.0E5216DF2717D1DC.quest_subtitle: "Not repeatable"
 	quest.0EC55B2CACD070C2.quest_subtitle: "right click into a hunter familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Evoker Forts."
 	quest.0FF69526C1DC1593.quest_desc: ["Can be tamed with enchanted &cNetherite Chestplates&r. When tamed, they will occasionally drop enchanted books. "]
@@ -350,6 +384,13 @@
 	]
 	quest.136F140D9A3ED036.quest_subtitle: "Increases knockback from attacks"
 	quest.137CC533B864B25F.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.140ABE41794E9C33.quest_desc: [
+		"The &6Photo Album&r can hold up to 16 pages, each featuring a photograph and a short caption beneath it. "
+		"&a"
+		"You can place it on a&a Lectern &rfor display or store it in a &aChiseled Bookshelf&r like any regular book. "
+		""
+		"Once signed, the album gets a custom name and becomes uneditable, preserving your memories just the way you captured them."
+	]
 	quest.144A3346C18A992F.quest_desc: ["Flap with your bee, and avoid the pipes&e"]
 	quest.144A3346C18A992F.quest_subtitle: "Flap with SPACE or ENTER"
 	quest.144A3346C18A992F.title: "&eFlappy Bee"
@@ -424,7 +465,29 @@
 	quest.1912B53794E7EB02.quest_desc: ["These doors can be opened with hand but NOT redstone signals."]
 	quest.192C9C5B4F236448.quest_subtitle: "right click into a plague doctor familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Impaled Shipwrecks."
 	quest.192EE909C57F390A.quest_subtitle: "Rare chance of spawning after breaking an &8Ancient Vase&r."
+	quest.1A2605092B8B7F37.quest_subtitle: "Craft any Golden Chest type."
+	quest.1A39F6601A18F853.quest_desc: [
+		"&aMulti Beds&r lets you design the bed of your dreams — literally!"
+		""
+		"Customize every detail: choose from a wide range of patterns, textures, and colors to match your personal style or base aesthetic. Want to go further? You can even draw your own pixel art directly onto the bed, making it truly one-of-a-kind. Rest in style!"
+		""
+		"To get started, you'll need a &6Bed Kit.&r &dRight-click&r it to open the customization GUI. From there, you can choose the bed’s style and insert a block to define the texture used."
+		""
+		"&d@multi&r"
+	]
+	quest.1A39F6601A18F853.title: "&aMulti Beds"
 	quest.1ADACCB1A8BB9E7E.quest_subtitle: "An infinite steak"
+	quest.1B347195A701040C.quest_desc: [
+		"&6Blanket&r is one of the accessory items that can be added to a bed to customize it. (but not needed to use it)"
+		""
+		"These can be removed and changed at anytime. (swap by placing another, or sneak punch to remove all accessories) "
+		""
+		"When crafted it will be white, but can be quickly recolored with a single dye."
+		""
+		"For more customization click on a Loom with a blanket to open the Blanket Loom GUI"
+		""
+		"Note: A banner can also be use in place of a Blanket (sneak while placing to mirror pattern)"
+	]
 	quest.1B78054E61C50110.quest_desc: [
 		"Bee Nests house wild Bees! They can't be moved but produce &cHoneycomb&r, which can be used to craft a &eBeehive.&r"
 		""
@@ -464,6 +527,8 @@
 		""
 		"Changing the type of Polarization in the Optical Source can also have an effect on how the Light Ray interacts with this block so I encourage you to play around with this."
 	]
+	quest.1DDD74A012CDE699.quest_desc: ["The &6iron backpack&r is the upgrade of the basic &ebackpack&r. It has 54 slots and can hold 2 upgrades"]
+	quest.1DDD74A012CDE699.quest_subtitle: "Bigger storage on the go"
 	quest.1DDDE80A3D76DD30.quest_subtitle: "right click into a necromancer familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Ancient Battlegrounds."
 	quest.1E3C1257A1048B85.quest_desc: [
 		"Travel the desert"
@@ -487,7 +552,7 @@
 	quest.1F6BC8C2A5B8F9B2.quest_desc: [
 		"&c❤&r&a Thank you for playing The Endventure&r &c❤&r, a cozy and creative journey built around exploration, light automation, and flexible progression."
 		""
-		"&eIn this world, your ultimate goal if you choose to accept it  is to open the End Portal.&r But don’t be fooled… this is no easy task!"
+		"&eIn this world, your ultimate goal if you choose to accept it is to open the End Portal.&r But don’t be fooled… this is no easy task!"
 		""
 		"To activate it, you must collect &312 unique Ender Eyes&r, each crafted from 3 fragments tied to different challenges: combat, automation, and exploration."
 		""
@@ -554,6 +619,13 @@
 	]
 	quest.1FBE9C78798263F3.quest_subtitle: "Charge a Respawn Anchor to the maximum"
 	quest.1FC9B5F673D2BDD3.quest_subtitle: "Not repeatable"
+	quest.1FCC2D01626EF71E.quest_desc: [
+		"If you need to integrate storage from different areas into your main system, the &6Storage Link&r is your solution."
+		""
+		"Place it on any Sophisticated Storage multiblock, then use the &bStorage Tool&r to establish a connection to your&d Storage Controller&r. "
+		""
+		"By right-clicking the &dController&r with the &bTool&r and then the Link, you seamlessly connect separate storage units into one cohesive network."
+	]
 	quest.1FF26858DB8E88F8.quest_subtitle: "Obtain loot by breaking a vase."
 	quest.203CEDAC6E1CAB91.quest_subtitle: "&6+100 Max Mana"
 	quest.20BFB23E1ADDC3DF.quest_desc: [
@@ -607,9 +679,13 @@
 	quest.23D7FCA6FD1D3EA5.title: "&9Blocktris"
 	quest.2401A3C6E360DD00.title: "Did you lost it?"
 	quest.2475C6740BBD5273.quest_desc: [
-		"To enter the Starlight Dimension, find Portal Ruins in the Overworld and right-click the Gatekeeper to challenge them. After winning the duel, you'll receive the Orb of Prophecy. Use it on the portal to activate it, then step through to begin your journey."
+		"To enter the &bStarlight Dimension&r, find Portal Ruins in the Overworld, guarded by the &cGatekeeper&r. "
 		""
-		"d&5"
+		"&dRight-click&r the &cGatekeeper&r to challenge them."
+		""
+		"After winning the duel, you'll receive a bag containing the &aOrb of Prophecy.&r Use the Orb on the portal to activate it, then step through to begin your journey."
+		""
+		"&d@eternal&r"
 	]
 	quest.2497E4DD60E74225.quest_subtitle: "Not repeatable"
 	quest.24A56D98CF3ABB1B.quest_desc: [
@@ -698,6 +774,27 @@
 		"From here on out, things are only going to get more exciting."
 	]
 	quest.28B245505F91D21C.title: "The Age of Metal"
+	quest.2946E1B9B068C2F3.quest_desc: [
+		"Compacting Drawers, from a few other mods, automatically compacts nuggets into ingots."
+		""
+		"Using the &cCompacting Upgrade&r, you can do the same thing!"
+		""
+		"For any &b3x3&r recipes (like nuggets into ingots), you do need the &aAdvanced&r &cCompacting Upgrade&r."
+		""
+		"--->"
+		"{@pagebreak}"
+		"Once installed, the settings appear on the right side of the barrel, like any other upgrade."
+		""
+		"You should enable \"&6Compact anything&r\" and just like that, you compact anything!"
+		""
+		"&4&l&oNote:&r It isn't an exact replacement. For example, you can't UNcompact things directly inside the barrel. It only goes UP."
+		"&aNuggets -> Ingots -> Blocks&r"
+		"But not &dBlocks -> Ingots -> Nuggets&r"
+		""
+		"&4&l&oNote 2:&r It won't compact anything until new items enter it!"
+		""
+		"&e&lHappy Compacting!"
+	]
 	quest.29491A4A65DEDCDC.quest_subtitle: "Grants +5 Hearts"
 	quest.2965B8DD03DA1142.quest_subtitle: "&b☠ Tier 4"
 	quest.29A64A556C101D83.quest_desc: [
@@ -722,7 +819,9 @@
 	]
 	quest.2A844214CE94E140.quest_subtitle: "Tame one Bard Familiar"
 	quest.2A844214CE94E140.title: "Bard Familiar"
+	quest.2AA436F021EDDC48.quest_subtitle: "Craft any Diamond Shulker Box type."
 	quest.2AEF1BFD3C4C0F7A.quest_subtitle: "+20% spell resist, when equipped tamed familiars that fall below half health will get oakskin effect, crafted."
+	quest.2B4E5F59E5625ADF.quest_subtitle: "Craft any Iron Shulker Box type."
 	quest.2B619746DAF80A5E.quest_subtitle: "Gives a movement speed boost when taking damage"
 	quest.2BBCFC6BD1359852.quest_desc: [
 		"&cHeart Container&r"
@@ -740,6 +839,7 @@
 		""
 		"However, unlike regular cells, their contents can also be accessed standalone via the cell item itself, a bit like a digital ME-flavoured backpack."
 	]
+	quest.2C9E13E2196DC6D7.quest_subtitle: "x2"
 	quest.2CBF8CC3EB107804.quest_desc: [
 		"The &6Create: The Factory Must Grow &rmod introduces new energy and voltage mechanics to Minecraft! This update is still in progress, so if you encounter any issues, please report them directly to the TFMG Discord."
 		""
@@ -808,6 +908,7 @@
 	quest.2F40B3F9E34F9B1F.title: "Patterns"
 	quest.2F622A7B13D36360.quest_subtitle: "Not repeatable"
 	quest.2F8EAC597AB7E760.quest_subtitle: "Increases the wearer's swim speed"
+	quest.2F957F552CB5A245.quest_subtitle: "x16"
 	quest.3026C7FFA3B230FA.quest_desc: ["&3Processors&r are essential crafting ingredients used to make the majority of ME-connected devices."]
 	quest.30378E9E82826E3A.quest_subtitle: "Need more mana? This is needed for that upgrade."
 	quest.30513F4AD063919A.quest_desc: [
@@ -869,6 +970,7 @@
 	]
 	quest.32CEB5F5DA7E08E5.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
 	quest.32E0EEC3834F9846.quest_desc: ["&6Straw&r is an item which is made by either cutting plants with a &6knife&r on a Cutting Board, or harvesting plants with a &6knife&r."]
+	quest.32F8B69C66723910.quest_subtitle: "Craft any Iron Barrel type."
 	quest.334AF33B87A48816.quest_desc: [
 		"&bP2P&f (peer-to-peer) is a powerful system within AE2, allowing for the transfer of items, fluids and even more without the need for any intermediary ME storage."
 		""
@@ -877,12 +979,21 @@
 		"P2P tunnels must be linked to one another with the use of a &eMemory Card&f, detailed in the next quest."
 	]
 	quest.334AF33B87A48816.title: "P2P Tunnels"
+	quest.334FB21A2ED1C5ED.quest_desc: [
+		"Tired of items spilling everywhere when you break a chest?"
+		""
+		"&6Packing Tape&r is the solution! It lets you safely break chests without dropping their contents, making storage and relocation a breeze."
+	]
+	quest.33628061006314AB.quest_desc: ["The &6upgrade base&r is the main thing needed for each upgrade that you can use within the mod, it is used to craft every single upgrade"]
+	quest.33628061006314AB.quest_subtitle: "Getting the most out of your backpack"
 	quest.33EF47DF16D412B5.quest_desc: ["Has witnessed destruction. Maybe it also witnessed your stuff disappear"]
 	quest.33EF47DF16D412B5.quest_subtitle: "Dropped by The Wither"
 	quest.3409D29DC6A2360E.quest_subtitle: " right click into a tamed familiar to allow him to block attacks with a low chance, limit 1 per familiar, found in Blacksmith Structures."
+	quest.34174F45D62D0D6E.quest_subtitle: "Craft any Iron Chest type."
 	quest.343AB719F81DFC63.quest_desc: ["This pupil is believed to have seen the ancient brewing recipes that were lost in time."]
 	quest.343AB719F81DFC63.quest_subtitle: " Craft it using the witch pupil"
 	quest.3481C6DF7EF96590.quest_subtitle: "Not repeatable"
+	quest.3488B3847D0D01DC.quest_subtitle: "Craft any Netherite Chest type."
 	quest.34AB7EB1F6BF5457.quest_desc: ["Move your paddle, and don't let the ball get past you&f"]
 	quest.34AB7EB1F6BF5457.quest_subtitle: "Move the paddle with W and S"
 	quest.34AB7EB1F6BF5457.title: "&f Pong"
@@ -894,6 +1005,38 @@
 		"The last component 256k, provides &e262144&f bytes of storage."
 	]
 	quest.35029D28522C7A28.title: "Creating your first Storage Cell"
+	quest.354794C26084872F.quest_desc: [
+		"&6Expure &rlets you take photos in a realistic and immersive way or even upload your own custom images!"
+		""
+		"To get started, you’ll need a &eCamera&r. Using it is easy:"
+		"Load a roll of film, look through the viewfinder, frame your shot, and press right-click to take a photo."
+		""
+		"&nWhile sneaking&r, right-click with the camera to open the &eAttachments Menu&r. From here, you can:"
+		""
+		"-> &fLoad Film&r"
+		""
+		"-> &fEquip a Flash&r (use a Redstone Lamp)"
+		""
+		"-> &fAttach a Lens&r (Spyglass)"
+		""
+		"-> &fAdd a Filter&r (Glass Pane)"
+		""
+		"&nWhen looking through the viewfinder&r, you can also customize camera settings by sneaking:"
+		""
+		"-> &fShutter Speed&r (brightens or darkens the image)"
+		""
+		"-> &fComposition Guides&r"
+		""
+		"-> &fSelf Timer&r Off/1/2/5/10 seconds - (when ticking, nearby entities will be attracted by the noise, and will look at the camera)"
+		""
+		"-> &fFlash Mode&r on/off/auto (if installed)"
+		""
+		"For those iconic selfies, just press &bF5&r to switch the camera to &nSelfie Mode&r."
+		""
+		""
+		"&d@exposure&r"
+	]
+	quest.354794C26084872F.title: "&eCapturing the Moment: Expure Photography&r"
 	quest.3570097E250F33B0.quest_desc: ["Craft an &6Unidentified Artifact&r from Shards. Now the identifying begins!"]
 	quest.357E9B952643A99D.quest_desc: [
 		"&6Arcane essence&r is the most common and most important magical material."
@@ -948,13 +1091,26 @@
 	quest.37F39A63C0C2934F.quest_subtitle: "Found in Igloos"
 	quest.383DED27F9FC984B.quest_subtitle: "&6+15% Mana Regeneration"
 	quest.383E2DEB48E19246.quest_subtitle: "&4☠ Tier 3"
+	quest.38B254719B73C3C0.quest_desc: [
+		"&6Embroidery Thread&r is used to add custom artwork onto a blanket or even a banner on your bed."
+		""
+		"Right-click a bed with the thread in hand to open the embroidery GUI, where you can apply or remove designs. Choose from several built-in images, or unleash your creativity and draw your own! These designs can even be shared and reused by other players."
+		""
+		"Each time you apply embroidery, some of the thread is consumed. Once the spool runs out, it can’t be used until refilled. Luckily, you can easily craft a damaged spool with fresh thread to top it up again."
+	]
 	quest.391E94F1938AC865.quest_subtitle: "&6+15% Spell Resistance"
 	quest.3921087D564A6659.quest_desc: [
 		"To create an &6Arcane Crystal Obelisk&r, place down an &2Arcane Polished Darkstone block&r, then place two &2Arcane Crystal Blocks&r on top of it."
 		""
 		"Right-click with &4Mundabitur Dust&r and you'll create the obelisk."
 	]
+	quest.396DA8B3E8A23C6D.quest_subtitle: "Upgrades a Iron tier to gold tier."
 	quest.39AD4C222874D63F.quest_subtitle: "Increases the user's invulnerability frames after taking a hit (1s)"
+	quest.39EF0966EB556EF0.quest_desc: [
+		"Because Pillow Cases, Sheets, and Blankets can be swapped at any time &6Bedding Package&r enables the creation of sets."
+		""
+		"Using it on a bed will swap its contents with whats already on the bed."
+	]
 	quest.3A00CAE9E315BFE7.quest_subtitle: "Not repeatable"
 	quest.3AB3B4308FA14C9E.quest_desc: [
 		"To make Bauxite you must use &a5 Mechanical Crafters&r. There’s various ways you can do this such as using a Mechanical Arm to place the items in their correct slots. "
@@ -986,7 +1142,15 @@
 	quest.3BC1492D43F6B120.quest_desc: ["It is told that it was forged by the first blacksmiths of time"]
 	quest.3BC1492D43F6B120.quest_subtitle: "Found in Mineshafts"
 	quest.3BC3FE0A42564D1D.title: "Chocolate do Create"
+	quest.3BFAF2034D6C99BC.quest_desc: [
+		"The &6Storage Controller&r allows you to manage multiple storages as if they were one large storage multiblock."
+		""
+		"Containers placed directly next to each other form this \"storage network.\" Simply right-click the &6Storage Controller&r with an item, and it will be efficiently sorted into the appropriate container within the network."
+		""
+		"Additionally, the &6Storage Controller&r can connect wireless to any storage link within a &n&crange of 15 blocks.&r&r"
+	]
 	quest.3CBDB45D65737212.quest_subtitle: "Found by stepping on Infested Sculk"
+	quest.3CE1281049B4B14B.quest_subtitle: "x16"
 	quest.3D0F9F9B2B945E7A.quest_subtitle: "Harness the power of &bfrost&r. Increased &bfrost spell power&r or &barmor&r."
 	quest.3D0F9F9B2B945E7A.title: "&b&lSchool of Ice"
 	quest.3D1AC201E82A3A87.quest_desc: [
@@ -1056,6 +1220,7 @@
 		"The ink determines the rarity/level, and the focus determines what school of spells you can craft."
 	]
 	quest.3E6E9C53FBE836FB.quest_subtitle: "Making Spells"
+	quest.3E7413B4D1A55B58.quest_subtitle: "Craft any Golden Shulker Box type."
 	quest.3E9FA4241DD2A49F.quest_desc: [
 		"Items are not the only things that can be stored in ME cells. &bME Fluid Storage Cells&f can store liquids such as water, lava and any variety of modded oils and fuels, just to give a few examples."
 		""
@@ -1066,6 +1231,8 @@
 	quest.3E9FA4241DD2A49F.title: "Fluid Storage"
 	quest.3F0D2D8C1CFD1F2A.quest_subtitle: "Applies an infinite invisibility I, making you less noticeable to mobs"
 	quest.3F0E651F191CD81F.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.3F565733F3E8BEBD.quest_subtitle: "x4"
+	quest.3F7E6AE9B71BCE7E.quest_subtitle: "x8"
 	quest.3F83272A3D958DAB.quest_desc: ["Arguably the most important resource you will need next is &eFluix&f, used throughout the vast majority of AE2 devices and serving as a base for crafting all of the cabling within an ME network."]
 	quest.3F83272A3D958DAB.title: "Fluix Crystal"
 	quest.401AFF46C83AAEB8.quest_subtitle: "Collect Dragon's Breath in a Glass Bottle."
@@ -1078,6 +1245,13 @@
 	quest.409E9857A7494319.quest_subtitle: "Allows walking on powdered snow and makes ice less slippery"
 	quest.40B15BEB0A7D4755.quest_desc: ["The Wrench is used to rotate blocks already placed in the world."]
 	quest.40E256F7660DF8A9.quest_subtitle: "can be used to store and release multiple familiars at the same time, crafted."
+	quest.41329FF8F96017A9.quest_desc: [
+		"The &eBasic Tier Upgrade&r is the entry-level upgrade for&6 Sophisticated Storage&r. "
+		""
+		"&aIt allows you to convert all your vanilla chests, barrels, and shulker boxes into \"Sophisticated Storage\" versions. &r"
+		""
+		"Upgrade your vanilla storage to unlock the advanced features and benefits of Sophisticated Storage."
+	]
 	quest.41338251AEE28EE2.quest_subtitle: "right click into a tamed familiar to boost his health permanently, limit 10 per familiar, crafted."
 	quest.419327E6573538F7.quest_desc: [
 		"Chalk allow you to drawk marks for easier navigation in the caves or structures it comes in all colors."
@@ -1092,6 +1266,7 @@
 		"  - You can draw glowing mark with Chalk Box by adding glowing items in a spacial slot."
 	]
 	quest.419A16655447AA92.quest_subtitle: "Provides an infinite night vision effect"
+	quest.41E439ED3FAAAA94.quest_subtitle: "Craft any Netherite Shulker Box type."
 	quest.422A888D3F7C4665.quest_subtitle: "When used for Upgrade: &6+5% Fire Spell Power"
 	quest.4256AD377F068FF4.quest_desc: [
 		"The &bCell Workbench&f allows for cells to be \"partitioned\" to hold specific items, i.e. given a whitelist filter. It also allows the cell to be upgraded with certain upgrade cards such as the Inverter Card, which sets the aforementioned whitelist to be a blacklist instead."
@@ -1100,6 +1275,13 @@
 	]
 	quest.4361924DE50C207E.title: "&5Advanced Electromancer Outfit"
 	quest.438AFB85E4605DF6.quest_desc: ["It's not recommended to use &bIndustrial Fan&r to make this as it doesn't work on belts and depots for some reason, but you can use a smart chute to make it work if you want."]
+	quest.439A7468E448EAE1.quest_desc: [
+		"The &6Photograph Frame&r is a fancy way to display your pictures, available in three sizes: 1x1, 2x2, and 3x3. "
+		""
+		"It works similarly to paintings, automatically filling all the space it can but unlike paintings, it can also be placed on the floor or ceiling. "
+		""
+		"You can use a &bGlow Ink Sac&r to make it shine, and there’s even a glass variant where the photograph fully covers the space, making the frame itself invisible."
+	]
 	quest.43B06E3FFE5FE8EB.quest_subtitle: "Harness the power of the &dshadows&r. Increased &dshadow magic spell power&r or &darmor&r."
 	quest.43B06E3FFE5FE8EB.title: "&d&lSchool of Ender"
 	quest.43E5907E27844D18.quest_desc: [
@@ -1114,7 +1296,11 @@
 		"Matter Balls in a Matter Cannon can be substituted with &bPaint Balls&f, which will apply a paint splatter effect on the face of whatever block being fired at. &bLumen Paint Balls&f are a variant of paint balls exclusively used by the Matter Cannon, whose paint splatters also give off some light once present in the world."
 	]
 	quest.43E5907E27844D18.title: "The... Weapons?"
-	quest.44937B2D2EB38094.quest_desc: ["Used to negate the darkness in &8&lThe Otherside."]
+	quest.44937B2D2EB38094.quest_desc: [
+		"After defeating the Warden, you can now craft the &aWarden Helmet&r by combining a Netherite Helmet with &2Reinforced Echo Shards&r in the Smithing Table."
+		""
+		"This helmet is crucial for exploring &8&lThe Otherside&r, as it negates the effects of darkness in that dimension."
+	]
 	quest.44A8B31CD719B906.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
 	quest.44B16905ABBF3A52.quest_subtitle: "Grant &6Fire Immunity"
 	quest.44CFD2F48C7AA908.quest_desc: ["Tree Fertilizer can grow Saplings instantly regardless of their spacing conditions. "]
@@ -1134,6 +1320,7 @@
 		""
 		"{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1DB562D431DB8D96\" } }"
 	]
+	quest.46BFA878FE03C07E.quest_subtitle: "Craft any Iron Limited Barrel I type."
 	quest.4706B7F09A2BFC25.quest_subtitle: "nipa farm"
 	quest.474856183F5F8BE8.quest_desc: ["Rotates blocks and mobs standing on it"]
 	quest.478DE12D3EF8C22A.quest_desc: [
@@ -1159,6 +1346,16 @@
 	]
 	quest.47F3B09688DFA1DC.quest_subtitle: "Tame one Illusionist Familiar"
 	quest.47F3B09688DFA1DC.title: "Illusionist Familiar"
+	quest.48042EA601D85309.quest_subtitle: "x++"
+	quest.4841CC6210CD8413.quest_desc: [
+		"&6Tape measure&r can measure the distance between positions."
+		""
+		"You can start measuring by &dright-clicking&r on a block once."
+		""
+		"Then moving to the second position and &dright-clicking&r the block on that position."
+		" "
+		"If you want to get rid of the measurements you &dshift-right click&r the ground."
+	]
 	quest.48503955A124184F.title: "&bHeavy Knight Outfit"
 	quest.485444C876FDECFF.quest_desc: [
 		"The way you locate structures has also changed you'll now need to &6buy special maps from the Market.&r "
@@ -1171,6 +1368,7 @@
 	quest.490B9CE61B5F7D4A.title: "&6Collect all the Game Discs"
 	quest.4919AEB1300D63B7.quest_subtitle: "From previous chapter"
 	quest.496C8280CF77787E.quest_subtitle: "Use coarse dirt to make mud."
+	quest.4980B1E559CB90C6.quest_subtitle: "Upgrades a Diamond tier to netherite tier."
 	quest.4A1D33BF381320FD.quest_subtitle: "Affinity Rings are randomly generated as loot, and will boost the level of a select spell by one. This effect can stack. Spell can be set in the Arcane Anvil using a scroll."
 	quest.4A23A110747B9775.quest_subtitle: "Not repeatable"
 	quest.4A4514326874FFB4.quest_desc: ["Captures small mobs like chickens"]
@@ -1194,6 +1392,18 @@
 		"The second function of a memory card is to link &eP2P tunnels&f together. When doing so, the P2P tunnel being linked will be assigned a unique ID, which is stored on the memory card for further linking."
 	]
 	quest.4B558B16C458E141.quest_subtitle: "Not repeatable"
+	quest.4B5810F5938DEA32.quest_desc: [
+		"This mod adds animated &aWind Chimes&r that not only produce relaxing ambient sounds, but also serve a functional purpose they &crepel Phantoms&r! As long as you're near a chiming &aWind Chime,&r those night terrors will stay away."
+		""
+		"Some chimes can be toggled by crouching and right-clicking with an empty hand, allowing you to &etie or untie&r them to control their protective effect."
+		""
+		"&n&9Customization Tip:&r&r"
+		"&bGlass Wind Bells&r can be customized by placing dyes above or below them in a crafting table. Want to remove the color? Just right-click the bell on a water source block."
+		""
+		"&d@chimes&r"
+	]
+	quest.4B5810F5938DEA32.quest_subtitle: "Bring calm to your world with the soothing tones of &dWind Chimes&r!"
+	quest.4B5810F5938DEA32.title: "&bThe Sound of Peace&r"
 	quest.4B630597BCFA97AC.quest_desc: [
 		"The &5ender dragon&r is a giant flying hostile boss mob found when first entering &5the End&r. It is the largest naturally spawning mob in the game. "
 		""
@@ -1208,7 +1418,47 @@
 		""
 		"When it is re-summoned, the four end crystals point to the tops of each pillar setting off a series of explosions that resets the obsidian pillars, iron bars, and end crystals."
 	]
+	quest.4B6BE37E7C57BD00.quest_desc: [
+		"&6Film rolls&r are loaded into a Camera to store your exposures."
+		""
+		"Each roll can hold up to 16 frames. To capture an image, you’ll need to expose light-sensitive film."
+		""
+		"You can choose between basic black and white film, which is simple to use, or color film, which is more complex to craft and develop but rewards you with vibrant, full-color photos."
+		""
+		"You can also rename the film by &dright click&r."
+	]
+	quest.4B6BE37E7C57BD00.title: "Film rolls "
 	quest.4BC65D4005C17D9F.title: "&5Electromancer Outfit"
+	quest.4BC707D6FBE8FF09.quest_desc: [
+		"&eLimited Barrels&r come in different formats: I, II, III, and IV. "
+		""
+		"These formats represent the number of individual items each barrel can hold. "
+		""
+		"Limited Barrels can store a large amount of items and function similarly to drawers, providing efficient and organized storage solutions for your inventory needs."
+		""
+		"&n&bInteraction Instructions:&r&r"
+		""
+		"&aSingle Right Click:&r Deposit your items."
+		""
+		"&aDouble Right Click: &rDeposit all items in your inventory."
+		""
+		"&aLeft Click:&r Retrieve one item."
+		""
+		"&aShift Left Click:&r Retrieve one stack of items."
+		""
+		"You can use Limited Barrels as filters! To use a Limited Barrel as a filter, cycle your &6storage tool&r to &7Locking/Unlocking&r mode, then right-click on the barrel to apply a lock. A lock icon will appear on the barrel Next, place an item inside, for exemple an Iron Nugget. The barrel will only accept Iron Nuggets even if it goes empty or has an Andesite Funnel as input. This way, the Limited Barrel functions as a filter that also stores items inside."
+		""
+		"Another option is to use the barrel settings. Go to the settings of the barrel, navigate to the slot memory settings, and click to memorize that slot. Note that you must have at least one item inside to enable the memory function."
+		""
+		"Both methods ensure the Limited Barrel functions as a filter that also stores items inside."
+	]
+	quest.4BCF0C28B6C31364.quest_desc: [
+		"&6Pillow Case&r is one of the accessory items that can be added to a bed to customize it. (but not needed to use it)"
+		""
+		"These can be removed and changed at anytime. (swap by placing another, or sneak punch to remove all accessories) "
+		""
+		"When crafted it will be white, but can be quickly recolored with a single dye, or by using a combination of dyes you have four thousand and ninety six colors available. You can also wash off the dye by clicking on a filled Cauldron."
+	]
 	quest.4BEC405C5EC58218.quest_desc: [
 		"The &bME Level Emitter&r emits a redstone signal based on the quantity of a specific item in the network. It activates when the item count falls below, exceeds, or matches the set quantity. "
 		""
@@ -1224,6 +1474,12 @@
 	quest.4CCA16E6E4070E37.quest_subtitle: "Explore the moon"
 	quest.4CCA4CC40699E202.quest_subtitle: "right click into a druid familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Jungle Temples."
 	quest.4CCAD1EBB977DF2E.quest_subtitle: "Press CTRL while airborne to perform a short and slow glide"
+	quest.4CED308848726E28.quest_desc: [
+		"Using EITHER the &6Magnet Upgrade&r or the &6Pickup Upgrade&r, you can make it so any item you pick up goes straight into your backpack!"
+		""
+		"Great for pairing with &6Stack Upgrades&r, &6Void Upgrades&r, and going strip mining!"
+	]
+	quest.4CED308848726E28.quest_subtitle: "Make the Backpack do the work"
 	quest.4D308AD544372410.quest_subtitle: "When used for Upgrade: &6+5% Lightning Spell Power"
 	quest.4D38017F83D30E13.quest_subtitle: "Damages attackers similar to the Thorns enchantment"
 	quest.4D82E252D1E6B5B6.quest_subtitle: "Not repeatable"
@@ -1260,6 +1516,7 @@
 		""
 		"It can also name items, copy train schedules, clipboards, change packages addresses and more. Use Jei to look up printing recipes. "
 	]
+	quest.4E22392BDC9FF135.quest_subtitle: "Craft any Netherite Barrel type."
 	quest.4E256AAA75ECF41E.quest_desc: ["After defeating the &0Wither&r, use the &eNether Star&r to craft a &cBeacon&r and place it to claim your reward."]
 	quest.4E2CDE150137F5E9.quest_desc: [
 		"To make it, combine a &bRunic Tablet&r with a &cEmpowered Remnant&r in a Smithing Table."
@@ -1279,8 +1536,18 @@
 		""
 		"Another alternative is to set up an amethyst farm in your base without the need to find a cluster. You can use an&d amethyst golem&r from Ars Nouveau for this purpose."
 	]
+	quest.4ED95F3B0F17AEBA.quest_desc: [
+		"And finally you have your photograph, a captured moment in time! Now it's time to admire the result."
+		""
+		"Can be placed in a &6Photograph Frame&r, &6Photo Album&r or shared with friends."
+		""
+		"Aged Photograph is created by crafting Photograph with Brown Dye and Brush."
+		""
+		"Photographs can be stacked by right-clicking a Photograph or Stacked Photographs with another Photograph."
+	]
 	quest.4F734FC470276106.quest_subtitle: "Applies a temporary haste effect after eating food"
 	quest.4FDAFBD64AA710A1.quest_subtitle: "Increases experience dropped by mobs"
+	quest.4FE2B38F21E965E8.quest_subtitle: "x3"
 	quest.4FF456152213D0AF.title: "&dVoidwalker Outfit"
 	quest.5037AA2541E439E5.quest_subtitle: "&3☠ Tier 6"
 	quest.509BB6BF39848F5B.quest_desc: [
@@ -1298,6 +1565,8 @@
 	quest.51A4E097156A6DC1.quest_subtitle: "The wearer slightly heals from attacks"
 	quest.51E18D8B67394EC2.quest_desc: ["Hold the relic in your hand and step on a &6Sculk Sensor.&r"]
 	quest.51E19ACD3F0994BE.quest_desc: ["&3Rich Farmland&r is immune to trampling and automatically bone-meals anything planted on it when hydrated, effectively doubling growing speed! It even works with Saplings!"]
+	quest.51ECBE8030E9D801.quest_subtitle: "Craft any Diamond Limited Barrel I type."
+	quest.52092833009BDC49.quest_subtitle: "Craft any Diamond Barrel type."
 	quest.5236164BE64893D2.quest_desc: [
 		"&bSpatial Storage Cells&f are used to hold one defined volume each, and come in three different capacities allowing for a maximum of 2x2x2, 16x16x16 and 128x128x128 blocks' worth of space."
 		""
@@ -1305,6 +1574,7 @@
 		""
 		"From then on, any blocks contained either within the cell's region of space or in an SCS with the same size as the one used for the initial encoding can be moved back into the overworld or into the spatial dimension respectively. If there are blocks both within the spatial region and within the SCS, these will simply swap places accordingly."
 	]
+	quest.5261190FDCE5314D.quest_subtitle: "x++"
 	quest.52E5DCC3089180F3.quest_subtitle: "Use to reduce the cooldown"
 	quest.52E7496E0A9118F6.quest_desc: [
 		"To connect the vast majority of your ME network together, you will need some cable. &eME Glass Cable&f is the first and most basic kind of cable, and you'll be making this all throughout as the first step towards crafting the other kinds of cable."
@@ -1318,6 +1588,22 @@
 		"As a rule of thumb, any device that more or less handles ME data directly (items stored within the network) and carries out some form of I/O will take up a channel. Usually components that are only concerned with the internal power storage of the network, like &eEnergy Cells&f do &onot&r take up channels."
 	]
 	quest.52E7496E0A9118F6.title: "Basic Cabling"
+	quest.53084CB2BEA9253E.quest_desc: [
+		"The Storage Tool is an essential core tool of the Sophisticated Storage mod, designed to streamline your storage management."
+		""
+		"&nInstructions:&r"
+		""
+		"&6Shift Scroll:&r Change mode."
+		""
+		""
+		"&nModes:&r"
+		""
+		"&aLinking:&r Right-click the Controller to start linking, then right-click storages or Storage Links to connect them. To unlink, shift right-click in the air to enter unlink mode, then select the green connection you want to remove."
+		""
+		"&aLocking:&r Right-click a storage or Controller to lock/unlock either a single storage or all connected storages."
+		""
+		"&aToggling Visibility:&r Right-click a storage or Controller to toggle the visibility of locks and item counts."
+	]
 	quest.5391C1240C677127.quest_subtitle: "When used for Upgrade: &6+5% Cooldown Reduction"
 	quest.5399B06BD0D95CAE.quest_subtitle: "☠ Tier 1"
 	quest.53C9B66BEC667ED0.quest_desc: [
@@ -1407,6 +1693,13 @@
 	]
 	quest.569EEAB237D75495.quest_subtitle: "Not repeatable"
 	quest.56F1F049F20B29A7.title: "&aArchevoker Outfit"
+	quest.574BACFBD270FD8F.quest_desc: [
+		"If you need to integrate storage from different areas into your main system, the &6Storage Link&r is your solution."
+		""
+		"Place it on any Sophisticated Storage multiblock, then use the &bStorage Tool&r to establish a connection to your&d Storage Controller&r. "
+		""
+		"By right-clicking the &dController&r with the &bTool&r and then the Link, you seamlessly connect separate storage units into one cohesive network."
+	]
 	quest.57FCF653EDA81DE0.quest_subtitle: "use a beacon to convert it"
 	quest.580F889F027A87FE.quest_desc: [
 		"The &bME IO Port&f allows for the contents of an ME network's storage to be quickly rearranged between different storage media such as ME cells and external containers connected to storage buses."
@@ -1454,6 +1747,7 @@
 	quest.59B3E2C267D8B567.quest_subtitle: "Hold the Dragon Egg"
 	quest.59B3E2C267D8B567.title: "Obtain a Dragon Egg"
 	quest.59BCE0313DEEC492.quest_subtitle: "Not repeatable"
+	quest.59E937483DE3A78D.quest_subtitle: "Upgrades a Basic storage to iron tier."
 	quest.59EB1027C6C9B043.quest_subtitle: "☠ Tier 1"
 	quest.59F5E3351D772A63.quest_subtitle: "&6+10% Eldritch Spell Power&r, Passive Ability (5s cooldown):Deal extra damage to creatures based on their maximum mana"
 	quest.5A27BA1E5C692EB1.quest_desc: [
@@ -1464,6 +1758,8 @@
 		"Wireless terminals can also be upgraded with &eEnergy Cards&f to provide a larger internal battery."
 	]
 	quest.5A2F0B2712D9C667.quest_subtitle: "Applies fortune to mined blocks"
+	quest.5A52E77204B42646.quest_desc: ["The &6gold backpack&r is the upgrade of the &eiron backpack&r. It has 81 storage slots and can hold 3 upgrades"]
+	quest.5A52E77204B42646.quest_subtitle: "Even bigger storage on the go"
 	quest.5AA39CCAEED433CA.quest_desc: [
 		"{image:kubejs:textures/familiars/hunter.png width:100 height:127 align:center}"
 		"&l&6Battle:&r&r specialized in attacking enemies with arrows, combined with swift moves."
@@ -1524,11 +1820,14 @@
 	]
 	quest.5BAE6CD47D4ABF2D.quest_subtitle: "Create with style"
 	quest.5BAE6CD47D4ABF2D.title: "Decoration and Building Options."
+	quest.5BC526ACC0046B20.quest_desc: ["With the &6Inception Upgrade&r, you can put backpacks in your backpacks!"]
+	quest.5BC526ACC0046B20.quest_subtitle: "Backs on Backs on Backs"
 	quest.5BCF209E014D37E6.quest_desc: ["The &bME Smart Cable&f and &bDense Smart Cable&f function identically to the covered cables in terms of channel distribution, but will also visibly display the amount of channels they are using as coloured lines along themselves."]
 	quest.5BCF209E014D37E6.title: "Advanced Cabling"
 	quest.5BF082062143531B.title: "&2Plagued Outfit"
 	quest.5C38AF82CEFB8015.quest_subtitle: "Rare random world loot."
 	quest.5C63E2E0D537CF6B.quest_subtitle: "+50 max mana, when equipped tamed familiars that fall below 25% health willl get invisibility effect, crafted."
+	quest.5CDB898FBFF026F2.quest_subtitle: "Upgrades a Gold tier to a diamond tier."
 	quest.5D03D736B9E76E16.quest_desc: [
 		"The Spatial Containment Structure (SCS) consists of a cage of &bSpatial Pylons&f covering the volume you wish to enclose in a Spatial IO cell. At the absolute minimum, an SCS requires three lines of spatial pylon blocks, one for each dimension of the space being contained (length, width, height)."
 		""
@@ -1593,6 +1892,16 @@
 	quest.5F7FBCB758D54981.quest_subtitle: "Grants &6freezing immunity."
 	quest.5F8B17F4A8CF47C7.quest_desc: ["{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"52BB4427D9F5163D\" } }"]
 	quest.5F9DC6A4D253217D.quest_desc: ["Keep the relic in your inventory and get inflicted with &6Darkness.&r Wait briefly for the transformation."]
+	quest.5FA9D6B1B66399AC.quest_desc: [
+		"The &8Furnace Upgrade&r, &8Smoking Upgrade&r, and &8Blasting Upgrade&r allow you to smelt stuff in your backpack!"
+		""
+		"The &6Crafting Upgrade&r gives you a crafting table anywhere you have your backpack."
+		"Same with the &6anvil&r, and &6stonecutter upgrades&r!"
+		""
+		"There is also &bChipped Mod&r table integration! You can make the &bChipped&r &6Upgrade&r to take your &bChipped Tables &ranywhere!"
+	]
+	quest.5FA9D6B1B66399AC.quest_subtitle: "Crafting... on the go!"
+	quest.5FA9D6B1B66399AC.title: "Workstation Upgrades"
 	quest.5FCFD038804EFBF7.quest_subtitle: "&d☠ Tier 5"
 	quest.5FDAADD20C6A6DC7.quest_subtitle: " Bought from the market using boss tokens"
 	quest.5FE710403BE1AAF5.quest_subtitle: "right click into a tamed familiar to boost his armor permanently, limit 10 per familiar, dropped from Ancient Knights."
@@ -1717,7 +2026,7 @@
 		""
 		"&6\"+ / -\"&r – Zoom In/Out Minimap (JourneyMap)"
 		""
-		"&6\" \\ or Scroll Wheel\"&r – Sort Inventory"
+		"&6\"Backslash or Scroll Wheel\"&r – Sort Inventory"
 		""
 		"&6\"U\"&r – Wrench open wheel (Create)"
 		""
@@ -1740,6 +2049,13 @@
 	]
 	quest.6613D41573B7F0B9.quest_subtitle: "Welcome to a healthier and heartier adventure!"
 	quest.6613D41573B7F0B9.title: " &l&cThe True Path to More Hearts"
+	quest.6659EBA759E55BD5.quest_desc: [
+		"When the &6Eating Upgrade&r is in your backpack, it will automatically feed you when you start to get hungry!"
+		""
+		"If you make the &badvanced&r version of the upgrade, you can set it to feed you where you won't waste ANY food!"
+	]
+	quest.6659EBA759E55BD5.quest_subtitle: "A Waiter on demand!"
+	quest.6659EBA759E55BD5.title: "Auto Feeder"
 	quest.66630803C9EA0DEA.quest_subtitle: "Harness the power of &6holy&r. Increased &6holy spell power&r or &6armor&r."
 	quest.66630803C9EA0DEA.title: "&6&lSchool of Holy"
 	quest.66A8B9C4C4AC291A.quest_subtitle: "Strikes attackers with lightning. Grants immunity to lightning strikes."
@@ -1789,7 +2105,13 @@
 	quest.692D79D601534A2E.quest_subtitle: "Tame one Summoner Familiar"
 	quest.692D79D601534A2E.title: "Summoner Familiar"
 	quest.694646586C18C609.quest_desc: ["&6The Rover&r is a land vehicle that can drive on rough terrain of moons and planets. It's very fast, has an inventory for&9 eight items&r, and has two seats for multiple riders. To use it, fill it with fuel by shift-clicking and placing &aastral fuel buckets&r in the left input slot."]
+	quest.69590A923D5ED05A.quest_desc: [
+		"&6Ladder Tools&r is used to make bunk ladders, just right click to open the GUI."
+		""
+		"In the GUI provide a block that will set the texture used"
+	]
 	quest.69E26E48222CEC01.quest_subtitle: "Rolling"
+	quest.6A0982B3EC12BAF2.quest_desc: ["&eDecoration Table&r allows you to customize the Chest with any block."]
 	quest.6AD87BACD480D27B.quest_desc: ["Check the Renewable Ores chapter to see a renewable way to have Crushed Raw Iron."]
 	quest.6AFEDCF1CF22972F.quest_desc: ["Use your newly aquired arcane dust to make yourself some Magicians armor using it and iron armor at a smithing table."]
 	quest.6AFEDCF1CF22972F.quest_subtitle: "An early game source of &3additional mana"
@@ -1836,6 +2158,23 @@
 		"Try out the different options and choose the one that best fits your style and performance needs."
 	]
 	quest.6D382620BBC1E6C0.title: "&6Shaders"
+	quest.6D40B0012EBC27AA.quest_desc: [
+		"&6The Interplanar Projector&r is a special filter for the Camera that lets you&d project custom images onto film using either a local file or a URL.&r"
+		""
+		"&aTo load an image, rename the filter item using an Anvil with the path or URL of the image.&r The custom name can be up to three times longer than a regular item name, allowing for more detailed paths."
+		""
+		"File paths must be absolute, like:"
+		"D:/Images/cat.png"
+		"(You can omit the extension, unless there's a file with the same name in the folder.)"
+		""
+		"URLs must start with https:// or http://."
+		""
+		"Supported formats include PNG, JPG, BMP, GIF (not animated), and more."
+		"Transparent pixels are supported, but only if they’re fully transparent."
+		""
+		"This feature allows you to bring your own art, photos, or screenshots into Minecraft, turning them into in-game photography through the film development process."
+	]
+	quest.6D40B0012EBC27AA.title: "&l&dUploading Custom Images"
 	quest.6E8031A380EB37C8.quest_desc: [
 		"You may quickly notice as your explore your world that you will be finding scrolls. "
 		""
@@ -1865,12 +2204,8 @@
 		"This can be useful for situations where a block can be processed simply by placing it and breaking it with a certain tool."
 	]
 	quest.6FBCDEA419DB1D37.quest_subtitle: "GET OUT"
-	quest.70078CDA548D3393.quest_desc: [
-		"&bExplorer Maps&r are a core part of find scturures acting as an expansion of the mapping functionalities provided by the base game. There are maps that can take you to specific biomes or structures. "
-		""
-		"Look in the &eShopping&r tab on the left menu to see the &bExplorer Maps&r available for you to buy. Some maps cannot be bought and must be obtained through quests."
-	]
 	quest.703CC46FAC00A5D9.title: "&6Collect All the Artifacts"
+	quest.703D0E0BD4F9DC4F.quest_subtitle: "Craft any Gold Limited Barrel I type."
 	quest.704435187B4BD245.quest_desc: [
 		"&eRunestones&r are rare items found in magical structures, usually blank. Combine one with 8 focuses to attune it to a specific school, allowing you to craft themed gear."
 		""
@@ -1900,6 +2235,22 @@
 	quest.7195C5282BA6B067.quest_desc: [""]
 	quest.7195C5282BA6B067.title: "cast iron ingot"
 	quest.7220794AE44350FA.quest_subtitle: "+15% cast time reduction, when equipped familiars that fall below 25% health will get evasion effect on intervals, found in End Cities."
+	quest.7226FB66C2B28ACB.quest_desc: [
+		"&dSophisticated Storage&r upgrades your chests and barrels, increasing their capacity and adding functionalities like magnets, built-in smelting, compacting, and more."
+		""
+		"This mod introduces multiple tiers of barrels, chests, and shulker boxes, each customizable with various color combinations and wood varieties."
+		""
+		"It also adds &a&lLimited Barrels&r&r that work like drawers, holding large amounts of storage."
+		""
+		"Enhance your storage solutions with a range of upgrades to augment their functionality."
+	]
+	quest.7226FB66C2B28ACB.title: "&6Welcome to Sophisticated Storage!"
+	quest.723F98AC017A4F8C.quest_desc: [
+		"With the &6deposit upgrade&r, you can shift-right-click on any storage, and it will instantly deposit the backpack contents!"
+		""
+		"If you use the &badvanced&r upgrade, you can filter to match contents of the storage!"
+	]
+	quest.723F98AC017A4F8C.quest_subtitle: "Drop 'n Go!"
 	quest.72426A0FB41CD542.quest_desc: ["The &bSpatial Anchor&f is a companion device from the Spatial IO lineage that simply functions as a chunk loader. When connected to an ME network, the Anchor will force-load all the chunks occupied by the ME network across all cables and devices, excluding subnetworks, as long as the network remains powered."]
 	quest.72564111D0768098.quest_subtitle: "Increases the damage dealt by the wearer"
 	quest.725685829EF53BA4.quest_desc: ["The &bME Export Bus&r periodically transfers items from its whitelist filter to external storage. Unlike the Import Bus, the Export Bus requires a filter to function."]
@@ -1929,6 +2280,7 @@
 	]
 	quest.72A5DEFDD0F3470D.title: "&cTo The Nether!&r"
 	quest.731C3214BB61FDAE.quest_desc: ["Found underground in the &aOverworld&r."]
+	quest.731C3214BB61FDAE.quest_subtitle: "Kill the warden"
 	quest.732543EAB9ADB411.quest_desc: [
 		"The &l&aExperience Hatch&r&r allows you to deposit or extract experience from a Fluid Tank or Basin. "
 		"&dRight-Click&r deposits the experience and &dShift + Right-Click&r extracts the experience."
@@ -1991,6 +2343,15 @@
 		"A &eShriving Stone&r can be used to take off an imbued spell from a weapon."
 	]
 	quest.74370B84A072E947.quest_subtitle: "Upgrading and Imbuement"
+	quest.745FD767F2A543A5.quest_desc: [
+		"Before printing, you must first develop your film to make it suitable for printing in &6Lightroom.&r"
+		""
+		"&dBlack and White&r film is developed using a simple &bWater Bottle.&r"
+		""
+		"&dColor film&r requires a more complex process, using &bAwkward, Thick, and Mundane potions.&r"
+	]
+	quest.745FD767F2A543A5.title: "Film Development"
+	quest.746AE4CA7CE83847.quest_subtitle: "x8"
 	quest.746F82D541EBA386.quest_desc: [
 		"After defeating the &dEnder Dragon&r, explore the Outer End Islands to find &9End Cities.&r"
 		""
@@ -2023,6 +2384,8 @@
 		"To use it, place it down wherever you want to launch from with a clear view of the sky. Once you have a Rocket, you can place it down in the middle of the Launch Pad."
 	]
 	quest.75F8A5AAEB67C3AA.quest_subtitle: "right click into an illusionist familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Woodland Mansions."
+	quest.761D029F52BA267B.quest_desc: ["This &6Stack Upgrade&r allows each slot in your Sophisticated Storage to hold &6double&r its normal capacity, accommodating &62 stacks&r of items per slot."]
+	quest.761D029F52BA267B.quest_subtitle: "x2"
 	quest.763F1FB0C55F702F.quest_desc: ["It has seen many warriors drown into the depths of the sea"]
 	quest.763F1FB0C55F702F.quest_subtitle: "Get it by Killing Elder Guardian"
 	quest.76D595EF8B7A90E1.title: "&aAdvanced Archevoker Outfit"
@@ -2075,12 +2438,22 @@
 		"You can also use an &cEnergy Provider&r to convert rotational power from Create into AE."
 	]
 	quest.79A7417475A593C6.quest_subtitle: "Plug in"
+	quest.79D7109441F5540F.quest_subtitle: "x32"
+	quest.7A36AA33AB12EE37.quest_subtitle: "Craft any Iron Limited Barrel I type."
 	quest.7A47716BA89E7B06.quest_desc: [
 		"The &bColor Applicator&f is a chargeable tool that allows for in-world dyeing of cables. It functions more or less as a specialised &estorage cell&f to be loaded up with either vanilla dyes or &epaint balls&f for specific colours, along with &esnowballs&f to wash colours off and turn cables back to their Fluix variant."
 		""
 		"Applying colour to a cable uses 100AE of energy from its internal battery, for a total of 3400 cable segments in a single charge."
 	]
 	quest.7A47716BA89E7B06.title: "Color Applicator"
+	quest.7A516A80B0491E03.quest_subtitle: "x4"
+	quest.7A8D89E446B6FBE8.quest_desc: [
+		"If you need to integrate storage from different areas into your main system, the &6Storage Link&r is your solution."
+		""
+		"Place it on any Sophisticated Storage multiblock, then use the &bStorage Tool&r to establish a connection to your&d Storage Controller&r. "
+		""
+		"By right-clicking the &dController&r with the &bTool&r and then the Link, you seamlessly connect separate storage units into one cohesive network."
+	]
 	quest.7B09AFE245BA7808.quest_desc: [
 		""
 		"{image:kubejs:textures/familiars/archmage.png width:100 height:51 align:center}"
@@ -2099,7 +2472,31 @@
 	]
 	quest.7B09AFE245BA7808.quest_subtitle: "Tame one Arcmage Familiar"
 	quest.7B09AFE245BA7808.title: "Archmage Familiar"
+	quest.7B2E2427787A55A7.quest_desc: [
+		"With the &6Everlasting Upgrade&r, your backpack won't get destroyed by anything!"
+		""
+		"This includes, but is not limited to:"
+		"> &4Lava"
+		"> &8Void"
+		"> &2Creepers"
+		"> &bDespawning"
+		"> &6And more!"
+	]
 	quest.7B42482FC8EEA8F8.quest_subtitle: "Not repeatable"
+	quest.7BE7F9FD76F84BDD.quest_desc: [
+		"&6Cable Facades&r lets you visually hide nearly any cable or pipe from any mod."
+		""
+		"Start by crafting an &eEmpty Facade.&r Then, &eplace it in a crafting table along with the block you want it to mimic&r — this creates a custom facade that visually matches your chosen block."
+		""
+		"Once created, simply apply the facade to cables or pipes (like those from Create or Refined Storage) to conceal them."
+		""
+		"To manage facades:"
+		""
+		"-> Use a &awrench&r and Shift + Right-Click to remove them."
+		""
+		"-> While looking at air, Right-Click with the &awrench&r to toggle facade transparency, letting you see what's underneath without breaking anything."
+	]
+	quest.7BE7F9FD76F84BDD.title: "Cable Facades"
 	quest.7C185DB8566F7E33.quest_desc: [
 		"After the Dragon is defeated, a &dDragon Egg&r appears on the Exit Portal. You can't mine it like normal blocks."
 		""
@@ -2144,6 +2541,14 @@
 	]
 	quest.7C8FD4693FE20947.quest_desc: ["Safes are harder to break shulker boxes that can be only be opened by the player who placed them."]
 	quest.7CC7FD9C32B77B35.quest_subtitle: "Not repeatable"
+	quest.7D3E8B0BF58569BC.quest_desc: [
+		"Bed &6Sheet&r This is one of the accessory items that can be added to a bed to customize it. (but not needed to use it)"
+		""
+		"These can be removed and changed at anytime. (swap by placing another, or sneak punch to remove all accessories) "
+		""
+		""
+		"When crafted it will be white, but can be quickly recolored with a single dye, or by using a combination of dyes you have four thousand and ninety six colors available. You can also wash off the dye by clicking on a filled Cauldron."
+	]
 	quest.7DB46C70468F2CFE.quest_desc: [
 		"&6Redden's Stone Lanterns&r adds both multi-block and single-block stone lanterns. You can right-click them to toggle the light on or off."
 		""
@@ -2152,6 +2557,7 @@
 		"&d@redden&r"
 	]
 	quest.7DB46C70468F2CFE.title: "&6Redden's Stone Lanters"
+	quest.7DE83E440B507868.quest_subtitle: "x1.5"
 	quest.7DFCA72EC274F3D9.quest_subtitle: "Not repeatable"
 	quest.7EF4A265C25EFF12.quest_subtitle: "When used for Upgrade: &6+5% Ice Spell Power"
 	quest.7EF948B39FBEA377.quest_desc: [
@@ -2163,6 +2569,7 @@
 	]
 	quest.7EF948B39FBEA377.title: "Our First Pick"
 	quest.7F1AB8E8DA7BFD77.quest_subtitle: "Adds a looting effect to killed mobs"
+	quest.7F5DCDCFFD24ABE7.quest_subtitle: "Craft any Golden Barrel type."
 	quest.7FA5CDC0F616D2C5.quest_desc: [
 		"Time to leave stone behind."
 		""

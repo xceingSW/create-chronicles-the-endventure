@@ -5,7 +5,6 @@
 		# Colors recently selected in the color selector
 		# Default: []
 		recents: [I;
-			-14217656
 			-798079
 			-2170195
 			-12432641
@@ -21,6 +20,7 @@
 			-1052689
 			-16119286
 			-15330291
+			-3828225
 		]
 	}
 	sidebar: {

@@ -3,23 +3,38 @@
 	default_quest_shape: ""
 	filename: "eternal_starlight"
 	group: "61769445B9D5700E"
+	icon: {
+		id: "eternal_starlight:starlight_flower"
+	}
 	id: "50471206A7BA908F"
-	images: [{
-		height: 0.7d
-		image: "kubejs:textures/wip.png"
-		rotation: 0.0d
-		width: 7.0d
-		x: 0.5d
-		y: -2.0d
-	}]
+	images: [
+		{
+			height: 0.7d
+			image: "kubejs:textures/wip.png"
+			rotation: 0.0d
+			width: 7.0d
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			color: 14522965
+			height: 1.0d
+			image: "chalk:block/mark/arrow"
+			rotation: 90.0d
+			width: 1.0d
+			x: 0.5d
+			y: 0.0d
+		}
+	]
 	order_index: 1
 	quest_links: [ ]
 	quests: [{
 		id: "2475C6740BBD5273"
 		tasks: [{
-			id: "28D59D9439299028"
-			item: { count: 1, id: "minecraft:stripped_oak_log" }
-			type: "item"
+			advancement: "eternal_starlight:obtain_orb_of_prophecy"
+			criterion: ""
+			id: "0E45F7023B28D796"
+			type: "advancement"
 		}]
 		x: 1.5d
 		y: 0.0d

@@ -51,9 +51,9 @@
     "modId": "apothic_attributes",
     "version": "2.8.1"
   },
-  "ApothicEnchanting-1.21.1-1.4.1.jar": {
+  "ApothicEnchanting-1.21.1-1.4.2.jar": {
     "modId": "apothic_enchanting",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   "ApothicSpawners-1.21.1-1.3.0.jar": {
     "modId": "apothic_spawners",
@@ -111,10 +111,6 @@
     "modId": "bcc",
     "version": "21.1.3"
   },
-  "Better Tags-1.21.1-NEO-1.5.jar": {
-    "modId": "bettertags",
-    "version": "1.5"
-  },
   "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar": {
     "modId": "betteradvancements",
     "version": "0.4.3.21"
@@ -159,9 +155,9 @@
     "modId": "buildinggadgets2",
     "version": "1.3.8"
   },
-  "cable_facades-1.21.1-NeoForge-1.5.1.jar": {
+  "cable_facades-1.21.1-NeoForge-1.6.0.jar": {
     "modId": "cable_facades",
-    "version": "1.5.1"
+    "version": "1.6.0"
   },
   "catburger_neoforge1.21.1-1.0.2.jar": {
     "modId": "catburger",
@@ -315,9 +311,9 @@
     "modId": "create_mobile_packages",
     "version": "0.4.4"
   },
-  "create_pattern_schematics-2.0.6.jar": {
+  "create_pattern_schematics-2.0.8.jar": {
     "modId": "create_pattern_schematics",
-    "version": "2.0.6"
+    "version": "2.0.8"
   },
   "create_things_and_misc-4.0-neoforge-1.21.1.jar": {
     "modId": "create_things_and_misc",
@@ -405,10 +401,6 @@
     "modId": "dungeons_arise",
     "version": "2.1.64"
   },
-  "enchantmentlevelcapindicator-1.21.1-1.1.jar": {
-    "modId": "enchantmentlevelcapindicator",
-    "version": "1.1"
-  },
   "enchdesc-neoforge-1.21.1-21.1.7.jar": {
     "modId": "enchdesc",
     "version": "21.1.7"
@@ -433,9 +425,9 @@
     "modId": "eternal_starlight",
     "version": "0.4.3+1.21.1+neoforge"
   },
-  "exposure-neoforge-1.21.1-1.9.4.jar": {
+  "exposure-neoforge-1.21.1-1.9.6.jar": {
     "modId": "exposure",
-    "version": "1.9.4"
+    "version": "1.9.6"
   },
   "fancymenu_neoforge_3.5.0_MC_1.21.1.jar": {
     "modId": "fancymenu",
@@ -556,10 +548,6 @@
   "handcrafted-neoforge-1.21.1-4.0.3.jar": {
     "modId": "handcrafted",
     "version": "4.0.3"
-  },
-  "hazennstuff-1.2.0.jar": {
-    "modId": "hazennstuff",
-    "version": "1.2.0"
   },
   "Highlighter-1.21-neoforge-1.1.11.jar": {
     "modId": "highlighter",
@@ -722,9 +710,9 @@
     "modId": "measurements",
     "version": "3.0.1"
   },
-  "mechanicals-1.21.1-1.0.7.jar": {
+  "mechanicals-1.21.1-1.0.9.jar": {
     "modId": "mechanicals",
-    "version": "1.0.5"
+    "version": "1.0.8"
   },
   "melody_neoforge_1.0.10_MC_1.21.jar": {
     "modId": "melody",
@@ -777,10 +765,6 @@
   "NaturesCompass-1.21.1-3.0.3-neoforge.jar": {
     "modId": "naturescompass",
     "version": "1.21.1-3.0.2-neoforge"
-  },
-  "NBTac-NEOFORGE-1.21.1-1.3.10.jar": {
-    "modId": "nbt_ac",
-    "version": "1.3.10"
   },
   "Neruina-2.2.11-neoforge+1.21.jar": {
     "modId": "neruina",
@@ -942,9 +926,9 @@
     "modId": "shetiphiancore",
     "version": "1.21.1-0.3"
   },
-  "silent-lib-1.21.1-neoforge-10.4.0.jar": {
+  "silent-lib-1.21.1-neoforge-10.5.1.jar": {
     "modId": "silentlib",
-    "version": "10.4.0"
+    "version": "10.5.1"
   },
   "SimpleDiscordRichPresence-neoforge-87.0.1-build.49+mc1.21.jar": {
     "modId": "sdrp",

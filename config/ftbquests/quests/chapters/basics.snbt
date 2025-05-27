@@ -125,21 +125,6 @@
 			y: 18.0d
 		}
 		{
-			id: "0C7046AD65831DAC"
-			rewards: [{
-				id: "6941E9B443360ADA"
-				type: "xp"
-				xp: 5
-			}]
-			tasks: [{
-				id: "4CDC98F4B0439B5A"
-				item: { count: 1, id: "create_sa:andesite_jetpack_chestplate" }
-				type: "item"
-			}]
-			x: 19.0d
-			y: 18.5d
-		}
-		{
 			dependencies: ["7EF948B39FBEA377"]
 			icon: {
 				id: "waystones:waystone"
@@ -574,7 +559,7 @@
 			y: 16.0d
 		}
 		{
-			dependencies: ["05B32DE12868C6DE"]
+			dependencies: ["261651FB7B600587"]
 			icon: {
 				id: "chalk:chalk_box"
 			}
@@ -600,7 +585,7 @@
 					type: "item"
 				}
 			]
-			x: -17.0d
+			x: -27.5d
 			y: 16.0d
 		}
 		{
@@ -1513,24 +1498,14 @@
 			y: 11.0d
 		}
 		{
-			id: "70078CDA548D3393"
-			tasks: [{
-				id: "171B4E4A2A7882C0"
-				item: { components: { "minecraft:rarity": "uncommon", "obtrophies:trophy_info": { entity: "eternal_starlight:tiny_creteor" } }, count: 1, id: "obtrophies:trophy" }
-				type: "item"
-			}]
-			x: 19.0d
-			y: 21.5d
-		}
-		{
 			id: "4825F052F03A5463"
 			tasks: [{
 				id: "03AD7A1E31C66D28"
 				item: { count: 1, id: "armoroftheages:holy_armor_head" }
 				type: "item"
 			}]
-			x: 19.0d
-			y: 20.5d
+			x: -7.0d
+			y: 16.0d
 		}
 		{
 			id: "7C68CB331F9E5212"
@@ -1539,8 +1514,8 @@
 				item: { components: { "apotheosis:gem": "apotheosis:overworld/royalty", "apotheosis:purity": "flawed" }, count: 1, id: "apotheosis:gem" }
 				type: "item"
 			}]
-			x: 19.0d
-			y: 19.5d
+			x: 12.5d
+			y: 18.0d
 		}
 		{
 			dependencies: ["06267D7C266DE215"]
@@ -1708,6 +1683,291 @@
 			}]
 			x: 11.0d
 			y: 20.0d
+		}
+		{
+			dependencies: ["261651FB7B600587"]
+			id: "1A39F6601A18F853"
+			rewards: [
+				{
+					count: 3
+					id: "5B5FECC599D45CEE"
+					item: {
+						count: 1
+						id: "minecraft:red_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "16DAAA231B63363B"
+					item: {
+						count: 1
+						id: "minecraft:blue_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6D854095A2A9910E"
+					item: {
+						count: 1
+						id: "minecraft:lime_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "32A53B51E5659790"
+					item: {
+						count: 1
+						id: "minecraft:brown_dye"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "583418F06753CDD1"
+					item: {
+						count: 1
+						id: "minecraft:pink_dye"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "608C25F06F87558A"
+				item: { count: 1, id: "multibeds:bed_kit" }
+				type: "item"
+			}]
+			x: -27.5d
+			y: 21.0d
+		}
+		{
+			id: "4B5810F5938DEA32"
+			rewards: [{
+				count: 2
+				id: "79526565B5C7251B"
+				item: {
+					count: 1
+					id: "minecraft:phantom_membrane"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "41B50C70D5998516"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(chimes))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -16.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["05B32DE12868C6DE"]
+			id: "354794C26084872F"
+			tasks: [{
+				id: "2EBFE123466B13F8"
+				item: { count: 1, id: "exposure:camera" }
+				type: "item"
+			}]
+			x: -17.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["354794C26084872F"]
+			id: "02C5BA2428FADEAF"
+			tasks: [{
+				id: "1F823A5BA026CE8D"
+				item: { count: 1, id: "exposure:camera_stand" }
+				type: "item"
+			}]
+			x: -18.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["4B6BE37E7C57BD00"]
+			id: "745FD767F2A543A5"
+			tasks: [
+				{
+					id: "206D6B37CDE7E508"
+					item: { count: 1, id: "exposure:developed_color_film" }
+					type: "item"
+				}
+				{
+					id: "459AC5F88E9DA0B5"
+					item: { count: 1, id: "exposure:developed_black_and_white_film" }
+					type: "item"
+				}
+			]
+			x: -17.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["354794C26084872F"]
+			id: "4B6BE37E7C57BD00"
+			tasks: [
+				{
+					id: "3D0FC6426268D4FE"
+					item: { count: 1, id: "exposure:color_film" }
+					type: "item"
+				}
+				{
+					id: "37D52194CE84C543"
+					item: { count: 1, id: "exposure:black_and_white_film" }
+					type: "item"
+				}
+			]
+			x: -17.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["745FD767F2A543A5"]
+			id: "0AB9F56A501FEFED"
+			tasks: [{
+				id: "44469754A5D1259E"
+				item: { count: 1, id: "exposure:lightroom" }
+				type: "item"
+			}]
+			x: -17.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["0AB9F56A501FEFED"]
+			id: "4ED95F3B0F17AEBA"
+			tasks: [{
+				id: "57ED5F9B46E86394"
+				item: { count: 1, id: "exposure:photograph" }
+				type: "item"
+			}]
+			x: -17.0d
+			y: 26.0d
+		}
+		{
+			dependencies: ["4ED95F3B0F17AEBA"]
+			id: "439A7468E448EAE1"
+			tasks: [{
+				id: "23E790841A6F46D3"
+				item: { count: 1, id: "exposure:photograph_frame" }
+				type: "item"
+			}]
+			x: -16.0d
+			y: 27.5d
+		}
+		{
+			dependencies: ["4ED95F3B0F17AEBA"]
+			id: "140ABE41794E9C33"
+			tasks: [{
+				id: "4A98A99B18817033"
+				item: { count: 1, id: "exposure:album" }
+				type: "item"
+			}]
+			x: -18.0d
+			y: 27.5d
+		}
+		{
+			dependencies: ["354794C26084872F"]
+			id: "6D40B0012EBC27AA"
+			tasks: [{
+				id: "3FFDEBE165E73338"
+				item: { count: 1, id: "exposure:interplanar_projector" }
+				type: "item"
+			}]
+			x: -16.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["28B245505F91D21C"]
+			id: "7BE7F9FD76F84BDD"
+			tasks: [
+				{
+					id: "137F0B3B17080E68"
+					item: { count: 1, id: "cable_facades:facade" }
+					type: "item"
+				}
+				{
+					id: "3234647198D46946"
+					item: { count: 1, id: "cable_facades:facade_wrench" }
+					type: "item"
+				}
+			]
+			x: -11.5d
+			y: 16.0d
+		}
+		{
+			dependencies: ["05B32DE12868C6DE"]
+			id: "4841CC6210CD8413"
+			tasks: [{
+				id: "30CDF2DEFAA03A40"
+				item: { count: 1, id: "measurements:tape_measure" }
+				type: "item"
+			}]
+			x: -18.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["1A39F6601A18F853"]
+			id: "7D3E8B0BF58569BC"
+			tasks: [{
+				id: "3922787442F39BB9"
+				item: { count: 1, id: "multibeds:sheet" }
+				type: "item"
+			}]
+			x: -27.5d
+			y: 20.0d
+		}
+		{
+			dependencies: ["1A39F6601A18F853"]
+			id: "4BCF0C28B6C31364"
+			tasks: [{
+				id: "0712F8C5AC1F0F39"
+				item: { count: 1, id: "multibeds:pillow" }
+				type: "item"
+			}]
+			x: -26.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["1A39F6601A18F853"]
+			id: "1B347195A701040C"
+			tasks: [{
+				id: "2C481E99CC733D01"
+				item: { count: 1, id: "multibeds:blanket_white" }
+				type: "item"
+			}]
+			x: -27.5d
+			y: 22.0d
+		}
+		{
+			dependencies: ["1A39F6601A18F853"]
+			id: "39EF0966EB556EF0"
+			tasks: [{
+				id: "71FC661D4D984C27"
+				item: { count: 1, id: "multibeds:bedding_package" }
+				type: "item"
+			}]
+			x: -28.5d
+			y: 21.5d
+		}
+		{
+			dependencies: ["1A39F6601A18F853"]
+			id: "38B254719B73C3C0"
+			tasks: [{
+				id: "72AD325B4348FEF2"
+				item: { count: 1, id: "multibeds:embroidery_thread" }
+				type: "item"
+			}]
+			x: -28.5d
+			y: 20.5d
+		}
+		{
+			dependencies: ["1A39F6601A18F853"]
+			id: "69590A923D5ED05A"
+			tasks: [{
+				id: "7DDCD2B024DFEB91"
+				item: { count: 1, id: "multibeds:ladder_tools" }
+				type: "item"
+			}]
+			x: -26.5d
+			y: 20.5d
 		}
 	]
 }

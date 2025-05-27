@@ -1,4 +1,5 @@
 {
+	always_invisible: true
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "refined_storage_2"
@@ -9,8 +10,8 @@
 		image: "kubejs:textures/wip.png"
 		rotation: 0.0d
 		width: 7.0d
-		x: -3.0d
-		y: -3.0d
+		x: -2.0d
+		y: -2.0d
 	}]
 	order_index: 1
 	quest_links: [ ]

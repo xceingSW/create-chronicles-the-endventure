@@ -1,5 +1,4 @@
 {
-	always_invisible: true
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "deeper_and_darker"
@@ -15,17 +14,18 @@
 			height: 1.2d
 			image: "chalk:block/mark/arrow"
 			rotation: 0.0d
-			width: 1.2d
-			x: 7.1d
-			y: 7.3d
+			width: 0.0d
+			x: -2.0d
+			y: 4.0d
 		}
 		{
-			height: 0.7d
-			image: "kubejs:textures/wip.png"
-			rotation: 0.0d
-			width: 7.0d
-			x: 1.5d
-			y: 5.0d
+			color: 14522965
+			height: 1.0d
+			image: "chalk:block/mark/arrow"
+			rotation: 90.0d
+			width: 1.0d
+			x: -3.0d
+			y: 1.5d
 		}
 	]
 	order_index: 0
@@ -33,38 +33,31 @@
 	quests: [
 		{
 			hide_until_deps_complete: true
+			icon: {
+				id: "cosmeticarmoursmod:warden_mask_helmet"
+			}
 			id: "731C3214BB61FDAE"
-			rewards: [
-				{
-					id: "1A22694A70BE865A"
-					item: {
-						count: 1
-						id: "minecraft:netherite_scrap"
-					}
-					type: "item"
+			rewards: [{
+				id: "2A317D4671EEEB7D"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
 				}
-				{
-					id: "756F5F1CA255DE69"
-					item: {
-						components: {
-							"ftbquests:missing_item": "numismatics:bevel"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.5d
 			tasks: [{
 				entity: "minecraft:warden"
+				icon: {
+					id: "cosmeticarmoursmod:warden_mask_helmet"
+				}
 				id: "37E411F497C9CD71"
 				type: "kill"
 				value: 1L
 			}]
-			x: 7.050000000000001d
-			y: 6.000000000000001d
+			x: -1.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["731C3214BB61FDAE"]
@@ -76,13 +69,10 @@
 					xp_levels: 10
 				}
 				{
-					id: "1895131623290E9B"
+					id: "1C04B20686A09EF1"
 					item: {
-						components: {
-							"ftbquests:missing_item": "numismatics:bevel"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "magic_coins:silver_coin"
 					}
 					type: "item"
 				}
@@ -94,8 +84,8 @@
 				item: { count: 1, id: "deeperdarker:warden_helmet" }
 				type: "item"
 			}]
-			x: 7.050000000000001d
-			y: 4.050000000000001d
+			x: 1.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["44937B2D2EB38094"]
@@ -110,19 +100,16 @@
 					type: "item"
 				}
 				{
-					id: "6AEED5EA493981C2"
+					id: "3216595DC7232227"
 					item: {
-						components: {
-							"ftbquests:missing_item": "numismatics:bevel"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "magic_coins:silver_coin"
 					}
 					type: "item"
 				}
 			]
 			shape: "rsquare"
-			size: 2.0d
+			size: 1.5d
 			tasks: [{
 				dimension: "deeperdarker:otherside"
 				icon: {
@@ -131,8 +118,8 @@
 				id: "474D2D76F2256297"
 				type: "dimension"
 			}]
-			x: 7.0d
-			y: 2.0d
+			x: 4.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["704CCA2CEAB23B4D"]
@@ -144,13 +131,10 @@
 					xp_levels: 5
 				}
 				{
-					id: "1D0A62A0E8280A89"
+					id: "3558083F3DB593F3"
 					item: {
-						components: {
-							"ftbquests:missing_item": "numismatics:bevel"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "magic_coins:silver_coin"
 					}
 					type: "item"
 				}
@@ -164,7 +148,7 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 5.5d
+			x: 5.0d
 			y: 0.0d
 		}
 		{
@@ -177,13 +161,10 @@
 					xp_levels: 5
 				}
 				{
-					id: "1E94990659346438"
+					id: "67628D92168F671B"
 					item: {
-						components: {
-							"ftbquests:missing_item": "numismatics:bevel"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "magic_coins:silver_coin"
 					}
 					type: "item"
 				}
@@ -197,8 +178,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 7.0d
-			y: 0.0d
+			x: 6.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["704CCA2CEAB23B4D"]
@@ -210,13 +191,10 @@
 					xp_levels: 5
 				}
 				{
-					id: "02918A58E871AA39"
+					id: "41EA74A11A0F0C55"
 					item: {
-						components: {
-							"ftbquests:missing_item": "numismatics:bevel"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "magic_coins:silver_coin"
 					}
 					type: "item"
 				}
@@ -230,8 +208,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 8.5d
-			y: 0.0d
+			x: 6.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["704CCA2CEAB23B4D"]
@@ -246,13 +224,10 @@
 					xp_levels: 10
 				}
 				{
-					id: "0AB28BF2AD665D1D"
+					id: "362EE03F71456A74"
 					item: {
-						components: {
-							"ftbquests:missing_item": "numismatics:bevel"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "magic_coins:silver_coin"
 					}
 					type: "item"
 				}
@@ -267,8 +242,8 @@
 				to_observe: "deeperdarker:sculk_snapper"
 				type: "observation"
 			}]
-			x: 4.5d
-			y: 2.0d
+			x: 5.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["704CCA2CEAB23B4D"]
@@ -280,10 +255,10 @@
 					xp_levels: 5
 				}
 				{
-					id: "46198BF25D4A90D3"
+					id: "0EC8BEE5438D7CC2"
 					item: {
 						count: 1
-						id: "minecraft:potion"
+						id: "magic_coins:silver_coin"
 					}
 					type: "item"
 				}
@@ -294,18 +269,8 @@
 				id: "3CEA97C6362C740A"
 				type: "advancement"
 			}]
-			x: 9.5d
-			y: 2.0d
-		}
-		{
-			id: "058E04C43D9139A0"
-			tasks: [{
-				id: "2ADE4D085F19B046"
-				item: { count: 1, id: "minecraft:stripped_oak_wood" }
-				type: "item"
-			}]
-			x: 3.5d
-			y: 7.0d
+			x: 6.5d
+			y: 1.5d
 		}
 	]
 }
