@@ -14,6 +14,9 @@ ServerEvents.recipes(event => {
     event.shapeless(eye.id, fragments);
   });
 
+  event.replaceInput({}, 'refurbished_furniture:dough', 'create:dough')
+  event.replaceInput({}, 'farmersdelight:wheat_dough', 'create:dough')
+
   event.replaceInput({id:'apotheosis:salvaging_table'}, 'apotheosis:gem_dust', 'minecraft:diamond_block')
 
   event.replaceInput({id:'crystal_chronicles:hemalite_shard'}, 'minecraft:amethyst_shard', 'irons_spellbooks:divine_soulshard')

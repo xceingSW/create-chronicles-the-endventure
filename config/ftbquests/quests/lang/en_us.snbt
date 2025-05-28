@@ -11,6 +11,7 @@
 	chapter.576F6A1E4D30F4F2.title: "&l&aThe Endventure"
 	chapter.66515D165B519FE2.title: "&aGame Discs"
 	chapter.699146B31CBD0538.title: "&aEnchantment Industry&r"
+	chapter.6EF23835B92B89EC.title: "&9Plushies"
 	chapter.734C4C2CDBC52F6C.title: "&6Sophisticated Storage"
 	chapter.784A6CC38A657526.title: "&bSimply Swords"
 	chapter_group.10BAE746B6F04D66.title: "Magic"
@@ -826,6 +827,7 @@
 	]
 	quest.2A844214CE94E140.quest_subtitle: "Tame one Bard Familiar"
 	quest.2A844214CE94E140.title: "Bard Familiar"
+	quest.2A9E9448684CE833.title: "&6Collect All the Plushies"
 	quest.2AA436F021EDDC48.quest_subtitle: "Craft any Diamond Shulker Box type."
 	quest.2AEF1BFD3C4C0F7A.quest_subtitle: "+20% spell resist, when equipped tamed familiars that fall below half health will get oakskin effect, crafted."
 	quest.2B4E5F59E5625ADF.quest_subtitle: "Craft any Iron Shulker Box type."
@@ -837,6 +839,11 @@
 		"&e"
 		""
 		"&bHeart Container&r"
+	]
+	quest.2BC8D0B1B84F96DB.quest_desc: [
+		"The &6Library of Alexandria&r is an upgraded Enchantment Library. "
+		""
+		"It can store higher-level &aenchanted books&r and hold significantly more &benchantment points.&r"
 	]
 	quest.2C0A86D7F9D1A0D8.quest_subtitle: "You can repeat as many times you want!"
 	quest.2C1C7767F66A6453.quest_subtitle: "right click into a cleric familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Priest Towers."
@@ -1001,7 +1008,7 @@
 	quest.343AB719F81DFC63.quest_subtitle: " Craft it using the witch pupil"
 	quest.3481C6DF7EF96590.quest_subtitle: "Not repeatable"
 	quest.3488B3847D0D01DC.quest_subtitle: "Craft any Netherite Chest type."
-	quest.34AB7EB1F6BF5457.quest_desc: ["Move your paddle, and don't let the ball get past you&f"]
+	quest.34AB7EB1F6BF5457.quest_desc: ["Move your paddle, and don't let the ball get past you&f&9"]
 	quest.34AB7EB1F6BF5457.quest_subtitle: "Move the paddle with W and S"
 	quest.34AB7EB1F6BF5457.title: "&f Pong"
 	quest.35029D28522C7A28.quest_desc: [
@@ -2048,7 +2055,7 @@
 		"With &6The Spice of Life: Carrot Edition&r, the only way to increase your max health (aside from heart container) is by eating a wide variety of unique foods."
 		""
 		"The &aFood Book&r keeps track of how many different foods you’ve consumed."
-		"Hit specific milestones and you’ll gain up to &l&c20 extra hearts&r."
+		"Hit specific milestones and you’ll gain up to &l&c26 extra hearts&r."
 		""
 		"As you may have noticed,&b Apotheosis&r does not provide bonus hearts through stats, effects, or gems."
 		""
@@ -2279,6 +2286,26 @@
 		"You can also press &bR&r and &bU&r while hovering over any item to see their Recipe and Uses"
 	]
 	quest.7261FED43BDDEFA8.title: "Portable Inventory"
+	quest.72746FE37828D4F6.quest_desc: [
+		"Step into the future of enchantment storage with the &6Enchant Library&r — the ultimate solution for managing your &aEnchanted Books&r."
+		""
+		"To deposit enchantments, simply shift-left click your &aBooks&r or place them into the &9Blue Input Slot&r. The system will absorb them into its mystical archive, converting each enchantment into stored &dEssence Points&r."
+		""
+		"Enchantments are categorized by type and stored in scalable quantities:"
+		""
+		"Level I = 1 Point"
+		""
+		"Level II = 2 Points"
+		""
+		"Level III = 4 Points"
+		""
+		"Level IV = 8 Points"
+		"...and so on."
+		""
+		"Each enchantment type can store up to &d32,768 Points&r. Retrieval is simple: click on the enchantment you wish to extract, and it will begin building in the &6Crafting Slot&r. Repeated clicks increase its level."
+		""
+		"You can even combine multiple enchantments in the &6Orange Output&r just like you would on an Anvil — but without the cost."
+	]
 	quest.72A389F374C87353.quest_subtitle: "&b☠ Tier 4"
 	quest.72A5DEFDD0F3470D.quest_desc: [
 		"With a &bDiamond tier pickaxe&r, you'll be able to mine &dObsidian&r. &dObsidian&r can be used to create a portal to the &cNether&r."

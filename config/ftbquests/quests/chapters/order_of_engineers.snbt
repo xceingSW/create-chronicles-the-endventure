@@ -165,7 +165,7 @@
 				consume_items: true
 				count: 256L
 				id: "4B2A1CF02357C758"
-				item: { count: 1, id: "minecraft:carrot" }
+				item: { count: 1, id: "create_bic_bit:stamppot_bowl" }
 				type: "item"
 			}]
 			x: -1.5d
@@ -427,7 +427,7 @@
 				consume_items: true
 				count: 256L
 				id: "18467152CBB752A5"
-				item: { count: 1, id: "farmersdelight:shepherds_pie_block" }
+				item: { count: 1, id: "create_bic_bit:cheese_souffle" }
 				type: "item"
 			}]
 			x: -4.5d
@@ -561,7 +561,7 @@
 				consume_items: true
 				count: 256L
 				id: "45E959CA09C3976C"
-				item: { count: 1, id: "create:bar_of_chocolate" }
+				item: { count: 1, id: "create_bic_bit:wrapped_chocolate_glazed_stroopwafel" }
 				type: "item"
 			}]
 			x: -1.5d

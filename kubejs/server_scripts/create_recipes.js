@@ -13,7 +13,6 @@ ServerEvents.recipes((event) => {
     event.recipes.createMixing(('minecraft:gunpowder'),['biomeswevegone:blue_glowcane_powder','biomeswevegone:red_glowcane_powder','biomeswevegone:green_glowcane_powder','biomeswevegone:yellow_glowcane_powder']).superheated()
     event.recipes.createMixing(('minecraft:lapis_lazuli'),['minecraft:glowstone_dust','minecraft:glowstone_dust','minecraft:blue_dye','minecraft:blue_dye','amethyst_shard',Fluid.of("create_enchantment_industry:experience", 250)]).superheated()
     event.recipes.createMixing(('minecraft:ender_pearl'),[Fluid.of("createaddition:bioethanol", 250),'createaddition:biomass_pellet','createaddition:biomass_pellet','createaddition:biomass_pellet','minecraft:prismarine_shard','minecraft:prismarine_shard','minecraft:prismarine_crystals','minecraft:prismarine_crystals']).superheated()
-    event.recipes.createMixing(('cosmeticarmoursmod:rose_gold_ingot'),['minecraft:gold_ingot','minecraft:gold_ingot','minecraft:gold_ingot','minecraft:copper_ingot']).heated()
     event.recipes.createMixing(('3x createmechanisms:bronze'),['minecraft:copper_ingot','minecraft:copper_ingot','minecraft:copper_ingot','minecraft:iron_ingot']).heated()
     event.recipes.createMixing("createcompounds:chromatic_compound", [ "#c:dusts/glowstone","#c:dusts/glowstone","#c:dusts/glowstone","create:cinder_flour","create:cinder_flour","create:cinder_flour", "create:powdered_obsidian","create:powdered_obsidian","create:powdered_obsidian","create:polished_rose_quartz"]).superheated();
     // Deploy
@@ -85,7 +84,7 @@ ServerEvents.recipes((event) => {
           event.recipes.createDeploying(transitional, [transitional, 'minecraft:gunpowder']),
           event.recipes.createDeploying(transitional, [transitional, 'garnished:baklava']),
           event.recipes.createDeploying(transitional, [transitional, 'create_things_and_misc:crushed_magma']),
-          event.recipes.createFilling(transitional, [transitional,  Fluid.of('minecraft:lava', 450)]),
+          event.recipes.createFilling(transitional, [transitional,  Fluid.of('create_bic_bit:frying_oil', 250)]),
           event.recipes.createPressing(transitional,transitional),
     ]).transitionalItem(transitional)
       .loops(2)
@@ -110,7 +109,6 @@ ServerEvents.recipes((event) => {
     event.recipes.createSequencedAssembly([
       'createmechanisms:advanced_precision_mechanism',
     ], 'createcompounds:refined_radiance', [
-          event.recipes.createDeploying(transitional, [transitional, 'cosmeticarmoursmod:rose_gold_ingot']),
           event.recipes.createDeploying(transitional, [transitional, 'createmechanisms:ender_mechanism']),
           event.recipes.createDeploying(transitional, [transitional, 'createmechanisms:heat_mechanism']),
           event.recipes.createDeploying(transitional, [transitional, 'create_things_and_misc:vibration_mechanism']),

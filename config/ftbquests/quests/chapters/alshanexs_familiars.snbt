@@ -554,5 +554,32 @@
 			x: 1.25d
 			y: -2.5d
 		}
+		{
+			id: "244D55FC22B55A11"
+			tasks: [
+				{
+					id: "4C392CC5B3BD508B"
+					item: { count: 1, id: "alshanex_familiars:bard_helmet" }
+					type: "item"
+				}
+				{
+					id: "77B48E505170AA0B"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "alshanex_familiars:bard_chestplate" }
+					type: "item"
+				}
+				{
+					id: "15C4EA0458006C7E"
+					item: { count: 1, id: "alshanex_familiars:bard_leggings" }
+					type: "item"
+				}
+				{
+					id: "0BE9B758240295A2"
+					item: { count: 1, id: "alshanex_familiars:bard_boots" }
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: -1.5d
+		}
 	]
 }
