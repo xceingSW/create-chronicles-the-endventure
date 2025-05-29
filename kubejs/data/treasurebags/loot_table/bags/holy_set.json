@@ -64,7 +64,7 @@
                   {
                     "type": "generic.armor_toughness",
                     "id": "1747081636018",
-                    "amount": 4,
+                    "amount": 5,
                     "operation": "add_value",
                     "slot": "chest"
                   }

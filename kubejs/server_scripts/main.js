@@ -59,21 +59,26 @@ ServerEvents.recipes(event => {
     ]
   })
 
-  event.shapeless('cosmeticarmoursmod:rose_gold_nugget','cosmeticarmoursmod:rose_gold_ingot');
-  event.shaped('cosmeticarmoursmod:rose_gold_block', [
-      'SSS',
-      'SSS',
-      'SSS'
-  ], {
-      S: 'cosmeticarmoursmod:rose_gold_ingot',
+  event.custom({
+    "type": "create_enchantment_industry:grinding",
+    "ingredients": [
+      {
+        "item": "minecraft:ender_pearl"
+      }
+    ],
+    "results": [
+      {
+        "amount": 750,
+        "id": "createmechanisms:enderiam"
+      },
+      {
+        "amount": 1,
+        "id": "garnished:crushed_ender_pearl"
+      }
+    ]
   })
-  event.shaped('cosmeticarmoursmod:rose_gold_ingot', [
-      'SSS',
-      'SSS',
-      'SSS'
-  ], {
-      S: 'cosmeticarmoursmod:rose_gold_nugget',
-  })
+
+
 
   event.shaped('2x create:belt_connector', [
       '   ',

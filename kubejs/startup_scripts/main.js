@@ -82,7 +82,7 @@ ItemEvents.modification(event => {
   // Chest
   applyModifiers(event, 'armoroftheages:holy_armor_chest', 'chest', [
     { attribute: 'generic.armor', amount: 0, id: 'end:holy_chest_armor_bonus', operation: 'add_value' },
-    { attribute: 'generic.armor_toughness', amount: 4, id: 'end:holy_chest_toughness_bonus', operation: 'add_value' },
+    { attribute: 'generic.armor_toughness', amount: 5, id: 'end:holy_chest_toughness_bonus', operation: 'add_value' },
   ]);
   applyModifiers(event, 'armoroftheages:japanese_light_armor_chest', 'chest', [
     { attribute: 'generic.attack_damage', amount: 1, id: 'end:jap_chest_attack', operation: 'add_value' },
@@ -198,9 +198,9 @@ StartupEvents.registry('item', event => {
     })
   })
 
-  event.create('token_basic').displayName("§7Seal of the Apprentice").rarity("UNCOMMON")
-  event.create('token_medium').displayName("§fSeal of the Operator").rarity("RARE")
-  event.create('token_advanced').displayName("§eSeal of the Master Engineer").rarity("EPIC")
+  event.create('token_basic').displayName("§7Apprentice Token").rarity("UNCOMMON")
+  event.create('token_medium').displayName("§fOperator Token").rarity("RARE")
+  event.create('token_advanced').displayName("§eEngineer Token").rarity("EPIC")
   event.create('boss_token').displayName("§6Boss Token").rarity("EPIC")
   
   event.create('heart_container')

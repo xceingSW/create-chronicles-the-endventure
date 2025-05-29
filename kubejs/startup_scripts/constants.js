@@ -81,6 +81,7 @@ global.REMOVE_ITEMS = [
   'gamediscs:control_pad', 
   'irons_spellbooks:wayward_compass',
   'magic_coins:prosperity_amulet',
-  'cosmeticarmoursmod:cosmeticarmours_book' 
+
+  'alshanex_familiars:illusionist_shard'
 ]
 

@@ -40,24 +40,24 @@
 			height: 1.57d
 			image: "kubejs:item/tier1"
 			rotation: 0.0d
-			width: 4.0d
-			x: 1.8d
+			width: 5.26d
+			x: 2.35d
 			y: -2.3d
 		}
 		{
 			height: 1.57d
 			image: "kubejs:item/tier2"
 			rotation: 0.0d
-			width: 3.76d
-			x: 1.7d
+			width: 4.82d
+			x: 2.2d
 			y: 3.0d
 		}
 		{
 			height: 1.47d
 			image: "kubejs:item/tier3"
 			rotation: 0.0d
-			width: 5.64d
-			x: 2.5d
+			width: 6.28d
+			x: 2.9d
 			y: 7.5d
 		}
 	]
@@ -479,9 +479,6 @@
 		}
 		{
 			can_repeat: false
-			icon: {
-				id: "eternal_starlight:lunar_berries"
-			}
 			id: "54A602CE0328A07F"
 			rewards: [{
 				id: "0BAF4E5ACF7140DB"
@@ -496,11 +493,11 @@
 				consume_items: true
 				count: 256L
 				id: "4D042E97F6463721"
-				item: { count: 1, id: "eternal_starlight:lunar_berries" }
+				item: { count: 1, id: "create_connected:control_chip" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: 3.5d
+			x: -1.5d
+			y: 5.0d
 		}
 		{
 			can_repeat: false
@@ -671,11 +668,11 @@
 				consume_items: true
 				count: 256L
 				id: "05BC6BD3CFE48909"
-				item: { count: 1, id: "create:electron_tube" }
+				item: { count: 1, id: "create_things_and_misc:slime_cake" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 5.0d
+			x: -4.5d
+			y: 3.5d
 		}
 		{
 			can_repeat: false
@@ -1066,7 +1063,7 @@
 				consume_items: true
 				count: 256L
 				id: "08CF8F22564FF9A2"
-				item: { count: 1, id: "garnished:cashew_mixture" }
+				item: { count: 1, id: "createteleporters:advanced_part" }
 				type: "item"
 			}]
 			x: -3.0d

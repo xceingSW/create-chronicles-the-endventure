@@ -34,10 +34,7 @@
 		{
 			hide_until_deps_complete: true
 			icon: {
-				components: {
-					"ftbquests:missing_item": "cosmeticarmoursmod:warden_mask_helmet"
-				}
-				id: "ftbquests:missing_item"
+				id: "plushies:warden_plushie"
 			}
 			id: "731C3214BB61FDAE"
 			rewards: [{
@@ -53,10 +50,7 @@
 			tasks: [{
 				entity: "minecraft:warden"
 				icon: {
-					components: {
-						"ftbquests:missing_item": "cosmeticarmoursmod:warden_mask_helmet"
-					}
-					id: "ftbquests:missing_item"
+					id: "plushies:warden_plushie"
 				}
 				id: "37E411F497C9CD71"
 				type: "kill"

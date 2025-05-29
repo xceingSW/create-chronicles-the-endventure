@@ -33,16 +33,27 @@ const removeRecipesById = [
   //'garnished:crushing/zultanite/copper_from_zultanite',
   'garnished:crushing/materials_from_unstable_stone',
   'minecraft:andesite',
-  'create:crafting/kinetics/belt_connector'
-  
+  'create:crafting/kinetics/belt_connector',
+
+  'hazennstuff:crafting/curios/mana_crystal_ruptured',
+  'hazennstuff:crafting/curios/mana_crystal_refined',
+  'hazennstuff:crafting/curios/mana_crystal_reinforced',  
+  'hazennstuff:crafting/materials/divine_mold',
+
+  'crystal_chronicles:divinite_shard',
+  'crystal_chronicles:hemalite_shard',
+  'crystal_chronicles:voidstone_shard',
+  'crystal_chronicles:voltite_shard',
+  'crystal_chronicles:floralite_shard',
+  'crystal_chronicles:volcanite_shard',
+  'crystal_chronicles:ice_shard',
   //'garnished:recipe/crushing/zultanite/iron_from_zultanite'
 ];
 
 // === REMOVE BY MOD ID ===
 const removeByMod = [
   'endrem',
-  'armoroftheages',
-  'cosmeticarmoursmod'
+  'armoroftheages'
 ];
 
 // === REMOVE BY INPUT ===

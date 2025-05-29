@@ -4,6 +4,9 @@
 	default_quest_shape: ""
 	filename: "refined_storage_2"
 	group: "37AD19D80019787F"
+	icon: {
+		id: "refinedstorage:creative_controller"
+	}
 	id: "4F11D0F95BB94F2B"
 	images: [{
 		height: 0.7d

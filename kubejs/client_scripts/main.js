@@ -5,6 +5,13 @@ RecipeViewerEvents.removeEntriesCompletely('item', item =>{
   })
 })
 
+// Hide Categories 
+RecipeViewerEvents.removeCategories(event => {
+  event.remove('apothic_enchanting:enchanting')
+  event.remove('ftbquests:loot_crate')
+  event.remove('ftbquests:quest')
+})
+
 RecipeViewerEvents.addInformation('item', item =>{
   let fromMarket="Purchased from Market using Boss Tokens"
   item.add("kubejs:forgotten_eye_fragment_core", "Drops from Warden")
@@ -86,6 +93,7 @@ RecipeViewerEvents.addInformation('item', item =>{
   item.add("simplyswords:dormant_relic", "Drops from Ender Dragon")
   item.add("simplyswords:livyatan", "Drops from Ender Dragon")
   //34 total
+  item.add("hazennstuff:overgrown_bone", "Drops from Bogged Zombies")
 })
 
 

@@ -2,21 +2,32 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "alshanexs_familiars"
-	group: "3808ABBD2D934E7D"
+	group: "10BAE746B6F04D66"
 	icon: {
 		id: "alshanex_familiars:familiar_tome"
 	}
 	id: "2385B4F2FA029016"
-	images: [{
-		color: 14522965
-		height: 1.0d
-		image: "chalk:block/mark/arrow"
-		rotation: 90.0d
-		width: 1.0d
-		x: -7.5d
-		y: 3.0d
-	}]
-	order_index: 2
+	images: [
+		{
+			color: 14522965
+			height: 1.0d
+			image: "chalk:block/mark/arrow"
+			rotation: 90.0d
+			width: 1.0d
+			x: -9.5d
+			y: 3.0d
+		}
+		{
+			color: 16733525
+			height: 1.0d
+			image: "chalk:block/mark/arrow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: 4.0d
+		}
+	]
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -292,7 +303,7 @@
 				item: { count: 1, id: "alshanex_familiars:base_soul_curio" }
 				type: "item"
 			}]
-			x: -7.0d
+			x: -9.0d
 			y: 5.0d
 		}
 		{
@@ -304,7 +315,7 @@
 				item: { count: 1, id: "alshanex_familiars:complete_soul_curio" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -8.0d
 			y: 5.0d
 		}
 		{
@@ -316,7 +327,7 @@
 				item: { count: 1, id: "alshanex_familiars:healing_curio" }
 				type: "item"
 			}]
-			x: -5.0d
+			x: -7.0d
 			y: 5.0d
 		}
 		{
@@ -328,7 +339,7 @@
 				item: { count: 1, id: "alshanex_familiars:invisibility_curio" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -8.0d
 			y: 6.0d
 		}
 		{
@@ -340,7 +351,7 @@
 				item: { count: 1, id: "alshanex_familiars:statue_curio" }
 				type: "item"
 			}]
-			x: -7.0d
+			x: -9.0d
 			y: 6.0d
 		}
 		{
@@ -352,7 +363,7 @@
 				item: { count: 1, id: "alshanex_familiars:evasion_curio" }
 				type: "item"
 			}]
-			x: -5.0d
+			x: -7.0d
 			y: 6.0d
 		}
 		{
@@ -363,8 +374,8 @@
 				item: { count: 1, id: "alshanex_familiars:broken_shield" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: 2.5d
+			x: -4.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["182280CF12911D30"]
@@ -374,8 +385,8 @@
 				item: { count: 1, id: "alshanex_familiars:life_gem" }
 				type: "item"
 			}]
-			x: -2.0d
-			y: 1.5d
+			x: -4.5d
+			y: 1.0d
 		}
 		{
 			dependencies: ["182280CF12911D30"]
@@ -385,7 +396,7 @@
 				item: { count: 1, id: "alshanex_familiars:rusty_helmet" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -4.0d
 			y: 3.5d
 		}
 		{
@@ -396,7 +407,7 @@
 				item: { count: 1, id: "alshanex_familiars:strange_mushroom" }
 				type: "item"
 			}]
-			x: -2.0d
+			x: -4.5d
 			y: 4.5d
 		}
 		{
@@ -407,7 +418,7 @@
 				item: { count: 1, id: "alshanex_familiars:bard_harp" }
 				type: "item"
 			}]
-			x: -7.5d
+			x: -9.0d
 			y: 0.0d
 		}
 		{
@@ -418,7 +429,7 @@
 				item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "alshanex_familiars:sound_spell_book" }
 				type: "item"
 			}]
-			x: -5.5d
+			x: -7.0d
 			y: 0.0d
 		}
 		{
@@ -429,7 +440,7 @@
 				item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "alshanex_familiars:familiar_spellbook" }
 				type: "item"
 			}]
-			x: -4.5d
+			x: -6.0d
 			y: 0.0d
 		}
 		{
@@ -441,7 +452,7 @@
 				item: { count: 1, id: "alshanex_familiars:pandora_box" }
 				type: "item"
 			}]
-			x: -3.5d
+			x: -5.5d
 			y: 1.0d
 		}
 		{
@@ -454,7 +465,7 @@
 				item: { count: 1, id: "alshanex_familiars:familiar_tome" }
 				type: "item"
 			}]
-			x: -3.5d
+			x: -5.5d
 			y: 2.8d
 		}
 		{
@@ -466,7 +477,7 @@
 				item: { count: 1, id: "alshanex_familiars:pet_bed" }
 				type: "item"
 			}]
-			x: -3.5d
+			x: -5.5d
 			y: 4.5d
 		}
 		{
@@ -481,7 +492,7 @@
 				id: "56B99567D17C78A2"
 				type: "checkmark"
 			}]
-			x: -6.0d
+			x: -8.0d
 			y: 2.85d
 		}
 		{
@@ -492,7 +503,7 @@
 				item: { count: 1, id: "alshanex_familiars:sound_rune" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -8.0d
 			y: 1.0d
 		}
 		{
@@ -503,58 +514,11 @@
 				item: { count: 1, id: "alshanex_familiars:sound_upgrade_orb" }
 				type: "item"
 			}]
-			x: -6.5d
+			x: -8.0d
 			y: 0.0d
 		}
 		{
-			dependencies: [
-				"20BFB23E1ADDC3DF"
-				"2A844214CE94E140"
-				"2651428AF7D72328"
-				"692D79D601534A2E"
-				"58EE67ECB33D6AE9"
-				"47F3B09688DFA1DC"
-				"5AA39CCAEED433CA"
-				"7B09AFE245BA7808"
-				"3DD814B346F1B543"
-				"54480115AF9A1DAD"
-				"5D0DCD2B1AB653BB"
-			]
-			dependency_requirement: "all_started"
-			hide_dependency_lines: true
-			icon: {
-				id: "eternal_starlight:loot_bag"
-			}
-			id: "4CB49F7B92D1E840"
-			rewards: [
-				{
-					id: "1AFAF1E71761959E"
-					item: {
-						count: 1
-						id: "kubejs:heart_container"
-					}
-					type: "item"
-				}
-				{
-					count: 2
-					id: "1AAF312C9BB8D364"
-					item: {
-						count: 1
-						id: "magic_coins:gold_coin"
-					}
-					type: "item"
-				}
-			]
-			shape: "hexagon"
-			size: 2.5d
-			tasks: [{
-				id: "52A67A04A0DB5C7D"
-				type: "checkmark"
-			}]
-			x: 1.25d
-			y: -2.5d
-		}
-		{
+			dependencies: ["73BD8A69D47D4C98"]
 			id: "244D55FC22B55A11"
 			tasks: [
 				{
@@ -578,8 +542,22 @@
 					type: "item"
 				}
 			]
-			x: -5.5d
-			y: -1.5d
+			x: -10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["182280CF12911D30"]
+			id: "32A6059C63E5BFC3"
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "6516715F03C50C9B"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(alshanex_familiars:familiar_shards))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 2.8d
 		}
 	]
+	require_sequential_tasks: true
 }
