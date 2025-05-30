@@ -1,6 +1,14 @@
 {
-	"example_modid": {
-		"msg": "Custom msg on crash for this mod id. You can use $JAR_NAME$ placeholder, which will be replaced with jar name. You can use HTML here, it will work.",
+	"essential": {
+		"msg": "The Essential mod is completely incompatible with this pack. Use the E4MC mod instead to play with your friends.",
 		"should_crash_on_startup": true
+	},
+	"essential-container": {
+		"should_crash_on_startup": true,
+		"msg": "The Essential mod is completely incompatible with this pack. Use the E4MC mod instead to play with your friends."
+	},
+	"optifine": {
+		"should_crash_on_startup": true,
+		"msg": "If you are seeing this, you have manually added the <strong>Optifine mod</strong> to the modpack. The <strong>Optifine</strong> mod is completely unnecessary. This pack uses Sodium."
 	}
 }
