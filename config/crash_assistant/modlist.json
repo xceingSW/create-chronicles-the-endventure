@@ -263,6 +263,14 @@
     "modId": "coroutil",
     "version": "1.21.0-1.3.8"
   },
+  "corpse-neoforge-1.21.1-1.1.5.jar": {
+    "modId": "corpse",
+    "version": "1.21.1-1.1.5"
+  },
+  "corpsecurioscompat-1.21.1-NeoForge-2.2.2.jar": {
+    "modId": "corpsecurioscompat",
+    "version": "2.2.2"
+  },
   "cosmeticarmorreworked-1.21.1-v1-neoforge.jar": {
     "modId": "cosmeticarmorreworked",
     "version": "1.21.1-v1-neoforge"
@@ -271,9 +279,9 @@
     "modId": "craftingtweaks",
     "version": "21.1.5"
   },
-  "CrashAssistant-neoforge-1.21.1-1.9.0.jar": {
+  "CrashAssistant-neoforge-1.21.1-1.8.0.jar": {
     "modId": "crash_assistant",
-    "version": "1.9.0"
+    "version": "1.8.0"
   },
   "create-1.21.1-6.0.4.jar": {
     "modId": "create",
@@ -545,9 +553,9 @@
     "modId": "gamediscs",
     "version": "0.3.2-neoforge"
   },
-  "garnished-2.1.3.5+1.21.1-neoforged.jar": {
+  "garnished-2.1.3.6+1.21.1-neoforged.jar": {
     "modId": "garnished",
-    "version": "2.1.3.5"
+    "version": "2.1.3.6"
   },
   "geckolib-neoforge-1.21.1-4.7.5.1.jar": {
     "modId": "geckolib",
@@ -1125,10 +1133,6 @@
   "yet_another_config_lib_v3-3.6.6+1.21.1-neoforge.jar": {
     "modId": "yet_another_config_lib_v3",
     "version": "3.6.6+1.21.1-neoforge"
-  },
-  "youre-in-grave-danger-neoforge-2.0.11.jar": {
-    "modId": "yigd",
-    "version": "2.0.11"
   },
   "YungsApi-1.21.1-NeoForge-5.1.5.jar": {
     "modId": "yungsapi",

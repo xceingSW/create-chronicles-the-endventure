@@ -113,6 +113,9 @@
   "waystones": {
     "waystone": true
   },
+  "corpse": {
+    "corpse": true
+  },
   "multibeds": {
     "hud": true
   }
