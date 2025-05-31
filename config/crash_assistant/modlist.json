@@ -397,6 +397,10 @@
     "modId": "dndecor",
     "version": "2.0.2"
   },
+  "DnT-ancient-city-overhaul-v2 [NeoForge].jar": {
+    "modId": "mr_dungeons_andtavernsancientcityoverhaul",
+    "version": "1-v2"
+  },
   "DnT-end-castle-standalone-v1.1 [NeoForge].jar": {
     "modId": "mr_dungeons_andtavernsendcastlestandalone",
     "version": "1-v1.1"
@@ -617,6 +621,10 @@
     "modId": "inventoryessentials",
     "version": "21.1.2"
   },
+  "inventorysorter-1.21-24.0.20.jar": {
+    "modId": "inventorysorter",
+    "version": "24.0.20"
+  },
   "iris-neoforge-1.8.8+mc1.21.1.jar": {
     "modId": "iris",
     "version": "1.8.8+mc1.21.1"
@@ -713,10 +721,6 @@
   "lootr-neoforge-1.21-1.10.35.91.jar": {
     "modId": "lootr",
     "version": "1.21-1.10.35.91"
-  },
-  "lukis-ancient-cities-1.0.jar": {
-    "modId": "mr_lukis_ancientcities",
-    "version": "1.0"
   },
   "lukis-crazy-chambers-1.0.jar": {
     "modId": "mr_lukis_crazychambers",

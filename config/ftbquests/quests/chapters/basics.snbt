@@ -953,7 +953,7 @@
 			y: 14.1d
 		}
 		{
-			dependencies: ["5BAE6CD47D4ABF2D"]
+			dependencies: ["05B32DE12868C6DE"]
 			id: "0475AEB443175059"
 			rewards: [{
 				id: "60227592BD303AAA"
@@ -965,8 +965,8 @@
 				item: { count: 1, id: "minecraft:armor_stand" }
 				type: "item"
 			}]
-			x: -9.5d
-			y: 15.100000000000001d
+			x: -21.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["6613D41573B7F0B9"]

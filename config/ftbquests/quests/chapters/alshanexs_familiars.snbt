@@ -32,6 +32,15 @@
 	quests: [
 		{
 			id: "2651428AF7D72328"
+			rewards: [{
+				count: 5
+				id: "06B986CF1349700B"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -56,6 +65,15 @@
 		}
 		{
 			id: "7B09AFE245BA7808"
+			rewards: [{
+				count: 5
+				id: "647206CDA181076C"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -69,6 +87,15 @@
 		}
 		{
 			id: "20BFB23E1ADDC3DF"
+			rewards: [{
+				count: 5
+				id: "5C300B6D9A8C7936"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -82,6 +109,15 @@
 		}
 		{
 			id: "692D79D601534A2E"
+			rewards: [{
+				count: 5
+				id: "24302A23E4A9B655"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -95,6 +131,15 @@
 		}
 		{
 			id: "5AA39CCAEED433CA"
+			rewards: [{
+				count: 5
+				id: "24D9B36586D31D65"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -108,6 +153,15 @@
 		}
 		{
 			id: "54480115AF9A1DAD"
+			rewards: [{
+				count: 5
+				id: "365697EDCDE3DD89"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -121,6 +175,15 @@
 		}
 		{
 			id: "47F3B09688DFA1DC"
+			rewards: [{
+				count: 5
+				id: "236E7C942ED00701"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -134,6 +197,15 @@
 		}
 		{
 			id: "58EE67ECB33D6AE9"
+			rewards: [{
+				count: 5
+				id: "0AD88C336E0AB3EA"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -147,6 +219,15 @@
 		}
 		{
 			id: "5D0DCD2B1AB653BB"
+			rewards: [{
+				count: 5
+				id: "4E2E0CA7578995DC"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -160,6 +241,15 @@
 		}
 		{
 			id: "3DD814B346F1B543"
+			rewards: [{
+				count: 5
+				id: "2DBB3A7A8AF4588C"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -173,6 +263,15 @@
 		}
 		{
 			id: "2A844214CE94E140"
+			rewards: [{
+				count: 5
+				id: "607BD7275F7DF5D2"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{

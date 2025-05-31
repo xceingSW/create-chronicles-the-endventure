@@ -60,7 +60,9 @@ LootJS.modifiers((event) => {
     "irons_spellbooks:chests/citadel/citadel_vault",
     "irons_spellbooks:chests/citadel/rampart_chest",
     "irons_spellbooks:chests/citadel/citadel_bookshelf",
-    "revampedvillages:treasure"
+    "revampedvillages:treasure",
+    'nova_structures:chests/ancient_city_ice_box',
+    'nova_structures:chests/ancient_city'
   ];
   for (const table of ironsAdvanced) {
     event
