@@ -47,6 +47,9 @@ const removeRecipesById = [
   'crystal_chronicles:floralite_shard',
   'crystal_chronicles:volcanite_shard',
   'crystal_chronicles:ice_shard',
+  'supplementaries:sus_bricks',
+  'supplementaries:sus_sand',
+  'supplementaries:sus_gravel'
   //'garnished:recipe/crushing/zultanite/iron_from_zultanite'
 ];
 

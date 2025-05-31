@@ -82,6 +82,10 @@ global.REMOVE_ITEMS = [
   'irons_spellbooks:wayward_compass',
   'magic_coins:prosperity_amulet',
 
-  'alshanex_familiars:illusionist_shard'
+  'alshanex_familiars:illusionist_shard',
+
+  'minecraft:suspicious_sand',
+  'minecraft:suspicious_gravel',
+  'supplementaries:suspicious_gravel_bricks'
 ]
 
