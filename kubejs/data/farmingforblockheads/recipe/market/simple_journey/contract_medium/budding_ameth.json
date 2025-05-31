@@ -6,10 +6,10 @@
     "ingredient": {
       "item": "kubejs:token_medium"
     },
-    "count": 8
+    "count": 5
   },
   "result": {
     "count": 1,
-    "item": "catburger:cat_burger"
+    "item": "minecraft:budding_amethyst"
   }
 }

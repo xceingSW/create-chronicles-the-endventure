@@ -1102,6 +1102,10 @@
     "modId": "variantsandventures",
     "version": "1.0.13"
   },
+  "veinmining-neoforge-5.0.0-beta.2+1.21.jar": {
+    "modId": "veinmining",
+    "version": "5.0.0-beta.2+1.21"
+  },
   "villagernames-1.21.1-8.2.jar": {
     "modId": "villagernames",
     "version": "8.2"
