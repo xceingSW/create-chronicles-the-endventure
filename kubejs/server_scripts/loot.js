@@ -16,7 +16,7 @@ LootJS.modifiers((event) => {
   // Add Create Stuff to villages
   event
     .addTableModifier(/(revampedvillages:.*)/)
-    .addLoot(LootEntry.of("create:belt_connector").setCount([1, 6]).randomChance(0.35))
+    .addLoot(LootEntry.of("create:belt_connector").setCount([1, 3]).randomChance(0.35))
     .addLoot(LootEntry.of("create:shaft").setCount([1, 4]).randomChance(0.35))
     .addLoot(LootEntry.of("create:zinc_ingot").setCount([1, 5]).randomChance(0.20))
     .addLoot(LootEntry.of("create:andesite_alloy").setCount([2, 10]).randomChance(0.40))
@@ -25,17 +25,17 @@ LootJS.modifiers((event) => {
   // Easy
   event
     .addTableModifier(/(minecraft:chests.*|revampedvillages:.*|mvs:.*)/)
-    .addLoot(LootEntry.of("magic_coins:silver_coin").setCount([1, 2]).randomChance(0.35));
+    .addLoot(LootEntry.of("magic_coins:silver_coin").setCount([1, 2]).randomChance(0.25));
 
   // Medium
   event
   .addTableModifier(/(minecraft:chests\/(bastion|shipwreck).*|irons_spellbooks:chests.*|eternal_starlight:chests.*|mns:.*|formationsnether:.*|repurposed_structures:chests\/.*|adventuredungeons:chests\/.*)/)
-  .addLoot(LootEntry.of("magic_coins:silver_coin").setCount([2, 4]).randomChance(0.60));
+  .addLoot(LootEntry.of("magic_coins:silver_coin").setCount([2, 4]).randomChance(0.40));
 
   // Hard
   event
     .addTableModifier(/(minecraft:chests\/(end_city|ancient_city|stronghold).*|betterfortresses:chests.*|dungeons_arise:chests\/.*)/)
-    .addLoot(LootEntry.of("magic_coins:silver_coin").setCount([3, 7]).randomChance(0.80));
+    .addLoot(LootEntry.of("magic_coins:silver_coin").setCount([3, 7]).randomChance(0.60));
 
 
   const trialChamberTables = [
@@ -49,7 +49,7 @@ LootJS.modifiers((event) => {
   for (const table of trialChamberTables) {
     event
       .addTableModifier(table)
-      .addLoot(LootEntry.of("magic_coins:silver_coin").setCount([1, 6]).randomChance(0.18));
+      .addLoot(LootEntry.of("magic_coins:silver_coin").setCount([1, 5]).randomChance(0.15));
   }
 
   const ironsAdvanced = [
@@ -67,6 +67,6 @@ LootJS.modifiers((event) => {
   for (const table of ironsAdvanced) {
     event
       .addTableModifier(table)
-      .addLoot(LootEntry.of("magic_coins:silver_coin").setCount([2, 10]).randomChance(0.50));
+      .addLoot(LootEntry.of("magic_coins:silver_coin").setCount([2, 7]).randomChance(0.40));
   }
 });
