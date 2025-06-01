@@ -111,7 +111,7 @@
 				id: "31108CFA80B1F51D"
 				item: {
 					count: 1
-					id: "kubejs:token_advanced"
+					id: "kubejs:token_medium"
 				}
 				type: "item"
 			}]
@@ -1041,7 +1041,7 @@
 				consume_items: true
 				count: 256L
 				id: "47D76C44A3C1DBB1"
-				item: { count: 1, id: "garnished:wrapped_crimson_tangle" }
+				item: { count: 1, id: "garnished:wrapped_sepia_tangle" }
 				type: "item"
 			}]
 			x: -4.5d
@@ -1129,7 +1129,7 @@
 				consume_items: true
 				count: 256L
 				id: "7F0005C76DB30DC0"
-				item: { count: 1, id: "garnished:garnished_meal" }
+				item: { count: 1, id: "garnished:murky_macadamia_malice" }
 				type: "item"
 			}]
 			x: -4.5d

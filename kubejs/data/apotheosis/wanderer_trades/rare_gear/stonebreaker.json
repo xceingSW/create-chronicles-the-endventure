@@ -13,11 +13,10 @@
             "minecraft:custom_name": "{\"color\":\"#1ABBE0\",\"italic\":false,\"translate\":\"name.apotheosis.stonebreaker\"}",
             "minecraft:enchantments": {
                 "levels": {
-                    "apothic_enchanting:boon_of_the_earth": 4,
-                    "minecraft:efficiency": 5,
+                    "minecraft:efficiency": 6,
                     "minecraft:fortune": 4,
                     "minecraft:mending": 1,
-                    "minecraft:unbreaking": 5
+                    "minecraft:unbreaking": 4
                 }
             }
         },

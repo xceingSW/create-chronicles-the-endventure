@@ -13,11 +13,11 @@
             "minecraft:custom_name": "{\"color\":\"#1ABBE0\",\"italic\":false,\"translate\":\"name.apotheosis.greatplate_of_eternity\"}",
             "minecraft:enchantments": {
                 "levels": {
-                    "apothic_enchanting:berserkers_fury": 2,
+                    "minecraft:thorns": 4,
                     "minecraft:mending": 1,
                     "minecraft:projectile_protection": 5,
                     "minecraft:protection": 5,
-                    "minecraft:unbreaking": 5
+                    "minecraft:unbreaking": 4
                 }
             }
         },

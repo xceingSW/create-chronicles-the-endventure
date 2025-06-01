@@ -401,6 +401,10 @@
     "modId": "defaultoptions",
     "version": "21.1.2"
   },
+  "delivery_director-1.0.1.jar": {
+    "modId": "delivery_director",
+    "version": "1.0.1"
+  },
   "Design-n-Decor-1.21.1-2.0.2.jar": {
     "modId": "dndecor",
     "version": "2.0.2"
@@ -468,6 +472,10 @@
   "exposure-neoforge-1.21.1-1.9.7.jar": {
     "modId": "exposure",
     "version": "1.9.7"
+  },
+  "extra_gauges-1.1.1.jar": {
+    "modId": "extra_gauges",
+    "version": "1.1.1"
   },
   "fancymenu_neoforge_3.5.0_MC_1.21.1.jar": {
     "modId": "fancymenu",
@@ -750,6 +758,10 @@
     "modId": "measurements",
     "version": "3.0.1"
   },
+  "mechanical_botany-1.0+1.21.1-neoforged.jar": {
+    "modId": "mechanical_botany",
+    "version": "1.0"
+  },
   "mechanicals-1.21.1-1.0.9.jar": {
     "modId": "mechanicals",
     "version": "1.0.8"
@@ -846,9 +858,9 @@
     "modId": "biomeswevegone",
     "version": "2.3.13"
   },
-  "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.11.jar": {
+  "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.12.jar": {
     "modId": "ohthetreesyoullgrow",
-    "version": "5.0.11"
+    "version": "5.0.12"
   },
   "OpenBlocksTrophies-1.21-5.1.6.jar": {
     "modId": "obtrophies",

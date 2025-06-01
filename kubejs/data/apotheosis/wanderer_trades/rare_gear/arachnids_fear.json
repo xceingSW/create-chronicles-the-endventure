@@ -13,11 +13,11 @@
             "minecraft:custom_name": "{\"color\":\"#C11101\",\"italic\":false,\"translate\":\"name.apotheosis.arachnids_fear\"}",
             "minecraft:enchantments": {
                 "levels": {
-                    "minecraft:bane_of_arthropods": 10,
-                    "minecraft:fire_aspect": 5,
-                    "minecraft:looting": 5,
+                    "minecraft:bane_of_arthropods": 6,
+                    "minecraft:fire_aspect": 3,
+                    "minecraft:looting": 4,
                     "minecraft:mending": 1,
-                    "minecraft:unbreaking": 5
+                    "minecraft:unbreaking": 4
                 }
             }
         },

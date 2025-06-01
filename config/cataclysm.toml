@@ -266,7 +266,7 @@
 	#Monstrosity's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	MonstrosityDamageMultiplier = 1.3
+	MonstrosityDamageMultiplier = 1.2
 	#Monstrosity's Healing Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0

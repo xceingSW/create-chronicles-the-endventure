@@ -13,11 +13,10 @@
             "minecraft:custom_name": "{\"color\":\"#608F07\",\"italic\":false,\"translate\":\"name.apotheosis.treecapitator\"}",
             "minecraft:enchantments": {
                 "levels": {
-                    "apothic_enchanting:chainsaw": 1,
-                    "minecraft:efficiency": 10,
+                    "minecraft:efficiency": 6,
                     "minecraft:mending": 1,
                     "minecraft:silk_touch": 1,
-                    "minecraft:unbreaking": 5
+                    "minecraft:unbreaking": 4
                 }
             }
         },

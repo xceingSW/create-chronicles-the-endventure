@@ -12,6 +12,7 @@ const removeRecipesById = [
   'irons_spellbooks:druidic_spell_book',
   'irons_spellbooks:cinderous_soulcaller',
   'irons_spellbooks:wayward_compass',
+  'irons_spellbooks:amethyst_rapier',  
   'irons_spellbooks:citadel_map',  
   'gamediscs:gaming_console',
   'measurements:tape_measure',

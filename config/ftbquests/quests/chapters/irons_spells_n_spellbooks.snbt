@@ -2985,5 +2985,25 @@
 			x: -24.0d
 			y: -0.5d
 		}
+		{
+			dependencies: ["3E6E9C53FBE836FB"]
+			id: "268C2A63C8ADA1CD"
+			rewards: [{
+				id: "531BEC9ABEDCFEB5"
+				item: {
+					count: 1
+					id: "irons_spellbooks:rare_ink"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "57548A938223AAF1"
+				type: "checkmark"
+			}]
+			x: -22.1d
+			y: -1.3d
+		}
 	]
 }

@@ -16,8 +16,8 @@
                     "minecraft:aqua_affinity": 1,
                     "minecraft:mending": 1,
                     "minecraft:protection": 5,
-                    "minecraft:respiration": 5,
-                    "minecraft:unbreaking": 5
+                    "minecraft:respiration": 4,
+                    "minecraft:unbreaking": 4
                 }
             }
         },
