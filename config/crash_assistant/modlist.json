@@ -187,6 +187,10 @@
     "modId": "chat_heads",
     "version": "0.13.18"
   },
+  "ChatShot (1.21.x-neoforge)-1.0.4.jar": {
+    "modId": "chatshot",
+    "version": "1.0.4"
+  },
   "cherishedworlds-neoforge-10.1.1+1.21.1.jar": {
     "modId": "cherishedworlds",
     "version": "10.1.1+1.21.1"
@@ -255,6 +259,10 @@
     "modId": "controlling",
     "version": "19.0.5"
   },
+  "copycats-3.0.1+mc.1.21.1-neoforge.jar": {
+    "modId": "copycats",
+    "version": "3.0.1+mc.1.21.1-neoforge"
+  },
   "Corgilib-NeoForge-1.21.1-5.0.0.3.jar": {
     "modId": "corgilib",
     "version": "5.0.0.3"
@@ -311,9 +319,9 @@
     "modId": "create_cardboarded_conveynience",
     "version": "0.0.3b"
   },
-  "create_connected-1.1.2-mc1.21.1.jar": {
+  "create_connected-1.1.3-mc1.21.1.jar": {
     "modId": "create_connected",
-    "version": "1.1.2-mc1.21.1"
+    "version": "1.1.3-mc1.21.1"
   },
   "create_mechanical_extruder-1.21.1-2.1.1-6.0.4.jar": {
     "modId": "create_mechanical_extruder",
@@ -657,9 +665,9 @@
     "modId": "jearchaeology",
     "version": "1.21.1-1.1.6"
   },
-  "jei-1.21.1-neoforge-19.21.1.305.jar": {
+  "jei-1.21.1-neoforge-19.21.1.310.jar": {
     "modId": "jei",
-    "version": "19.21.1.305"
+    "version": "19.21.1.310"
   },
   "jinxedlib-neoforge-1.21.1-1.0.3.jar": {
     "modId": "jinxedlib",
@@ -1058,9 +1066,9 @@
     "modId": "stylisheffects",
     "version": "21.1.1"
   },
-  "SubtleEffects-neoforge-1.21.1-1.9.4-hotfix.1.jar": {
+  "SubtleEffects-neoforge-1.21.1-1.10.1.jar": {
     "modId": "subtle_effects",
-    "version": "1.9.4-hotfix.1"
+    "version": "1.10.1"
   },
   "supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar": {
     "modId": "supermartijn642corelib",

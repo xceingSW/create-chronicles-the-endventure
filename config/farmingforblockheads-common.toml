@@ -9,12 +9,12 @@ treatMerchantsLikeBabies = true
 #The chance to get a bonus growth when using Red Fertilizer.
 fertilizerBonusGrowthChance = 1.0
 #List of names the merchant can have.
-merchantNames = ["Space Captain Ethan", "Space Captain Luís", "Space Captain Reyals","Space Captain Reyals","Space Captain Bonezone","Space Captain Lamp","Space Captain Nich","Space Captain xceing"]
+merchantNames = ["Space Captain Ethan", "Space Captain Luís", "Space Captain Reyals", "Space Captain Reyals", "Space Captain Bonezone", "Space Captain Lamp", "Space Captain Nich", "Space Captain xceing"]
 #The range at which the chicken nest picks up laid eggs.
 chickenNestRange = 8
 #The maximum amount of animals (per type) until the feeding trough stops feeding.
 feedingTroughMaxAnimals = 24
 #List of default presets to disable.
-disabledDefaultPresets = []
+disabledDefaultPresets = ["create:fertilizer", "minecraft:bone_meal", "biomeswevegone:mushrooms", "minecraft:seeds", "biomeswevegone:seeds", "farmersdelight:seeds", "supplementaries:seeds", "culturaldelights:seeds", "minecraft:saplings", "biomeswevegone:saplings", "culturaldelights:saplings"]
 #The chance to get a bonus crop when using Green Fertilizer.
 fertilizerBonusCropChance = 1.0
