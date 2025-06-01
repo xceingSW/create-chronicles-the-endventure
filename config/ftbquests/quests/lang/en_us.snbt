@@ -413,7 +413,7 @@
 	quest.135A70D16AC6511D.quest_desc: [
 		"Used to awaken the &cEcho of Tyros, First Flamebearer&r in the &6Citadel Arena&6, located in the Nether."
 		""
-		"You can find the arena by exploring or by crafting an &aAncient Furled Map&r."
+		"You can find the arena by exploring or buy a map from &amarket&r."
 		""
 		"Use the &eCinderous Soulcaller&r in the arena to summon the boss."
 	]
@@ -1275,9 +1275,9 @@
 	]
 	quest.3E5AC888381F061B.title: "&6Handcrafted  Mod"
 	quest.3E6E9C53FBE836FB.quest_desc: [
-		"The Scroll Forge is a new crafting station that allows the player to craft scrolls by using ink, paper, and a focus. "
+		"&6The Scroll Forge&r is a new crafting station that allows the player to &ecraft scrolls&r by using &bink, paper, and a focus. &r"
 		""
-		"The ink determines the rarity/level, and the focus determines what school of spells you can craft."
+		"The&6 ink&r determines the rarity/level, and the focus determines what school of spells you can craft."
 	]
 	quest.3E6E9C53FBE836FB.quest_subtitle: "Making Spells"
 	quest.3E7413B4D1A55B58.quest_subtitle: "Craft any Golden Shulker Box type."
@@ -2277,15 +2277,15 @@
 	]
 	quest.6D40B0012EBC27AA.title: "&l&dUploading Custom Images"
 	quest.6E8031A380EB37C8.quest_desc: [
-		"You may quickly notice as your explore your world that you will be finding scrolls. "
+		"You may quickly notice as your explore your world that you will be finding &ascrolls.&r "
 		""
-		"Each scroll contains a spell, similar to an enchanted book. "
+		"Each &ascroll&r contains a spell, similar to an enchanted book. "
 		""
-		"The scroll can be consumed to cast that spell without consuming mana or triggering a cooldown, or brought to the first new workstation added: the Inscription Table."
+		"The&a scroll&r can be consumed to cast that spell without consuming mana or triggering a cooldown, or brought to the first new workstation added: the&6 Inscription Table.&r"
 		""
-		"At the inscription table, you are allowed to place a spell book, one either found or crafted, and slot the scroll into it."
+		"At the &6inscription table&r, you are allowed to place a spell book, one either found or crafted, and slot the scroll into it."
 		""
-		"However, depending on the rarity of the scroll (determined by the spell’s level), it may be too powerful for your spell book."
+		"However, depending on the rarity of the &ascroll&r (determined by the spell’s level), it may be too powerful for your spell book."
 		""
 		"In this case, you need a better spell book."
 	]

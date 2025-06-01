@@ -19,7 +19,8 @@
         },
         "dimension": "minecraft:overworld"
       },
-      "minecraft:lore": "[{\"text\": \"The Catacombs Map\"}]"
+      "minecraft:lore":["{\"text\":\"[Iron's Spellbooks - Overworld]\",\"italic\":false,\"color\":\"gray\"}"], 
+      "minecraft:custom_name": "[{\"text\": \"The Catacombs Map\"}]"
     }
   }
 }

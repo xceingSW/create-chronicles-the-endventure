@@ -19,6 +19,7 @@
         },
         "dimension": "minecraft:the_end"
       },
+      "minecraft:lore":["{\"text\":\"[L_Ender Cataclysm - The End]\",\"italic\":false,\"color\":\"gray\"}"],      
       "minecraft:custom_name": "[{\"text\": \"Ruined Citadel Map\"}]"
     }
   }

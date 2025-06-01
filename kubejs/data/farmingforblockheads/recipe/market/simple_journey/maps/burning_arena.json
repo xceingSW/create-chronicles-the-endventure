@@ -19,6 +19,7 @@
         },
         "dimension": "minecraft:the_nether"
       },
+      "minecraft:lore":["{\"text\":\"[L_Ender Cataclysm - Nether]\",\"italic\":false,\"color\":\"gray\"}"],
       "minecraft:custom_name": "[{\"text\": \"Burning Arena Map\"}]"
     }
   }
