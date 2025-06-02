@@ -13,7 +13,7 @@ ServerEvents.recipes((event) => {
     event.recipes.createMixing(('minecraft:gunpowder'),['minecraft:wither_rose','biomeswevegone:blue_glowcane_powder','biomeswevegone:red_glowcane_powder','biomeswevegone:green_glowcane_powder','biomeswevegone:yellow_glowcane_powder']).superheated()
     event.recipes.createMixing(('minecraft:lapis_lazuli'),['minecraft:glowstone_dust','minecraft:glowstone_dust','minecraft:blue_dye','minecraft:blue_dye','amethyst_shard',Fluid.of("create_enchantment_industry:experience", 250)]).superheated()
     event.recipes.createMixing(('minecraft:ender_pearl'),[Fluid.of("createaddition:bioethanol", 250),'createaddition:biomass_pellet','createaddition:biomass_pellet','createaddition:biomass_pellet','minecraft:prismarine_shard','minecraft:prismarine_shard','minecraft:prismarine_crystals','minecraft:prismarine_crystals']).superheated()
-    event.recipes.createMixing(('3x createmechanisms:bronze'),['minecraft:copper_ingot','minecraft:copper_ingot','minecraft:copper_ingot','minecraft:iron_ingot']).heated()
+    //event.recipes.createMixing(('3x createmechanisms:bronze'),['minecraft:copper_ingot','minecraft:copper_ingot','minecraft:copper_ingot','minecraft:iron_ingot']).heated()
     event.recipes.createMixing("createcompounds:chromatic_compound", [ "#c:dusts/glowstone","#c:dusts/glowstone","#c:dusts/glowstone","create:cinder_flour","create:cinder_flour","create:cinder_flour", "create:powdered_obsidian","create:powdered_obsidian","create:powdered_obsidian","create:polished_rose_quartz"]).superheated();
     // Deploy
     event.recipes.createDeploying('minecraft:shroomlight', ['minecraft:glowstone', '#c:mushrooms'])
@@ -24,7 +24,7 @@ ServerEvents.recipes((event) => {
     event.recipes.createCompacting('minecraft:ink_sac', ['minecraft:dried_kelp', 'minecraft:black_dye'])
     event.recipes.createCompacting('minecraft:moss_block', ['minecraft:cobblestone','minecraft:cobblestone','minecraft:cobblestone','minecraft:vine'])
     event.recipes.createCompacting('minecraft:coal', ['minecraft:charcoal','minecraft:charcoal','minecraft:charcoal','minecraft:charcoal',Fluid.of("lava", 250)])
-    event.recipes.createCompacting(withChance("minecraft:amethyst_shard", 0.4), ['minecraft:iron_nugget','minecraft:iron_nugget','minecraft:iron_nugget','minecraft:quartz',Fluid.of("lava", 250)]).superheated()
+    event.recipes.createCompacting(withChance("minecraft:amethyst_shard", 0.25), ['minecraft:iron_nugget','minecraft:iron_nugget','minecraft:iron_nugget','minecraft:quartz',Fluid.of("lava", 250)]).superheated()
     event.recipes.createCompacting('minecraft:shulker_shell', ['create:sturdy_sheet','minecraft:popped_chorus_fruit', 'minecraft:popped_chorus_fruit','minecraft:popped_chorus_fruit','minecraft:popped_chorus_fruit'])
  
     // Crushing

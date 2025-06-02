@@ -1128,7 +1128,7 @@
 		ManaCostMultiplier = 1.6
 		SpellPowerMultiplier = 1.0
 		CooldownInSeconds = 25.0
-		AllowCrafting = true
+		AllowCrafting = false
 
 	[Spells."irons_spellbooks:ball_lightning"]
 		Enabled = true

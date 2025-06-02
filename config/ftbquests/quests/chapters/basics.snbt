@@ -29,6 +29,7 @@
 		{
 			click: "https://discord.gg/yRAmua5keG"
 			height: 1.0d
+			hover: ["Join Discord Community!"]
 			image: "moonlight:textures/gui/sprites/media/discord.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -872,11 +873,31 @@
 			dependencies: ["5BAE6CD47D4ABF2D"]
 			id: "1CA36734A9127D0C"
 			progression_mode: "flexible"
-			rewards: [{
-				id: "3A61D0A10F813084"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "3A61D0A10F813084"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 5
+					id: "67D9191F18CEC005"
+					item: {
+						count: 1
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "60B853E3ABF13E6A"
+					item: {
+						count: 1
+						id: "create:zinc_ingot"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "270FD20CB4148685"
@@ -911,6 +932,11 @@
 				{
 					id: "2D9901D11E0C5440"
 					item: { count: 1, id: "chipped:tinkering_table" }
+					type: "item"
+				}
+				{
+					id: "523BEE4F629E3944"
+					item: { components: { "ftbfiltersystem:filter": "or(item(chipped:chisel)item(chipped:needles)item(chipped:saw)item(chipped:alchemy_book)item(chipped:multimeter)item(chipped:watering_can))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					type: "item"
 				}
 			]
@@ -2175,7 +2201,7 @@
 					type: "item"
 				}
 				{
-					count: 20
+					count: 10
 					id: "4E3138808FAB3E04"
 					item: {
 						count: 1
@@ -2508,6 +2534,101 @@
 			}]
 			x: 1.0d
 			y: 16.0d
+		}
+		{
+			dependencies: ["5BAE6CD47D4ABF2D"]
+			id: "4BD8863C09D3C30F"
+			rewards: [
+				{
+					count: 5
+					id: "6607F3AD5D4A08B6"
+					item: {
+						count: 1
+						id: "minecraft:white_wool"
+					}
+					type: "item"
+				}
+				{
+					id: "3432629779DFB5B7"
+					item: {
+						count: 1
+						id: "arts_and_crafts:red_paintbrush"
+					}
+					type: "item"
+				}
+				{
+					id: "013E81D973C6CE7F"
+					item: {
+						count: 1
+						id: "arts_and_crafts:blue_paintbrush"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "48050CCBD6E6AA69"
+					item: {
+						count: 1
+						id: "minecraft:glass"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "6113D49AC11D5B89"
+					item: {
+						count: 1
+						id: "minecraft:terracotta"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5ACFFC976C2ED956"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(arts_and_crafts))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 15.100000000000001d
+		}
+		{
+			dependencies: ["4BD8863C09D3C30F"]
+			id: "4626F4A23540DD3E"
+			rewards: [
+				{
+					id: "1593A45C946CC640"
+					item: {
+						count: 1
+						id: "arts_and_crafts:bleachdew_paintbrush"
+					}
+					type: "item"
+				}
+				{
+					id: "542343E619F70453"
+					item: {
+						count: 1
+						id: "arts_and_crafts:bleachdew"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "608D427145CD3404"
+				item: { count: 1, id: "arts_and_crafts:bleachdew" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 15.100000000000001d
+		}
+		{
+			id: "03880BADF1C08707"
+			tasks: [{
+				id: "69E997E52F506277"
+				item: { count: 1, id: "buildinggadgets2:gadget_building" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 14.5d
 		}
 	]
 }

@@ -78,7 +78,18 @@ ServerEvents.recipes(event => {
     ]
   })
 
-
+  event.custom({
+    "type": "createaddition:charging",
+    "energy": 5000,
+    "ingredient": {
+      "item": "minecraft:copper_ingot"
+    },
+    "max_charge_rate": 200,
+    "result": {
+      "count": 1,
+      "id": "createmechanisms:bronze"
+    }
+  })
 
   event.shaped('2x create:belt_connector', [
       '   ',

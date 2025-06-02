@@ -294,12 +294,9 @@
 		{
 			icon: {
 				components: {
-					"minecraft:rarity": "uncommon"
-					"obtrophies:trophy_info": {
-						entity: "minecraft:elder_guardian"
-					}
+					"ftbquests:missing_item": "obtrophies:trophy"
 				}
-				id: "obtrophies:trophy"
+				id: "ftbquests:missing_item"
 			}
 			id: "229C5328751C93F5"
 			rewards: [
@@ -342,12 +339,9 @@
 					entity: "minecraft:elder_guardian"
 					icon: {
 						components: {
-							"minecraft:rarity": "uncommon"
-							"obtrophies:trophy_info": {
-								entity: "minecraft:elder_guardian"
-							}
+							"ftbquests:missing_item": "obtrophies:trophy"
 						}
-						id: "obtrophies:trophy"
+						id: "ftbquests:missing_item"
 					}
 					id: "17EBB827621BD1F0"
 					type: "kill"
@@ -530,12 +524,9 @@
 		{
 			icon: {
 				components: {
-					"minecraft:rarity": "rare"
-					"obtrophies:trophy_info": {
-						entity: "bosses_of_mass_destruction:gauntlet"
-					}
+					"ftbquests:missing_item": "obtrophies:trophy"
 				}
-				id: "obtrophies:trophy"
+				id: "ftbquests:missing_item"
 			}
 			id: "090F9541580A5130"
 			rewards: [{
@@ -553,12 +544,9 @@
 					entity: "bosses_of_mass_destruction:gauntlet"
 					icon: {
 						components: {
-							"minecraft:rarity": "rare"
-							"obtrophies:trophy_info": {
-								entity: "bosses_of_mass_destruction:gauntlet"
-							}
+							"ftbquests:missing_item": "obtrophies:trophy"
 						}
-						id: "obtrophies:trophy"
+						id: "ftbquests:missing_item"
 					}
 					id: "1E399BE22B0347F9"
 					type: "kill"
@@ -1054,12 +1042,9 @@
 		{
 			icon: {
 				components: {
-					"minecraft:rarity": "rare"
-					"obtrophies:trophy_info": {
-						entity: "eternal_starlight:the_gatekeeper"
-					}
+					"ftbquests:missing_item": "obtrophies:trophy"
 				}
-				id: "obtrophies:trophy"
+				id: "ftbquests:missing_item"
 			}
 			id: "4DF64525E5F3E1FC"
 			rewards: [
@@ -1126,12 +1111,9 @@
 		{
 			icon: {
 				components: {
-					"minecraft:rarity": "rare"
-					"obtrophies:trophy_info": {
-						entity: "eternal_starlight:lunar_monstrosity"
-					}
+					"ftbquests:missing_item": "obtrophies:trophy"
 				}
-				id: "obtrophies:trophy"
+				id: "ftbquests:missing_item"
 			}
 			id: "712E35EA760A9452"
 			rewards: [{
@@ -1149,12 +1131,9 @@
 					entity: "eternal_starlight:lunar_monstrosity"
 					icon: {
 						components: {
-							"minecraft:rarity": "rare"
-							"obtrophies:trophy_info": {
-								entity: "eternal_starlight:lunar_monstrosity"
-							}
+							"ftbquests:missing_item": "obtrophies:trophy"
 						}
-						id: "obtrophies:trophy"
+						id: "ftbquests:missing_item"
 					}
 					id: "2BA7C3C4071A5212"
 					type: "kill"
@@ -1172,12 +1151,9 @@
 		{
 			icon: {
 				components: {
-					"minecraft:rarity": "rare"
-					"obtrophies:trophy_info": {
-						entity: "eternal_starlight:starlight_golem"
-					}
+					"ftbquests:missing_item": "obtrophies:trophy"
 				}
-				id: "obtrophies:trophy"
+				id: "ftbquests:missing_item"
 			}
 			id: "383E2DEB48E19246"
 			rewards: [{
@@ -1195,12 +1171,9 @@
 					entity: "eternal_starlight:starlight_golem"
 					icon: {
 						components: {
-							"minecraft:rarity": "rare"
-							"obtrophies:trophy_info": {
-								entity: "eternal_starlight:starlight_golem"
-							}
+							"ftbquests:missing_item": "obtrophies:trophy"
 						}
-						id: "obtrophies:trophy"
+						id: "ftbquests:missing_item"
 					}
 					id: "0C6853CF6407B349"
 					type: "kill"
@@ -1861,6 +1834,55 @@
 					item: {
 						count: 1
 						id: "magic_coins:crystal_coin"
+					}
+					type: "item"
+				}
+				{
+					id: "750F1B1D8CC7F34D"
+					item: {
+						components: {
+							"irons_spellbooks:spell_container": {
+								data: [{
+									id: "irons_spellbooks:raise_hell"
+									index: 0
+									level: 3
+									locked: 1b
+								}]
+								maxSpells: 1
+								mustEquip: 0b
+								spellWheel: 1b
+							}
+							"minecraft:attribute_modifiers": {
+								modifiers: [
+									{
+										amount: 60.0d
+										id: "minecraft:1748805906895"
+										operation: "add_value"
+										slot: "mainhand"
+										type: "minecraft:generic.attack_damage"
+									}
+									{
+										amount: -2.4d
+										id: "minecraft:1748805906896"
+										operation: "add_value"
+										slot: "mainhand"
+										type: "minecraft:generic.attack_speed"
+									}
+									{
+										amount: 0.8d
+										id: "minecraft:1748807267399"
+										operation: "add_multiplied_base"
+										slot: "mainhand"
+										type: "irons_spellbooks:spell_power"
+									}
+								]
+							}
+							"minecraft:custom_name": "{\"extra\":[{\"color\":\"#FF6600\",\"italic\":false,\"text\":\"Awaken Hellrazor\"}],\"text\":\"\"}"
+							"minecraft:lore": ["{\"extra\":[{\"color\":\"#CCFF66\",\"italic\":false,\"text\":\"Completion isnt the end — its the peak.\"}],\"text\":\"\"}"]
+							"minecraft:unbreakable": { }
+						}
+						count: 1
+						id: "irons_spellbooks:hellrazor"
 					}
 					type: "item"
 				}

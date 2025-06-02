@@ -805,6 +805,7 @@
 		"* &7Blessing of life"
 		"* &7Healing Circle"
 		"* &7Heal"
+		"* &7Lightning Bolt"
 		"* Angel Wings"
 		"* Blight"
 		"* Charge"
@@ -1035,6 +1036,17 @@
 		"Storage buses can be filtered and given specific priorities such that specific items will try to go to the attached storage first, however it will not retroactively move any filtered items from anywhere else in the network to its attached storage."
 	]
 	quest.3252CBA260461444.quest_subtitle: "right click into an archmage familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Mountain Towers."
+	quest.325C7701BB3E3F73.quest_desc: [
+		"The &6Starlight Golem&r can be found in the underground forge known as &bThe Golem Forge.&r"
+		""
+		"To locate it, use a&e Seeking Eye&r while holding &eRedstone&r in your off-hand."
+		""
+		"&n&lFight Tips&r&r"
+		"When the &6Starlight Golem&r begins absorbing energy from nearby energy blocks, &byou must deactivate them by right-clicking with a Frozen Tube.&r"
+		""
+		"This &3item is dropped by Freeze&r mobs found within the dungeon."
+	]
+	quest.325C7701BB3E3F73.title: "&6Starlight Golem"
 	quest.32728BD9BD6384F3.quest_desc: [
 		"The &bAcceleration Card&f, depending on the device being upgraded with it, will either increase the speed at which the device operates or allow the device to carry out more operations in one go."
 		""
@@ -1434,6 +1446,18 @@
 	quest.453F0E5926BA4AB1.quest_desc: ["{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7739373308A83503\" } }"]
 	quest.453F0E5926BA4AB1.quest_subtitle: "This can be found in blue skies dimension"
 	quest.45BE2DE3977F53E9.quest_subtitle: "You can repeat as many times you want!"
+	quest.4626F4A23540DD3E.quest_desc: [
+		"You can get &aLotus Pistils&r from the &bsniffer digging&r. You can place &aLotus Pistils on Lily Pads&r to start growing a &aLotus Flower!&r "
+		""
+		"&l&6How to get Bleachdew&r&r"
+		"You can get &bbleachdew&r from interacting with an empty hand on the fully bloomed &aLotus Flower!&r"
+		""
+		"&l&6How to stop the Lotus Flower from growing&r&r"
+		"You can stop the &aLotus Flower&r from growing by interacting with it with shears like you can with Vines in Minecraft! "
+		""
+		"A sheared lotus flower will not grow anymore and won't drop any &bbleachdew!&r"
+	]
+	quest.4626F4A23540DD3E.title: "Bleachdew and Lotus Flower"
 	quest.465B9A805BA57898.quest_subtitle: "Obtained from market with magic coins"
 	quest.466F43B18F0D1B7E.quest_desc: [
 		"You will need a special furnace to convert the block into an ingot: a &4Clibano Furnace&r from &6Forbidden Arcanus.&r"
@@ -1581,6 +1605,14 @@
 		""
 		"When crafted it will be white, but can be quickly recolored with a single dye, or by using a combination of dyes you have four thousand and ninety six colors available. You can also wash off the dye by clicking on a filled Cauldron."
 	]
+	quest.4BD8863C09D3C30F.quest_desc: [
+		"&6Arts and Crafts&r mainly adds a variety of unique and colorful building blocks for your builds. "
+		""
+		"It also allows you to craft &apaintbrushes&r to quickly recolor blocks such as wool, terracotta, mud, and more."
+		""
+		"&d@arts&r"
+	]
+	quest.4BD8863C09D3C30F.title: "&6Arts and Crafts"
 	quest.4BEC405C5EC58218.quest_desc: [
 		"The &bME Level Emitter&r emits a redstone signal based on the quantity of a specific item in the network. It activates when the item count falls below, exceeds, or matches the set quantity. "
 		""
@@ -2154,11 +2186,17 @@
 		""
 		"&6\"+ / -\"&r – Zoom In/Out Minimap (JourneyMap)"
 		""
-		"&6\"Backslash or Scroll Wheel\"&r – Sort Inventory"
+		"&6\"Scroll Wheel\"&r – Sort Inventory"
 		""
 		"&6\"U\"&r – Wrench open wheel (Create)"
 		""
+		"&6\"Ctrl+T\"&r – Open world tier (Apotheosis)"
+		""
 		"&6\"Z\"&r – Uses Spyglass from inventory (Spyglass Improvements)"
+		""
+		"&6\"F7\"&r – Light levels overlays"
+		""
+		"&6\"F9\"&r – Chunks borders overlays"
 		""
 		"If something doesn’t seem to work, always double-check if the key is properly assigned or if it's overlapping with another mod’s keybind!"
 	]
@@ -2703,6 +2741,19 @@
 	quest.7C68CB331F9E5212.title: "&a&lItem Rarity Tiers and Properties&r&r"
 	quest.7C8FD4693FE20947.quest_desc: ["Safes are harder to break shulker boxes that can be only be opened by the player who placed them."]
 	quest.7CC7FD9C32B77B35.quest_subtitle: "Not repeatable"
+	quest.7D080D777F9AADCA.quest_desc: [
+		"&6The Lunar Monstrosity&r can be found in the &bCursed Garden&r, which appears as a large maze."
+		""
+		"To locate it, use a &eSeeking Eye&r while holding &eLunar Berries&r in your off-hand."
+		""
+		"&l&nFight Tips&r&r"
+		"To defeat the &6Lunar Monstrosity&r, &cyou must set it on fire&r. "
+		""
+		"You can use &cFlint and Steel or a Saltpeter Matchbox&r &4to ignite&r its vines and make it vulnerable."
+		""
+		"&eThe Tangled Heart&r is a mini-boss that assists the &6Lunar Monstrosity&r. While not very strong, it can be annoying—its attacks inflict poison."
+	]
+	quest.7D080D777F9AADCA.title: "&6Lunar Monstrosity"
 	quest.7D3E8B0BF58569BC.quest_desc: [
 		"Bed &6Sheet&r This is one of the accessory items that can be added to a bed to customize it. (but not needed to use it)"
 		""
@@ -2710,6 +2761,16 @@
 		""
 		""
 		"When crafted it will be white, but can be quickly recolored with a single dye, or by using a combination of dyes you have four thousand and ninety six colors available. You can also wash off the dye by clicking on a filled Cauldron."
+	]
+	quest.7DA8BD4034753FBD.quest_desc: [
+		"In order to locate the bosses in this dimension, you'll need a &6Seeking Eye&r. They work similarly to Ender Pearls."
+		""
+		"&bTo find a specific structure, you must hold the corresponding item in your off-hand.&r"
+		""
+		""
+		"&3Starlight Golem&r – Requires: Redstone, Golem Steel, and Oxidized Golem Steel."
+		""
+		"&3Lunar Monstrosity&r – Requires: Lunar Berries, Vines and Blue/Red Crystal Roots."
 	]
 	quest.7DB46C70468F2CFE.quest_desc: [
 		"&6Redden's Stone Lanterns&r adds both multi-block and single-block stone lanterns. You can right-click them to toggle the light on or off."
