@@ -43,12 +43,17 @@ user-prefs.json
 /journeymap/server
 /journeymap/defaultconfig.json
 /journeymap/journeymap.log
+/defaultconfigs/
+waypoints
+.persistent
 .vscode
 win_event*
 
 
 
 # files
+ftbchunks-client.snbt
+knownkeys.txt
 realms_persistence.json
 exposure_catalog_state.json
 cherishedworlds-favorites.dat

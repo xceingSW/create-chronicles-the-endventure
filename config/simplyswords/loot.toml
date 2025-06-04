@@ -7,7 +7,7 @@ rareLootTableWeight = 0.4
 runicLootTableWeight = 0.7
 uniqueLootTableWeight = 0.3
 enableContainedRemnants = true
-disabledUniqueWeaponLoot = []
+disabledUniqueWeaponLoot = [  ]
 
 [uniqueLootTableOptions]
 "minecraft:entities/wither" = 0.0

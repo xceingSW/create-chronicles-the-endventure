@@ -23,8 +23,6 @@ particles:0
 reducedDebugInfo:false
 renderClouds:"true"
 renderDistance:12
-skipMultiplayerWarning:true
-joinedFirstServer:true
 simulationDistance:12
 screenEffectScale:1.0
 soundDevice:""
@@ -77,7 +75,7 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:false
 hideBundleTutorial:false
