@@ -5,7 +5,7 @@ const removeRecipesById = [
   'waystones:warp_stone',
   'apothic_enchanting:library',
   'apothic_enchanting:prismatic_web',
-  'naturescompass:naturescompass',
+  'naturescompass:natures_compass',
   'apothic_enchanting:filtering_shelf',
   'apothic_enchanting:ender_library',
   'irons_spellbooks:lesser_spell_slot_upgrade',
@@ -43,7 +43,7 @@ const removeRecipesById = [
   'hazennstuff:crafting/curios/mana_crystal_reinforced',  
   'hazennstuff:crafting/materials/divine_mold',
 
-  'bosses_of_mass_destruction:brimstone_nectar',  
+  'bosses_of_mass_destruction:void_lily',    
 
   'crystal_chronicles:divinite_shard',
   'crystal_chronicles:hemalite_shard',

@@ -22,7 +22,7 @@
 		id: "6B183EED87689D0E"
 		tasks: [{
 			id: "4D199263D6807EEB"
-			item: { count: 1, id: "minecraft:oak_log" }
+			item: { count: 1, id: "refinedstorage:controller" }
 			type: "item"
 		}]
 		x: -2.0d

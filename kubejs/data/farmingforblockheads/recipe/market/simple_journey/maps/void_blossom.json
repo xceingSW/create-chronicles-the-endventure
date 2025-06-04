@@ -6,21 +6,21 @@
     "ingredient": {
       "item": "magic_coins:gold_coin"
     },
-    "count": 2
+    "count": 3
   },
   "result": {
     "count": 1,
     "item": "irons_spellbooks:furled_map",
     "components": {
       "irons_spellbooks:furled_map_data": {
-        "destination": "cataclysm:ancient_factory",
+        "destination": "bosses_of_mass_destruction:void_blossom",
         "descriptionOverride": {
-          "translate": "Ancient Factory"
+          "translate": "Void Blossom"
         },
         "dimension": "minecraft:overworld"
       },
-      "minecraft:lore":["{\"text\":\"[L_Ender Cataclysm - Overworld]\",\"italic\":false,\"color\":\"gray\"}"],
-      "minecraft:custom_name": "[{\"text\": \"Ancient Factory Map\"}]"
+      "minecraft:lore":["{\"text\":\"[Bosses of Mass Destruction - Overworld]\",\"italic\":false,\"color\":\"gray\"}"],      
+      "minecraft:custom_name": "[{\"text\": \"Void Blossom Map\"}]"
     }
   }
 }

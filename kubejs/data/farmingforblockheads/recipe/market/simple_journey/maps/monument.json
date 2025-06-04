@@ -13,14 +13,14 @@
     "item": "irons_spellbooks:furled_map",
     "components": {
       "irons_spellbooks:furled_map_data": {
-        "destination": "cataclysm:ancient_factory",
+        "destination": "minecraft:monument",
         "descriptionOverride": {
-          "translate": "Ancient Factory"
+          "translate": "Ocean Monument"
         },
         "dimension": "minecraft:overworld"
       },
-      "minecraft:lore":["{\"text\":\"[L_Ender Cataclysm - Overworld]\",\"italic\":false,\"color\":\"gray\"}"],
-      "minecraft:custom_name": "[{\"text\": \"Ancient Factory Map\"}]"
+      "minecraft:lore":["{\"text\":\"[Minecraft - Overworld]\",\"italic\":false,\"color\":\"gray\"}"],
+      "minecraft:custom_name": "[{\"text\": \"Ocean Monument Map\"}]"
     }
   }
 }

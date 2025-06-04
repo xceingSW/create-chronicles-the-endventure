@@ -3,7 +3,7 @@ LootJS.modifiers((event) => {
   //event.addTableModifier(/dungeons_arise:chests.*/).addLoot("minecraft:netherite_sword");
 
 
-  event.addTableModifier(/.*/).removeLoot("bosses_of_mass_destruction:blazing_eye");
+  //event.addTableModifier(/.*/).removeLoot("bosses_of_mass_destruction:blazing_eye");
 
   event
   .addTableModifier("bosses_of_mass_destruction:chests/gauntlet")

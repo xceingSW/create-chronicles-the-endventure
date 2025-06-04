@@ -246,9 +246,9 @@ key_key.ftbchunks.add_waypoint:key.keyboard.unknown
 key_key.ftbchunks.waypoint_manager:key.keyboard.unknown
 key_key.moreoverlays.lightoverlay.desc:key.keyboard.f7
 key_key.moreoverlays.chunkbounds.desc:key.keyboard.f9
-key_key.inventorysorter.sort:key.mouse.middle
 key_key.inventorysorter.itemout:key.mouse.102
 key_key.inventorysorter.itemin:key.mouse.100
+key_key.inventorysorter.sort:key.mouse.middle
 key_key.kubejs.kubedex:key.keyboard.semicolon
 key_keybind.sophisticatedstorage.sort:key.mouse.middle
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
@@ -294,8 +294,8 @@ key_key.jade.show_recipes:key.keyboard.keypad.3
 key_key.jade.show_uses:key.keyboard.keypad.4
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.jade.show_details:key.keyboard.left.shift
-key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
 key_legendarytooltips.key.scrollTooltips:key.keyboard.left.shift
+key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
 key_key.create_sa.flying:key.keyboard.space
 key_key.create_sa.increase_reach:key.keyboard.up
 key_key.create_sa.decrease_reach:key.keyboard.down

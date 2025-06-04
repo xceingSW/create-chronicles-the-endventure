@@ -163,6 +163,10 @@
     "modId": "cable_facades",
     "version": "1.6.0"
   },
+  "caelus-neoforge-7.0.1+1.21.1.jar": {
+    "modId": "caelus",
+    "version": "7.0.1+1.21.1"
+  },
   "catburger_neoforge1.21.1-1.0.2.jar": {
     "modId": "catburger",
     "version": "1.0.2"
@@ -331,9 +335,9 @@
     "modId": "create_things_and_misc",
     "version": "1.0.0"
   },
-  "create_waystones_recipes-3.0.0-NeoForge-1.21.1.jar": {
+  "create_waystones_recipes-3.0.1.jar": {
     "modId": "create_waystones_recipes",
-    "version": "3.0.0-NeoForge-1.21.1"
+    "version": "3.0.1"
   },
   "createaddition-1.4.2.jar": {
     "modId": "createaddition"
@@ -429,13 +433,17 @@
     "modId": "drippyloadingscreen",
     "version": "3.0.12"
   },
-  "dummmmmmy-1.21-2.0.7-neoforge.jar": {
+  "dummmmmmy-1.21-2.0.8-neoforge.jar": {
     "modId": "dummmmmmy",
-    "version": "1.21-2.0.7"
+    "version": "1.21-2.0.8"
   },
   "DungeonsArise-1.21.x-2.1.64-release.jar": {
     "modId": "dungeons_arise",
     "version": "2.1.64"
+  },
+  "elytraslot-neoforge-9.0.2+1.21.1.jar": {
+    "modId": "elytraslot",
+    "version": "9.0.2+1.21.1"
   },
   "enchdesc-neoforge-1.21.1-21.1.7.jar": {
     "modId": "enchdesc",
@@ -665,9 +673,9 @@
     "modId": "jearchaeology",
     "version": "1.21.1-1.1.6"
   },
-  "jei-1.21.1-neoforge-19.21.1.310.jar": {
+  "jei-1.21.1-neoforge-19.21.1.312.jar": {
     "modId": "jei",
-    "version": "19.21.1.310"
+    "version": "19.21.1.312"
   },
   "jinxedlib-neoforge-1.21.1-1.0.3.jar": {
     "modId": "jinxedlib",
@@ -770,9 +778,9 @@
     "modId": "mns",
     "version": "1.0.8-1.21"
   },
-  "modernfix-neoforge-5.23.0+mc1.21.1.jar": {
+  "modernfix-neoforge-5.23.1+mc1.21.1.jar": {
     "modId": "modernfix",
-    "version": "5.23.0+mc1.21.1"
+    "version": "5.23.1+mc1.21.1"
   },
   "modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar": {
     "modId": "modernworldcreation",
@@ -842,9 +850,9 @@
     "modId": "biomeswevegone",
     "version": "2.3.13"
   },
-  "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.12.jar": {
+  "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.14.jar": {
     "modId": "ohthetreesyoullgrow",
-    "version": "5.0.12"
+    "version": "5.0.14"
   },
   "oracle_index-neoforge-0.3.0.jar": {
     "modId": "oracle_index",
@@ -1154,9 +1162,9 @@
     "modId": "bettermineshafts",
     "version": "1.21.1-NeoForge-5.1.1"
   },
-  "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.4.jar": {
+  "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar": {
     "modId": "betterfortresses",
-    "version": "1.21.1-NeoForge-3.1.4"
+    "version": "1.21.1-NeoForge-3.1.5"
   },
   "YungsBridges-1.21.1-NeoForge-5.1.1.jar": {
     "modId": "yungsbridges",

@@ -266,7 +266,7 @@
 	#Monstrosity's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	MonstrosityDamageMultiplier = 1.2
+	MonstrosityDamageMultiplier = 1.1
 	#Monstrosity's Healing Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
@@ -320,7 +320,7 @@
 	#Ignis's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	IgnisDamageMultiplier = 2.7
+	IgnisDamageMultiplier = 2.4
 	#Ignis's Healing with out target
 	# Default: 20.0
 	# Range: 0.0 ~ 1000000.0
@@ -376,7 +376,7 @@
 	#Harbinger's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	HarbingerDamageMultiplier = 2.2
+	HarbingerDamageMultiplier = 1.9
 	#Harbinger's Healing Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
@@ -416,7 +416,7 @@
 	#Leviathan's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	LeviathanDamageMultiplier = 1.8
+	LeviathanDamageMultiplier = 1.7
 	#Leviathan's Healing with out target
 	# Default: 20.0
 	# Range: 0.0 ~ 1000000.0
@@ -502,7 +502,7 @@
 	#Ancient Remnant's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	AncientRemnantDamageMultiplier = 1.8
+	AncientRemnantDamageMultiplier = 1.7
 	#AncientRemnant's Healing with out target
 	# Default: 20.0
 	# Range: 0.0 ~ 1000000.0
@@ -588,7 +588,7 @@
 	#Maledictus's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	MaledictusDamageMultiplier = 2.7
+	MaledictusDamageMultiplier = 2.4
 	#Maledictus's Immune to Long distance attack range.
 	# Default: 12.0
 	# Range: 1.0 ~ 1000000.0

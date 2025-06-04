@@ -13,14 +13,14 @@
     "item": "irons_spellbooks:furled_map",
     "components": {
       "irons_spellbooks:furled_map_data": {
-        "destination": "cataclysm:ancient_factory",
+        "destination": "bosses_of_mass_destruction:gauntlet_arena",
         "descriptionOverride": {
-          "translate": "Ancient Factory"
+          "translate": "Gauntlet Arena"
         },
-        "dimension": "minecraft:overworld"
+        "dimension": "minecraft:the_nether"
       },
-      "minecraft:lore":["{\"text\":\"[L_Ender Cataclysm - Overworld]\",\"italic\":false,\"color\":\"gray\"}"],
-      "minecraft:custom_name": "[{\"text\": \"Ancient Factory Map\"}]"
+      "minecraft:lore":["{\"text\":\"[Bosses of Mass Destruction - Nether]\",\"italic\":false,\"color\":\"gray\"}"],      
+      "minecraft:custom_name": "[{\"text\": \"Gauntlet Arena Map\"}]"
     }
   }
 }

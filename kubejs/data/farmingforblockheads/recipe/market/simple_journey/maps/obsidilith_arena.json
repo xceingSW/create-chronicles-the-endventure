@@ -6,21 +6,21 @@
     "ingredient": {
       "item": "magic_coins:gold_coin"
     },
-    "count": 2
+    "count": 3
   },
   "result": {
     "count": 1,
     "item": "irons_spellbooks:furled_map",
     "components": {
       "irons_spellbooks:furled_map_data": {
-        "destination": "cataclysm:ancient_factory",
+        "destination": "bosses_of_mass_destruction:obsidilith_arena",
         "descriptionOverride": {
-          "translate": "Ancient Factory"
+          "translate": "Obsidilith Arena"
         },
-        "dimension": "minecraft:overworld"
+        "dimension": "eternal_starlight:starlight"
       },
-      "minecraft:lore":["{\"text\":\"[L_Ender Cataclysm - Overworld]\",\"italic\":false,\"color\":\"gray\"}"],
-      "minecraft:custom_name": "[{\"text\": \"Ancient Factory Map\"}]"
+      "minecraft:lore":["{\"text\":\"[Bosses of Mass Destruction - Eternal Starlight]\",\"italic\":false,\"color\":\"gray\"}"],      
+      "minecraft:custom_name": "[{\"text\": \"Obsidilith Arena Map\"}]"
     }
   }
 }

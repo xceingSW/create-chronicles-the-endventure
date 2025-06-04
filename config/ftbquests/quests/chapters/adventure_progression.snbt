@@ -293,10 +293,7 @@
 		}
 		{
 			icon: {
-				components: {
-					"ftbquests:missing_item": "obtrophies:trophy"
-				}
-				id: "ftbquests:missing_item"
+				id: "plushies:elder_guardian_plushie"
 			}
 			id: "229C5328751C93F5"
 			rewards: [
@@ -338,10 +335,7 @@
 				{
 					entity: "minecraft:elder_guardian"
 					icon: {
-						components: {
-							"ftbquests:missing_item": "obtrophies:trophy"
-						}
-						id: "ftbquests:missing_item"
+						id: "plushies:elder_guardian_plushie"
 					}
 					id: "17EBB827621BD1F0"
 					type: "kill"
@@ -523,10 +517,7 @@
 		}
 		{
 			icon: {
-				components: {
-					"ftbquests:missing_item": "obtrophies:trophy"
-				}
-				id: "ftbquests:missing_item"
+				id: "bosses_of_mass_destruction:blazing_eye"
 			}
 			id: "090F9541580A5130"
 			rewards: [{
@@ -543,10 +534,7 @@
 				{
 					entity: "bosses_of_mass_destruction:gauntlet"
 					icon: {
-						components: {
-							"ftbquests:missing_item": "obtrophies:trophy"
-						}
-						id: "ftbquests:missing_item"
+						id: "bosses_of_mass_destruction:blazing_eye"
 					}
 					id: "1E399BE22B0347F9"
 					type: "kill"
@@ -1041,10 +1029,7 @@
 		}
 		{
 			icon: {
-				components: {
-					"ftbquests:missing_item": "obtrophies:trophy"
-				}
-				id: "ftbquests:missing_item"
+				id: "eternal_starlight:orb_of_prophecy"
 			}
 			id: "4DF64525E5F3E1FC"
 			rewards: [
@@ -1102,6 +1087,9 @@
 			tasks: [{
 				advancement: "eternal_starlight:challenge_gatekeeper"
 				criterion: ""
+				icon: {
+					id: "eternal_starlight:orb_of_prophecy"
+				}
 				id: "7E437A5CBB7386D2"
 				type: "advancement"
 			}]
@@ -1110,10 +1098,7 @@
 		}
 		{
 			icon: {
-				components: {
-					"ftbquests:missing_item": "obtrophies:trophy"
-				}
-				id: "ftbquests:missing_item"
+				id: "eternal_starlight:nightfan"
 			}
 			id: "712E35EA760A9452"
 			rewards: [{
@@ -1130,10 +1115,7 @@
 				{
 					entity: "eternal_starlight:lunar_monstrosity"
 					icon: {
-						components: {
-							"ftbquests:missing_item": "obtrophies:trophy"
-						}
-						id: "ftbquests:missing_item"
+						id: "eternal_starlight:nightfan"
 					}
 					id: "2BA7C3C4071A5212"
 					type: "kill"
@@ -1150,10 +1132,7 @@
 		}
 		{
 			icon: {
-				components: {
-					"ftbquests:missing_item": "obtrophies:trophy"
-				}
-				id: "ftbquests:missing_item"
+				id: "eternal_starlight:oxidized_chiseled_golem_steel_block"
 			}
 			id: "383E2DEB48E19246"
 			rewards: [{
@@ -1170,10 +1149,7 @@
 				{
 					entity: "eternal_starlight:starlight_golem"
 					icon: {
-						components: {
-							"ftbquests:missing_item": "obtrophies:trophy"
-						}
-						id: "ftbquests:missing_item"
+						id: "eternal_starlight:oxidized_chiseled_golem_steel_block"
 					}
 					id: "0C6853CF6407B349"
 					type: "kill"
