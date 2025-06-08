@@ -97,6 +97,31 @@ ServerEvents.recipes(event => {
       'SSS'
   ], {
       S: 'createmechanisms:cured_rubber',
+  })
+  
+  event.shaped('createmechanisms:iron_saw', [
+      'A  ',
+      ' A ',
+      '  C'
+  ], {
+      C: '#minecraft:wooden_slabs',
+      A: 'minecraft:iron_ingot',
+  })
+  event.shaped('createmechanisms:copper_saw', [
+      'A  ',
+      ' A ',
+      '  C'
+  ], {
+      C: '#minecraft:wooden_slabs',
+      A: 'minecraft:copper_ingot',
   })  
+  event.shaped('createmechanisms:diamond_saw', [
+      'A  ',
+      ' A ',
+      '  C'
+  ], {
+      C: '#minecraft:wooden_slabs',
+      A: 'minecraft:diamond',
+  })      
   event.smoking('createmechanisms:cured_rubber', 'createmechanisms:rubber').cookingTime(200)
 });
