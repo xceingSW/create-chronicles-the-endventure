@@ -63,9 +63,9 @@
     "modId": "apothic_spawners",
     "version": "1.3.0"
   },
-  "appleskin-neoforge-mc1.21-3.0.5.jar": {
+  "appleskin-neoforge-mc1.21-3.0.7.jar": {
     "modId": "appleskin",
-    "version": "3.0.5+mc1.21"
+    "version": "3.0.7+mc1.21"
   },
   "architectury-13.0.8-neoforge.jar": {
     "modId": "architectury",
@@ -107,6 +107,10 @@
     "modId": "badoptimizations",
     "version": "2.2.2"
   },
+  "baguettelib-1.21.1-NeoForge-1.0.0.jar": {
+    "modId": "baguettelib",
+    "version": "1.0.0"
+  },
   "balm-neoforge-1.21.1-21.0.46.jar": {
     "modId": "balm",
     "version": "21.0.46"
@@ -147,9 +151,9 @@
     "modId": "bosses_of_mass_destruction",
     "version": "1.3.2"
   },
-  "bookshelf-neoforge-1.21.1-21.1.63.jar": {
+  "bookshelf-neoforge-1.21.1-21.1.64.jar": {
     "modId": "bookshelf",
-    "version": "21.1.63"
+    "version": "21.1.64"
   },
   "BridgingMod-2.6.2+1.21.1.neoforge-release.jar": {
     "modId": "bridgingmod",
@@ -259,21 +263,17 @@
     "modId": "copycats",
     "version": "3.0.1+mc.1.21.1-neoforge"
   },
-  "Corgilib-NeoForge-1.21.1-5.0.0.3.jar": {
+  "Corgilib-NeoForge-1.21.1-5.0.0.4.jar": {
     "modId": "corgilib",
-    "version": "5.0.0.3"
+    "version": "5.0.0.4"
   },
   "coroutil-neoforge-1.21.0-1.3.8.jar": {
     "modId": "coroutil",
     "version": "1.21.0-1.3.8"
   },
-  "corpse-neoforge-1.21.1-1.1.5.jar": {
+  "corpse-neoforge-1.21.1-1.1.7.jar": {
     "modId": "corpse",
-    "version": "1.21.1-1.1.5"
-  },
-  "corpsecurioscompat-1.21.1-NeoForge-2.2.2.jar": {
-    "modId": "corpsecurioscompat",
-    "version": "2.2.2"
+    "version": "1.21.1-1.1.7"
   },
   "cosmeticarmorreworked-1.21.1-v1-neoforge.jar": {
     "modId": "cosmeticarmorreworked",
@@ -287,9 +287,9 @@
     "modId": "crash_assistant",
     "version": "1.8.0"
   },
-  "create-1.21.1-6.0.4.jar": {
+  "create-1.21.1-6.0.5.jar": {
     "modId": "create",
-    "version": "6.0.4"
+    "version": "6.0.5"
   },
   "create-central-kitchen-2.1.2.jar": {
     "modId": "create_central_kitchen",
@@ -323,9 +323,9 @@
     "modId": "create_mechanical_extruder",
     "version": "1.21.1-2.1.1-6.0.4"
   },
-  "create_mobile_packages-1.21.1-0.4.4.jar": {
+  "create_mobile_packages-1.21.1-0.5.1.jar": {
     "modId": "create_mobile_packages",
-    "version": "0.4.4"
+    "version": "0.5.1"
   },
   "create_pattern_schematics-2.0.8.jar": {
     "modId": "create_pattern_schematics",
@@ -469,9 +469,9 @@
     "modId": "eternal_starlight",
     "version": "0.4.3+1.21.1+neoforge"
   },
-  "exposure-neoforge-1.21.1-1.9.7.jar": {
+  "exposure-neoforge-1.21.1-1.9.8.jar": {
     "modId": "exposure",
-    "version": "1.9.7"
+    "version": "1.9.8"
   },
   "extra_gauges-1.1.1.jar": {
     "modId": "extra_gauges",
@@ -573,9 +573,9 @@
     "modId": "gamediscs",
     "version": "0.3.2-neoforge"
   },
-  "garnished-2.1.3.6+1.21.1-neoforged.jar": {
+  "garnished-2.1.4+1.21.1-neoforged.jar": {
     "modId": "garnished",
-    "version": "2.1.3.6"
+    "version": "2.1.4"
   },
   "geckolib-neoforge-1.21.1-4.7.5.1.jar": {
     "modId": "geckolib",
@@ -592,6 +592,10 @@
   "gpumemleakfix-1.21-1.8.jar": {
     "modId": "gpumemleakfix",
     "version": "1.8"
+  },
+  "gravestonecurioscompat-1.21.1-NeoForge-3.0.2.jar": {
+    "modId": "corpsecurioscompat",
+    "version": "3.0.2"
   },
   "handcrafted-neoforge-1.21.1-4.0.3.jar": {
     "modId": "handcrafted",
@@ -673,9 +677,9 @@
     "modId": "jearchaeology",
     "version": "1.21.1-1.1.6"
   },
-  "jei-1.21.1-neoforge-19.21.1.312.jar": {
+  "jei-1.21.1-neoforge-19.21.2.313.jar": {
     "modId": "jei",
-    "version": "19.21.1.312"
+    "version": "19.21.2.313"
   },
   "jinxedlib-neoforge-1.21.1-1.0.3.jar": {
     "modId": "jinxedlib",
@@ -790,9 +794,9 @@
     "modId": "molten_vents",
     "version": "2.1.0"
   },
-  "moonlight-1.21-2.18.13-neoforge.jar": {
+  "moonlight-1.21-2.18.18-neoforge.jar": {
     "modId": "moonlight",
-    "version": "1.21-2.18.13"
+    "version": "1.21-2.18.18"
   },
   "moreoverlays-1.23.2-mc1.21-neoforge.jar": {
     "modId": "moreoverlays",
@@ -846,9 +850,9 @@
     "modId": "octolib",
     "version": "0.5.0.1"
   },
-  "Oh-The-Biomes-Weve-Gone-NeoForge-2.3.13.jar": {
+  "Oh-The-Biomes-Weve-Gone-NeoForge-2.4.0.jar": {
     "modId": "biomeswevegone",
-    "version": "2.3.13"
+    "version": "2.4.0"
   },
   "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.14.jar": {
     "modId": "ohthetreesyoullgrow",
@@ -934,9 +938,9 @@
     "modId": "refinedstorage",
     "version": "2.0.0-beta.2"
   },
-  "refurbished_furniture-neoforge-1.21.1-1.0.12.jar": {
+  "refurbished_furniture-neoforge-1.21.1-1.0.16.jar": {
     "modId": "refurbished_furniture",
-    "version": "1.0.12"
+    "version": "1.0.16"
   },
   "repurposed_structures-7.5.15+1.21.1-neoforge.jar": {
     "modId": "repurposed_structures",

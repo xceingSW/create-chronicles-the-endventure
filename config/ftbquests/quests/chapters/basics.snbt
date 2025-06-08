@@ -605,25 +605,14 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "5525E70F7FBDBD92"
-			rewards: [
-				{
-					id: "7F4AC2523DDD270D"
-					item: {
-						count: 1
-						id: "minecraft:enchanted_golden_apple"
-					}
-					type: "item"
+			rewards: [{
+				id: "7F4AC2523DDD270D"
+				item: {
+					count: 1
+					id: "minecraft:enchanted_golden_apple"
 				}
-				{
-					count: 5
-					id: "37BA382B82E517BD"
-					item: {
-						count: 1
-						id: "culturaldelights:hearty_salad"
-					}
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "0CBC9A977ED7A39C"
 				type: "checkmark"

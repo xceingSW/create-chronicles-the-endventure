@@ -14,7 +14,7 @@
             {
               "function": "minecraft:set_components",
               "components": {
-                "apotheosis:gem": "apotheosis:core/normal",
+                "apotheosis:gem": "apotheosis:core/ballast",
                 "apotheosis:purity": "normal"
               }
             }
