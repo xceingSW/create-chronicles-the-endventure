@@ -8,6 +8,15 @@
 		id: "create_enchantment_industry:blaze_enchanter"
 	}
 	id: "699146B31CBD0538"
+	images: [{
+		color: 14522965
+		height: 1.0d
+		image: "chalk:block/mark/arrow"
+		rotation: 90.0d
+		width: 1.0d
+		x: -9.5d
+		y: -0.5d
+	}]
 	order_index: 1
 	quest_links: [ ]
 	quests: [

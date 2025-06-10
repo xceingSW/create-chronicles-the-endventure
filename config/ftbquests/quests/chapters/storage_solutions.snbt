@@ -885,7 +885,6 @@
 		}
 		{
 			dependencies: ["0C49795E134A27E0"]
-			hide_until_deps_complete: true
 			id: "7261FED43BDDEFA8"
 			rewards: [{
 				id: "759477746249AD5A"

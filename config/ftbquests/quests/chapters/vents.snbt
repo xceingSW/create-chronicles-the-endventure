@@ -7,6 +7,15 @@
 		id: "molten_vents:active_molten_veridium"
 	}
 	id: "1B9B51E90A5A29A0"
+	images: [{
+		color: 14522965
+		height: 1.0d
+		image: "chalk:block/mark/arrow"
+		rotation: 90.0d
+		width: 1.0d
+		x: -6.0d
+		y: 1.5d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [

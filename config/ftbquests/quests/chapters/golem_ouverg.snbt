@@ -1,0 +1,50 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "golem_ouverg"
+	group: "58944126F4575319"
+	icon: {
+		id: "golemoverhaul:clay_golem_statue"
+	}
+	id: "5A695917A1E23476"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7E7B5A9C3AE9FBF8"
+			tasks: [{
+				id: "1DB700D90CFA4496"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			id: "362C70E45443B57C"
+			tasks: [{
+				id: "63C8DB8912B60ECE"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			id: "6A7C0604FA1E82BB"
+			tasks: [{
+				id: "3692DF3EC8E203AD"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			id: "70FA406AD3A8A7A9"
+			tasks: [{
+				id: "43CC78FA7EBA916E"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+	]
+}
