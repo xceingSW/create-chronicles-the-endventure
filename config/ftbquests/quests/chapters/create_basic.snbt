@@ -1,4 +1,5 @@
 {
+	always_invisible: true
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "create_basic"
@@ -7,48 +8,14 @@
 		id: "create:wrench"
 	}
 	id: "53732D728CE0A308"
-	images: [
-		{
-			height: 1.5d
-			image: "create:textures/gui/logo.png"
-			rotation: 0.0d
-			width: 1.5d
-			x: -13.5d
-			y: -7.5d
-		}
-		{
-			height: 2.0d
-			image: "create:item/empty_clipboard"
-			rotation: 0.0d
-			width: 2.0d
-			x: -7.5d
-			y: -6.0d
-		}
-		{
-			height: 2.0d
-			image: "create_pattern_schematics:item/empty_pattern_schematic"
-			rotation: 0.0d
-			width: 2.0d
-			x: -10.0d
-			y: -4.5d
-		}
-		{
-			height: 2.0d
-			image: "create:item/empty_schematic"
-			rotation: 0.0d
-			width: 2.0d
-			x: -9.0d
-			y: -5.5d
-		}
-		{
-			height: 1.5d
-			image: "create:entity/blueprint_small"
-			rotation: 0.0d
-			width: 1.5d
-			x: -10.5d
-			y: -6.0d
-		}
-	]
+	images: [{
+		height: 1.5d
+		image: "create:textures/gui/logo.png"
+		rotation: 0.0d
+		width: 1.5d
+		x: -13.5d
+		y: -7.5d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -604,7 +571,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: -7.5d
+			y: -6.0d
 		}
 		{
 			id: "1605A9755E36BD61"

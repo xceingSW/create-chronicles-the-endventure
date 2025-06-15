@@ -7,6 +7,7 @@
 	chapter.1B9B51E90A5A29A0.title: "&aMolten Vents and Renewables&r"
 	chapter.200DC5467E72813C.title: "&dImmersive Aircraft"
 	chapter.2385B4F2FA029016.title: "&6Alshanex's Familiars&r"
+	chapter.2A786FFD5532B025.title: "&aTeleporters"
 	chapter.2CF7FF0BE3628E3D.title: "&eAlshanex's Familiars&r"
 	chapter.464FB437D5DF7824.title: "&eArtifacts"
 	chapter.4B6E4A0215F45FC0.title: "&3The Otherside: &0Deeper and Darker"
@@ -40,6 +41,7 @@
 	]
 	quest.008BB9099EFA03A0.quest_subtitle: "The Final Gatekeeper Awaits"
 	quest.008BB9099EFA03A0.title: "&dFace the Ender Guardian"
+	quest.008E19FAAC054402.quest_subtitle: "Polar Bear Hide can be dropped by Polar Bears when using the Ravaging enchantment on a hatchet."
 	quest.00D7A88C4C686C02.quest_desc: [
 		"&cThe Leviathan &rcan be found in the depths of the &eSunken City&r."
 		""
@@ -165,6 +167,26 @@
 		""
 		"To configure, &2shift right-click&r with an empty hand and explore a wide array of options."
 	]
+	quest.04A995BBF67D6395.quest_desc: [
+		"&cHatchets&r have higher attack speed and damage than swords, but lower than axes. They can break the same blocks as axes, plus cobwebs."
+		""
+		"&6Hatchets support several unique enchantments, including two that improve mob drops:&r"
+		""
+		"* &bRavaging:&r Increases drops from hostile and some neutral mobs. Grants Strength when below half health. Incompatible with Quick Step."
+		""
+		"* &bSalvaging:&r Increases drops from passive mobs."
+		""
+		"&aOther notable enchantments:&r"
+		""
+		"* &bStriking:&r Replaces standard damage enchantments like Sharpness or Smite."
+		""
+		"* &bQuick Step:&r Grants Speed when below half health. Incompatible with Ravaging and Rejuvenate."
+		""
+		"* &bRejuvenate:&r Heals the player on hit. Incompatible with Quick Step."
+		""
+		"* &bCurse of the Leech:&r Damages the player when hitting mobs (opposite of Rejuvenate)."
+	]
+	quest.04A995BBF67D6395.title: "Hatchet Interactions"
 	quest.0513DE018AA2BB84.quest_desc: [
 		"The &6&lCart Assembler&r&r attaches Contraptions to Minecarts that pass through it when powered by a Redstone signal."
 		""
@@ -210,7 +232,10 @@
 		"Liquid Garnish + Lava = Calcite"
 		""
 		"Apple Cider + Lava = Carnotite"
+		""
+		"&6You can use a mechanical extruder for that!&r"
 	]
+	quest.05E44A1BD522BC74.title: "Fluid Interactions"
 	quest.05F67DDB916F8D32.quest_desc: [
 		"The &l&6Water Wheel&r&r is a generator of rotational power, producing Rotational Force when water flows over it. As water moves in a consistent direction across the wheel, it begins to rotate, transferring power through its shaft to connected components."
 		""
@@ -356,6 +381,7 @@
 	]
 	quest.089899282C7F87E4.title: "Forgot to Mention"
 	quest.08AA3590E20B7629.quest_desc: ["The &l&6Gearshift&r&r reverses the direction of rotational force output when it receives a Redstone signal."]
+	quest.08B2F767BB0AB1AA.quest_subtitle: "Tusk can be dropped by Hoglins when using the Ravaging enchantment on a hatchet. Additionally, it can be dropped by Pigs when using the Salvaging enchantment on a hatchet."
 	quest.090F9541580A5130.quest_desc: [
 		"&cThe Nether Gauntlet&r spawns naturally within the &eGauntlet Arena,&r located deep in the &aNether.&r"
 		""
@@ -385,6 +411,7 @@
 	quest.091D25B58FD2D1A3.title: "&e🔌 Connectors Overview"
 	quest.093BE9C3E8D400D3.quest_subtitle: "used to heal familiars stored in a familiar tome over time."
 	quest.0964C5C4D8D33E5F.quest_subtitle: "+25% Engine Power, +50% fuel requirement."
+	quest.098A7DE12CAFAE30.quest_subtitle: "Preliminary Nucleus can be dropped by Endermites when using the Ravaging enchantment on a Hatchet."
 	quest.098D99FBDE0DA69B.quest_desc: [
 		"&6The Constructor &rplaces blocks from your storage network into the world in front of it."
 		""
@@ -561,10 +588,14 @@
 	quest.0FD0F0F442972293.quest_desc: [
 		"A special type of tree can be found in the &l&6Plains biome&r&r, featuring distinctive leaves and light green logs, offering both aesthetic building materials and a source of nuts."
 		""
-		"The leaves of these trees randomly drop one of nine nut varieties: Almonds, Cashews, Pistachios, Macadamias, Pecans, Walnuts, Hazelnuts, Chestnuts, and Peanuts. Each nut type has its own unique uses, adding variety and utility to your harvest."
+		"&bThe leaves of these trees randomly drop one of nine nut varieties&r: Almonds, Cashews, Pistachios, Macadamias, Pecans, Walnuts, Hazelnuts, Chestnuts, and Peanuts. Each nut type has its own unique uses, adding variety and utility to your harvest."
 		""
 		"You can use the nuts to replant the tree and this way making an automated farm."
+		""
+		""
+		"&d@garnished"
 	]
+	quest.0FD0F0F442972293.title: "&6Create Garnished"
 	quest.0FD95744FAD04B92.quest_desc: ["&6&lSmart Fluid Pipes&r&r allow only a specific fluid to pass through. To set the filter, insert a bucket or bottle of the desired liquid into the pipe’s Filter slot."]
 	quest.0FF69526C1DC1593.quest_desc: ["Can be tamed with enchanted &cNetherite Chestplates&r. When tamed, they will occasionally drop enchanted books. "]
 	quest.0FFFB592D103B2BF.quest_subtitle: "Not repeatable"
@@ -721,6 +752,7 @@
 		""
 		"The current length of the rope can be monitored using a Threshold Switch for automation or signaling."
 	]
+	quest.162F3E589083CA60.quest_subtitle: "Irate Tusk can be dropped by Hoglins when using the Ravaging enchantment on a hatchet."
 	quest.16BF82CCB4624E9C.quest_desc: [
 		"Individual ME devices can also be configured to respond to redstone signals. When upgraded with a &bRedstone Card&f, a device can be configured to do work only when powered with redstone or otherwise as needed."
 		""
@@ -1097,11 +1129,11 @@
 	quest.22E0846B96BBD5DD.quest_desc: ["Legends say this eye once belonged to one of the great Sandworms"]
 	quest.22E0846B96BBD5DD.quest_subtitle: "Found in Desert Pyramids"
 	quest.231D1BD8D2A930CF.quest_desc: [
-		"In the Create mod,&6 &lkinetic energy&r&r is the power generated by moving parts. "
+		"In the Create mod,&6 &lrotational force&r&r is the power generated by moving parts. "
 		""
 		"This energy is used to run various machines and contraptions."
 		""
-		"You can generate kinetic energy using devices like Water Wheels, Windmills etc. "
+		"You can generate rotational force using devices like Water Wheels, Windmills etc. "
 		""
 		"Once generated, this energy can be transferred through shafts, gears, and other mechanical components to operate your creations."
 	]
@@ -1131,6 +1163,11 @@
 		"&d@eternal&r"
 	]
 	quest.2497E4DD60E74225.quest_subtitle: "Not repeatable"
+	quest.24A3D36B0BF64712.quest_desc: [
+		"The &6entity teleporter&r can teleport any entity to a &eentity teleporter receiver&r.  It uses &dtelejuice&r as fuel."
+		""
+		"To link it to a &eentity teleporter receiver&r, use a &aTP link.&r"
+	]
 	quest.24A56D98CF3ABB1B.quest_desc: [
 		"The &6&lBlaze Forger&r&r functions like an &8&lAnvil&r&r with little extras. Like the Blaze Enchanter, the Blaze Forger also required Liquid Experience to activate. "
 		""
@@ -1246,6 +1283,7 @@
 	quest.2807106C369DF042.quest_subtitle: "Get your hands on a Sculk Transmitter."
 	quest.28101F299D039864.quest_desc: ["Can be found naturally in &aslime chunks,&r and will spawn as one of two size variants, each with their own stats."]
 	quest.28101F299D039864.title: "Slime golem"
+	quest.2831D3B922697A8C.quest_subtitle: "Raw Tenebrous Meat can be dropped by Wardens when using the Ravaging enchantment on a hatchet."
 	quest.2843021F7F41ED01.quest_desc: [
 		"The &6&lChute&r&r can insert into or extract items from inventories located above or below them, as well as from Belts and Depots."
 		""
@@ -1396,6 +1434,7 @@
 	quest.2D412FE8D78F46FE.quest_desc: ["The &6&lShaft&r&r is fundamental to transmit rotation between connected machines. It also serves as the exclusive base for placing Mechanical Belts."]
 	quest.2D430D14A2F6C60A.quest_subtitle: "Not repeatable"
 	quest.2D69922251E3D2CB.quest_subtitle: "&6Allows visible creatures to be seen"
+	quest.2D6F91D478384B53.quest_subtitle: "Numbing Parchment can be dropped by Strays when using the Ravaging enchantment on a hatchet."
 	quest.2D7A94A67C6BC008.quest_subtitle: "Not repeatable"
 	quest.2D8A98F91CDD4318.quest_desc: [
 		"These &6Blueprints &rcan be given one or more crafting recipes, which they then apply to your held items whenever you right-click them."
@@ -1622,6 +1661,13 @@
 		"&6The Detector&r monitors a specific resource in your storage network and emits a redstone signal based on its quantity. "
 		""
 		"You can set it to trigger when the amount is equal to, above, or below a chosen value. Fuzzy mode lets it consider item variations like damage or metadata."
+	]
+	quest.33E9A4967BA70F29.quest_desc: [
+		"&6The custom portal &rcan teleport mobs and players across dimensions or to any block."
+		""
+		"The custom portal uses&d Telejuice&r as fuel, and requires a &aGravity Stabilizer&r to toggle on and off.  "
+		""
+		"Link to coordinates using an &cAdvanced TP-Link. &r"
 	]
 	quest.33EF47DF16D412B5.quest_desc: ["Has witnessed destruction. Maybe it also witnessed your stuff disappear"]
 	quest.33EF47DF16D412B5.quest_subtitle: "Dropped by The Wither"
@@ -1872,6 +1918,7 @@
 		""
 		"Additionally, the &6Storage Controller&r can connect wireless to any storage link within a &n&crange of 15 blocks.&r&r"
 	]
+	quest.3CA4542BF17DB864.quest_subtitle: "Enflamed Mandible can be dropped by Blazes when using the Ravaging enchantment on a hatchet."
 	quest.3CBDB45D65737212.quest_subtitle: "Found by stepping on Infested Sculk"
 	quest.3CE1281049B4B14B.quest_subtitle: "x16"
 	quest.3D0F9F9B2B945E7A.quest_subtitle: "Harness the power of &bfrost&r. Increased &bfrost spell power&r or &barmor&r."
@@ -2343,6 +2390,7 @@
 		"You can also rename the film by &dright click&r."
 	]
 	quest.4B6BE37E7C57BD00.title: "Film rolls "
+	quest.4BA1C262BA0B26C7.quest_subtitle: "Meat Scrap can be dropped by Ravagers when using the Ravaging enchantment on a hatchet."
 	quest.4BC65D4005C17D9F.title: "&5Electromancer Outfit"
 	quest.4BC707D6FBE8FF09.quest_desc: [
 		"&eLimited Barrels&r come in different formats: I, II, III, and IV. "
@@ -2757,6 +2805,7 @@
 		"&l&a📝Tip:&r&r &oYou can buy a map in the Market to locate one -&e The Citadel&r.&r"
 	]
 	quest.583EBA8354586BFD.quest_subtitle: "&d☠ Tier 5"
+	quest.5841D16B410B3D41.quest_subtitle: "Ghast Tendril can be dropped by Ghasts when using the Ravaging enchantment on a hatchet."
 	quest.58D9CE68661256C8.quest_desc: [
 		"The &l&6Encased Chain Drive&r&r is a block used to transfer rotational power, similar to a Mechanical Belt, but with more flexibility in layout."
 		""
@@ -2941,6 +2990,8 @@
 		"They’re primarily used to defeat enemies, as they do not damage the environment."
 	]
 	quest.5D6271AF25237B2E.title: "Weapons"
+	quest.5D6FDF6682B47167.quest_subtitle: "Dimmed Scale can be dropped by Endermen, Endermites, and the Ender Dragon when using the Ravaging enchantment on a hatchet."
+	quest.5D859F65BB6BA3E0.quest_desc: ["Uses &dTelejuice&r to toggle a custom portal in the area on and off"]
 	quest.5D94118C96E07BAA.title: "&2Venomous Outfit"
 	quest.5E08A9D0D45010CE.quest_desc: [
 		"&6Regulator Upgrade&r maintains a specific amount of a resource in the connected inventory by regulating imports or exports."
@@ -2966,6 +3017,7 @@
 	quest.5EC30214D9EE2A0C.title: "&2&lSchool of Nature"
 	quest.5EC521DA8FF06758.quest_desc: ["A powerful yet destructive artifact; the Piglins swore to protect it at the cost of their lives"]
 	quest.5EC521DA8FF06758.quest_subtitle: "Found in Bastions treasure chest"
+	quest.5EE5A4AA72E10A32.quest_subtitle: "Raw Polar Bear Meat can be dropped by Polar Bears when using the Ravaging enchantment on a hatchet."
 	quest.5F65870D9A816C6E.quest_desc: [
 		"You have been chosen as a &dNovice Engineer&r, beginning your journey toward mastery of Create. "
 		""
@@ -3105,6 +3157,7 @@
 		"The Windmill generates power based on the number of sail, up to a maximum of 128 sails."
 	]
 	quest.632F1D52317286A8.quest_subtitle: "Creepers will avoid the wearer. Hisses at attacking phantoms."
+	quest.636178B57E7A9E86.quest_subtitle: "Molten Remnant can be dropped by Magma Cubes when using the Ravaging enchantment on a hatchet."
 	quest.63A35C0C01372EB6.quest_desc: ["Those who followed this eye were never seen again; rumors say they found the great city of Atlantis, or lost their way trying"]
 	quest.63A35C0C01372EB6.quest_subtitle: "Craft it using aquatic items"
 	quest.640C3588E6BA8DF2.quest_desc: [
@@ -3304,6 +3357,11 @@
 	quest.6B2BB3A3AAC179FE.title: "&l&6Disenchanting Your Equipment"
 	quest.6B7CFD3808AB7DB1.title: "&cAdvanced Pyromancer Outfit"
 	quest.6B95EF7446936BCD.quest_subtitle: "You can repeat as many times you want!"
+	quest.6B9E13665837ECA1.quest_desc: [
+		"&6The item teleporter&r can teleport a stack of items to an&e item teleporter receiver&r. It uses &dtelejuice&r as fuel. "
+		""
+		"To link it to an &eitem teleporter receiver&r, use a &aTP link.&r"
+	]
 	quest.6BA1A3DFE41ACB6A.quest_subtitle: "Not repeatable"
 	quest.6BAC0A0F663D5B1F.quest_desc: [
 		"Deep underground in the Overworld lies a mysterious spherical cave, resembling a Lush Cave  home to the elusive &cVoid Blossom.&r"
@@ -3339,6 +3397,7 @@
 		""
 		"Recolor with dye (crouch + right-click or craft)."
 	]
+	quest.6C6589020C2F2E70.quest_subtitle: "Vex Wing can be dropped by Vexes or, very rarely, Allays when using the Ravaging enchantment on a Hatchet."
 	quest.6C71E2ABAA99C005.title: "&6Collect All the Simply Swords"
 	quest.6C7C101DFE4E67F3.quest_subtitle: "+5% mana regen, constantly heals tamed familiars at the cost of your own mana, found in Priest Towers."
 	quest.6C7DDDC1123E208A.quest_desc: [
@@ -3404,6 +3463,22 @@
 		""
 		"Using the size difference between Cogwheels and Large Cogwheels, rotational speed can be doubled or halved. This scaling can be applied repeatedly—by chaining multiple gear pairs—up to a maximum of 256 RPM. For more precise speed adjustments, a Large Cogwheel can be connected to a Rotation Speed Controller."
 	]
+	quest.6D5015C82CCC85FE.quest_desc: [
+		"&aCreate Teleporters&r is a Minecraft mod that adds advanced teleportation mechanics for both entities and items. "
+		""
+		"It introduces two main devices: &6Entity Teleporters&r and &6Item Teleporters&r, both of which must be linked to their respective receivers to function."
+		""
+		"&aTeleporters&r are powered by&d Telejuice&r, a special liquid obtained by &edraining Chorus Fruit&r. You can buy&e Chorus Fruit from the market&r and automate its production using a &eMechanical Insulator&r. Maintaining a steady supply of &dTelejuice&r is essential to keep your teleporters operational."
+		""
+		"A standout feature of the mod is a &6custom portal&r that lets players teleport to any location in any dimension, greatly enhancing exploration and fast travel."
+		""
+		"The mod also includes a &6Pocket Dimension Remote&r, which transports players to a small, personal room in a custom dimension—ideal for experimentation, building, or secure storage."
+		""
+		""
+		""
+		"&d@teleport&r"
+	]
+	quest.6D5015C82CCC85FE.title: "&aCreate Teleporters&r"
 	quest.6E03028499F40E70.quest_desc: [
 		"&6The Relay &racts as a smart connection point in your storage network. "
 		""
@@ -3909,6 +3984,12 @@
 		"> &6And more!"
 	]
 	quest.7B42482FC8EEA8F8.quest_subtitle: "Not repeatable"
+	quest.7B838BCF530692EB.quest_desc: [
+		"As you may notice, if you consume these nuts in their natural state, you will become nauseated for a short time."
+		""
+		"&aYou can avoid this by garnishing your nuts!&r."
+	]
+	quest.7B838BCF530692EB.title: "Garnish your nuts!"
 	quest.7BAE050F8E223E6C.title: "&6Collect All Hazen n Stuff"
 	quest.7BE7F9FD76F84BDD.quest_desc: [
 		"&6Cable Facades&r lets you visually hide nearly any cable or pipe from any mod."
@@ -4008,7 +4089,7 @@
 	quest.7DB46C70468F2CFE.title: "&6Redden's Stone Lanters"
 	quest.7DE83E440B507868.quest_subtitle: "x1.5"
 	quest.7DFCA72EC274F3D9.quest_subtitle: "Not repeatable"
-	quest.7E2CA676B730A7C4.quest_desc: ["&6&lPeanut Oil&r&r can be used on a Blaze Burner to get Super Heated."]
+	quest.7E2CA676B730A7C4.quest_desc: ["&6&lPeanut Oil&r&r can be used on a Blaze Burner to get &l&bSuper Heated.&r&r"]
 	quest.7E7B5A9C3AE9FBF8.quest_desc: [
 		"&aGolem Overhaul &radds 9 new golem types, all with their own unique mechanics!"
 		""
@@ -4044,23 +4125,27 @@
 		""
 		"Here are some of the combinations:"
 		""
-		"    Liquefied Mastic Resin = Zultanite"
+		"* Liquefied Mastic Resin = Zultanite"
 		""
-		"    Red Mastic Resin = Red Zultanite"
+		"* Red Mastic Resin = Red Zultanite"
 		""
-		"    Yellow Mastic Resin = Yellow Zultanite"
+		"* Yellow Mastic Resin = Yellow Zultanite"
 		""
-		"    Green Mastic Resin = Green Zultanite"
+		"* Green Mastic Resin = Green Zultanite"
 		""
-		"    Blue Mastic Resin = Blue Zultanite"
+		"* Blue Mastic Resin = Blue Zultanite"
 		""
-		"    Purple Mastic Resin = Purple Zultanite"
+		"* Purple Mastic Resin = Purple Zultanite"
 		""
-		"    Magenta Mastic Resin = Magenta Zultanite"
+		"* Magenta Mastic Resin = Magenta Zultanite"
 		""
-		"    Orange Mastic Resin = Orange Zultanite"
+		"* Orange Mastic Resin = Orange Zultanite"
 		""
-		"    Brown Mastic Resin = Brown Zultanite"
+		"* Brown Mastic Resin = Brown Zultanite"
+		""
+		"&6You can use a mechanical extruder for that!&r"
+		""
+		"&bCheck mechanical extruder for full recipes list&r"
 	]
 	quest.7F5DCDCFFD24ABE7.quest_subtitle: "Craft any Golden Barrel type."
 	quest.7FA5CDC0F616D2C5.quest_desc: [
@@ -4069,6 +4154,7 @@
 		"With an &6Iron Pickaxe&r, you can finally mine &bDiamonds.&r"
 	]
 	quest.7FA5CDC0F616D2C5.title: " A Sharp Upgrade"
+	quest.7FCABCC6BDF8A4EB.quest_desc: ["&6The pocket dimension remote&r sends players to a small room in a custom dimension made for testing or storing machines or blocks."]
 	quest.7FF84508B3E0168F.quest_desc: [
 		"Did you know you can use the &cNether&r to travel between two points in the &aOverworld&r at a much shorter distance?"
 		""
@@ -4107,7 +4193,6 @@
 	task.4F1EDAE24CB6CE36.title: "Click to Acknowledge"
 	task.4F8C0625674B4C26.title: "Quartz Wrench"
 	task.509D5321A4F9841D.title: "&6I'm Ready"
-	task.5178993B338F1878.title: "Garnished"
 	task.51AA3BC3AFF2FEDA.title: "Click to Acknowledge"
 	task.53C18716A59B10AC.title: "aa"
 	task.554F69A27BBC5A76.title: "Craft a &bWater Pump"

@@ -20,6 +20,12 @@
 	quest_links: [ ]
 	quests: [
 		{
+			icon: {
+				components: {
+					"patchouli:book": "buildinggadgets2:buildinggadgets2book"
+				}
+				id: "patchouli:guide_book"
+			}
 			id: "4322D11BB4FED38C"
 			rewards: [{
 				id: "2B4DC2C120FB2CDE"

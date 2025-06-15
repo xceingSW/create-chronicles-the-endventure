@@ -1748,6 +1748,15 @@
 		{
 			dependencies: ["64DF63794FBD1F2C"]
 			id: "485444C876FDECFF"
+			rewards: [{
+				count: 10
+				id: "3930DA2DA115CE14"
+				item: {
+					count: 1
+					id: "minecraft:paper"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "24463456EC55FF34"
 				item: { count: 1, id: "minecraft:map" }
@@ -1817,15 +1826,22 @@
 		{
 			dependencies: ["05B32DE12868C6DE"]
 			id: "4B5810F5938DEA32"
-			rewards: [{
-				count: 2
-				id: "79526565B5C7251B"
-				item: {
-					count: 1
-					id: "minecraft:phantom_membrane"
+			rewards: [
+				{
+					count: 2
+					id: "79526565B5C7251B"
+					item: {
+						count: 1
+						id: "minecraft:phantom_membrane"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "2E9BBC80A2664889"
+					type: "xp"
+					xp: 10
+				}
+			]
 			tasks: [{
 				id: "41B50C70D5998516"
 				item: { components: { "ftbfiltersystem:filter": "or(mod(chimes))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -1837,6 +1853,11 @@
 		{
 			dependencies: ["05B32DE12868C6DE"]
 			id: "354794C26084872F"
+			rewards: [{
+				id: "444176F35DA91E88"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "2EBFE123466B13F8"
 				item: { count: 1, id: "exposure:camera" }
@@ -1848,6 +1869,11 @@
 		{
 			dependencies: ["354794C26084872F"]
 			id: "02C5BA2428FADEAF"
+			rewards: [{
+				id: "6464CAD959F4AA94"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "1F823A5BA026CE8D"
 				item: { count: 1, id: "exposure:camera_stand" }
@@ -1859,6 +1885,11 @@
 		{
 			dependencies: ["4B6BE37E7C57BD00"]
 			id: "745FD767F2A543A5"
+			rewards: [{
+				id: "30DD43779B72D4E9"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [
 				{
 					id: "206D6B37CDE7E508"
@@ -1877,6 +1908,11 @@
 		{
 			dependencies: ["354794C26084872F"]
 			id: "4B6BE37E7C57BD00"
+			rewards: [{
+				id: "4A1674435A3ED7E5"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [
 				{
 					id: "3D0FC6426268D4FE"
@@ -1895,6 +1931,11 @@
 		{
 			dependencies: ["745FD767F2A543A5"]
 			id: "0AB9F56A501FEFED"
+			rewards: [{
+				id: "33F2F9106EADE334"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "44469754A5D1259E"
 				item: { count: 1, id: "exposure:lightroom" }
@@ -1906,6 +1947,11 @@
 		{
 			dependencies: ["0AB9F56A501FEFED"]
 			id: "4ED95F3B0F17AEBA"
+			rewards: [{
+				id: "0FED27DB6259362A"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "57ED5F9B46E86394"
 				item: { count: 1, id: "exposure:photograph" }
@@ -1917,6 +1963,11 @@
 		{
 			dependencies: ["4ED95F3B0F17AEBA"]
 			id: "439A7468E448EAE1"
+			rewards: [{
+				id: "26B7C2B8C9C68E8B"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "23E790841A6F46D3"
 				item: { count: 1, id: "exposure:photograph_frame" }
@@ -1928,6 +1979,11 @@
 		{
 			dependencies: ["4ED95F3B0F17AEBA"]
 			id: "140ABE41794E9C33"
+			rewards: [{
+				id: "24DA8F26EBBB83DF"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "4A98A99B18817033"
 				item: { count: 1, id: "exposure:album" }
@@ -1939,6 +1995,11 @@
 		{
 			dependencies: ["354794C26084872F"]
 			id: "6D40B0012EBC27AA"
+			rewards: [{
+				id: "375A8A51FE48A46E"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "3FFDEBE165E73338"
 				item: { count: 1, id: "exposure:interplanar_projector" }
@@ -1968,6 +2029,11 @@
 		{
 			dependencies: ["05B32DE12868C6DE"]
 			id: "4841CC6210CD8413"
+			rewards: [{
+				id: "5374FF1AB90A3B38"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "30CDF2DEFAA03A40"
 				item: { count: 1, id: "measurements:tape_measure" }
@@ -2668,6 +2734,11 @@
 		{
 			dependencies: ["6144BBDCA3192593"]
 			id: "03880BADF1C08707"
+			rewards: [{
+				id: "399B898B4384F298"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "69E997E52F506277"
 				item: { count: 1, id: "buildinggadgets2:gadget_building" }
@@ -2679,6 +2750,11 @@
 		{
 			dependencies: ["03880BADF1C08707"]
 			id: "4ED711729D36110A"
+			rewards: [{
+				id: "64CFB2BE995D7C80"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "5892DA124105B721"
 				item: { count: 1, id: "buildinggadgets2:gadget_copy_paste" }
@@ -2690,6 +2766,11 @@
 		{
 			dependencies: ["03880BADF1C08707"]
 			id: "4552515C89DFAA7B"
+			rewards: [{
+				id: "7B6F40FDD3AE8B52"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "40FB5525D8101139"
 				item: { count: 1, id: "buildinggadgets2:gadget_exchanging" }
@@ -2701,6 +2782,11 @@
 		{
 			dependencies: ["4ED711729D36110A"]
 			id: "40DF2E8EAD1100B6"
+			rewards: [{
+				id: "6EF3A244EE529D60"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "6B93ACFCD720BAF4"
 				item: { count: 1, id: "buildinggadgets2:template_manager" }
@@ -2712,6 +2798,11 @@
 		{
 			dependencies: ["05B32DE12868C6DE"]
 			id: "6144BBDCA3192593"
+			rewards: [{
+				id: "546CEC5B4A67555B"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "519058155DE1393D"
 				item: { components: { "patchouli:book": "buildinggadgets2:buildinggadgets2book" }, count: 1, id: "patchouli:guide_book" }
