@@ -55,9 +55,9 @@
     "modId": "apothic_attributes",
     "version": "2.8.1"
   },
-  "ApothicEnchanting-1.21.1-1.4.2.jar": {
+  "ApothicEnchanting-1.21.1-1.4.3.jar": {
     "modId": "apothic_enchanting",
-    "version": "1.4.2"
+    "version": "1.4.3"
   },
   "ApothicSpawners-1.21.1-1.3.0.jar": {
     "modId": "apothic_spawners",
@@ -163,9 +163,9 @@
     "modId": "buildinggadgets2",
     "version": "1.3.8"
   },
-  "cable_facades-1.21.1-NeoForge-1.6.0.jar": {
+  "cable_facades-1.21.1-NeoForge-1.6.1.jar": {
     "modId": "cable_facades",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   "caelus-neoforge-7.0.1+1.21.1.jar": {
     "modId": "caelus",
@@ -207,9 +207,9 @@
     "modId": "chipped",
     "version": "4.0.2"
   },
-  "chisel_chipped_integration-v1.3.7-1.21.1.jar": {
+  "chisel_chipped_integration-v1.3.8-1.21.1.jar": {
     "modId": "chisel_chipped_integration",
-    "version": "1.3.6-1.21.1"
+    "version": "1.3.8-1.21.1"
   },
   "chunksending-1.21-2.8.jar": {
     "modId": "chunksending",
@@ -283,9 +283,9 @@
     "modId": "craftingtweaks",
     "version": "21.1.5"
   },
-  "CrashAssistant-neoforge-1.21.1-1.8.0.jar": {
+  "CrashAssistant-neoforge-1.20.6-1.21.4-1.9.4.jar": {
     "modId": "crash_assistant",
-    "version": "1.8.0"
+    "version": "1.9.4"
   },
   "create-1.21.1-6.0.5.jar": {
     "modId": "create",
@@ -689,9 +689,9 @@
     "modId": "jmi",
     "version": "1.21.1-1.9"
   },
-  "journeymap-neoforge-1.21.1-6.0.0-beta.47.jar": {
+  "journeymap-neoforge-1.21.1-6.0.0-beta.48.jar": {
     "modId": "journeymap",
-    "version": "1.21.1-6.0.0-beta.47"
+    "version": "1.21.1-6.0.0-beta.48"
   },
   "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar": {
     "modId": "jeresources",
@@ -850,9 +850,9 @@
     "modId": "octolib",
     "version": "0.5.0.1"
   },
-  "Oh-The-Biomes-Weve-Gone-NeoForge-2.4.1.jar": {
+  "Oh-The-Biomes-Weve-Gone-NeoForge-2.4.2.jar": {
     "modId": "biomeswevegone",
-    "version": "2.4.1"
+    "version": "2.4.2"
   },
   "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.14.jar": {
     "modId": "ohthetreesyoullgrow",
