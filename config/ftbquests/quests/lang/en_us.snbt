@@ -12,7 +12,9 @@
 	chapter.4B6E4A0215F45FC0.title: "&3The Otherside: &0Deeper and Darker"
 	chapter.4F11D0F95BB94F2B.title: "&bRefined Storage"
 	chapter.50471206A7BA908F.title: "&3Eternal Starlight"
+	chapter.53732D728CE0A308.title: "&aCreate"
 	chapter.576F6A1E4D30F4F2.title: "&l&aThe Endventure"
+	chapter.58D00C1309225860.title: "&aGarnished"
 	chapter.5A695917A1E23476.title: "&dGolem Overhaul"
 	chapter.66515D165B519FE2.title: "&eGame Discs"
 	chapter.699146B31CBD0538.title: "&aEnchantment Industry&r"
@@ -134,9 +136,26 @@
 		"&aWorks in:&r"
 		"Importer, Exporter, Constructor, Destructor, Disk Interface, Autocrafter (up to 4 per device)"
 	]
+	quest.0420DAF362EE2B37.quest_desc: [
+		"The &6&lLinear Chassis&r&r is a core block used to build Contraptions."
+		""
+		"Linear Chassis will automatically connect to adjacent chassis that are aligned in the same direction."
+		"To attach blocks to either of its piston-like faces, apply a Slimeball or Super Glue. These items are not consumed during use."
+		""
+		"Use a Wrench and scroll while hovering over a side to adjust how many blocks the chassis will move in that direction. Hold Ctrl while scrolling to adjust all connected chassis at once."
+		""
+		"Independent Chassis: "
+		""
+		"To place adjacent chassis that don't connect, use a &6&lSecondary Linear Chassis&r&r."
+	]
 	quest.042259C7B1BF773A.quest_subtitle: "Lights your attackers on fire"
 	quest.0424F3DCA7620F49.quest_subtitle: "Increases the wearers mining speed and allows the wearer to break blocks like stone with their fist"
 	quest.043C8846B7402FB3.quest_subtitle: "Not repeatable"
+	quest.045A217971DF1258.quest_desc: [
+		"The &6&lCrushing Wheels&r&r are an advanced alternative to the Millstone, used to process items using crushing recipes."
+		""
+		"To function, two Crushing Wheels must be placed one block apart, either horizontally or vertically, and powered with opposite rotational directions. "
+	]
 	quest.0475AEB443175059.quest_desc: [
 		"&dArmor Statues&r unlocks the full potential of armor stands. "
 		""
@@ -145,6 +164,15 @@
 		"It also includes great tools for positioning the armor stand, even making the stand itself invisible to display items seamlessly."
 		""
 		"To configure, &2shift right-click&r with an empty hand and explore a wide array of options."
+	]
+	quest.0513DE018AA2BB84.quest_desc: [
+		"The &6&lCart Assembler&r&r attaches Contraptions to Minecarts that pass through it when powered by a Redstone signal."
+		""
+		"It must be placed on Rails, with any glued blocks positioned on top. When activated, the assembler merges these glued blocks into a Contraption and attaches it to a passing Minecart."
+		""
+		"You can place the Contraption in your inventory using a Wrench."
+		""
+		"To \"unmount\" the contraption, place it back at the Cart Assembler and turn off the redstone signal."
 	]
 	quest.0560F717010F1833.quest_subtitle: "right click into a tamed familiar to give him a stack of enraged (when getting hit, has a chance to consume a stack of enraged to gain heartstop for some seconds), limit 10 per familiar, dropped from Mooshrooms."
 	quest.0562F21AA82B2961.quest_subtitle: "Craft any Diamond Chest type."
@@ -170,7 +198,28 @@
 		"&aApplicable to: &r"
 		"* Wireless Transmitter (up to 4 upgrades)"
 	]
+	quest.05C4FF888D75423E.quest_desc: ["The &6&lMechanical Bearing&r&r is used to rotate Contraptions. When supplied with rotational force, right-clicking the bearing will begin rotation—provided a valid Contraption is attached to its front."]
 	quest.05D652475C442E78.quest_subtitle: "Not repeatable"
+	quest.05E44A1BD522BC74.quest_desc: [
+		"When Garnished liquids come into contact with Lava, they generate specific blocks based on the liquid used. Below are the combinations:"
+		""
+		"Cashew Mixture + Lava = End Stone"
+		""
+		"Peanut Oil + Lava = Dripstone Block"
+		""
+		"Liquid Garnish + Lava = Calcite"
+		""
+		"Apple Cider + Lava = Carnotite"
+	]
+	quest.05F67DDB916F8D32.quest_desc: [
+		"The &l&6Water Wheel&r&r is a generator of rotational power, producing Rotational Force when water flows over it. As water moves in a consistent direction across the wheel, it begins to rotate, transferring power through its shaft to connected components."
+		""
+		"The &l&6Large Water Wheel&r&r is a scaled-up version that rotates at half the speed of a regular Water Wheel but generates twice the stress capacity (512 SU vs. 256 SU)."
+		""
+		"Water Wheels can be stacked to increase power output, but there's a limit—stacking more than 50 will cause the entire setup to break."
+		""
+		"&oTip: Combining smaller Water Wheels with a Large Water Wheel in the same power network can increase overall SU generation and boost rotational speed.&r"
+	]
 	quest.06252C87B61A19F3.quest_desc: [
 		"Before you can carry out an auto-crafting job, you need a device to actually store the request itself along with any interim items for multi-step crafts. This device is known as a &ecrafting CPU&f."
 		""
@@ -255,6 +304,22 @@
 	]
 	quest.080114C9009671CE.quest_subtitle: "Not repeatable"
 	quest.0806F6D61D04BED0.quest_subtitle: "A bulkier version of the spyglass. – the only weapon slot item that doesn’t require additional items to function. "
+	quest.0811D99C4EE2E116.quest_desc: [
+		"&bRotations Per Minute (RPM)&r powers the various machines and mechanisms at a certain speed, which refers to how quickly a rotating part is spinning and can be monitored using a Speedometer. "
+		""
+		"By default (configurable), the maximum rotational speed of any part is 256 RPM. Trying to increase the speed beyond this—such as placing a small cogwheel on a large one to further amplify the speed—will cause cogwheel to break."
+		""
+		"&a&nSpeed can be adjusted in several ways:&r&r"
+		""
+		"A Cogwheel and a Large Cogwheel can be connected diagonally. One full rotation of the large cogwheel results in two rotations of the smaller one, meaning the smaller cogwheel spins twice as fast."
+		""
+		"A Rotation Speed Controller paired with a large cogwheel can precisely change the speed and direction of any connected device."
+		""
+		"An Adjustable Chain Gearshift alters the speed of linked Encased Chain Drives based on a redstone signal."
+		""
+		"Higher speeds increase the stress load on the machines/contraptions proportionally. Meaning that doubling the RPM will also double the stress applied."
+	]
+	quest.0811D99C4EE2E116.title: "Rotational Force"
 	quest.0819B8A983F38919.quest_desc: [
 		"A handy spell to always keep with you is a &dteleport spell&r that sends you back to your last respawn point."
 		""
@@ -290,6 +355,7 @@
 		"Thus, a subnetwork on the other side of the Fiber can be powered wholly by the main network's power source, without requiring any extra dedicated powergen."
 	]
 	quest.089899282C7F87E4.title: "Forgot to Mention"
+	quest.08AA3590E20B7629.quest_desc: ["The &l&6Gearshift&r&r reverses the direction of rotational force output when it receives a Redstone signal."]
 	quest.090F9541580A5130.quest_desc: [
 		"&cThe Nether Gauntlet&r spawns naturally within the &eGauntlet Arena,&r located deep in the &aNether.&r"
 		""
@@ -434,12 +500,35 @@
 	]
 	quest.0CAD67E9B2DC3B59.title: "&6MrCrayfish's Refurbished"
 	quest.0CFFF58986CE7733.quest_subtitle: "you know how to make coal don't you? "
+	quest.0D02CCFCDC80B85B.quest_desc: [
+		"The &l&6Mechanical Saw&r&r uses rotational power to chop wood blocks directly in front of it."
+		""
+		"When used on trees or giant mushrooms, breaking just the bottom block causes the entire structure to be destroyed."
+		""
+		"On a moving Contraption, Mechanical Saws are automatically powered. They can break blocks and damage entities, with their effectiveness scaling based on the Contraption speed."
+	]
 	quest.0D0A907FD6B9A21F.quest_subtitle: "Not repeatable"
+	quest.0DBA2118C58A9676.quest_desc: [
+		"The &6&lMechanical Press&r&r is used for Pressing, Packing, and Compacting recipes."
+		""
+		"The Mechanical Press can interact with Basins, Belts, or Depots, depending on the recipe being used."
+		""
+		"The Press is powered via two opposite sides and, like Shafts, it relays rotational force along its axis."
+		""
+		"Processing speed increases with faster rotational input."
+	]
 	quest.0DDCE73E115DCE86.quest_subtitle: "When used for Upgrade: &6+5% Evocation Spell Power"
 	quest.0E0532BA6E3FFEF9.quest_subtitle: "Allows you to drink items faster, but now with style!"
 	quest.0E10A137480D309E.quest_desc: ["The &6netherite backpack&r is the upgrade of the &ediamond backpack&r. It has 120 storage slots and can hold 7 upgrades"]
 	quest.0E10A137480D309E.quest_subtitle: "Insane storage on the go"
 	quest.0E2DD647FACCEE2A.quest_desc: ["&6Storage I/O&r combines the functionalities of both Storage Input and Storage Output into a single block. This allows items to be both inserted into and extracted from the network seamlessly."]
+	quest.0E36BE756DB549DE.quest_desc: [
+		"The &l&6Rotation Speed Controller&r&r allows for precise control of rotational speed (RPM)."
+		""
+		"To function, it must be paired with a Large Cogwheel. When the Cogwheel powers the controller, it outputs a custom rotational speed—up to 256 RPM—through its sides. Alternatively, when powered from the sides, the controller adjusts the speed of the connected Large Cogwheel."
+		""
+		"Speed and rotation direction (clockwise or counter-clockwise) can be configured via the Value Settings Screen located on the front or back of the controller."
+	]
 	quest.0E5216DF2717D1DC.quest_subtitle: "Not repeatable"
 	quest.0E59F678E2ED340F.quest_desc: [
 		"&6The Wrench&r lets you rotate or dismantle Refined Storage blocks. "
@@ -454,6 +543,29 @@
 		""
 		"&eShift + right-click&r in the air to clear the stored settings."
 	]
+	quest.0F7EFE6F208D4123.quest_desc: [
+		"&6&lFluid Pipes&r&r are used to transport fluids between tanks and the world. "
+		""
+		"To move fluids through pipes, a Mechanical Pump is required at the start or after 15 blocks distance. Once a pump is placed, the next one can be positioned up to 30 blocks away."
+		""
+		"Pipes can only carry one type of fluid at a time."
+		""
+		"Pipes placed parallel to each other will automatically connect. To prevent connections, pipes can be:"
+		""
+		"Made transparent with a Wrench,"
+		"Encased with Copper Casing,"
+		"Or fitted with Wooden or Metal Brackets."
+		""
+		"Unlike brackets or transparent sections, Copper Casing can also be applied to pipe corners, locking them in place and stopping automatic connections with adjacent pipes."
+	]
+	quest.0FD0F0F442972293.quest_desc: [
+		"A special type of tree can be found in the &l&6Plains biome&r&r, featuring distinctive leaves and light green logs, offering both aesthetic building materials and a source of nuts."
+		""
+		"The leaves of these trees randomly drop one of nine nut varieties: Almonds, Cashews, Pistachios, Macadamias, Pecans, Walnuts, Hazelnuts, Chestnuts, and Peanuts. Each nut type has its own unique uses, adding variety and utility to your harvest."
+		""
+		"You can use the nuts to replant the tree and this way making an automated farm."
+	]
+	quest.0FD95744FAD04B92.quest_desc: ["&6&lSmart Fluid Pipes&r&r allow only a specific fluid to pass through. To set the filter, insert a bucket or bottle of the desired liquid into the pipe’s Filter slot."]
 	quest.0FF69526C1DC1593.quest_desc: ["Can be tamed with enchanted &cNetherite Chestplates&r. When tamed, they will occasionally drop enchanted books. "]
 	quest.0FFFB592D103B2BF.quest_subtitle: "Not repeatable"
 	quest.1045FB828F50B457.quest_desc: ["What could you do with this tools?"]
@@ -471,6 +583,26 @@
 	quest.109FBFA37FF99341.title: "The IO"
 	quest.10B6AE2CDC48D574.quest_subtitle: "A beast of copper and steel, built to conquer the skies! Four seats, moving turret, 6 weapon mounts and bigger than Minecraft physics would like it to be."
 	quest.10CDACBCA03AEDF7.quest_subtitle: "Attracts dropped items to the wearer"
+	quest.10D6A1B9E23878A7.quest_desc: [
+		"The &6&lMechanical Harvester&r&r is a Contraption block used to automatically harvest crops."
+		""
+		"As the Contraption moves, the harvester collects all fully grown crops it encounters."
+		""
+		"Harvested items are either deposited into an inventory, such as a chest on the Contraption or, if no inventory is present, dropped onto the ground."
+		""
+		"After harvesting, the crops are reset to their initial growth stage, ready to grow again."
+	]
+	quest.110D42C0780D66BF.quest_desc: [
+		"The &6&lStressometer&r&r measures the stress load (SU) on a connected Shaft, showing how much strain is being placed on the system compared to its total capacity."
+		""
+		"A moving hand on the gauge face indicates the system's current stress level—the higher the hand, the greater the load."
+		""
+		"Wearing Engineer’s Goggles reveals detailed values, including current stress and maximum capacity."
+		""
+		"If the system becomes overstressed, the Stressometer will output a Redstone signal strength of 15 via a Comparator."
+		""
+		"A Display Link can be connected to show precise stress values (SU) on a Display Board."
+	]
 	quest.111C5C1353823847.quest_desc: [
 		"&aThe Druidic Tome&r can be obtained by bartering with a &eBarrel Golem&r. "
 		""
@@ -580,6 +712,15 @@
 		"&cIt can only store one enchantment at a time.&r"
 	]
 	quest.15F6FE3D9D8F8EFD.quest_subtitle: "Not repeatable"
+	quest.1605A9755E36BD61.quest_desc: [
+		"The &6&lRope Pulley&r&r is a block used to build vertical-moving Contraptions, often for excavation or elevator-like systems."
+		""
+		"It can extend its rope up to 256 blocks downward before reaching its limit. While disassembled, the rope is climbable, allowing for vertical access."
+		""
+		"Additional Rope Pulleys placed directly above the Contraption and aligned with the main pulley will synchronize automatically, requiring no rotational power of their own."
+		""
+		"The current length of the rope can be monitored using a Threshold Switch for automation or signaling."
+	]
 	quest.16BF82CCB4624E9C.quest_desc: [
 		"Individual ME devices can also be configured to respond to redstone signals. When upgraded with a &bRedstone Card&f, a device can be configured to do work only when powered with redstone or otherwise as needed."
 		""
@@ -623,6 +764,19 @@
 	quest.182280CF12911D30.quest_subtitle: "used to store and release a single familiar of any kind, and can be put into a familiar bed to heal the stored familiar over time."
 	quest.1844549B34A9E167.quest_subtitle: "+40 engine power +30% fuel requirement."
 	quest.184B9A5F983FA7A5.quest_desc: ["Although it shows a Honey Bottle, you need to actually use a&n Honey Bucket with filling by spout.&r&c "]
+	quest.1883DF46FCE478C7.quest_desc: [
+		"&6&lCasings&r&r are versatile used in a wide range of crafting recipes as well as for decorative and aesthetic purposes. "
+		""
+		"There are four main types:"
+		""
+		"&bAndesite Casings &r– commonly used in basic mechanical contraptions."
+		""
+		"&bBrass Casings&r – essential for more advanced machinery."
+		""
+		"&bCopper Casings&r – specifically designed for fluid-related blocks."
+		""
+		"&bTrain Casings&r – used in locomotive and rail systems."
+	]
 	quest.1888BBCB9A54D6FD.quest_desc: [
 		"&cThe Dead King&r is a long-forgotten ruler whose tomb lies deep beneath the earth, hidden within the &eCatacombs&r."
 		""
@@ -633,6 +787,36 @@
 	quest.1912B53794E7EB02.quest_desc: ["These doors can be opened with hand but NOT redstone signals."]
 	quest.192C9C5B4F236448.quest_subtitle: "right click into a plague doctor familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Impaled Shipwrecks."
 	quest.192EE909C57F390A.quest_subtitle: "Rare chance of spawning after breaking an &8Ancient Vase&r."
+	quest.193B6128E25C5FE5.quest_desc: [
+		"The &l&6Steam Engine&r&r is a powerful block that generates Rotational Force, offering the highest Stress Unit (SU) output among generator types like Water Wheels and Windmills."
+		""
+		"To function, a Steam Engines rely on heat and water and must be mounted on Fluid Tanks, which act as boilers. A Shaft must be connected to the engine to produce kinetic output, and the direction of that output can be adjusted using the Value Settings located on the engine’s side."
+		""
+		"To increase power output, you can improve any of the three core characteristics of the boiler system: heat, tank size, and water input."
+		""
+		"&aHeat:&r"
+		"Boilers require a heat source placed beneath the Fluid Tank. Passive sources provide a standard level of heat, while &eBlaze Burners can supply greater heat depending on their state (e.g., heated or super-heated).&r More heat results in more efficient steam generation."
+		""
+		"&aWater:&r"
+		"A steady supply of water must be pumped into the boiler. Higher-tier engines consume more water, and insufficient supply will display a minimum required fluid transfer rate in the boiler’s status readout."
+		""
+		"Water flow can be controlled using a Fluid Pump combined with a Rotation Speed Controller or an Adjustable Chain Gearshift to regulate the pump's speed. This enables you to fine-tune the fluid transfer rate to match the demands of your Steam Engine setup."
+		""
+		"&aBoiler Size:&r"
+		"The size of the Fluid Tank determines the capacity of a steam boiler and scales with the amount of heat applied."
+		""
+		"For passive steam engines (Level 0), a 2x2 Fluid Tank with a height of 1 block is sufficient."
+		""
+		"Increasing the height beyond this has no benefit and wastes materials."
+		""
+		"For active steam engines (Level 1 and above), the boiler must contain at least 4 Fluid Tank blocks per heat level. For example:"
+		""
+		"Level 1 requires 4 blocks"
+		"Level 9 requires 36 blocks"
+		"Level 18 (the maximum) requires 72 blocks"
+		""
+		"Properly sizing the tank is essential for efficient steam generation and to fully utilize the potential output of your heat source."
+	]
 	quest.19D3A2C865857203.quest_subtitle: "A fast-firing cannon running on gunpowder. This mounts onto the aircraft and fires long-range ammunition."
 	quest.19D5AA88F91F894B.quest_desc: [
 		"&6The Destructor&r breaks blocks in front of it, storing the results in your storage network."
@@ -652,6 +836,11 @@
 		"&d@multi&r"
 	]
 	quest.1A39F6601A18F853.title: "&aMulti Beds"
+	quest.1AC154CB94B7A0EA.quest_desc: [
+		"The &6&lMechanical Drill&r&r breaks blocks directly in front of it when powered by rotational power. When mounted on a moving Contraption, it can break blocks and damage entities it collides with—without needing a direct rotational power source."
+		""
+		"Block-breaking speed depends on the Contraption’s movement speed and the block’s hardness. Similarly, the damage dealt to entities is determined by the Contraption's speed."
+	]
 	quest.1ADACCB1A8BB9E7E.quest_subtitle: "An infinite steak"
 	quest.1B347195A701040C.quest_desc: [
 		"&6Blanket&r is one of the accessory items that can be added to a bed to customize it. (but not needed to use it)"
@@ -681,6 +870,11 @@
 	quest.1C60254EAE960673.quest_subtitle: "Harness the power of &5lightning&r. Increased &5lightning spell power&r or &5armor&r."
 	quest.1C60254EAE960673.title: "&5&lSchool of Lightning"
 	quest.1C67FB4C2D9D9E06.quest_desc: ["Staffs can be useful tools for spellcasting. &aRight-click to cast spells&r, and enjoy a boost to your magic stats while holding one."]
+	quest.1C6E0659B6BB64D5.quest_desc: [
+		"These&6 pattern schematics&r can be used to extend existing designs, such as lengthening a bridge by repeating its schematic. Simply load them into a schematicannon to start building!"
+		""
+		"&6Pattern Schematics&r can also be placed on trains, gantry carriages, or any other contraptions to infinitely replicate the schematic. Schematics mounted on deployers will continuously repeat their structure."
+	]
 	quest.1C89D285F0501472.quest_desc: ["No information about this eye"]
 	quest.1C89D285F0501472.quest_subtitle: "small chance to get it when enchanting"
 	quest.1CA36734A9127D0C.quest_desc: [
@@ -803,6 +997,11 @@
 		""
 		"By right-clicking the &dController&r with the &bTool&r and then the Link, you seamlessly connect separate storage units into one cohesive network."
 	]
+	quest.1FDE0EA030EC5D9B.quest_desc: [
+		"This is the Empty Blaze Burner. "
+		""
+		"Right-click with this item in hand on a &6&lBlaze&r&r from the &c&lNether&r&r to capture it and get the &l&6Blaze Burner&r&r."
+	]
 	quest.1FF26858DB8E88F8.quest_subtitle: "Obtain loot by breaking a vase."
 	quest.203CEDAC6E1CAB91.quest_subtitle: "&6+100 Max Mana"
 	quest.20BFB23E1ADDC3DF.quest_desc: [
@@ -897,6 +1096,15 @@
 	]
 	quest.22E0846B96BBD5DD.quest_desc: ["Legends say this eye once belonged to one of the great Sandworms"]
 	quest.22E0846B96BBD5DD.quest_subtitle: "Found in Desert Pyramids"
+	quest.231D1BD8D2A930CF.quest_desc: [
+		"In the Create mod,&6 &lkinetic energy&r&r is the power generated by moving parts. "
+		""
+		"This energy is used to run various machines and contraptions."
+		""
+		"You can generate kinetic energy using devices like Water Wheels, Windmills etc. "
+		""
+		"Once generated, this energy can be transferred through shafts, gears, and other mechanical components to operate your creations."
+	]
 	quest.2393A0DC1A59CDEC.quest_desc: [
 		"When applied as an upgrade to any supported device such as an Interface or Export Bus, the &bCrafting Card&f allows the device in question to automatically send out its own crafting requests for a required (filtered) item. Crafting CPUs can be set to respond only to these requests to prevent taking up CPUs meant for player-requested crafts."
 		""
@@ -960,6 +1168,13 @@
 		"Organization now means less chaos later."
 	]
 	quest.261651FB7B600587.title: "Craft a Chest"
+	quest.263AD6F95DF0632D.quest_desc: [
+		"The &6&lSequenced Gearshift&r&r provides precise control over rotational behavior by executing a sequence of up to five configurable instructions. These instructions determine how rotation changes over time and can be adjusted in its interface by hovering and scrolling over each step."
+		""
+		"A Redstone Comparator can read the Sequenced Gearshift’s current instruction, outputting a signal strength from 1 to 5, regardless of how many total steps are set."
+		""
+		"Like the regular version, the Sequenced Gearshift also responds to Redstone input to trigger or control its sequence."
+	]
 	quest.2651428AF7D72328.quest_desc: [
 		"{image:kubejs:textures/familiars/lightmage.png width:100 height:113 align:center}"
 		"&l&6Battle:&r&r specialized in lightning magic, casting spells that hit multiple targets at the same time."
@@ -1029,6 +1244,17 @@
 	quest.27A2D421D6C98CC6.quest_subtitle: "Not repeatable"
 	quest.27E86BC510D04D45.quest_desc: ["Bamboo spikes are useful traps to protect you base from mobs. They can be tipped with potion effects!"]
 	quest.2807106C369DF042.quest_subtitle: "Get your hands on a Sculk Transmitter."
+	quest.28101F299D039864.quest_desc: ["Can be found naturally in &aslime chunks,&r and will spawn as one of two size variants, each with their own stats."]
+	quest.28101F299D039864.title: "Slime golem"
+	quest.2843021F7F41ED01.quest_desc: [
+		"The &6&lChute&r&r can insert into or extract items from inventories located above or below them, as well as from Belts and Depots."
+		""
+		"When connected vertically or diagonally, chutes can transfer items between each other, functioning similarly to a Mechanical Belt but in a vertical direction."
+		""
+		"Attaching a powered Encased Fan to the top or bottom of a chute—depending on whether the fan is set to push or pull—allows items to be moved upward. The speed of the Encased Fan determines how quickly items are transported."
+		""
+		"The &n&6Smart Chute&r is the same as the Chute but with additional functionalities, such as stack size, Item filter and responds to Redstone signal."
+	]
 	quest.28B245505F91D21C.quest_desc: [
 		"I’m going to assume you’ve been out mining, right?"
 		""
@@ -1141,6 +1367,11 @@
 	quest.2C0A86D7F9D1A0D8.quest_subtitle: "You can repeat as many times you want!"
 	quest.2C1C7767F66A6453.quest_subtitle: "right click into a cleric familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Priest Towers."
 	quest.2C203D19752E2E2A.quest_desc: ["The &eLesser Spell Slot Improvement&r can be applied to a spellbook multiple times, up to a maximum of 12 slots."]
+	quest.2C4242CB2934DC57.quest_desc: [
+		"Especially useful while building new contraptions, the&6 Toolbox&r keeps your pockets free of clutter. Simply take the toolbox from your workshop and bring it with you. "
+		""
+		"Toolboxes can store up to 256 of 8 different items and can be accessed remotely when placed nearby."
+	]
 	quest.2C7EE6C411E3CF59.quest_desc: [
 		"&bPortable Cells&f function identically to regular cells in that they can they be inserted into a chest or drive and filled accordingly."
 		""
@@ -1162,9 +1393,15 @@
 		"&6https://discord.gg/Dm4B7UfhXd&r"
 	]
 	quest.2CBF8CC3EB107804.title: "&l&6Better Energy Production"
+	quest.2D412FE8D78F46FE.quest_desc: ["The &6&lShaft&r&r is fundamental to transmit rotation between connected machines. It also serves as the exclusive base for placing Mechanical Belts."]
 	quest.2D430D14A2F6C60A.quest_subtitle: "Not repeatable"
 	quest.2D69922251E3D2CB.quest_subtitle: "&6Allows visible creatures to be seen"
 	quest.2D7A94A67C6BC008.quest_subtitle: "Not repeatable"
+	quest.2D8A98F91CDD4318.quest_desc: [
+		"These &6Blueprints &rcan be given one or more crafting recipes, which they then apply to your held items whenever you right-click them."
+		""
+		"The quickest and most effective way to assign recipes is to locate the recipe in JEI while the blueprint UI is open. Clicking the '+' in the JEI recipe view will transfer the recipe ingredients to the blueprint for you."
+	]
 	quest.2E3B821A8A402B3E.quest_desc: [
 		"You can claim chunks to protect your base and prevent others from modifying your builds."
 		""
@@ -1276,6 +1513,7 @@
 	]
 	quest.30B4AA1B5916FC72.title: "&e⚡ Electrical Energy Storage – Accumulator"
 	quest.30D5BC1EFA23D92E.quest_subtitle: "Not repeatable"
+	quest.30FDAAAA8784A842.quest_desc: ["The &6&lMillstone&r&r is a simpler alternative to &6&lCrushing Wheels&r&r, used to process items. Valid items must be inserted from above and processing speed depends not only on the rotational speed (RPM) but also on the specific recipe being used."]
 	quest.3121D591D3807584.quest_subtitle: "Allows you to double jump"
 	quest.312D4E8EBE475538.quest_desc: [
 		"Nipas can be found in &2&n&aPrimordial Caves from Alex's Caves&r&r&r, so keep your eyes open—they are rare to find."
@@ -1293,6 +1531,13 @@
 	quest.3171F1AE14E3C1ED.title: "&6Farmer's Delight"
 	quest.31A4BB6E2C1C1FA9.quest_subtitle: "Not repeatable"
 	quest.31DB2CD7ECC30BF9.quest_subtitle: "You can convert RF to the mod’s current energy system using the&6 Circuit Breaker.&r"
+	quest.322078F5AA954906.quest_desc: [
+		"Use a &6Schematic and Quill&r to save a build as a schematic file. "
+		""
+		"These files can be used across different worlds, allowing you to build in Creative mode and recreate it in Survival or on a server. "
+		""
+		"Saved schematics (stored in the 'schematics' folder) can be copied to &eEmpty Schematics&r for deployment and construction by a &3Schematicannon&r."
+	]
 	quest.323963AAF0375942.quest_desc: [
 		"The &bME Storage Bus&f, when facing some external storage container, will allow the container to be used as though it were part of the ME network, allowing items to be taken out from the container or inserted into it purely via ME."
 		""
@@ -1348,6 +1593,16 @@
 	quest.32CEB5F5DA7E08E5.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
 	quest.32E0EEC3834F9846.quest_desc: ["&6Straw&r is an item which is made by either cutting plants with a &6knife&r on a Cutting Board, or harvesting plants with a &6knife&r."]
 	quest.32F8B69C66723910.quest_subtitle: "Craft any Iron Barrel type."
+	quest.3301CEA39477F779.quest_desc: [
+		"&l&6Stress Units&r&r (SU) refers to the kinetic energy system used by the machines/contraptions."
+		""
+		"Machines consume stress from the network to operate. Their stress usage increases proportionally with the rotational speed (measured in RPM) of the power they receive—faster machines use more stress. To increase the total available stress in the network, you can add more Water Wheels, Windmills, or other types of Generators."
+		""
+		"If the total stress demand across all machines exceeds the network’s maximum stress capacity, the system becomes Overstressed, causing everything to shut down. "
+		""
+		"You can monitor stress levels using a &eStressometer&r or by wearing &eEngineer’s Goggles.&r"
+	]
+	quest.3301CEA39477F779.title: "Kinetic Stress"
 	quest.334AF33B87A48816.quest_desc: [
 		"&bP2P&f (peer-to-peer) is a powerful system within AE2, allowing for the transfer of items, fluids and even more without the need for any intermediary ME storage."
 		""
@@ -1451,13 +1706,14 @@
 		"The advantage of this is that it doubles the SU of the normal one. Water gives double SU and Lava gives the double of Water."
 	]
 	quest.362C70E45443B57C.quest_desc: [
-		"Right click to ride the netherite golem. Use your jump key to attack."
+		"{image:kubejs:item/golem3 width:150 height:60 align:center}"
+		"&dRight click&r to ride the &enetherite golem.&r Use your jump key to attack."
 		""
-		"Right click with a gold ingot to apply a gold trim to turn all piglins neutral towards the golem."
+		"&dRight click&r with a gold ingot to apply a gold trim to turn all piglins neutral towards the golem."
 		""
-		"Right click with a lava bucket to unlock the netherite golems summon ability - This ability will summon a group of coal golems to fight for the netherite golem. The keybind for this is set to \"R\" by default."
+		"&dRight click&r with a lava bucket to unlock the &enetherite golems&r summon ability - This ability will summon a group of coal golems to fight for the netherite golem. The keybind for this is set to \"R\" by default."
 		""
-		"This will, however, make the netherite golem vulnerable to water damage."
+		"This will, however, make the &enetherite golem&r vulnerable to water damage."
 	]
 	quest.362C70E45443B57C.title: "Netherite golem"
 	quest.36512D1073448D61.quest_subtitle: "Lets you see invisible entities."
@@ -1465,12 +1721,40 @@
 	quest.36883441EF93976F.quest_subtitle: "Better Elytra!"
 	quest.36FB336313E5E377.quest_subtitle: "Can be used to slowfall and as a shield"
 	quest.3714D5CA2A2A69EC.title: "&6Priest Outfit"
+	quest.372B31F3D301684A.quest_desc: [
+		"{image:kubejs:item/golem1 width:150 height:60 align:center}"
+		""
+		"&eHay golems&r can either be built by the player, or found naturally in villages. "
+		""
+		"They are passive, but will protect crops from being trampled within a 10x10 radius."
+	]
+	quest.372B31F3D301684A.title: "Hay golem"
 	quest.374A73FE0C12C105.quest_desc: [
 		"In order to make it, combine a &cEmpowered Remnant&r with a &6Netherite Ingot&r in a Smithing Table."
 		""
 		"Click to identify which power you have rolled."
 	]
 	quest.374C6E5D8EE3E51B.quest_desc: ["Notice boards are a block which can be used to display the contents of books (with a space limit). Right-click the block to open the GUI and place a book and quill containing text into the slot."]
+	quest.3764CCC84F88A7B6.quest_desc: [
+		"&l&6Super Glue&r&r is used to bond blocks together in moving Contraptions."
+		""
+		"Each use consumes one durability, but glued connections are permanent unless manually removed. Super Glue can be enchanted with Unbreaking or Mending to increase its lifespan."
+		""
+		"&aUsage in Chassis:&r"
+		"Functions like a Slimeball."
+		""
+		"Right-clicking a Linear or Radial Chassis with Super Glue coats its face in green glue, allowing blocks to be attached."
+		""
+		"To remove glue from a chassis face, sneak and right-click with an empty hand."
+		""
+		"&aArea Mode:&r"
+		"Used to glue a group of existing blocks together."
+		"Start by right-clicking a block at one corner of the area you want to glue and move your cursor to the opposite corner—this creates a green selection box showing the glued area. "
+		""
+		"Right-click again to confirm, or sneak and right-click to cancel."
+		""
+		"While holding Super Glue in your main hand, glued areas are visible, making it easy to confirm connections and clicking Left-Click with the Super Glue will unglue those connections."
+	]
 	quest.3786CEBDF1D138A3.quest_desc: [
 		"&6The Coke Oven&r is a multi block machine. "
 		""
@@ -1564,9 +1848,23 @@
 		"&eFluid cable blocks &rconnect to any adjacent blocks, regardless of color."
 	]
 	quest.3B9ECAF48D8F47A1.quest_subtitle: "Not repeatable"
+	quest.3BA810FF52DA9982.quest_desc: [
+		"The &l&6Blaze Burner&r&r provides Heat and Super-Heat for Mixing recipes in Basins, and are especially important for crafting Brass. They also serve as heat sources for Boilers, which generate power for the Steam Engines."
+		""
+		"Right-click the Blaze Burner with any furnace-compatible fuel to activate a temporary Heated state."
+		""
+		"Right-click the Blaze Burner with a Blaze Cake to trigger a temporary Super-Heated state."
+		""
+		"If you use the &l&bStraw&r&r, you can use liquids such as Lava as the fuel."
+	]
 	quest.3BC1492D43F6B120.quest_desc: ["It is told that it was forged by the first blacksmiths of time"]
 	quest.3BC1492D43F6B120.quest_subtitle: "Found in Mineshafts"
 	quest.3BC3FE0A42564D1D.title: "Chocolate do Create"
+	quest.3BDFBBEFD0FB0B77.quest_desc: [
+		"The &6&lPortable Storage Interfaces&r&r function in pairs and must be placed facing each other with a spacing of 1 to 2 blocks to interact. One interface should be attached to a moving Contraption, while the other remains stationary."
+		""
+		"The Contraption interface requires an inventory item, such as a Chest or Barrel, while the stationary interface needs an item that can insert or extract items directly, such as a Funnel, Chute, or Hopper."
+	]
 	quest.3BFAF2034D6C99BC.quest_desc: [
 		"The &6Storage Controller&r allows you to manage multiple storages as if they were one large storage multiblock."
 		""
@@ -1628,6 +1926,15 @@
 	]
 	quest.3DD814B346F1B543.quest_subtitle: "Tame one Cleric Familiar"
 	quest.3DD814B346F1B543.title: "Cleric Familiar"
+	quest.3DEAE2A5E71AEF5A.quest_desc: [
+		"{image:kubejs:item/golem5 width:150 height:60 align:center}"
+		"&eThe terracotta golems&r can be found naturally in badlands biomes, or summoned by placing terracotta golem statues near heat sources."
+		""
+		"&eTerracotta golems&r are naturally hostile to mobs, and can be right clicked with cacti or dead bushes to improve their attacks. "
+		""
+		"A cactus will increase the golems attack from 4 to 6, while a dead bush will give it a ranged attack."
+	]
+	quest.3DEAE2A5E71AEF5A.title: "Terracotta golem"
 	quest.3E42FEEFBC22F7D3.quest_desc: ["You can also automate this with &n&cnetherack&r&r if you prefer."]
 	quest.3E5AC888381F061B.quest_desc: [
 		"&eHandcrafted&r mod adds detailed furniture and decor to your Minecraft world. "
@@ -1660,10 +1967,42 @@
 	quest.3F7E6AE9B71BCE7E.quest_subtitle: "x8"
 	quest.3F83272A3D958DAB.quest_desc: ["Arguably the most important resource you will need next is &eFluix&f, used throughout the vast majority of AE2 devices and serving as a base for crafting all of the cabling within an ME network."]
 	quest.3F83272A3D958DAB.title: "Fluix Crystal"
+	quest.3FF93EB2C771B747.quest_desc: [
+		"The &l&6Wrench&r&r is a versatile tool used to rotate, dismantle, and configure &6&lCreate items&r&r."
+		""
+		"Right-clicking a Create item with the Wrench will rotate it based on the face you click but some will dismantle and return to your inventory such as redstone devices, rails, or vanilla rail variants."
+		""
+		"Those that are normally interacted with via right-click, you must sneak while using the Wrench to dismantle it."
+		""
+		"Some Create items support configuration via scrolling while hovering with the Wrench."
+		""
+		"For certain Create items like the Linear Chassis, holding Ctrl while scrolling will apply the configuration changes to all connected parts."
+	]
 	quest.401AFF46C83AAEB8.quest_subtitle: "Collect Dragon's Breath in a Glass Bottle."
 	quest.401AFF46C83AAEB8.title: "You Need a Mint!"
 	quest.401C9B25D2B7B49F.quest_desc: ["Remembrance of the past lives of those who live in death"]
 	quest.401C9B25D2B7B49F.quest_subtitle: " Craft it using an Undead Soul"
+	quest.40270C32F09AD402.quest_desc: [
+		"&6&lWelcome to Create!"
+		""
+		"While it doesn't cover every item, it highlights the important things to get you started. "
+		""
+		""
+		"&l&nGetting Help&r&r"
+		""
+		"-> &6Ponder:&r If you have doubts about any blocks or items, hold 'W' to ponder and see an amazing 3D in-game wiki!"
+		""
+		"-> &6Recipes:&r Hover over an item in an inventory (or in a Quest) and press 'R' to find out how to make it, or press 'U' to find what recipes it's used in."
+		""
+		"&l&nKey Concepts&r&r"
+		""
+		"-> &6Stress Units (SU):&r Generators can only supply so much energy, or \"Stress Units,\" to a system of appliances before they're overwhelmed."
+		""
+		"-> &6Rotational Speed (RPM):&r Things spin at certain speeds, or 'RPM'. Machines use more Stress Units when they're supplied with higher RPMs."
+		""
+		"-> &6Contraptions:&r Contraptions are builds that can move, either rotationally with Bearings, linearly with Pistons or Gantries, or on rails with Minecarts or Trains. Many appliances are automatically powered when moving on a Contraption."
+	]
+	quest.40270C32F09AD402.title: "&6&lCreate!"
 	quest.403CAE721D431F6E.quest_subtitle: "Can also be found in market and the end."
 	quest.4064B48C687F3547.quest_desc: [
 		"&6Silk Touch Upgrade&r grants the &cDestructor&r the ability to break blocks using Silk Touch, preserving their original form."
@@ -1707,6 +2046,13 @@
 		"You can send this text to anyone in the world and other people can copy it as well. With this text copied, you, or anyone with the copied text, can hit paste to create a template that is exactly the same as if you had followed the above process."
 	]
 	quest.40E256F7660DF8A9.quest_subtitle: "can be used to store and release multiple familiars at the same time, crafted."
+	quest.40EFE5B89FE6DBA1.quest_desc: [
+		"&l&6Andesite Tunnels&r&r and &l&6Brass Tunnels&r&r both act as decorative covers for Mechanical Belts, but they also provide functional utility—with Brass Tunnels offering more advanced capabilities."
+		""
+		"The Andesite Tunnel can extract individual items from passing stacks and redirect them to side outputs, enabling simple item separation."
+		""
+		"The Brass Tunnel supports splitting, sorting, and combining item streams on belts. Each Brass Tunnel can also have input or output portals on any of its four sides, allowing for flexible and complex routing configurations."
+	]
 	quest.41329FF8F96017A9.quest_desc: [
 		"The &eBasic Tier Upgrade&r is the entry-level upgrade for&6 Sophisticated Storage&r. "
 		""
@@ -1750,6 +2096,11 @@
 		"Exporter, Constructor, Interface (1 per device)"
 	]
 	quest.41E439ED3FAAAA94.quest_subtitle: "Craft any Netherite Shulker Box type."
+	quest.4229C599AF11A4F4.quest_desc: [
+		"&l&6Windmill Sails&r&r generate power when attached to a rotating structure on a Windmill Bearing, offering the same efficiency as Wool blocks. A minimum of 8 sails is required to start rotation."
+		""
+		"Unlike most contraptions, Windmill Sails do not need Super Glue or a connected Linear or Radial Chassis to function."
+	]
 	quest.422A888D3F7C4665.quest_subtitle: "When used for Upgrade: &6+5% Fire Spell Power"
 	quest.4256AD377F068FF4.quest_desc: [
 		"The &bCell Workbench&f allows for cells to be \"partitioned\" to hold specific items, i.e. given a whitelist filter. It also allows the cell to be upgraded with certain upgrade cards such as the Inverter Card, which sets the aforementioned whitelist to be a blacklist instead."
@@ -1845,6 +2196,11 @@
 	]
 	quest.4552515C89DFAA7B.quest_subtitle: "The Exchanging Gadget provides basic exchanging abilities using a set of different Exchanging Modes."
 	quest.45BE2DE3977F53E9.quest_subtitle: "You can repeat as many times you want!"
+	quest.462639C0EBA1209F.quest_desc: [
+		"The &l&6Engineer’s Goggles&r&r allows you to see information about your contraptions, such as the stress impact and rotational speed."
+		""
+		"It also allows you to see how full the Fuild Tank is and its total capacity."
+	]
 	quest.4626F4A23540DD3E.quest_desc: [
 		"You can get &aLotus Pistils&r from the &bsniffer digging&r. You can place &aLotus Pistils on Lily Pads&r to start growing a &aLotus Flower!&r "
 		""
@@ -1931,6 +2287,14 @@
 	]
 	quest.4A905C23B855B8C3.title: "&3&lSchool of Eldritch"
 	quest.4ACC788E6E79B711.quest_desc: ["The &bCapacity Card&f allows a bus upgraded with it to carry a larger filter. Import and Export buses upgraded with capacity cards can go from supporting only one filtered item each to their maximum nine-slot filter, while Storage buses will go from 18 slots to a maximum of 63."]
+	quest.4AF21A7894A9F73A.quest_desc: [
+		"&7When right-clicked:&r"
+		"Opens the &6Interface.&r &7Sneak-Click&r to place it on a surface."
+		""
+		"&7When used on Blocks:&r"
+		"Some blocks' &6settings,&r such as filters, can be &bcopied (right-click)&r and &6applied (left-click)&r elsewhere."
+	]
+	quest.4AF21A7894A9F73A.quest_subtitle: "Keep track of what you want to do"
 	quest.4B3E500121857046.quest_desc: [
 		"The &bMemory Card&f is a tool with two different functions. The simplest of the two is to save various devices' configurations (such as whitelist filters) to be copied over to another device of the same kind."
 		""
@@ -2023,7 +2387,36 @@
 		""
 		"This can automate machines to craft resources when they fall below a specified amount."
 	]
+	quest.4C185EEB22774B36.quest_desc: [
+		"The &6&lDepot&r&r is used to hold items sationarily. Items can be right-clicked onto or inserted into a Depot. When placed on a Depot, a Mechanical Press will interact with the items just as it would on a Mechanical Belt. Items can also be bulk blasted on a Depot."
+		""
+		"Items on a Depot will not despawn and will remain there until removed by a Player, a Mechanical Arm, or automatically extracted using a Chute, Funnel, or Hopper."
+	]
+	quest.4C4D1E34867B4AB7.quest_desc: [
+		"The &6&lEncased Fan&r&r generates air streams and is used for various tasks: moving entities, transporting items vertically through Chutes, Bulk Washing, Blasting, Haunting, and Smoking."
+		""
+		"Depending on the direction of rotational power (clockwise or counterclockwise), the fan will either push or pull."
+		""
+		"To perform specific processing actions, place the appropriate block in front of the fan:"
+		""
+		"To Blast items, use a lava source."
+		""
+		"To Wash items, use a water source."
+		""
+		"To Haunt items, place a soul campfire."
+		""
+		"To Smoke items, place a regular campfire."
+		""
+		"Tip: The Encased Fan can process items on a Depot or belt above the fan."
+	]
 	quest.4CABBBFC66009A4D.quest_subtitle: " Bought from the market using boss tokens"
+	quest.4CC9D588886E2778.quest_desc: [
+		"&eUnlit coal golems&r will spawn naturally around coal ore, and are passive towards mobs. "
+		""
+		"&eCoal golems&r can be turned into&e lit coal golems&r by &cright clicking them with flint and steel&r,"
+		"and will become hostile towards mobs, but will die after attacking."
+	]
+	quest.4CC9D588886E2778.title: "Coal golem"
 	quest.4CCA16E6E4070E37.quest_desc: [
 		"This items can be found in &ldungeons chests on the moon&r."
 		""
@@ -2062,6 +2455,13 @@
 		"&d@additional&r"
 	]
 	quest.4DAA0A4DF5A7A575.title: "&6Additional Lights"
+	quest.4DC12AC740C52694.quest_desc: [
+		"Ever wanted to pipe liquids into your blaze burners? "
+		""
+		"Just hand them a straw and they'll slurp it straight from the pipe."
+		""
+		"You can press &a'U'&r on the straw to see what liquids it accepts as well as burn times."
+	]
 	quest.4DF64525E5F3E1FC.quest_desc: [
 		"&cThe Gatekeeper&r is a boss found at &7Portal Ruins&r scattered throughout the Overworld."
 		""
@@ -2173,6 +2573,14 @@
 		"From then on, any blocks contained either within the cell's region of space or in an SCS with the same size as the one used for the initial encoding can be moved back into the overworld or into the spatial dimension respectively. If there are blocks both within the spatial region and within the SCS, these will simply swap places accordingly."
 	]
 	quest.5261190FDCE5314D.quest_subtitle: "x++"
+	quest.52C5644D8C7CB5CC.quest_desc: [
+		"{image:kubejs:item/golem2 width:150 height:60 align:center}"
+		""
+		"&eThe kelp golem&r moves fastest in water."
+		""
+		"When within range of a conduit, the&e kelp golem&r will switch to its charged state and receive +100% strength, gradual regeneration, and +100% resistance until out of range of the conduit."
+	]
+	quest.52C5644D8C7CB5CC.title: "Kelp golem"
 	quest.52E5DCC3089180F3.quest_subtitle: "Use to reduce the cooldown"
 	quest.52E7496E0A9118F6.quest_desc: [
 		"To connect the vast majority of your ME network together, you will need some cable. &eME Glass Cable&f is the first and most basic kind of cable, and you'll be making this all throughout as the first step towards crafting the other kinds of cable."
@@ -2349,6 +2757,13 @@
 		"&l&a📝Tip:&r&r &oYou can buy a map in the Market to locate one -&e The Citadel&r.&r"
 	]
 	quest.583EBA8354586BFD.quest_subtitle: "&d☠ Tier 5"
+	quest.58D9CE68661256C8.quest_desc: [
+		"The &l&6Encased Chain Drive&r&r is a block used to transfer rotational power, similar to a Mechanical Belt, but with more flexibility in layout."
+		""
+		"Multiple Encased Chain Drives can be placed in a straight horizontal or vertical line to form a continuous chain, allowing rotation to pass through all connected blocks. Each unit can be rotated with a Wrench to switch between horizontal and vertical orientations, maintaining power transmission within the chain."
+		""
+		"Additionally, Encased Chain Drives can be connected to Adjustable Chain Gearshifts, which allow the speed of rotation to be controlled via redstone power."
+	]
 	quest.58EE67ECB33D6AE9.quest_desc: [
 		"{image:kubejs:textures/familiars/plague_doctor.png width:100 height:94 align:center}"
 		"&l&6Battle:&r&r specialized in poison magic, poisoning enemies to make them suffer a slow death."
@@ -2473,6 +2888,7 @@
 	]
 	quest.5BAE6CD47D4ABF2D.quest_subtitle: "Create with style"
 	quest.5BAE6CD47D4ABF2D.title: "Decoration and Building Options."
+	quest.5BB1EAC4730AD978.quest_desc: ["The &n&6Schematicannon&r&r will build the structures from Schematics, taking materials from nearby chests and using gunpowder as fuel."]
 	quest.5BC526ACC0046B20.quest_desc: ["With the &6Inception Upgrade&r, you can put backpacks in your backpacks!"]
 	quest.5BC526ACC0046B20.quest_subtitle: "Backs on Backs on Backs"
 	quest.5BCF209E014D37E6.quest_desc: ["The &bME Smart Cable&f and &bDense Smart Cable&f function identically to the covered cables in terms of channel distribution, but will also visibly display the amount of channels they are using as coloured lines along themselves."]
@@ -2505,6 +2921,13 @@
 	quest.5D0DCD2B1AB653BB.quest_subtitle: "Tame one Scorcher Familiar"
 	quest.5D0DCD2B1AB653BB.title: "Scorcher Familiar"
 	quest.5D284522BCE51032.quest_subtitle: "&6+25 Max Mana"
+	quest.5D2B02B408E67C99.quest_desc: [
+		"The &6&lMechanical Pump&r&r moves fluids through pipes in one direction at a time."
+		""
+		"Each pump can push fluids up to 16 blocks (configurable) in either direction. This limit applies to the pump’s reach, not the pipes themselves—you can connect up to 30 pipes between pumps."
+		""
+		"The brown arrows on the pump show the current flow direction. Use a Wrench to reverse it."
+	]
 	quest.5D396BE9BA075E66.quest_subtitle: "Craftable"
 	quest.5D3EA637C19E26F4.quest_desc: [
 		"The &bQuartz Wrench&f does what any regular tech mod wrench would do. It rotates blocks and devices along the face you right-click on and dismantles them when right-clicked while sneaking."
@@ -2564,6 +2987,13 @@
 	quest.5F65870D9A816C6E.title: "&6Initiation into the Order&r"
 	quest.5F7FBCB758D54981.quest_subtitle: "Grants &6freezing immunity."
 	quest.5F8B17F4A8CF47C7.quest_desc: ["{ \"text\": \"☞ Click here for more information.\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"52BB4427D9F5163D\" } }"]
+	quest.5F9BEF8918186325.quest_desc: [
+		"The &l&6Spout&r&r is a block used to fill liquid containers—such as bottles or buckets—or to apply fluids in crafting recipes."
+		""
+		"It holds up to one bucket of a single fluid type, which can be supplied through Fluid Pipes. "
+		""
+		"When items move beneath the Spout on a Mechanical Belt or are placed on a Depot, it will dispense the appropriate amount of fluid onto any compatible item."
+	]
 	quest.5F9DC6A4D253217D.quest_desc: ["Keep the relic in your inventory and get inflicted with &6Darkness.&r Wait briefly for the transformation."]
 	quest.5FA9D6B1B66399AC.quest_desc: [
 		"The &8Furnace Upgrade&r, &8Smoking Upgrade&r, and &8Blasting Upgrade&r allow you to smelt stuff in your backpack!"
@@ -2665,6 +3095,15 @@
 		"While in this mode, make sure to place a block on top of the Blaze Forger and place a Lightning Rod on a block beside it. Super Enchanting Mode attracts Lightning Strikes."
 	]
 	quest.630BDF564F7516D7.quest_desc: ["To enable wireless network access, create the &eME Wireless Access Point&r. It allows access to the network via a wireless terminal, with range determined by the number of &aWireless Boosters&r inserted."]
+	quest.632E2AD859CE0BDE.quest_desc: [
+		"The &6&lWindmill Bearing&r&r is a block used for passive power generation."
+		""
+		"To function, it must have at least eight sail-type blocks attached—this includes Sails, Sail Frames, Wool blocks, or Copycat Panels with wool. Additional blocks can be added using Super Glue, though they do not contribute to power generation. Once assembled, these components form a Windmill."
+		""
+		"The Windmill spins clockwise, but its rotation direction can be reversed using a Wrench."
+		""
+		"The Windmill generates power based on the number of sail, up to a maximum of 128 sails."
+	]
 	quest.632F1D52317286A8.quest_subtitle: "Creepers will avoid the wearer. Hisses at attacking phantoms."
 	quest.63A35C0C01372EB6.quest_desc: ["Those who followed this eye were never seen again; rumors say they found the great city of Atlantis, or lost their way trying"]
 	quest.63A35C0C01372EB6.quest_subtitle: "Craft it using aquatic items"
@@ -2777,16 +3216,22 @@
 	quest.669470AF4A543CB7.quest_desc: ["Upgrades can be applied to aircraft to further improve their functionality."]
 	quest.669470AF4A543CB7.title: "Upgrades"
 	quest.66A8B9C4C4AC291A.quest_subtitle: "Strikes attackers with lightning. Grants immunity to lightning strikes."
+	quest.66CF9B7A1C500A4E.quest_desc: [
+		"The &6&lGearbox&r&r transmits rotational power in four directions. "
+		"The standard Gearbox handles horizontal transmission while the Vertical Gearbox works similarly but transmits power vertically."
+		""
+		"When rotational input is received from one side (indicated by a shaft shape), the Gearbox outputs power to the other three sides with reversed rotation."
+		""
+		"For example, if the input rotation is clockwise, the outputs will rotate counter-clockwise, and vice versa."
+	]
 	quest.66E127ED18F447AD.quest_desc: [
-		"&6&lRight-click&r&r with the &a&lMechanical Grindstone&r&r on an &b&lItem Drain&r&r, then place another Mechanical Grindstone on top to activate the setup."
+		"&6&lRight-click&r&r with the &a&lMechanical Grindstone&r&r on an &l&bItem Drain&r&r and then place another Mechanical Grindstone on-top to be able to use it."
 		""
-		"With the &a&lMechanical Grindstone&r&r, you can extract experience from enchanted items. It also functions as sandpaper and is used in various other recipes."
+		"With the &l&aMechanical Grindstone&r&r you can extract experience from enchanted items but it also functions as SandPaper. "
 		""
-		"The &a&lMechanical Grindstone&r&r can also be interacted with manually to insert items."
+		"The &l&aMechanical Grindstone&r&r can also be interacted manually to place items."
 		""
-		"Some recipes return liquids. The block stores these fluids internally and can output them using a fluid pipe."
-		""
-		"&o&l&cCheck the Ponder&r (press W) for a better understanding.&r&r"
+		"&o&l&cCheck the Ponder&r (Pressing W) for a better understanding.&r&r"
 	]
 	quest.66EA4FE46D64E00B.quest_subtitle: "Not repeatable"
 	quest.671D0A62B7171DBB.quest_subtitle: "&6Long Casts become uninterruptible"
@@ -2832,11 +3277,18 @@
 	quest.69E26E48222CEC01.quest_subtitle: "Rolling"
 	quest.6A0982B3EC12BAF2.quest_desc: ["&eDecoration Table&r allows you to customize the Chest with any block."]
 	quest.6A7C0604FA1E82BB.quest_desc: [
-		"Can be found naturally in villages. When attacked, the barrel golem will close its lid and hide as a barrel, reducing damage taken by 90%. It will also enter this state while sleeping through the night."
+		"Can be found naturally in villages. When attacked, the &ebarrel golem&r will close its lid and hide as a barrel, reducing damage taken by 90%. "
 		""
-		"The barrel golem can be bartered with by dropping emeralds."
+		"It will also enter this state while sleeping through the night."
+		""
+		"The &ebarrel golem&r can be bartered with by dropping emeralds."
 	]
 	quest.6A7C0604FA1E82BB.title: "Barrel golem"
+	quest.6A93F7AD37EEAAC5.quest_desc: [
+		"The &l&6Mechanical Mixer&r&r is used for processing both mixing recipes and shapeless crafting recipes within Basins. It requires a minimum rotational speed of 30 RPM from its power source to function, and increasing the rotational speed enhances its processing speed."
+		""
+		"To operate correctly, the Mixer must be placed directly above a Basin with exactly one block of space between them. Ingredients for a valid recipe can be added by throwing them into the Basin beneath the Mixer or by using a Funnel attached to the Basin, after which the Mixer will automatically combine them."
+	]
 	quest.6AD87BACD480D27B.quest_desc: ["Check the Renewable Ores chapter to see a renewable way to have Crushed Raw Iron."]
 	quest.6AFEDCF1CF22972F.quest_desc: ["Use your newly aquired arcane dust to make yourself some Magicians armor using it and iron armor at a smithing table."]
 	quest.6AFEDCF1CF22972F.quest_subtitle: "An early game source of &3additional mana"
@@ -2869,6 +3321,15 @@
 	quest.6BF73E8BF5844527.title: "Comfort Sleeping Bag"
 	quest.6BFD66913FB72821.quest_subtitle: "Not repeatable"
 	quest.6C09C1569A947DA0.quest_desc: ["&6The Augmenting Table&r allows you to&a reroll affixes&r on your items or &amaximize their stats&r."]
+	quest.6C1085B9052E3A52.quest_desc: [
+		"Can be found naturally in birch forests. The&e honey golem&r will shoot mobs with a honey projectile, which applies slowness."
+		""
+		"&eThe honey golem&r can function as a bee hive, and will contain bees which both defend, and heal the honey golem."
+		""
+		"These bees will also produce honey, which can be harvested from the golem for honey blobs."
+		"Honey blobs are throwable items that function the same as the honey golems projectile."
+	]
+	quest.6C1085B9052E3A52.title: "Honey golem"
 	quest.6C1387E10CF933C4.quest_desc: [
 		"&6Wireless Transmitter&r allows wireless access to the network (default range: 16 blocks).  "
 		""
@@ -2880,6 +3341,15 @@
 	]
 	quest.6C71E2ABAA99C005.title: "&6Collect All the Simply Swords"
 	quest.6C7C101DFE4E67F3.quest_subtitle: "+5% mana regen, constantly heals tamed familiars at the cost of your own mana, found in Priest Towers."
+	quest.6C7DDDC1123E208A.quest_desc: [
+		"&l&6Mechanical Belts&r&r are used to transfer rotational power and transport items and entities along a path."
+		""
+		"To place a Mechanical Belt, you need at least two Shafts. Right-click the first Shaft, then the second to connect them. Only one Belt item is consumed, regardless of length."
+		""
+		"Belts can span across multiple Shafts arranged horizontally, vertically, or diagonally (at a 45° angle toward the Y-axis), up to a maximum length of 20 blocks, with no obstructions along the path."
+		""
+		"Andesite Casing and Brass Casing can be applied to any segment of a Belt for aesthetic purposes."
+	]
 	quest.6C90039BB1651603.quest_subtitle: "When used for Upgrade: &6+5% Holy Spell Power"
 	quest.6CE8C3410296E977.quest_desc: [
 		"You can't breathe on the Moon without &3Oxygen&r. Actually, you can't breathe anywhere without &3Oxygen&r. Guess what the &9Moon&r doesn't have?"
@@ -2917,6 +3387,23 @@
 		"This feature allows you to bring your own art, photos, or screenshots into Minecraft, turning them into in-game photography through the film development process."
 	]
 	quest.6D40B0012EBC27AA.title: "&l&dUploading Custom Images"
+	quest.6D46BA0F714FB56B.quest_desc: [
+		"The &6&lCogwheel&r&r is used to relay rotational force. Its larger counterpart, the &l&6Large Cogwheel&r&r, allows for more advanced setups, such as redirecting rotation around corners and powering Rotation Speed Controllers."
+		""
+		"Cogwheels can transfer rotation through three main interlocking configurations:"
+		""
+		"Two Cogwheels placed side-by-side (not diagonally) and facing the same direction will rotate in opposite directions at the same speed when one is powered."
+		""
+		"Two Large Cogwheels placed perpendicularly will interlock to change the direction and axis of rotation, without altering the speed."
+		""
+		"A Cogwheel and a Large Cogwheel placed diagonally and facing the same direction will interlock, causing the Large Cogwheel to rotate at half the speed of the smaller one."
+		""
+		"Additional Functions"
+		""
+		"Cogwheels can also act like Shafts, transmitting rotation through the ends of their axis. This behavior can be disabled by applying a Casing and you can use a wrench if you want to have the shaft again. Mechanical machines can attach to either end, and chains of Cogwheels function similarly to multiple connected Shafts."
+		""
+		"Using the size difference between Cogwheels and Large Cogwheels, rotational speed can be doubled or halved. This scaling can be applied repeatedly—by chaining multiple gear pairs—up to a maximum of 256 RPM. For more precise speed adjustments, a Large Cogwheel can be connected to a Rotation Speed Controller."
+	]
 	quest.6E03028499F40E70.quest_desc: [
 		"&6The Relay &racts as a smart connection point in your storage network. "
 		""
@@ -2932,6 +3419,20 @@
 		"* Capturing"
 	]
 	quest.6E4DA395958EFE02.title: " Enchantment Removal"
+	quest.6E691464A1D6FEEC.quest_desc: [
+		"The &l&6Andesite Funnel&r&r is used to move items in and out of inventories."
+		""
+		"Right-click the funnel with a Wrench to toggle between input and output modes. Applying a redstone signal disables item transfer in either direction."
+		""
+		"The funnel can be placed on a Mechanical Belt connected to an inventory or basin. It supports both vertical and horizontal placement. When placed on a belt, right-clicking the funnel causes it to extend one block forward."
+		""
+		"In output mode, the funnel dispenses one item at a time. In input mode, it can insert a full stack (up to 64 items) at once."
+		""
+		"The &6&lBrass Funnel&r&r functions similarly to the Andesite Funnel but includes advanced filtering and item quantity control. You can assign specific filter items to control what passes through the funnel."
+		"Using the Value Settings Screen, you can configure the funnel to transfer either an exact number or up to a set amount of items, in both input and output modes."
+		""
+		"&5&l&oTip:&r&r When mounted on a Contraption, Brass Funnels can drop items from the Contraption’s inventory or collect items they come into contact with. If a filter is applied, only the specified items will be inserted or extracted.&r"
+	]
 	quest.6E8031A380EB37C8.quest_desc: [
 		"You may quickly notice as your explore your world that you will be finding &ascrolls.&r "
 		""
@@ -2961,6 +3462,18 @@
 		"This can be useful for situations where a block can be processed simply by placing it and breaking it with a certain tool."
 	]
 	quest.6FBCDEA419DB1D37.quest_subtitle: "GET OUT"
+	quest.6FEBA486156AA0CA.quest_desc: [
+		"The &6&lHand Crank&r&r produces a modest amount of Rotational Force through your direct input."
+		""
+		"Right-click and hold to spin the crank counter-clockwise, or hold Shift and right-click to reverse the rotation."
+		""
+		"The Hand Crank operates at a fixed speed of 32 RPM."
+	]
+	quest.70078CDA548D3393.quest_desc: [
+		"&bExplorer Maps&r are a core part of find scturures acting as an expansion of the mapping functionalities provided by the base game. There are maps that can take you to specific biomes or structures. "
+		""
+		"Look in the &eShopping&r tab on the left menu to see the &bExplorer Maps&r available for you to buy. Some maps cannot be bought and must be obtained through quests."
+	]
 	quest.703CC46FAC00A5D9.title: "&6Collect All the Artifacts"
 	quest.703D0E0BD4F9DC4F.quest_subtitle: "Craft any Gold Limited Barrel I type."
 	quest.704435187B4BD245.quest_desc: [
@@ -2974,7 +3487,34 @@
 		""
 		"&e&oNote: I highly recommend checking the Ponder for all the nuances this Beam Condenser allows with its configurations with the different beam types.&r&r"
 	]
+	quest.70FA406AD3A8A7A9.quest_desc: [
+		"{image:kubejs:item/golem4 width:150 height:60 align:center}"
+		""
+		"&eCandle golems&r can be spawned by right clicking a &ccandle golem block.&r"
+		""
+		"They can be told to sit or stand by right clicking. While sitting, they take 90% reduced damage from projectiles."
+		""
+		"&eCandle golems&r can be lit with flint and steel. When lit, they will shoot mobs with flame projectiles. "
+		""
+		"Using this attack too much will deplete the golems health until their candle goes out, "
+		"and they'll need to be repaired."
+	]
 	quest.70FA406AD3A8A7A9.title: "Candle golem"
+	quest.7124A562FDF1A9A5.quest_desc: [
+		"The &l&6Mechanical Crafters&r&r automate the item crafting process. Some recipies may requiere the Mechanical Crafter to be crafted such as the Crushing Wheels."
+		""
+		"Right-click the front of a Mechanical Crafter with a Wrench to change the direction of an arrow that show you which direction it passes the items during crafting. It must eventually converge on the same Mechanical Crafter slot to finish the recipe. Crafters are only linked through this directional path."
+		""
+		"Mechanical Crafters can be automatically supplied using Funnels or Hoppers. You can also insert or remove items manually."
+		""
+		"Each Crafter can be powered by either an adjacent Crafter or any size Cogwheel. Meaning that only one Crafter in a setup needs direct power from a Cogwheel."
+		""
+		"Use a Wrench on the back or sides of two adjacent Crafters to link or unlink their inventories. Connected Crafters can share inventories even if they're not part of the same recipe."
+		""
+		"The &6&lCrafter Slot Cover&r&r act as empty spaces in recipes and can connect inventories between otherwise unlinked Crafters. Unlike recipe items, Slot Covers do not move during crafting."
+		""
+		"&oTip: If you make the convergence crafter point to a chest next to it, the itm will automatically be stored in the chest.&r"
+	]
 	quest.712E35EA760A9452.quest_desc: [
 		"&cThe Lunar Monstrosity&r can be found in the &eCursed Garden&r, which appears as a large maze."
 		""
@@ -3169,6 +3709,17 @@
 	quest.73BD8A69D47D4C98.quest_subtitle: "A new school of &asound"
 	quest.73BD8A69D47D4C98.title: "&a&lSchool of Sound"
 	quest.73D579268007A8C7.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
+	quest.73E2BBF18A97E57F.quest_desc: [
+		"The &6&lSpeedometer&r&r measures the rotational speed of connected machines or in the network."
+		""
+		"When attached, it displays the speed using a dial with a moving hand—the higher the hand points, the faster the rotation."
+		""
+		"Wearing Engineer’s Goggles reveals the exact RPM value on the gauge."
+		""
+		"A Display Link can be connected to show the RPM on a display board for easier monitoring."
+		""
+		"A Redstone Comparator can read the Speedometer’s signal and output a Redstone signal strength based on the absolute RPM—meaning positive and negative speeds produce the same output."
+	]
 	quest.74370B84A072E947.quest_desc: [
 		"The &6Arcane Anvil&r lets you upgrade your spells. Place a &bspell scroll&r and an &cink&r of matching rarity to level it up."
 		""
@@ -3195,6 +3746,13 @@
 		"&aUse End Gateways&r to travel far from the center island."
 		""
 		"&nYou can make a copy&r with dragon scale."
+	]
+	quest.7495FD1A88E6A10B.quest_desc: [
+		"&n&6The Deployer&r&r is essential for automation, used in multi-step crafts and contraptions. "
+		""
+		"It automates various tasks such as crafting Casings, Polishing, Waxing, and Sequenced Assemblies. "
+		""
+		"Deployers can right- or left-click blocks or entities, allowing them to shear sheep, milk cow, place blocks and more."
 	]
 	quest.74AD39A0B9CB46CF.quest_subtitle: "Better Elytra!"
 	quest.753831874D7C3BC8.quest_desc: [
@@ -3225,6 +3783,15 @@
 	quest.763F1FB0C55F702F.quest_subtitle: "Get it by Killing Elder Guardian"
 	quest.76D595EF8B7A90E1.title: "&aAdvanced Archevoker Outfit"
 	quest.779E68DD0A0F8483.quest_subtitle: "Can be crafted in the Alchemist Cauldron using an Echo Shard and a Mundane Potion."
+	quest.77A0F8AC2BF086C5.quest_desc: [
+		"The &6&lHose Pulley&r&r lowers a hose to drain or fill large bodies of fluid."
+		""
+		"When supplied with Rotational Force, the hose extends downward. Reversing the rotation will retract it. The hose must extend at least one block before it becomes functional. A Mechanical Pump is required to actually move fluid through the hose, whether for draining or flooding."
+		""
+		"If the fluid body contains at least 10,000 source blocks (configurable), the Hose Pulley treats it as an infinite source, allowing extraction without depleting the source."
+		""
+		"&l&5&oTip:&r&r To simulate an infinite Lava source, create a 20×20×25 pit, fill the top layer with Lava, allow it to flow to the bottom, and position the hose so it reaches the bottom. The pulley will detect the volume as infinite.&r"
+	]
 	quest.77CB99E12D41EFF3.quest_desc: [
 		"&dAmethyst&r naturally generates in large geodes underground, surrounded by layers of Basalt and Calcite."
 		""
@@ -3263,6 +3830,17 @@
 	quest.78E34F3F9A19F275.quest_subtitle: "Gives you water breathing"
 	quest.793C4FD3470AC117.quest_subtitle: "Better Elytra!"
 	quest.7940D8A4ECBD6541.quest_subtitle: "Increases the wearer's attack speed"
+	quest.7946F9753F14977C.quest_desc: [
+		"The &l&6Mechanical Arm&r&r can pick up or deposit items from blocks within a 5-block radius of its location."
+		""
+		"Its operating sequence is determined by both its configured behavior and the order in which target blocks were selected during placement."
+		""
+		"You can view the selected blocks of a placed Mechanical Arm by hovering over it with a Wrench. "
+		""
+		"It can transfer up to one full stack of items at a time."
+		""
+		"Note: Adding a Note Block with a Disk makes the Mechanical Arm Dance and the Mechanicle Arm can algo wear the Engineer Goggles."
+	]
 	quest.79604D7C48A2B350.quest_subtitle: "right click into a bard familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, obtained from the Mysterious Orb."
 	quest.797410E5DF1F96E5.quest_subtitle: "Not repeatable"
 	quest.79A7417475A593C6.quest_desc: [
@@ -3430,10 +4008,24 @@
 	quest.7DB46C70468F2CFE.title: "&6Redden's Stone Lanters"
 	quest.7DE83E440B507868.quest_subtitle: "x1.5"
 	quest.7DFCA72EC274F3D9.quest_subtitle: "Not repeatable"
+	quest.7E2CA676B730A7C4.quest_desc: ["&6&lPeanut Oil&r&r can be used on a Blaze Burner to get Super Heated."]
 	quest.7E7B5A9C3AE9FBF8.quest_desc: [
-		"&6Golem Overhaul &radds 9 new golem types, all with their own unique mechanics!"
+		"&aGolem Overhaul &radds 9 new golem types, all with their own unique mechanics!"
 		""
 		"Some are passive, like the hay golem, who can protect your crops from being trampled, while others are strong enough to take on mobs like the warden itself."
+		"&a"
+	]
+	quest.7E7B5A9C3AE9FBF8.title: "&aGolem Overhaul"
+	quest.7EDA18B8420473E8.quest_desc: [
+		"The &6&lFluid Tank&r&r stores fluids, holding up to 8 buckets (8,000 mB) per block."
+		""
+		"Fluids can be inserted or extracted using Fluid Pipes, which can be connected to any side of the tank—top, bottom, or sides. "
+		""
+		"Fluid Tanks automatically merge with adjacent tanks, forming larger multi-block structures up to 3×32×3, allowing a maximum capacity of 2,304 buckets."
+		""
+		"The tank’s glass window can be toggled on or off with a Wrench."
+		""
+		"Pipe connection points on the tank don’t affect performance. For example, fluid can be extracted from the top, even if the tank isn’t full."
 	]
 	quest.7EF4A265C25EFF12.quest_subtitle: "When used for Upgrade: &6+5% Ice Spell Power"
 	quest.7EF948B39FBEA377.quest_desc: [
@@ -3445,6 +4037,31 @@
 	]
 	quest.7EF948B39FBEA377.title: "Our First Pick"
 	quest.7F1AB8E8DA7BFD77.quest_subtitle: "Adds a looting effect to killed mobs"
+	quest.7F4C5837BB28BDFC.quest_desc: [
+		"&l&6Zultanite&r&r forms in various colors, determined by the color of the liquefied resin that comes into contact with Lava. Each color corresponds to a different variant of the Zultanite block."
+		""
+		"Some Zultanite blocks can be further processed—crushed using Crushing Wheels or haunted to yield additional items."
+		""
+		"Here are some of the combinations:"
+		""
+		"    Liquefied Mastic Resin = Zultanite"
+		""
+		"    Red Mastic Resin = Red Zultanite"
+		""
+		"    Yellow Mastic Resin = Yellow Zultanite"
+		""
+		"    Green Mastic Resin = Green Zultanite"
+		""
+		"    Blue Mastic Resin = Blue Zultanite"
+		""
+		"    Purple Mastic Resin = Purple Zultanite"
+		""
+		"    Magenta Mastic Resin = Magenta Zultanite"
+		""
+		"    Orange Mastic Resin = Orange Zultanite"
+		""
+		"    Brown Mastic Resin = Brown Zultanite"
+	]
 	quest.7F5DCDCFFD24ABE7.quest_subtitle: "Craft any Golden Barrel type."
 	quest.7FA5CDC0F616D2C5.quest_desc: [
 		"Time to leave stone behind."
@@ -3481,6 +4098,7 @@
 	task.3D5C2226F8539904.title: "Dense Smart Cable"
 	task.3DB26C03AA267EC0.title: "Click to Acknowledge"
 	task.3DC2851D386057E8.title: "ME Fluid Storage Cell"
+	task.3F5AC72562569158.title: "Stress Unit"
 	task.413699776BB0AF8C.title: "ewww :("
 	task.432F4520E99A0F94.title: "Kill The Ender Dragon"
 	task.451EC360A3F38231.title: "Craft a &cRover"
@@ -3489,6 +4107,7 @@
 	task.4F1EDAE24CB6CE36.title: "Click to Acknowledge"
 	task.4F8C0625674B4C26.title: "Quartz Wrench"
 	task.509D5321A4F9841D.title: "&6I'm Ready"
+	task.5178993B338F1878.title: "Garnished"
 	task.51AA3BC3AFF2FEDA.title: "Click to Acknowledge"
 	task.53C18716A59B10AC.title: "aa"
 	task.554F69A27BBC5A76.title: "Craft a &bWater Pump"
@@ -3510,5 +4129,4 @@
 	task.6FD0241035AC0F91.title: "Click to Acknowledge"
 	task.714DADB6776DEE49.title: "ME Item Storage Cell"
 	task.797924159D5342B4.title: "&l&cAre you sure you read everything? This part is really important to the pack."
-	task.7EA1F1F867081F34.title: "a"
 }

@@ -1,0 +1,155 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "garnish"
+	group: "781F17A4DC3D0E66"
+	icon: {
+		id: "garnished:cinder_peanut_effect"
+	}
+	id: "58D00C1309225860"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0FD0F0F442972293"
+			tasks: [{
+				id: "5178993B338F1878"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			id: "7E2CA676B730A7C4"
+			tasks: [
+				{
+					id: "70F8FBECBCA27DF7"
+					item: { count: 1, id: "garnished:peanut_oil_bucket" }
+					type: "item"
+				}
+				{
+					id: "7F7E4E8808556774"
+					item: { count: 1, id: "create:blaze_burner" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			id: "05E44A1BD522BC74"
+			tasks: [
+				{
+					fluid: {
+						amount: 1000
+						id: "garnished:peanut_oil"
+					}
+					id: "066F074988F60A7A"
+					type: "fluid"
+				}
+				{
+					fluid: {
+						amount: 1000
+						id: "garnished:garnish"
+					}
+					id: "302E09E069E42E48"
+					type: "fluid"
+				}
+			]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "7F4C5837BB28BDFC"
+			tasks: [
+				{
+					id: "261A91CDEB3C640C"
+					item: { count: 1, id: "garnished:mastic_resin_bucket" }
+					type: "item"
+				}
+				{
+					id: "09624F3069A9E016"
+					item: { count: 1, id: "garnished:red_mastic_resin_bucket" }
+					type: "item"
+				}
+				{
+					id: "13F9143708936BD4"
+					item: { count: 1, id: "garnished:orange_mastic_resin_bucket" }
+					type: "item"
+				}
+				{
+					id: "494D194AD6080B83"
+					item: { count: 1, id: "garnished:yellow_mastic_resin_bucket" }
+					type: "item"
+				}
+				{
+					id: "3A662B0E97920CC4"
+					item: { count: 1, id: "garnished:green_mastic_resin_bucket" }
+					type: "item"
+				}
+				{
+					id: "3EAA027B9EDCBB4A"
+					item: { count: 1, id: "garnished:lime_mastic_resin_bucket" }
+					type: "item"
+				}
+				{
+					id: "47D571B942AE855C"
+					item: { count: 1, id: "garnished:blue_mastic_resin_bucket" }
+					type: "item"
+				}
+				{
+					id: "05052CFCB0853E3F"
+					item: { count: 1, id: "garnished:light_blue_mastic_resin_bucket" }
+					type: "item"
+				}
+				{
+					id: "023948B31E523F9E"
+					item: { count: 1, id: "garnished:cyan_mastic_resin_bucket" }
+					type: "item"
+				}
+				{
+					id: "532C7896F5A5796F"
+					item: { count: 1, id: "garnished:purple_mastic_resin_bucket" }
+					type: "item"
+				}
+				{
+					id: "456FE57849699026"
+					item: { count: 1, id: "garnished:magenta_mastic_resin_bucket" }
+					type: "item"
+				}
+				{
+					id: "3163981174DD1EC1"
+					item: { count: 1, id: "garnished:pink_mastic_resin_bucket" }
+					type: "item"
+				}
+				{
+					id: "5FD6BA496810FC9F"
+					item: { count: 1, id: "garnished:black_mastic_resin_bucket" }
+					type: "item"
+				}
+				{
+					id: "0D3958CF6C9AD7A6"
+					item: { count: 1, id: "garnished:gray_mastic_resin_bucket" }
+					type: "item"
+				}
+				{
+					id: "22B9E9CFE1D40A87"
+					item: { count: 1, id: "garnished:light_gray_mastic_resin_bucket" }
+					type: "item"
+				}
+				{
+					id: "4E55611DB67CA5CB"
+					item: { count: 1, id: "garnished:white_mastic_resin_bucket" }
+					type: "item"
+				}
+				{
+					id: "4127BEBF46BF0928"
+					item: { count: 1, id: "garnished:brown_mastic_resin_bucket" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -0.5d
+		}
+	]
+}
