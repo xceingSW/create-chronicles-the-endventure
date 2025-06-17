@@ -109,6 +109,7 @@ key_key.craftingtweaks.decompress_all:key.keyboard.unknown:
 key_key.craftingtweaks.refill_last:key.keyboard.tab:CONTROL
 key_key.craftingtweaks.refill_last_stack:key.keyboard.tab:
 key_key.craftingtweaks.transfer_stack:key.keyboard.unknown:
+key_create_mobile_packages.keyinfo.open_portable_stock_ticker:key.keyboard.unknown:
 key_key.immersive_aircraft.fallback_control_left:key.keyboard.unknown:
 key_key.immersive_aircraft.fallback_control_right:key.keyboard.unknown:
 key_key.immersive_aircraft.fallback_control_forward:key.keyboard.unknown:
@@ -130,11 +131,11 @@ key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b:
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c:
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown:
 key_keybind.sophisticatedbackpacks.sort:key.mouse.middle:
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown:
 key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown:
 key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown:
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
 key_key.cataclysm.ability:key.keyboard.x:
 key_key.cataclysm.helmet_ability:key.keyboard.c:
 key_key.cataclysm.chestplate_ability:key.keyboard.y:
@@ -145,7 +146,7 @@ key_key.bridgingmod.toggle_bridging:key.keyboard.comma:
 key_key.deeperdarker.boost:key.keyboard.b:
 key_key.deeperdarker.transmit:key.keyboard.v:
 key_key.ftbteams.open_gui:key.keyboard.unknown:
-key_key.oracle_index.open:key.keyboard.semicolon:
+key_key.oracle_index.open:key.keyboard.k:
 key_key.oracle_index.search:key.keyboard.unknown:
 key_key.ftbquests.quests:key.keyboard.f4:
 key_key.ftbchunks.map:key.keyboard.unknown:
@@ -157,10 +158,10 @@ key_key.ftbchunks.add_waypoint:key.keyboard.unknown:
 key_key.ftbchunks.waypoint_manager:key.keyboard.unknown:
 key_key.moreoverlays.lightoverlay.desc:key.keyboard.f7:
 key_key.moreoverlays.chunkbounds.desc:key.keyboard.f9:
-key_key.inventorysorter.itemout:key.mouse.102:
 key_key.inventorysorter.sort:key.mouse.middle:
+key_key.inventorysorter.itemout:key.mouse.102:
 key_key.inventorysorter.itemin:key.mouse.100:
-key_key.kubejs.kubedex:key.keyboard.semicolon:
+key_key.kubejs.kubedex:key.keyboard.unknown:
 key_keybind.sophisticatedstorage.sort:key.mouse.middle:
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt:
 key_create.keyinfo.toolmenu:key.keyboard.left.alt:

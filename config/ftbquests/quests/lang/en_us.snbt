@@ -1633,7 +1633,7 @@
 		"To socket a weapon, left-click the gem, then left-click the matching weapon."
 		"&c⚠Note: Socketing is permanent — gems cannot be removed.&r"
 		""
-		"&a🛈 This mod includes its own in-game guide. Just press &eÇ&r to open it and learn all the details!&r"
+		"&a🛈 This mod includes its own in-game guide. Just press &eK&r to open it and learn all the details!&r"
 		""
 		"It’s the best way to understand the mechanics, weapon types, and upgrade systems Simply Swords has to offer."
 	]
@@ -2311,6 +2311,9 @@
 		""
 		"For certain Create items like the Linear Chassis, holding Ctrl while scrolling will apply the configuration changes to all connected parts."
 		""
+		"&n&aThe Wrench has a special feature:&r&r"
+		"When looking at certain Create blocks—such as a Gearbox—&dpressing U&r will open a scroll wheel menu with various options, including block orientation. This makes it much easier to adjust and place blocks exactly how you want"
+		""
 		"&d@create&r"
 	]
 	quest.401AFF46C83AAEB8.quest_subtitle: "Collect Dragon's Breath in a Glass Bottle."
@@ -2400,7 +2403,7 @@
 	]
 	quest.41338251AEE28EE2.quest_subtitle: "right click into a tamed familiar to boost his health permanently, limit 10 per familiar, crafted."
 	quest.419327E6573538F7.quest_desc: [
-		"Chalk allow you to drawk marks for easier navigation in the caves or structures it comes in all colors."
+		"Chalk allow you to draw marks for easier navigation in the caves or structures it comes in all colors."
 		""
 		"You can also draw a couple of different symbols using &6Right-click while sneaking &r to open a menu where you can choose desired symbol to draw. Some symbols can be unlocked by completing advancements."
 		""
@@ -3599,6 +3602,7 @@
 		"&c-> Better Combat&r"
 		"Weapons each weapon has its own attack animation and time, comsecutive attacks will perform combos and you can hold attakc button to keep attacking continuosly."
 	]
+	quest.640C3588E6BA8DF2.title: "Combat Mechanics"
 	quest.6423F47740F77C70.quest_subtitle: "Grants &6poison immunity."
 	quest.645D4EA80D808371.quest_desc: [
 		"A small early-game shulker box that can only hold 5 items. "
@@ -3659,7 +3663,7 @@
 		""
 		"&6\"Ctrl+T\"&r – Open world tier (Apotheosis)"
 		""
-		"&6\"Swift+T\"&r – Link items on the chat (Apotheosis)"
+		"&6\"Shift+T\"&r – Link items on the chat (Apotheosis)"
 		""
 		"&6\"Z\"&r – Uses Spyglass from inventory (Spyglass Improvements)"
 		""

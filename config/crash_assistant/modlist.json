@@ -183,9 +183,9 @@
     "modId": "cfm_circuit_breaker",
     "version": "1.0.0"
   },
-  "chalk-1.6.9.jar": {
+  "chalk-1.6.10.jar": {
     "modId": "chalk",
-    "version": "1.6.9"
+    "version": "1.6.10"
   },
   "chat_heads-0.13.18-neoforge-1.21.jar": {
     "modId": "chat_heads",
@@ -533,9 +533,9 @@
     "modId": "framework",
     "version": "0.9.6"
   },
-  "friendsandfoes-neoforge-4.0.5+mc1.21.1.jar": {
+  "friendsandfoes-neoforge-4.0.6+mc1.21.1.jar": {
     "modId": "friendsandfoes",
-    "version": "4.0.5"
+    "version": "4.0.6"
   },
   "ftb-chunks-neoforge-2101.1.9.jar": {
     "modId": "ftbchunks",
@@ -693,9 +693,9 @@
     "modId": "jmi",
     "version": "1.21.1-1.9"
   },
-  "journeymap-neoforge-1.21.1-6.0.0-beta.48.jar": {
+  "journeymap-neoforge-1.21.1-6.0.0-beta.50.jar": {
     "modId": "journeymap",
-    "version": "1.21.1-6.0.0-beta.48"
+    "version": "1.21.1-6.0.0-beta.50"
   },
   "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar": {
     "modId": "jeresources",
@@ -854,9 +854,9 @@
     "modId": "octolib",
     "version": "0.5.0.1"
   },
-  "Oh-The-Biomes-Weve-Gone-NeoForge-2.4.2.jar": {
+  "Oh-The-Biomes-Weve-Gone-NeoForge-2.4.3.jar": {
     "modId": "biomeswevegone",
-    "version": "2.4.2"
+    "version": "2.4.3"
   },
   "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.14.jar": {
     "modId": "ohthetreesyoullgrow",
