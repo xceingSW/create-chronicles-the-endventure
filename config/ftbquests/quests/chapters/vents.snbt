@@ -179,5 +179,27 @@
 			x: 1.5d
 			y: 4.0d
 		}
+		{
+			dependencies: ["736512E2075451A1"]
+			id: "7BA36E3934CF3AF9"
+			tasks: [{
+				id: "77A97EE6E69B0CB2"
+				item: { count: 1, id: "create_mechanical_extruder:mechanical_extruder" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7BA36E3934CF3AF9"]
+			id: "365A57D1F99B0F42"
+			tasks: [{
+				id: "7117F993F7116F17"
+				item: { count: 1, id: "create_mechanical_extruder:mechanical_brass_extruder" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 4.0d
+		}
 	]
 }

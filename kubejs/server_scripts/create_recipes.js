@@ -15,6 +15,7 @@ ServerEvents.recipes((event) => {
     event.recipes.createMixing(('minecraft:ender_pearl'),[Fluid.of("createaddition:bioethanol", 250),'createaddition:biomass_pellet','createaddition:biomass_pellet','createaddition:biomass_pellet','minecraft:prismarine_shard','minecraft:prismarine_shard','minecraft:prismarine_crystals','minecraft:prismarine_crystals']).superheated()
     //event.recipes.createMixing(('3x createmechanisms:bronze'),['minecraft:copper_ingot','minecraft:copper_ingot','minecraft:copper_ingot','minecraft:iron_ingot']).heated()
     event.recipes.createMixing("createcompounds:chromatic_compound", [ "#c:dusts/glowstone","#c:dusts/glowstone","#c:dusts/glowstone","create:cinder_flour","create:cinder_flour","create:cinder_flour", "create:powdered_obsidian","create:powdered_obsidian","create:powdered_obsidian","create:polished_rose_quartz"]).superheated();
+        event.recipes.createMixing(('createaddition:electrum_nugget'),['minecraft:gold_nugget',"#c:dusts/glowstone","#c:gems/quartz"]).heated()
     // Deploy
     event.recipes.createDeploying('minecraft:shroomlight', ['minecraft:glowstone', '#c:mushrooms'])
     event.recipes.createDeploying('minecraft:glow_ink_sac', ['minecraft:ink_sac', 'minecraft:glow_berries'])
@@ -29,8 +30,8 @@ ServerEvents.recipes((event) => {
  
     // Crushing
     event.recipes.createCrushing([
-       withChance("minecraft:glowstone_dust", 0.1),
-       withChance("minecraft:glowstone_dust", 0.06)
+       withChance("minecraft:glowstone_dust", 0.25),
+       withChance("minecraft:glowstone_dust", 0.10)
     ], 'minecraft:soul_sand').processingTime(100)
     event.recipes.createCrushing([
       'irons_spellbooks:common_ink',

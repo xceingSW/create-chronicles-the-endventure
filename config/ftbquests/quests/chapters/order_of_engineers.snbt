@@ -1219,5 +1219,15 @@
 			x: -3.5d
 			y: -4.5d
 		}
+		{
+			id: "37950BD9915FD3B9"
+			tasks: [{
+				id: "01CAF0D8ED518949"
+				item: { count: 1, id: "createaddition:electrum_rod" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 9.0d
+		}
 	]
 }

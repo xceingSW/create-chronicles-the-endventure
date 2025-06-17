@@ -469,9 +469,9 @@
     "modId": "eternal_starlight",
     "version": "0.4.3+1.21.1+neoforge"
   },
-  "exposure-neoforge-1.21.1-1.9.8.jar": {
+  "exposure-neoforge-1.21.1-1.9.9.jar": {
     "modId": "exposure",
-    "version": "1.9.8"
+    "version": "1.9.9"
   },
   "extra_gauges-1.1.1.jar": {
     "modId": "extra_gauges",
@@ -581,9 +581,9 @@
     "modId": "geckolib",
     "version": "4.7.5.1"
   },
-  "Geophilic v3.4.1 f15-71.mod.jar": {
+  "Geophilic v3.4.2 f15-80.mod.jar": {
     "modId": "geophilic",
-    "version": "3.4.1"
+    "version": "3.4.2"
   },
   "golemoverhaul-neoforge-1.21.1-1.0.1.jar": {
     "modId": "golemoverhaul",
@@ -644,6 +644,10 @@
   "inventorysorter-1.21-24.0.20.jar": {
     "modId": "inventorysorter",
     "version": "24.0.20"
+  },
+  "iris-flywheel-compat-NeoForge-2.0.1.jar": {
+    "modId": "irisflw",
+    "version": "2.0.1"
   },
   "iris-neoforge-1.8.8+mc1.21.1.jar": {
     "modId": "iris",
