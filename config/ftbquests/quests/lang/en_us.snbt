@@ -1644,6 +1644,18 @@
 	]
 	quest.2F40B3F9E34F9B1F.title: "Patterns"
 	quest.2F622A7B13D36360.quest_subtitle: "Not repeatable"
+	quest.2F6A074C1F506CC3.quest_desc: [
+		"Backtank must be filled with Air Pressure to function."
+		""
+		"To pressurize the Backtank, place it down and connect a rotating shaft to the one on top of the tank."
+		""
+		"Copper Diving Helmet when paired with a Copper Backtank containing Air Pressure, &bgrants Water Breathing and Aqua Affinity effects.&r"
+		""
+		"Copper Diving Boots cause the wearer to sink and disable swimming but allow walking and jumping underwater. "
+		""
+		"Boots also grant immunity to Mechanical Belts, Escalators, and Walkways."
+	]
+	quest.2F6A074C1F506CC3.title: "Copper Diving Set"
 	quest.2F8EAC597AB7E760.quest_subtitle: "Increases the wearer's swim speed"
 	quest.2F957F552CB5A245.quest_subtitle: "x16"
 	quest.3026C7FFA3B230FA.quest_desc: ["&3Processors&r are essential crafting ingredients used to make the majority of ME-connected devices."]
@@ -2119,7 +2131,7 @@
 		"While disguised, mobs can't detect you unless they're within 1 block of you."
 	]
 	quest.389858EF7FA936DC.quest_subtitle: "&aCardboard Armor is—you guessed it—armor made of Cardboard!&r"
-	quest.389858EF7FA936DC.title: "Cardboard Armor"
+	quest.389858EF7FA936DC.title: "Cardboard Set"
 	quest.38B254719B73C3C0.quest_desc: [
 		"&6Embroidery Thread&r is used to add custom artwork onto a blanket or even a banner on your bed."
 		""
@@ -3415,6 +3427,32 @@
 		""
 		"When the &e&lLightning Strikes&r&r the&l &aBlock of Experience&r&r it will change into &b&lBlock of Super Experience&r&r."
 	]
+	quest.5E9E882D7F331693.quest_desc: [
+		"&n&aWalkways: &r&r"
+		"The Walkway Steps are placed similarly to Mechanical Belts. Place two Shafts a distance apart, then right-click one Shaft with Walkway Steps, followed by the other Shaft, to create the Walkway."
+		"Additional shafts can be added to the Walkway just like Mechanical Belts."
+		""
+		"&a&n&nEscalators:&r&r&r"
+		"Escalators are created similarly to Walkways, but with one key difference:"
+		""
+		"The Shafts cannot be placed on a perfect diagonal."
+		""
+		"The horizontal distance between the Shafts must be three blocks greater than the vertical distance. For example: 7 blocks horizontally and 4 blocks vertically."
+		""
+		"Unlike Walkways, additional Shafts cannot be added to Escalators after placement."
+		""
+		"&n&aCustomization&r&r"
+		"Both Walkways and Escalators can be dyed any color."
+		""
+		"&n&aHandrails:&r&r"
+		"Add Handrails by right-clicking a Walkway or Escalator with a Mechanical Belt."
+		""
+		"Handrails can also be dyed."
+		""
+		"Convert Handrails to Glass by right-clicking them with a Glass block."
+		""
+		"Walkways and Escalators can be extended by first extending the shaft line, then Right-click the existing structure with a Walkway Step and then Right-click the new Shaft to extend the Walkway or Escalator."
+	]
 	quest.5E9E882D7F331693.title: "&3Create Escalated"
 	quest.5EC30214D9EE2A0C.quest_subtitle: "Harness the power of &2nature&r. Increased &2nature spell power&r or &2armor&r."
 	quest.5EC30214D9EE2A0C.title: "&2&lSchool of Nature"
@@ -3503,6 +3541,16 @@
 		""
 		"Recolor with dye (crouch + right-click or craft)."
 	]
+	quest.6144BAFB1269A066.quest_desc: [
+		"Like the Copper set, it provides Water Breathing when the Backtank has Air Pressure."
+		""
+		"&cUnique to Netherite is Fire and Lava immunity and enhanced lava vision with the helmet&r."
+		""
+		"Fire and Lava immunity only applies when wearing the full Netherite set (Helmet, Backtank, Leggings, and Boots) and the Backtank needs Air Pressure."
+		""
+		"Unlike the Copper Boots, Netherite Boots allow ascending in Lava by holding the jump key."
+	]
+	quest.6144BAFB1269A066.title: "Netherite Diving Set"
 	quest.6144BBDCA3192593.quest_desc: [
 		"&6Building Gadgets&r mod allows you to create some cool gadgets to help you build big bases, or for clearing out large areas using the &dDestruction Gadget.&r"
 		""
@@ -3600,7 +3648,7 @@
 		""
 		""
 		"&c-> Better Combat&r"
-		"Weapons each weapon has its own attack animation and time, comsecutive attacks will perform combos and you can hold attakc button to keep attacking continuosly."
+		"Each weapon has its own attack animation and timing. Consecutive attacks trigger combos, and holding the attack button allows continuous strikes."
 	]
 	quest.640C3588E6BA8DF2.title: "Combat Mechanics"
 	quest.6423F47740F77C70.quest_subtitle: "Grants &6poison immunity."

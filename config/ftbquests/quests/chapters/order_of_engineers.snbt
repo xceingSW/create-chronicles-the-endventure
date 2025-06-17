@@ -1063,7 +1063,7 @@
 				consume_items: true
 				count: 256L
 				id: "08CF8F22564FF9A2"
-				item: { count: 1, id: "createteleporters:advanced_part" }
+				item: { count: 1, id: "garnished:piquant_pretzel" }
 				type: "item"
 			}]
 			x: -3.0d
@@ -1218,16 +1218,6 @@
 			}]
 			x: -3.5d
 			y: -4.5d
-		}
-		{
-			id: "37950BD9915FD3B9"
-			tasks: [{
-				id: "01CAF0D8ED518949"
-				item: { count: 1, id: "createaddition:electrum_rod" }
-				type: "item"
-			}]
-			x: -0.5d
-			y: 9.0d
 		}
 	]
 }

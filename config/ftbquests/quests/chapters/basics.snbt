@@ -1580,6 +1580,15 @@
 		{
 			dependencies: ["06267D7C266DE215"]
 			id: "64DF63794FBD1F2C"
+			rewards: [{
+				count: 2
+				id: "1924BD4B3B454B35"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.5d
 			tasks: [{
