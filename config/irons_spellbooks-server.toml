@@ -1313,7 +1313,7 @@
 		MaxLevel = 1
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
 		MinRarity = "LEGENDARY"
-		ManaCostMultiplier = 1.0
+		ManaCostMultiplier = 1.3
 		SpellPowerMultiplier = 1.0
 		CooldownInSeconds = 60.0
-		AllowCrafting = true
+		AllowCrafting = false

@@ -80,7 +80,7 @@ ServerEvents.recipes(event => {
 
   event.custom({
     "type": "createaddition:charging",
-    "energy": 5000,
+    "energy": 200,
     "ingredient": {
       "item": "minecraft:copper_ingot"
     },
@@ -89,6 +89,15 @@ ServerEvents.recipes(event => {
       "count": 1,
       "id": "createmechanisms:bronze"
     }
+  })
+
+  
+  event.shaped('multibeds:feather_pile', [
+      'SS ',
+      'SS ',
+      'SS '
+  ], {
+      S: 'minecraft:feather',
   })
 
   event.shaped('2x create:belt_connector', [

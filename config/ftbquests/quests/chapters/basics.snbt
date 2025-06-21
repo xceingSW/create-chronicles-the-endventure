@@ -2819,5 +2819,119 @@
 			x: -21.0d
 			y: 16.0d
 		}
+		{
+			dependencies: ["261651FB7B600587"]
+			id: "78F35B052FE44F4A"
+			rewards: [{
+				id: "4DCAFBDC33C2AECF"
+				item: {
+					count: 1
+					id: "constructionstick:wooden_stick"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6474EB66F42F467D"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(constructionstick:construction_sticks))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -29.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["78F35B052FE44F4A"]
+			id: "266CCE96A4F2977B"
+			rewards: [{
+				id: "55144B6F6FB90988"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "56C88F59D1643519"
+				item: { count: 1, id: "constructionstick:template_angel" }
+				type: "item"
+			}]
+			x: -30.5d
+			y: 14.5d
+		}
+		{
+			dependencies: ["78F35B052FE44F4A"]
+			id: "59E1D3BDBD8CC64A"
+			rewards: [{
+				id: "02367DB6735027AC"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "20E441B2FEB7A3A4"
+				item: { count: 1, id: "constructionstick:template_destruction" }
+				type: "item"
+			}]
+			x: -30.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["78F35B052FE44F4A"]
+			id: "45A294917808368D"
+			rewards: [{
+				id: "2E4FF15AC432B20C"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "12A21CBD045C020B"
+				item: { count: 1, id: "constructionstick:template_replacement" }
+				type: "item"
+			}]
+			x: -29.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["78F35B052FE44F4A"]
+			id: "2234E7EDAC54CC40"
+			rewards: [{
+				id: "49DB29DA1E2E8B94"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "02293FBCA891674A"
+				item: { count: 1, id: "constructionstick:template_battery" }
+				type: "item"
+			}]
+			x: -28.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["78F35B052FE44F4A"]
+			id: "227E5C94A66B214D"
+			rewards: [{
+				id: "2ECB7E601EEB9812"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0F3C6CB6B7DF4A7E"
+				item: { count: 1, id: "constructionstick:template_unbreakable" }
+				type: "item"
+			}]
+			x: -27.5d
+			y: 14.5d
+		}
 	]
 }

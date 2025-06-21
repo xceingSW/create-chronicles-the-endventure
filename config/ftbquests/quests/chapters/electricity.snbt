@@ -130,5 +130,16 @@
 			x: -1.5d
 			y: -3.5d
 		}
+		{
+			dependencies: ["2192D2F22A2C17FD"]
+			id: "2356D84F2F81D384"
+			tasks: [{
+				id: "2AC9D24723302ECE"
+				item: { count: 1, id: "charginggadgets:charging_station" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.0d
+		}
 	]
 }

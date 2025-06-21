@@ -1176,6 +1176,7 @@
 	quest.2192D2F22A2C17FD.title: "&e🧵 Spools and Wire Types"
 	quest.21E5B83843A2DA2A.quest_desc: ["Useful for separating trains or carts that bump into each other, or simply to add extra flair to your train."]
 	quest.221AD10D242035D1.quest_subtitle: "A heavy crossbow with a powerful punch, which requires Arrows, is kept in the aircraft inventory and uses 2 arrows per use."
+	quest.2234E7EDAC54CC40.quest_subtitle: "Lets the stick use RF instead of durability."
 	quest.223E243BADB0CFAA.quest_subtitle: "Not repeatable"
 	quest.22415034137B2D62.quest_desc: [
 		"The world feels more alive with &eSupplementaries&r. This mod adds a variety of interactive and decorative blocks that bring charm, utility, and realism to your builds."
@@ -1189,6 +1190,8 @@
 	]
 	quest.22415034137B2D62.title: "&6Supplementaries&r"
 	quest.2241F84F6AAD5933.quest_subtitle: "Teleport amulet gives you evasion after you teleport if your Ender spell power is high enough"
+	quest.227E5C94A66B214D.quest_desc: ["You can buy it from market."]
+	quest.227E5C94A66B214D.quest_subtitle: "Removes durability consumption, allowing infinite block placement."
 	quest.229C5328751C93F5.quest_desc: [
 		"The &cElder Guardian&r is a powerful aquatic boss found in &eOcean Monuments.&r"
 		""
@@ -1218,6 +1221,8 @@
 		""
 		"Once generated, this energy can be transferred through shafts, gears, and other mechanical components to operate your creations."
 	]
+	quest.2356D84F2F81D384.quest_desc: ["&l&ctemporary solution &r&r"]
+	quest.2356D84F2F81D384.quest_subtitle: "&l&ctemporary solution &r&r"
 	quest.2393A0DC1A59CDEC.quest_desc: [
 		"When applied as an upgrade to any supported device such as an Interface or Export Bus, the &bCrafting Card&f allows the device in question to automatically send out its own crafting requests for a required (filtered) item. Crafting CPUs can be set to respond only to these requests to prevent taking up CPUs meant for player-requested crafts."
 		""
@@ -1356,6 +1361,7 @@
 		"&o&eNote: Press U on the Beam Focuser to see all the recipes allowed.&r&r"
 	]
 	quest.266448538B44953C.quest_subtitle: "Not repeatable"
+	quest.266CCE96A4F2977B.quest_subtitle: "Place blocks behind the ones you're facing or in mid-air."
 	quest.268C2A63C8ADA1CD.quest_desc: [
 		"&aSome spells are exclusive to the market and &r&ccannot be crafted or found in the world&r &aby any means. These are only obtainable by purchasing them in market:&r"
 		""
@@ -1381,6 +1387,7 @@
 		"* Oaskin"
 		"* Celestial Chant"
 		"* &eAbyssal Shroud"
+		"* &ePocket Dimension"
 		"* &eEvasion"
 		"* &eSummon Swords&r"
 	]
@@ -1539,6 +1546,11 @@
 		""
 		"It can store higher-level &aenchanted books&r and hold significantly more &benchantment points.&r"
 	]
+	quest.2C0A86D7F9D1A0D8.quest_desc: [
+		"Don’t confuse &bstripped logs&r with &dstripped wood&r—they are two different things. "
+		""
+		"&l&cThe recipe uses stripped wood, so double-check that you’re using the correct type if it’s not working.&r&r"
+	]
 	quest.2C0A86D7F9D1A0D8.quest_subtitle: "You can repeat as many times you want!"
 	quest.2C1C7767F66A6453.quest_subtitle: "right click into a cleric familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Priest Towers."
 	quest.2C203D19752E2E2A.quest_desc: ["The &eLesser Spell Slot Improvement&r can be applied to a spellbook multiple times, up to a maximum of 12 slots."]
@@ -1613,8 +1625,10 @@
 		"It can also be used to convert &bCopper Ingots into Bronze&r by charging them."
 		""
 		"Additionally, the &eTesla Coil&r can damage nearby players and mobs with electricity. This effect can be activated using a redstone signal."
+		""
 	]
-	quest.2E4DA361722CB9D0.title: "&e⚡ Tesla Coil"
+	quest.2E4DA361722CB9D0.quest_subtitle: "&l&cCreate 6.0.6 break it&r&r"
+	quest.2E4DA361722CB9D0.title: "&e⚡ Tesla Coil - &l&cCreate 6.0.6 break it&r&r"
 	quest.2E9E011F51858EF2.quest_desc: [
 		"&cFireclay Ball&r comes from a block called &cFireclay&r. "
 		""
@@ -2153,6 +2167,13 @@
 		"Using it on a bed will swap its contents with whats already on the bed."
 	]
 	quest.3A00CAE9E315BFE7.quest_subtitle: "Not repeatable"
+	quest.3A227C6AE5CB2F32.quest_desc: [
+		"&l&aCreate: Design 'n' Decor&r&r expands on the base decorations of Create. It adds variants of existing blocks, including several new crushing wheels, containers, and extra decorative blocks we felt fit naturally with the Create aesthetic!"
+		""
+		"&d@decor&r"
+	]
+	quest.3A227C6AE5CB2F32.quest_subtitle: "&l&eA fancy new-looking belt? Cool!&r&r"
+	quest.3A227C6AE5CB2F32.title: "Design and Decor"
 	quest.3AB3B4308FA14C9E.quest_desc: [
 		"To make Bauxite you must use &a5 Mechanical Crafters&r. There’s various ways you can do this such as using a Mechanical Arm to place the items in their correct slots. "
 		""
@@ -2572,6 +2593,7 @@
 		"&3Checkerboard&r - this mode will build in a checkered pattern allowing you to place in the pattern of &2[]&r-&2[]&r-&2[]&r-&2[]&r []: being blocks and -: being air."
 	]
 	quest.4552515C89DFAA7B.quest_subtitle: "The Exchanging Gadget provides basic exchanging abilities using a set of different Exchanging Modes."
+	quest.45A294917808368D.quest_subtitle: "Replaces blocks from your offhand instead."
 	quest.45BE2DE3977F53E9.quest_subtitle: "You can repeat as many times you want!"
 	quest.462639C0EBA1209F.quest_desc: [
 		"The &l&6Engineer’s Goggles&r&r allows you to see information about your contraptions, such as the stress impact and rotational speed."
@@ -3027,6 +3049,17 @@
 		"When within range of a conduit, the&e kelp golem&r will switch to its charged state and receive +100% strength, gradual regeneration, and +100% resistance until out of range of the conduit."
 	]
 	quest.52C5644D8C7CB5CC.title: "Kelp golem"
+	quest.52CD60BB56B17A39.quest_desc: [
+		"Ever wanted to build a transportation network in Minecraft like in Satisfactory?&6 Create: Hypertubes&r is an addon for the Create mod inspired by Satisfactory's hypertube system, allowing you to construct intricate and seamless tube networks for fast player transport."
+		""
+		"With an intuitive building system, you can design smooth curves and long straightaways, creating an efficient and visually impressive travel and logistics network throughout your world."
+		""
+		"You can modify the &eHypertube Entrance&r with a &bwrench&r to select your preferred mode!"
+		"If you're using Automatic Lock Mode, you can sneak to avoid being pulled into the tube"
+		""
+		"&eHypertube Entrance&r &aneed rotational power to work.&r"
+	]
+	quest.52CD60BB56B17A39.title: "&6Welcome to Create: Hypertubes!"
 	quest.52E5DCC3089180F3.quest_subtitle: "Use to reduce the cooldown"
 	quest.52E7496E0A9118F6.quest_desc: [
 		"To connect the vast majority of your ME network together, you will need some cable. &eME Glass Cable&f is the first and most basic kind of cable, and you'll be making this all throughout as the first step towards crafting the other kinds of cable."
@@ -3266,6 +3299,7 @@
 	quest.59B3E2C267D8B567.quest_subtitle: "Hold the Dragon Egg"
 	quest.59B3E2C267D8B567.title: "Obtain a Dragon Egg"
 	quest.59BCE0313DEEC492.quest_subtitle: "Not repeatable"
+	quest.59E1D3BDBD8CC64A.quest_subtitle: "Remove blocks quickly and efficiently."
 	quest.59E937483DE3A78D.quest_subtitle: "Upgrades a Basic storage to iron tier."
 	quest.59EB1027C6C9B043.quest_desc: [
 		"&cThe Wither&r is a destructive, three-headed boss that you summon by placing &ethree Wither Skeleton Skulls&r on top of a T-shaped &eSoul Sand base.&r"
@@ -3835,6 +3869,7 @@
 	]
 	quest.6B2BB3A3AAC179FE.title: "&l&6Disenchanting Your Equipment"
 	quest.6B7CFD3808AB7DB1.title: "&cAdvanced Pyromancer Outfit"
+	quest.6B95EF7446936BCD.quest_desc: ["To turn &eChromatic Compound&r into &cRefined Radiance&r, drop the compound into a &abeacon beam&r to transform it."]
 	quest.6B95EF7446936BCD.quest_subtitle: "You can repeat as many times you want!"
 	quest.6B9E13665837ECA1.quest_desc: [
 		"&6The item teleporter&r can teleport a stack of items to an&e item teleporter receiver&r. It uses &dtelejuice&r as fuel. "
@@ -4357,6 +4392,12 @@
 		"Deployers can right- or left-click blocks or entities, allowing them to shear sheep, milk cow, place blocks and more."
 	]
 	quest.74AD39A0B9CB46CF.quest_subtitle: "Better Elytra!"
+	quest.74C84002EB8E230E.quest_desc: [
+		"You can attach a &aHypercube Block&r to the &eentrance&r, then &eright-click&r with another &aHypercube Block &rto start drawing the tube path, similar to how you lay train tracks."
+		""
+		"If there are obstacles in the way, you won’t be able to place the tube, and the line will appear red."
+	]
+	quest.74C84002EB8E230E.title: "Placing Tubes"
 	quest.753831874D7C3BC8.quest_desc: [
 		"The &bCrafting Monitor&f displays the overall item being crafted, along with the remaining quantity of that item still being crafted."
 		""
@@ -4456,6 +4497,20 @@
 	quest.78CCC3928AD94E59.quest_subtitle: "Not repeatable"
 	quest.78DFD8815E2AE291.quest_subtitle: "Does not get consumed when eaten, meaning it's an infinite food source."
 	quest.78E34F3F9A19F275.quest_subtitle: "Gives you water breathing"
+	quest.78F35B052FE44F4A.quest_desc: [
+		"&l&cConstruction Sticks&r&r are your new &abuilder’s wands&r, allowing you to place multiple blocks at once—up to 1,024 in the direction you're facing. "
+		""
+		"You can upgrade your stick to enhance its abilities, making construction faster and more efficient."
+		""
+		"There are five different tiers of Construction Sticks: Wood, Copper, Iron, Diamond, and Netherite."
+		""
+		"Each tier offers increased durability and improved block placement range. "
+		""
+		"&bSticks can also be enhanced further using&r &eUpgrade Templates.&r"
+		""
+		"You can also place blocks from your offhand instead of the one you're looking at."
+	]
+	quest.78F35B052FE44F4A.title: "&l&aBuilder’s wands&r&r"
 	quest.7936CCA5490F1C60.quest_desc: [
 		"&6Train tracks&r are a new type of rails designed specifically for Trains."
 		""

@@ -2643,5 +2643,66 @@
 			x: -4.5d
 			y: -6.0d
 		}
+		{
+			dependencies: ["1FDE0EA030EC5D9B"]
+			id: "52CD60BB56B17A39"
+			rewards: [{
+				count: 2
+				id: "0728C70C7BCFCB8D"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4EAD993365D7C9A0"
+				item: { count: 1, id: "create_hypertube:hypertube_entrance" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["52CD60BB56B17A39"]
+			id: "74C84002EB8E230E"
+			rewards: [{
+				count: 4
+				id: "2F40533B92209FF8"
+				item: {
+					count: 1
+					id: "create_hypertube:hypertube"
+				}
+				random_bonus: 16
+				type: "item"
+			}]
+			tasks: [{
+				id: "34941D2B046AC4A1"
+				item: { count: 1, id: "create_hypertube:hypertube" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["6C7DDDC1123E208A"]
+			id: "3A227C6AE5CB2F32"
+			rewards: [{
+				count: 2
+				id: "29B58BDAB9071D03"
+				item: {
+					count: 1
+					id: "dndecor:zinc_frontlight"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1874D31025E4FBD9"
+				item: { count: 1, id: "dndecor:belt_connector" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -8.5d
+		}
 	]
 }
