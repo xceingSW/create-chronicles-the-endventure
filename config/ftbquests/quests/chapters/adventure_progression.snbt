@@ -1200,18 +1200,43 @@
 			y: -6.5d
 		}
 		{
+			icon: {
+				id: "cataclysm:ceraunus"
+			}
 			id: "5FDAADD20C6A6DC7"
-			rewards: [{
-				id: "3860C0281CD14E32"
-				type: "xp_levels"
-				xp_levels: 10
-			}]
+			rewards: [
+				{
+					id: "3860C0281CD14E32"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 2
+					id: "37B9EDD25098DDE5"
+					item: {
+						count: 1
+						id: "magic_coins:gold_coin"
+					}
+					type: "item"
+				}
+			]
 			shape: "rsquare"
-			tasks: [{
-				id: "39FA65B3A27B2CCA"
-				item: { count: 1, id: "kubejs:gilded_eye_fragment_cracked" }
-				type: "item"
-			}]
+			tasks: [
+				{
+					entity: "cataclysm:scylla"
+					icon: {
+						id: "cataclysm:ceraunus"
+					}
+					id: "427584F82B146859"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "51DDF41BE386A8E5"
+					item: { count: 1, id: "kubejs:gilded_eye_fragment_cracked" }
+					type: "item"
+				}
+			]
 			x: -1.0d
 			y: -3.5d
 		}

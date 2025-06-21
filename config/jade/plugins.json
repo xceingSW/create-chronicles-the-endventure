@@ -1,6 +1,6 @@
 {
   "minecraft": {
-    "item_storage.show_name_amount": 5,
+    "item_storage.show_name_amount": 4,
     "furnace": true,
     "harvest_tool.show_unbreakable": false,
     "animal_owner": true,
@@ -16,7 +16,7 @@
     "entity_armor.max_for_render": 20,
     "breaking_progress": true,
     "tnt_stability": true,
-    "item_storage.items_per_line": 9,
+    "item_storage.items_per_line": 15,
     "item_frame": true,
     "crop_progress": true,
     "command_block": true,

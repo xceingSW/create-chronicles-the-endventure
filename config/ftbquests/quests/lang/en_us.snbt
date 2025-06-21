@@ -1221,7 +1221,11 @@
 		""
 		"Once generated, this energy can be transferred through shafts, gears, and other mechanical components to operate your creations."
 	]
-	quest.2356D84F2F81D384.quest_desc: ["&l&ctemporary solution &r&r"]
+	quest.2356D84F2F81D384.quest_desc: [
+		"&l&ctemporary solution &r&r"
+		""
+		"use coal on it"
+	]
 	quest.2356D84F2F81D384.quest_subtitle: "&l&ctemporary solution &r&r"
 	quest.2393A0DC1A59CDEC.quest_desc: [
 		"When applied as an upgrade to any supported device such as an Interface or Export Bus, the &bCrafting Card&f allows the device in question to automatically send out its own crafting requests for a required (filtered) item. Crafting CPUs can be set to respond only to these requests to prevent taking up CPUs meant for player-requested crafts."
@@ -3128,6 +3132,8 @@
 	quest.543052F17CF1380B.quest_desc: [
 		"&cMaledictus&r can be found in the &eFrosted Prison&r — a frozen-themed dungeon located on the surface of the Overworld."
 		""
+		"You need to kill the &bAptrgangr&r to get the &bStarge key&r, which opens a large door leading to the boss area."
+		""
 		"To summon &cMaledictus&r, place a &6Nether Star&r on the &8Cursed Tombstone&r found within the heart of the prison."
 		""
 		"&l&a📝Tip:&r&r &oYou can buy a map in the Market to locate one -&e Frosted Prison&r.&r"
@@ -3543,7 +3549,17 @@
 		"&l&a📝Tip:&r&r &oYou can buy a map in the Market to locate one -&e Obsidilith Arena&r.&r"
 	]
 	quest.5FCFD038804EFBF7.quest_subtitle: "&d☠ Tier 5"
-	quest.5FDAADD20C6A6DC7.quest_subtitle: " Bought from the market using boss tokens"
+	quest.5FDAADD20C6A6DC7.quest_desc: [
+		"&cScylla&r can be found in an &eAcropolis&r, a massive structure located above the ocean. "
+		""
+		"It’s heavily guarded by Clawdians. Once you find it, look for a large anchor on the ground; right-click it to summon the boss."
+		""
+		"You can locate the structure by&a purchasing a map from the market (it's fairly cheap)&r, or buy the &bEye of the Storm&r, a more expensive item that allows you to both locate and resummon the boss."
+		""
+		""
+		"&l&a📝Tip:&r&r &oYou can buy a map in the Market to locate one -&e Acropolis&r.&r"
+	]
+	quest.5FDAADD20C6A6DC7.quest_subtitle: "&3☠ Tier 6"
 	quest.5FE710403BE1AAF5.quest_subtitle: "right click into a tamed familiar to boost his armor permanently, limit 10 per familiar, dropped from Ancient Knights."
 	quest.607047A3D380D423.quest_subtitle: "Shrinks the wearer to half their size."
 	quest.6073AB1A816E845F.quest_subtitle: "Harness the power of &cfire&r. Increased &cfire spell power&r or &carmor&r."

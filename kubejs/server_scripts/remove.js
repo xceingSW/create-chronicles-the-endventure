@@ -18,6 +18,7 @@ const removeRecipesById = [
   'measurements:tape_measure',
   'constructionstick:template_unbreakable',
   'multibeds:feather_pile',
+  'cataclysm:storm_eye',
 
   'apotheosis:sigil_of_socketing',
   'apotheosis:sigil_of_withdrawal',

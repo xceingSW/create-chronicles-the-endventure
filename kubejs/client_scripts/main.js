@@ -36,7 +36,7 @@ RecipeViewerEvents.addInformation('item', item =>{
 
   item.add("kubejs:gilded_eye_fragment_core", "Drops from The Leviathan")
   item.add("kubejs:gilded_eye_fragment_shard", "Drops from Ancient Remnant")
-  item.add("kubejs:gilded_eye_fragment_cracked", fromMarket)
+  item.add("kubejs:gilded_eye_fragment_cracked", "Drops from Scylla")
 
   item.add("kubejs:cryptic_eye_fragment_core", "Drops from Ignis")
   item.add("kubejs:cryptic_eye_fragment_shard", "Drops from Maledictus")
@@ -78,6 +78,9 @@ RecipeViewerEvents.addInformation('item', item =>{
   item.add("simplyswords:hiveheart", "Drops from The Leviathan")
   item.add("simplyswords:caelestis", "Drops from The Leviathan")
 
+  item.add("simplyswords:dormant_relic", "Drops from Scylla")
+  item.add("simplyswords:thunderbrand", "Drops from Scylla ")
+
   item.add("simplyswords:enigma", "Drops from Ignis")
   item.add("simplyswords:wickpiercer", "Drops from Ignis")
 
@@ -88,9 +91,7 @@ RecipeViewerEvents.addInformation('item', item =>{
   item.add("simplyswords:soulkeeper", "Drops from Ender Dragon")
   item.add("simplyswords:icewhisper", "Drops from Ender Dragon")
   item.add("simplyswords:arcanethyst", "Drops from Ender Dragon")
-  item.add("simplyswords:thunderbrand", "Drops from Ender Dragon")
   item.add("simplyswords:shadowsting", "Drops from Ender Dragon")
-  item.add("simplyswords:dormant_relic", "Drops from Ender Dragon")
   item.add("simplyswords:livyatan", "Drops from Ender Dragon")
   //34 total
   item.add("hazennstuff:overgrown_bone", "Drops from Bogged Zombies")

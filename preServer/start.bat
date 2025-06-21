@@ -23,7 +23,7 @@ if "%jver%" LSS "21" (
 
 :: Download NeoForge installer if not present
 if not exist "%INSTALLER%" (
-    echo NeoForge installer not found. Downloading Forge...
+    echo NeoForge installer not found. Downloading NeoForge...
     powershell -Command "(New-Object System.Net.WebClient).DownloadFile('%NEOFORGE_URL%', '%INSTALLER%')"
 )
 
