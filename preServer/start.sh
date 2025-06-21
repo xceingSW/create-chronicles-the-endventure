@@ -17,7 +17,7 @@ if ! command -v "${CCE_JAVA:-java}" >/dev/null 2>&1; then
     echo "Create Chronicles: The Endventure requires Java 21 - Java not found"
     pause
     exit 1
-fi
+fi\
 
 cd "$(dirname "$0")"
 if [ ! -d libraries ]; then
