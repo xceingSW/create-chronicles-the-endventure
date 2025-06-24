@@ -2473,6 +2473,28 @@
 		"&aCompatible with:&r"
 		"Exporter, Constructor, Interface (1 per device)"
 	]
+	quest.41CFC641485FE331.quest_desc: [
+		"&aIn multiplayer, you won't be able to see the list of recipes, so here is the full list. You can also fix this issue by joining a singleplayer world first and then joining the multiplayer world.&r"
+		""
+		"{image:kubejs:textures/rituals/ritual1.png width:130 height:113 align:center}"
+		"{image:kubejs:textures/rituals/ritual2.png width:130 height:113 align:center}"
+		"{image:kubejs:textures/rituals/ritual3.png width:130 height:113 align:center}"
+		"{image:kubejs:textures/rituals/ritual4.png width:130 height:113 align:center}"
+		"{image:kubejs:textures/rituals/ritual5.png width:130 height:113 align:center}"
+		"{image:kubejs:textures/rituals/ritual6.png width:130 height:113 align:center}"
+		"{image:kubejs:textures/rituals/ritual7.png width:130 height:113 align:center}"
+		"{image:kubejs:textures/rituals/ritual8.png width:130 height:113 align:center}"
+		"{image:kubejs:textures/rituals/ritual9.png width:130 height:113 align:center}"
+		"{image:kubejs:textures/rituals/ritual10.png width:130 height:113 align:center}"
+		"{image:kubejs:textures/rituals/ritual11.png width:130 height:113 align:center}"
+		"{image:kubejs:textures/rituals/ritual12.png width:130 height:113 align:center}"
+		"{image:kubejs:textures/rituals/ritual13.png width:130 height:113 align:center}"
+		"{image:kubejs:textures/rituals/ritual14.png width:130 height:113 align:center}"
+		"{image:kubejs:textures/rituals/ritual15.png width:130 height:113 align:center}"
+		"{image:kubejs:textures/rituals/ritual16.png width:130 height:113 align:center}"
+		"{image:kubejs:textures/rituals/ritual17.png width:130 height:113 align:center}"
+	]
+	quest.41CFC641485FE331.title: "Multiplayer Rituals Recipes"
 	quest.41E439ED3FAAAA94.quest_subtitle: "Craft any Netherite Shulker Box type."
 	quest.4229C599AF11A4F4.quest_desc: [
 		"&l&6Windmill Sails&r&r generate power when attached to a rotating structure on a Windmill Bearing, offering the same efficiency as Wool blocks. A minimum of 8 sails is required to start rotation."
@@ -2975,6 +2997,18 @@
 		""
 		"Photographs can be stacked by right-clicking a Photograph or Stacked Photographs with another Photograph."
 	]
+	quest.4EE191C96F7DE687.quest_desc: [
+		"&aBefore posting, please check this list of known issues and possible workarounds.&r"
+		""
+		"-> Simply Swords Runes Effect can't be rerolled."
+		""
+		"-> Tesla coil is broken due to create 6.0.6"
+		""
+		"-> [Multiplayer Only] The market does not hide the mod's original trades and seed tabs by default."
+		""
+		"-> [Multiplayer Only] Rituals doesn't show on JEI. If you enter a singleplayer world first and them join multiplayer the recipes will work. (Alshanex's Familiars mod issue)"
+	]
+	quest.4EE191C96F7DE687.title: "&l&cLIST OF KNOWN ISSUES (PLEASE READ!)&r&r"
 	quest.4F734FC470276106.quest_subtitle: "Applies a temporary haste effect after eating food"
 	quest.4FDAFBD64AA710A1.quest_subtitle: "Increases experience dropped by mobs"
 	quest.4FE2B38F21E965E8.quest_subtitle: "x3"
@@ -3201,7 +3235,7 @@
 		""
 		"Your support helps us make this modpack better for everyone!"
 		""
-		"https://discord.gg/yRAmua5keG"
+		"https://discord.gg/pkEvhgByPw"
 	]
 	quest.5525E70F7FBDBD92.title: "&6Your feedback is important :)"
 	quest.5534C553D15CD96B.quest_desc: ["The &6Item Drain&r has the ability to extract liquid from a container and temporarily store it until it is piped out into another container."]

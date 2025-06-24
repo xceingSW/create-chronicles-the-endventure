@@ -28,6 +28,7 @@
 		}
 	]
 	order_index: 1
+	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
 		{
@@ -656,6 +657,16 @@
 			}]
 			x: -2.25d
 			y: 2.8d
+		}
+		{
+			dependencies: ["32A6059C63E5BFC3"]
+			id: "41CFC641485FE331"
+			tasks: [{
+				id: "7262E9263092F968"
+				type: "checkmark"
+			}]
+			x: -2.25d
+			y: 1.0d
 		}
 	]
 	require_sequential_tasks: true

@@ -10,10 +10,42 @@ RecipeViewerEvents.removeCategories(event => {
   event.remove('apothic_enchanting:enchanting')
   event.remove('ftbquests:loot_crate')
   event.remove('ftbquests:quest')
+  event.remove('simplelootviewer:archaeology')
+  event.remove('simplelootviewer:block')
+  event.remove('simplelootviewer:dispenser')
+  event.remove('simplelootviewer:fishing')
+  event.remove('simplelootviewer:hero')
+  event.remove('simplelootviewer:loot_chest')
+  event.remove('simplelootviewer:misc')
 })
 
 RecipeViewerEvents.addInformation('item', item =>{
   let fromMarket="Purchased from Market using Boss Tokens"
+  let rit ="This item is obtained through a ritual. If you're playing multiplayer and can't see the recipe, please check the Alshanex's Familiars chapter in the quest book for an image list of the recipes. Alternatively, you can load a singleplayer world first, and then join the multiplayer server to view the recipes."
+  item.add("crystal_chronicles:ice_shard", rit)
+  item.add("crystal_chronicles:voidstone_shard", rit)
+  item.add("crystal_chronicles:hemalite_shard", rit)
+  item.add("crystal_chronicles:floralite_shard", rit)
+  item.add("crystal_chronicles:voltite_shard", rit)
+  item.add("crystal_chronicles:divinite_shard", rit)
+  item.add("crystal_chronicles:volcanite_shard", rit)  
+  item.add("alshanex_familiars:summoner_shard", rit)
+  item.add("alshanex_familiars:archmage_shard", rit)
+  item.add("alshanex_familiars:hunter_shard", rit)  
+  item.add("alshanex_familiars:truth_mirror", rit)
+  item.add("alshanex_familiars:druid_shard", rit)  
+  item.add("alshanex_familiars:lightning_mage_shard", rit)  
+  item.add("alshanex_familiars:mysterious_orb", rit)  
+  item.add("hazennstuff:reinforced", rit)  
+  item.add("hazennstuff:divine_mold", rit)
+  item.add("hazennstuff:refined", rit)
+
+  //other
+  item.add("irons_spellbooks:decrepit_key", "Drops from The Citadel's trial spawners occur when you complete them under the Ominous effect, and Tyros drops the Decrepit Key.")
+  item.add("hazennstuff:decrepit_key", "Drops from The Citadel's trial spawners occur when you complete them under the Ominous effect, and Tyros drops the Decrepit Key.")
+  item.add("hazennstuff:fireblossom", " Found in Crimson Forests in the Nether.")
+  item.add("irons_spellbooks:divine_soulshard", "Drops from Tyros, a tier-5 boss.")
+ 
   item.add("kubejs:forgotten_eye_fragment_core", "Drops from Warden")
   item.add("kubejs:forgotten_eye_fragment_shard", "Drops from Wither Skeleton")
   item.add("kubejs:forgotten_eye_fragment_cracked", "Drops from Elder Guardian")

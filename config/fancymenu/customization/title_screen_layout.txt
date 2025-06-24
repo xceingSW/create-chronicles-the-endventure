@@ -83,7 +83,7 @@ element {
 
 element {
   button_element_executable_block_identifier = b47b1c70-0cf4-4028-82a2-3ba6d5841d1c-1748731140390
-  [executable_action_instance:c1d17601-5076-4d09-bbf3-5f2424c6ffb8-1748731162458][action_type:openlink] = https://discord.gg/yRAmua5keG
+  [executable_action_instance:c1d17601-5076-4d09-bbf3-5f2424c6ffb8-1748731162458][action_type:openlink] = https://discord.gg/pkEvhgByPw
   [executable_block:b47b1c70-0cf4-4028-82a2-3ba6d5841d1c-1748731140390][type:generic] = [executables:c1d17601-5076-4d09-bbf3-5f2424c6ffb8-1748731162458;]
   backgroundnormal = [source:local]/config/fancymenu/assets/xasset_14.png
   backgroundhovered = [source:local]/config/fancymenu/assets/xasset_13.png

@@ -27,7 +27,7 @@
 			y: 17.5d
 		}
 		{
-			click: "https://discord.gg/yRAmua5keG"
+			click: "https://discord.gg/pkEvhgByPw"
 			height: 1.0d
 			hover: ["Join Discord Community!"]
 			image: "moonlight:textures/gui/sprites/media/discord.png"
@@ -2931,6 +2931,22 @@
 				type: "item"
 			}]
 			x: -27.5d
+			y: 14.5d
+		}
+		{
+			dependencies: ["5525E70F7FBDBD92"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftblibrary:icons/bug"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4EE191C96F7DE687"
+			tasks: [{
+				id: "0603A97DE4567708"
+				type: "checkmark"
+			}]
+			x: -34.5d
 			y: 14.5d
 		}
 	]
