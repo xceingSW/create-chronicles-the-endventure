@@ -91,15 +91,6 @@ ServerEvents.recipes(event => {
     }
   })
 
-  
-  event.shaped('multibeds:feather_pile', [
-      'SS ',
-      'SS ',
-      'SS '
-  ], {
-      S: 'minecraft:feather',
-  })
-
   event.shaped('2x create:belt_connector', [
       '   ',
       'SSS',
@@ -133,4 +124,63 @@ ServerEvents.recipes(event => {
       A: 'minecraft:diamond',
   })      
   event.smoking('createmechanisms:cured_rubber', 'createmechanisms:rubber').cookingTime(200)
+
+
+  // Recipe conflicts
+  event.shaped('create_sa:vault_component', [
+      ' B ',
+      ' A ',
+      '   '
+  ], {
+      B: '#create:toolboxes',
+      A: 'create:item_vault',
+  })
+  
+  event.shaped('create_sa:small_filling_tank', [
+      ' B ',
+      ' A ',
+      '   '
+  ], {
+      B: 'create_sa:hydraulic_engine',
+      A: 'create:fluid_tank',
+  })
+  
+  event.shaped('multibeds:feather_pile', [
+      'SS ',
+      'SS ',
+      'SS '
+  ], {
+      S: 'minecraft:feather',
+  })  
+  event.shapeless('6x minecraft:feather', 'multibeds:feather_pile');
+
+  event.shaped('simplyswords:iron_spear', [
+      ' CB',
+      ' AC',
+      'A  '
+  ], {
+      A: 'minecraft:stick',
+      B: 'minecraft:iron_ingot',
+      C: 'minecraft:iron_nugget',
+  })   
+
+  event.shaped('simplyswords:gold_spear', [
+      ' CB',
+      ' AC',
+      'A  '
+  ], {
+      A: 'minecraft:stick',
+      B: 'minecraft:gold_ingot',
+      C: 'minecraft:gold_nugget',
+  })   
+
+  event.shaped('simplyswords:diamond_spear', [
+      ' CB',
+      ' AC',
+      'A  '
+  ], {
+      A: 'minecraft:stick',
+      B: 'minecraft:diamond',
+      C: 'createaddition:diamond_grit',
+  })   
 });

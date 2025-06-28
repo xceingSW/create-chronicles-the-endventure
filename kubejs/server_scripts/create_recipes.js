@@ -28,7 +28,8 @@ ServerEvents.recipes((event) => {
     event.recipes.createCompacting('minecraft:coal', ['minecraft:charcoal','minecraft:charcoal','minecraft:charcoal','minecraft:charcoal',Fluid.of("lava", 250)])
     event.recipes.createCompacting(withChance("minecraft:amethyst_shard", 0.25), ['minecraft:iron_nugget','minecraft:iron_nugget','minecraft:iron_nugget','minecraft:quartz',Fluid.of("lava", 250)]).superheated()
     event.recipes.createCompacting('minecraft:shulker_shell', ['create:sturdy_sheet','minecraft:popped_chorus_fruit', 'minecraft:popped_chorus_fruit','minecraft:popped_chorus_fruit','minecraft:popped_chorus_fruit'])
- 
+    event.recipes.createCompacting(('minecraft:tuff'),['minecraft:andesite',"minecraft:cobblestone",Fluid.of("lava", 250)])
+
     // Crushing
     event.recipes.createCrushing([
        withChance("minecraft:glowstone_dust", 0.25),

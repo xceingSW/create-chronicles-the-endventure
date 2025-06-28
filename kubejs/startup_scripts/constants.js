@@ -14,14 +14,17 @@ global.EYES = [
 ];
 
 global.FRAGMENT_TYPES = ['Core', 'Cracked', 'Shard']
+global.EYES_CATA = [
+  'cataclysm:storm_eye',
+  'cataclysm:monstrous_eye',
+  'cataclysm:mech_eye',
+  'cataclysm:desert_eye',
+  'cataclysm:void_eye',
+]
 
 global.REMOVE_ITEMS = [
-  'cataclysm:mech_eye',
   'cataclysm:flame_eye',
-  'cataclysm:void_eye',
-  'cataclysm:monstrous_eye',
   'cataclysm:abyss_eye',
-  'cataclysm:desert_eye',
   'cataclysm:cursed_eye',
   'endrem:cold_eye',
   'endrem:guardian_eye',
@@ -86,6 +89,7 @@ global.REMOVE_ITEMS = [
 
   'minecraft:suspicious_sand',
   'minecraft:suspicious_gravel',
-  'supplementaries:suspicious_gravel_bricks'
+  'supplementaries:suspicious_gravel_bricks',
+  'ftbfiltersystem:smart_filter'
 ]
 

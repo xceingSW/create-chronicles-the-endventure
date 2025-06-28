@@ -2,10 +2,10 @@
 version = 0
 enableLootDrops = true
 enableLootInVillages = false
-standardLootTableWeight = 0.1
-rareLootTableWeight = 0.4
-runicLootTableWeight = 0.7
-uniqueLootTableWeight = 0.3
+standardLootTableWeight = 1.0
+rareLootTableWeight = 1.0
+runicLootTableWeight = 0.0
+uniqueLootTableWeight = 0.0
 enableContainedRemnants = true
 disabledUniqueWeaponLoot = [  ]
 

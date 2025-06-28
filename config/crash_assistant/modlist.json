@@ -44,10 +44,10 @@
     "modId": "alternate_current",
     "version": "1.9.0"
   },
-  "AmbientSounds_NEOFORGE_v6.1.11_mc1.21.1.jar": {
-    "jarName": "AmbientSounds_NEOFORGE_v6.1.11_mc1.21.1.jar",
+  "AmbientSounds_NEOFORGE_v6.1.12_mc1.21.1.jar": {
+    "jarName": "AmbientSounds_NEOFORGE_v6.1.12_mc1.21.1.jar",
     "modId": "ambientsounds",
-    "version": "6.1.11"
+    "version": "6.1.12"
   },
   "amendments-1.21-1.2.24-neoforge.jar": {
     "jarName": "amendments-1.21-1.2.24-neoforge.jar",
@@ -74,10 +74,10 @@
     "modId": "apothic_enchanting",
     "version": "1.4.3"
   },
-  "ApothicSpawners-1.21.1-1.3.0.jar": {
-    "jarName": "ApothicSpawners-1.21.1-1.3.0.jar",
+  "ApothicSpawners-1.21.1-1.3.1.jar": {
+    "jarName": "ApothicSpawners-1.21.1-1.3.1.jar",
     "modId": "apothic_spawners",
-    "version": "1.3.0"
+    "version": "1.3.1"
   },
   "appleskin-neoforge-mc1.21-3.0.7.jar": {
     "jarName": "appleskin-neoforge-mc1.21-3.0.7.jar",
@@ -264,10 +264,10 @@
     "modId": "chipped",
     "version": "4.0.2"
   },
-  "chisel_chipped_integration-v1.3.8-1.21.1.jar": {
-    "jarName": "chisel_chipped_integration-v1.3.8-1.21.1.jar",
+  "chisel_chipped_integration-v1.3.9-1.21.1.jar": {
+    "jarName": "chisel_chipped_integration-v1.3.9-1.21.1.jar",
     "modId": "chisel_chipped_integration",
-    "version": "1.3.8-1.21.1"
+    "version": "1.3.9-1.21.1"
   },
   "chunksending-1.21-2.8.jar": {
     "jarName": "chunksending-1.21-2.8.jar",
@@ -463,10 +463,10 @@
     "modId": "createteleporters",
     "version": "2.4"
   },
-  "CreativeCore_NEOFORGE_v2.13.6_mc1.21.1.jar": {
-    "jarName": "CreativeCore_NEOFORGE_v2.13.6_mc1.21.1.jar",
+  "CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar": {
+    "jarName": "CreativeCore_NEOFORGE_v2.13.7_mc1.21.1.jar",
     "modId": "creativecore",
-    "version": "2.13.6"
+    "version": "2.13.7"
   },
   "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar": {
     "jarName": "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
@@ -697,10 +697,10 @@
     "modId": "ftbfiltersystem",
     "version": "21.1.0"
   },
-  "ftb-library-neoforge-2101.1.14.jar": {
-    "jarName": "ftb-library-neoforge-2101.1.14.jar",
+  "ftb-library-neoforge-2101.1.15.jar": {
+    "jarName": "ftb-library-neoforge-2101.1.15.jar",
     "modId": "ftblibrary",
-    "version": "2101.1.14"
+    "version": "2101.1.15"
   },
   "ftb-quests-neoforge-2101.1.10.jar": {
     "jarName": "ftb-quests-neoforge-2101.1.10.jar",
@@ -1015,10 +1015,10 @@
     "modId": "molten_vents",
     "version": "2.1.0"
   },
-  "moonlight-1.21-2.19.3-neoforge.jar": {
-    "jarName": "moonlight-1.21-2.19.3-neoforge.jar",
+  "moonlight-1.21-2.19.5-neoforge.jar": {
+    "jarName": "moonlight-1.21-2.19.5-neoforge.jar",
     "modId": "moonlight",
-    "version": "1.21-2.19.3"
+    "version": "1.21-2.19.5"
   },
   "moreoverlays-1.23.2-mc1.21-neoforge.jar": {
     "jarName": "moreoverlays-1.23.2-mc1.21-neoforge.jar",
@@ -1070,10 +1070,10 @@
     "modId": "nerb",
     "version": "0.4.2"
   },
-  "notenoughanimations-neoforge-1.9.3-mc1.21.jar": {
-    "jarName": "notenoughanimations-neoforge-1.9.3-mc1.21.jar",
+  "notenoughanimations-neoforge-1.10.0-mc1.21.jar": {
+    "jarName": "notenoughanimations-neoforge-1.10.0-mc1.21.jar",
     "modId": "notenoughanimations",
-    "version": "1.9.3"
+    "version": "1.10.0"
   },
   "Nullscape_1.21.x_v1.2.12.jar": {
     "jarName": "Nullscape_1.21.x_v1.2.12.jar",
@@ -1110,10 +1110,10 @@
     "modId": "owo",
     "version": "0.12.15.1-beta.3+1.21"
   },
-  "packetfixer-neoforge-2.1.0-1.21-to-1.21.3.jar": {
-    "jarName": "packetfixer-neoforge-2.1.0-1.21-to-1.21.3.jar",
+  "packetfixer-3.1.0-1.20.5-1.21.6-merged.jar": {
+    "jarName": "packetfixer-3.1.0-1.20.5-1.21.6-merged.jar",
     "modId": "packetfixer",
-    "version": "2.1.0"
+    "version": "3.1.0"
   },
   "Patchouli-1.21-88-NEOFORGE.jar": {
     "jarName": "Patchouli-1.21-88-NEOFORGE.jar",
@@ -1165,10 +1165,10 @@
     "modId": "puzzleslib",
     "version": "21.1.36"
   },
-  "Quest-Kill-Task-neoforge-0.3.0+1.21.1.jar": {
-    "jarName": "Quest-Kill-Task-neoforge-0.3.0+1.21.1.jar",
+  "Quest-Kill-Task-neoforge-0.3.1+1.21.1.jar": {
+    "jarName": "Quest-Kill-Task-neoforge-0.3.1+1.21.1.jar",
     "modId": "questkilltask",
-    "version": "0.3.0+1.21.1"
+    "version": "0.3.1+1.21.1"
   },
   "reddensstonelantern-1.0.4-neoforge-1.21.1.jar": {
     "jarName": "reddensstonelantern-1.0.4-neoforge-1.21.1.jar",
@@ -1365,15 +1365,15 @@
     "modId": "supermartijn642corelib",
     "version": "1.1.18+a"
   },
-  "supplementaries-1.21-3.2.1-neoforge.jar": {
-    "jarName": "supplementaries-1.21-3.2.1-neoforge.jar",
+  "supplementaries-1.21-3.3.0-neoforge.jar": {
+    "jarName": "supplementaries-1.21-3.3.0-neoforge.jar",
     "modId": "supplementaries",
-    "version": "1.21-3.2.1"
+    "version": "1.21-3.3.0"
   },
-  "takesapillage-neoforge-mc1.21.1-1.0.6.jar": {
-    "jarName": "takesapillage-neoforge-mc1.21.1-1.0.6.jar",
+  "takesapillage-neoforge-1.0.8+mc1.21.1.jar": {
+    "jarName": "takesapillage-neoforge-1.0.8+mc1.21.1.jar",
     "modId": "takesapillage",
-    "version": "1.0.6"
+    "version": "1.0.8"
   },
   "TerraBlender-neoforge-1.21.1-4.1.0.8.jar": {
     "jarName": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",

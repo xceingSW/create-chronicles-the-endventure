@@ -13,7 +13,7 @@
 		image: "chalk:block/mark/arrow"
 		rotation: 90.0d
 		width: 1.0d
-		x: -2.5d
+		x: -5.0d
 		y: -1.5d
 	}]
 	order_index: 3
@@ -21,6 +21,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["513AB7EE426B5AD1"]
 			id: "4B44C2F3B7D3404B"
 			rewards: [{
 				count: 2
@@ -141,6 +142,38 @@
 			}]
 			x: 4.5d
 			y: -3.0d
+		}
+		{
+			id: "2137AADBD1F1D32B"
+			shape: "rsquare"
+			size: 3.0d
+			tasks: [{
+				id: "39814DA91C36E869"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: -4.5d
+		}
+		{
+			id: "513AB7EE426B5AD1"
+			rewards: [{
+				count: 2
+				id: "1AFFE88386D5BCAE"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "7A67159B1241D448"
+				item: { count: 1, id: "createaddition:rolling_mill" }
+				type: "item"
+			}]
+			x: -3.9000000000000004d
+			y: -1.5d
 		}
 	]
 }

@@ -19,6 +19,10 @@ const removeRecipesById = [
   'constructionstick:template_unbreakable',
   'multibeds:feather_pile',
   'cataclysm:storm_eye',
+  'cataclysm:monstrous_eye',
+  'cataclysm:mech_eye',
+  'cataclysm:desert_eye',
+  'cataclysm:void_eye',
 
   'apotheosis:sigil_of_socketing',
   'apotheosis:sigil_of_withdrawal',
@@ -33,12 +37,14 @@ const removeRecipesById = [
   'create_mechanical_extruder:mechanical_brass_extruder',
   'create_mechanical_extruder:crafting/mechanical_extruder',
   //
-  //'garnished:crushing/zultanite/iron_from_zultanite',
-  //'garnished:crushing/zultanite/zinc_from_zultanite',
-  //'garnished:crushing/zultanite/gold_from_zultanite',
-  //'garnished:crushing/zultanite/copper_from_zultanite',
+  'garnished:crushing/zultanite/iron_from_zultanite',
+  'garnished:crushing/zultanite/zinc_from_zultanite',
+  'garnished:crushing/zultanite/gold_from_zultanite',
+  'garnished:crushing/zultanite/copper_from_zultanite',
   'garnished:crushing/materials_from_unstable_stone',
   'minecraft:andesite',
+  'create:crushing/tuff_recycling',
+  'create:crushing/tuff',
   'create:crafting/kinetics/belt_connector',
 
   'hazennstuff:crafting/curios/mana_crystal_ruptured',
@@ -57,7 +63,14 @@ const removeRecipesById = [
   'crystal_chronicles:ice_shard',
   'supplementaries:sus_bricks',
   'supplementaries:sus_sand',
-  'supplementaries:sus_gravel'
+  'supplementaries:sus_gravel',
+  // Recipe conflits
+  'multibeds:feather_pile_uncraft',
+  'create_sa:small_filling_tank_recipe',
+  'simplyswords:iron_spear',
+  'simplyswords:gold_spear',
+  'simplyswords:diamond_spear',
+  'create_sa:vault_component_recipe'
 ];
 
 // === REMOVE BY MOD ID ===
