@@ -953,7 +953,7 @@
 				consume_items: true
 				count: 256L
 				id: "01713CBB8AD48E12"
-				item: { count: 1, id: "supplementaries:lapis_bricks_slab" }
+				item: { count: 1, id: "garnished:vermilion_stew" }
 				type: "item"
 			}]
 			x: -3.0d

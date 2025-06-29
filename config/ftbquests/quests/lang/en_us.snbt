@@ -111,6 +111,39 @@
 	]
 	quest.02DE3FA28CBAE857.quest_desc: ["The eye of a greedy king faded in solitude. Legend says it will bring infinite fortune to its owner"]
 	quest.02DE3FA28CBAE857.quest_subtitle: "Found in Pillager Outposts"
+	quest.02E09ED80689775A.quest_desc: [
+		"One of the most basic farms is a &l&aKelp farm,&r&r to have a healthy supply of Kelp to make &0&lMechanical Belts.&r&r"
+		""
+		"First you want to make a Circle, for this example will be a circle of 7 Blocks by 7 Blocks made of Sand Blocks, except the one in the middle for easy marking and then make an outer perimeter wall of 2 blocks high with a block of your choice. (I recommend filling it with water now and planting some Kelp before doing the rest)"
+		""
+		"{image:kubejs:textures/kelp_farm/001.png width:200 height:153 align:center}"
+		""
+		"{image:kubejs:textures/kelp_farm/002.png width:200 height:153 align:center}"
+		""
+		"{image:kubejs:textures/kelp_farm/006.png width:200 height:153 align:center}"
+		""
+		"&l&e@nextpage---->&r&r"
+		"{@pagebreak}"
+		"To have the Farm be self-suficiente in rotational power, place a Windmil Bearing in the center and make 2 shafts made of blocks from the center: One Vertical of at least 5 blocks and one horizontal of 3 blocks. Now on the four sides of the vertical shaft, place 8 Windmill Sails per side. Each set of sails should be arranged 2-block wide by 4-block high. In total, you will place 32 Windmill Sails."
+		""
+		"{image:kubejs:textures/kelp_farm/003.png width:200 height:146 align:center}"
+		""
+		"{image:kubejs:textures/kelp_farm/004.png width:200 height:192 align:center}"
+		""
+		"{image:kubejs:textures/kelp_farm/005.png width:200 height:202 align:center}"
+		""
+		"&l&e@nextpage---->&r&r"
+		"{@pagebreak}"
+		"Now, along the horizontal shaft, place 4 Mechanical Harvesters side-by-side, facing the direction you want them to harvest. On the opposite end of this shaft, place a chest to collect the harvested items."
+		"Next, remove the last block at the far end of the horizontal shaft and replace it with a Portable Storage Interface. Then, place another Portable Storage Interface exactly 1 block away from the first one (with a 1-block gap in between). These two interfaces will connect through the gap, allowing items to be transferred."
+		""
+		"{image:kubejs:textures/kelp_farm/007.png width:200 height:201 align:center}"
+		"{image:kubejs:textures/kelp_farm/008.png width:200 height:195 align:center}"
+		""
+		"To finish, use the Super Glue to glue together both shafts, the harvesters, the portable storage attached to the horizontal shaft and the chest together. When everything is glued together, Right-click the Windmill Bearing to start farming. (Make sure it rotates in the right direction)."
+	]
+	quest.02E09ED80689775A.quest_subtitle: "Step by step 101 - Kelp can be found on the ocean"
+	quest.02E09ED80689775A.title: "&l&aHow to make a kelp farm&r&r"
 	quest.03880BADF1C08707.quest_desc: [
 		"&6&lNote:&r&r &oTo charge this Gadget you must use a Tesla Coil and have eletricity. &r"
 		""
@@ -965,6 +998,30 @@
 		""
 		"Note: A banner can also be use in place of a Blanket (sneak while placing to mirror pattern)"
 	]
+	quest.1B5625F7E4626EEE.quest_desc: [
+		"There are various ways to obtain large quantities of &cLava,&r such as going into the Nether to collect or using Trains to do so."
+		""
+		"A much easier way is to contain a lava source block. Then place underneath the solid block under the Lava source a pointed dripstone, and place a cauldron directly below the dripstone to collect the dripping lava. "
+		""
+		"This method is slow as it takes some time for the Cauldron to fill and you can remove the Lava from the Cauldron using Pipes."
+		""
+		"{image:kubejs:item/lava width:200 height:209 align:center}"
+		""
+		"&a&nInfinite Lava Source&r&r"
+		""
+		"To have an infinite Lava source you need a 10k block Lava pool to be considered bottomless. To achieve this there are two ways. "
+		""
+		"Hard: Making a hole of 25x25x16 or 20x20x25 to be considered 10k blocks and fill it with Lava."
+		""
+		"Easy: Make a 10x10 and dig until you reach Bedrock. Then just fill the top layer with Lava and let the Lava flow all the way to the bottom."
+		""
+		"After that place a Hose Pulley and make the hose reach all the way to the bottom. It should show Bottomless Supply when using the Goggles and looking at the Hose Pulley."
+		""
+		"If it doesn’t, make sure you have enough Lava Source blocks covering the top layer and that the Hose Pulley is above the Lava."
+		""
+		"Note: When making a hole all the way down to Bedrock, make sure you remove/cover any holes that have water to prevent creating Cobblestone when the Lava flows down to the bottom."
+	]
+	quest.1B5625F7E4626EEE.title: "&l&aEarly Game Lava Setup"
 	quest.1B78054E61C50110.quest_desc: [
 		"Bee Nests house wild Bees! They can't be moved but produce &cHoneycomb&r, which can be used to craft a &eBeehive.&r"
 		""
@@ -1625,6 +1682,22 @@
 		""
 		"The quickest and most effective way to assign recipes is to locate the recipe in JEI while the blueprint UI is open. Clicking the '+' in the JEI recipe view will transfer the recipe ingredients to the blueprint for you."
 	]
+	quest.2DE531FF769A86D5.quest_desc: [
+		"The &6Moped&r lets you ride a motorbike in Create. Isn’t that cool?"
+		""
+		"&dRight-click&r with an empty hand to enter the &6Moped.&r"
+		""
+		"To drive it, &cyou’ll need fuel&r. First, craft a &n&aMoped Key.&r&r"
+		""
+		"&dRight-click&r &ethe Moped with the key to open its GUI,&r then drop in some &9coal&r to fuel it."
+		""
+		"You can equip up to 3 &bMoped Booster Upgrades&r to increase its speed."
+		""
+		"While driving, if the key is in your hotbar, &dright-click&r to honk the horn."
+		""
+		"&d@moped&r"
+	]
+	quest.2DE531FF769A86D5.quest_subtitle: " vroom!  vroom!  vroom!"
 	quest.2E3B821A8A402B3E.quest_desc: [
 		"You can claim chunks to protect your base and prevent others from modifying your builds."
 		""
@@ -2333,6 +2406,13 @@
 		"&d@handcrafted&r"
 	]
 	quest.3E5AC888381F061B.title: "&6Handcrafted  Mod"
+	quest.3E6BC4114F26B28F.quest_desc: [
+		"{image:kubejs:textures/grindstone/gr1.png width:150 height:72 align:center}"
+		"{image:kubejs:textures/grindstone/gr2.png width:150 height:72 align:center}"
+		"{image:kubejs:textures/grindstone/gr3.png width:150 height:72 align:center}"
+		"{image:kubejs:textures/grindstone/gr4.png width:150 height:72 align:center}"
+	]
+	quest.3E6BC4114F26B28F.title: "&l&a!!!LIST OF RECIPES!!!&r&r"
 	quest.3E6E9C53FBE836FB.quest_desc: [
 		"&6The Scroll Forge&r is a new crafting station that allows the player to &ecraft scrolls&r by using &bink, paper, and a focus. &r"
 		""
@@ -2426,6 +2506,9 @@
 		"&bTo begin acquiring Apotheosis gems and materials, start battling Tier 2 bosses and beyond.&r The higher the tier, the greater the rewards. For a complete guide on boss progression, check out the “&aThe Endventure&r” quest chapter."
 		""
 		"Finally, some enchantment books and items have been removed for balance purposes. But don't worry — &aspawner mechanics are fully functional,&r and you can still use them to build mob farms."
+		""
+		""
+		"&a&aTip:&r&r &e&oYou can pick up mob spawners with a pickaxe that has Silk Touch.&r&r"
 	]
 	quest.4095FA4FB6615FCA.title: "&l&dApotheosis Rework and Integration&r&r"
 	quest.409E9857A7494319.quest_subtitle: "Allows walking on powdered snow and makes ice less slippery"
@@ -2722,6 +2805,24 @@
 		"Because of that, buying more than one map might point you to different spots. That randomness is part of the challenge!"
 	]
 	quest.485444C876FDECFF.title: "&aFinding Structures with Maps"
+	quest.48FBEA846EE420D7.quest_desc: [
+		"&aAndesite&r is one of the most important block materials for the Create Mod. "
+		""
+		"&aAndesite&r can be readily available in large quantities when mining and there are also various ways to automate the creation of &aAndesite.&r"
+		""
+		"&n&eSmoking:&r&r Either using the &6Smoker&r or a &6Mechanical Fan&r behind a Fire, you can turn &bGravel&r into &aAndesite.&r"
+		""
+		"&n&eCompacting:&r &rUsing a &6Mechanical Press&r and a Basin, add &cLava&r,&c 2 Flint&r and a &cGravel block&r to compact it into &aAndesite.&r"
+		""
+		"You can easily get&e Gravel by Milling and or Crushing Cobblestone.&r"
+		""
+		"To have a big supply of &bCobblestone,&r you can automate by using &cLava&r + &bWater.&r"
+		""
+		"Whenever &cLava&r touches &bwater&r it turns into &eCobblestone&r, which then you can mine using the &6Mechanical Drill. &r"
+		""
+		"You can use the &aMechanical Extruder&r to make this process much faster."
+	]
+	quest.48FBEA846EE420D7.title: "&l&a Andesite"
 	quest.490B9CE61B5F7D4A.title: "&6Collect all the Game Discs"
 	quest.4919AEB1300D63B7.quest_subtitle: "From previous chapter"
 	quest.496C8280CF77787E.quest_subtitle: "Use coarse dirt to make mud."
@@ -3026,6 +3127,8 @@
 		""
 		"-> Craft and Additions recipes are broken in JEI, but they still work — just input the correct materials manually. Check the &eElectricity chapter&r in the quest book for images with the full recipe list."
 		""
+		"-> Mechanical Grindstone recipes don’t appear in JEI. Please check the &eEnchantment Industry chapter&r in the quest book for the full list of recipes."
+		""
 		"-> [Multiplayer Only] The market does not hide the mod's original trades and seed tabs by default."
 		""
 		"-> [Multiplayer Only] Rituals doesn't show on JEI. If you enter a singleplayer world first and them join multiplayer the recipes will work. (Alshanex's Familiars mod issue)"
@@ -3039,8 +3142,12 @@
 		""
 		"If your RF system is connected to physical storage (e.g., Create Vaults):"
 		"Place a Funnel on the Vault and attach a Create Filter set to the specific sword."
+		"_____"
+		""
+		"&l&cKeep in mind that all of these bugs need to be fixed by the mod author, not the modpack itself."
+		"&r&r"
 	]
-	quest.4EE191C96F7DE687.quest_subtitle: "v1.1.2"
+	quest.4EE191C96F7DE687.quest_subtitle: "v1.2.0"
 	quest.4EE191C96F7DE687.title: "&l&cLIST OF KNOWN ISSUES (PLEASE READ!)&r&r"
 	quest.4F734FC470276106.quest_subtitle: "Applies a temporary haste effect after eating food"
 	quest.4FDAFBD64AA710A1.quest_subtitle: "Increases experience dropped by mobs"
@@ -3764,6 +3871,26 @@
 	quest.636178B57E7A9E86.quest_subtitle: "Molten Remnant can be dropped by Magma Cubes when using the Ravaging enchantment on a hatchet."
 	quest.63A35C0C01372EB6.quest_desc: ["Those who followed this eye were never seen again; rumors say they found the great city of Atlantis, or lost their way trying"]
 	quest.63A35C0C01372EB6.quest_subtitle: "Craft it using aquatic items"
+	quest.63BA37F707747719.quest_desc: [
+		"Place a Large Cogwheel, then, connect a Small Cogwheel diagonally so that its teeth mesh with the Large Cogwheel (not on the shaft). "
+		""
+		"The Small Cogwheel will rotate twice as fast as the Large Cogwheel. Attach a Large Cogwheel to the shaft of the Small Cogwheel. This new Large Cogwheel will now rotate at the same speed as the Small Cogwheel (which is already doubled)."
+		""
+		"Before adding another Small Cogwheel diagonally to the new Large one, place an Andesite Casing on the shaft of the first Large Cogwheel."
+		""
+		"This prevents the next Small Cogwheel from breaking due to counter-rotation (which happens if the shaft is exposed and rotating in the opposite direction)."
+		""
+		"Now connect another Small Cogwheel diagonally to the newly placed Large one to double the speed again."
+		""
+		"&aNote:&r &eYou can keep repeating this setup (Large → Small → Large → Small) to continue doubling the speed up to 256 RPM. But keep in mind: each step increases Stress on the network.&r"
+		""
+		"&6Doing the reverse—connecting a Small Cogwheel to a Large Cogwheel (diagonally)—will cause the Large Cogwheel to rotate at half the speed of the Small one. This is how you reduce speed instead of increasing it.&r"
+		""
+		""
+		"{image:kubejs:item/coghweel_speed width:250 height:90 align:center}"
+	]
+	quest.63BA37F707747719.quest_subtitle: "Image below"
+	quest.63BA37F707747719.title: "&l&aIncrease/Reduce Speed Using Cogs&r&r"
 	quest.640C3588E6BA8DF2.quest_desc: [
 		"Combat mechanics were altered by the &6Better Combat&r and &6Dodge Roll&r mod."
 		""
@@ -4072,7 +4199,7 @@
 		""
 		"Cogwheels can also act like Shafts, transmitting rotation through the ends of their axis. This behavior can be disabled by applying a Casing and you can use a wrench if you want to have the shaft again. Mechanical machines can attach to either end, and chains of Cogwheels function similarly to multiple connected Shafts."
 		""
-		"Using the size difference between Cogwheels and Large Cogwheels, rotational speed can be doubled or halved. This scaling can be applied repeatedly—by chaining multiple gear pairs—up to a maximum of 256 RPM. For more precise speed adjustments, a Large Cogwheel can be connected to a Rotation Speed Controller."
+		"&l&aUsing the size difference between Cogwheels and Large Cogwheels, rotational speed can be doubled or halved.&r&r This scaling can be applied repeatedly—by chaining multiple gear pairs—up to a maximum of 256 RPM. For more precise speed adjustments, a Large Cogwheel can be connected to a Rotation Speed Controller."
 	]
 	quest.6D5015C82CCC85FE.quest_desc: [
 		"&aCreate Teleporters&r is a Minecraft mod that adds advanced teleportation mechanics for both entities and items. "
@@ -4181,6 +4308,15 @@
 		"You can get a Blank Rune by defeating the &6Dead King&r or wiping an Inscribed Rune with a Shriving Stone."
 	]
 	quest.704CCA2CEAB23B4D.quest_desc: ["Before lighting the portal, you must first remove all &3Sculk Veins &rfrom the inner frame. After the frame is cleared, you can right click it with the &bHeart of The Deep &rthat you got earlier from killing The Warden."]
+	quest.70723616C803AE96.quest_desc: [
+		"&bCreate: Aquatic Ambitions&r is an addon for the Create mod that introduces ocean-inspired machines, production lines, and mechanics."
+		""
+		"One of the key blocks is the &3Conduit Cage&r, it’s used for &9Fan Conduit Channeling&r, acting as a compact alternative to the traditional prismarine ring. To activate it, you’ll need to pump water from below the cage."
+		""
+		"Additionally, Dead Coral can be revived through channeling and later harvested automatically using Harvesters."
+		""
+		"&d@aquatic&r"
+	]
 	quest.70D34C00E2006C09.quest_desc: [
 		"In short, this allows you to combine up to 3 light ray beams and outputs a much faster beam. To  transform the combined beam into rotational power, you’ll need to use the Heavy Optical Receptor."
 		""

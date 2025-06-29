@@ -27,6 +27,11 @@ ServerEvents.recipes(event => {
   event.replaceInput({id:'crystal_chronicles:volcanite_shard'}, 'minecraft:amethyst_shard', 'irons_spellbooks:divine_soulshard')
   event.replaceInput({id:'crystal_chronicles:ice_shard'}, 'minecraft:amethyst_shard', 'irons_spellbooks:divine_soulshard')
 
+  event.replaceInput({id:'moped:copper_moped_item_recipe'}, 'minecraft:netherite_boots', 'create:belt_connector')
+  event.replaceInput({id:'moped:copper_moped_item_recipe'}, '#minecraft:wool', 'create:copper_sheet')
+  event.replaceInput({id:'moped:copper_moped_item_recipe'}, 'minecraft:cut_copper_slab', 'create:copper_sheet')
+  event.replaceInput({id:'moped:copper_moped_item_recipe'}, 'minecraft:copper_block', '#create:seats')
+
   event.smoking('minecraft:andesite', 'minecraft:gravel').cookingTime(6000)
   event.smoking('minecraft:leather', 'minecraft:rotten_flesh').cookingTime(900)
   event.custom({
@@ -40,6 +45,21 @@ ServerEvents.recipes(event => {
       {
         "amount": 1,
         "id": "minecraft:leather"
+      }
+    ]
+  })
+
+  event.custom({
+    "type": "create_enchantment_industry:grinding",
+    "ingredients": [
+      {
+        "item": "create:limestone"
+      }
+    ],
+    "results": [
+      {
+        "amount": 1,
+        "id": "garnished:crushed_salt"
       }
     ]
   })

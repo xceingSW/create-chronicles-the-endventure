@@ -399,6 +399,11 @@
     "modId": "create_sa",
     "version": "2.1.0."
   },
+  "create_aquatic_ambitions-1.21.1-2.0.0-b.jar": {
+    "jarName": "create_aquatic_ambitions-1.21.1-2.0.0-b.jar",
+    "modId": "create_aquatic_ambitions",
+    "version": "2.0.0-b"
+  },
   "create_bic_bit-1.0.1.jar": {
     "jarName": "create_bic_bit-1.0.1.jar",
     "modId": "create_bic_bit",
@@ -414,10 +419,10 @@
     "modId": "create_connected",
     "version": "1.1.6-mc1.21.1"
   },
-  "create_hypertube-0.1.5-NEOFORGE.jar": {
-    "jarName": "create_hypertube-0.1.5-NEOFORGE.jar",
+  "create_hypertube-0.2.0-NEOFORGE.jar": {
+    "jarName": "create_hypertube-0.2.0-NEOFORGE.jar",
     "modId": "create_hypertube",
-    "version": "0.1.5"
+    "version": "0.2.0"
   },
   "create_mechanical_extruder-1.21.1-2.1.2-6.0.6.jar": {
     "jarName": "create_mechanical_extruder-1.21.1-2.1.2-6.0.6.jar",
@@ -837,10 +842,10 @@
     "modId": "irons_apothic",
     "version": "1.3.0"
   },
-  "irons_spellbooks-1.21.1-3.12.3.jar": {
-    "jarName": "irons_spellbooks-1.21.1-3.12.3.jar",
+  "irons_spellbooks-1.21.1-3.13.0.jar": {
+    "jarName": "irons_spellbooks-1.21.1-3.13.0.jar",
     "modId": "irons_spellbooks",
-    "version": "1.21.1-3.12.3"
+    "version": "1.21.1-3.13.0"
   },
   "itemzoom-1.21-3.0.0.jar": {
     "jarName": "itemzoom-1.21-3.0.0.jar",
@@ -1019,6 +1024,11 @@
     "jarName": "moonlight-1.21-2.19.5-neoforge.jar",
     "modId": "moonlight",
     "version": "1.21-2.19.5"
+  },
+  "moped-1.1.0-neoforge-1.21.1.jar": {
+    "jarName": "moped-1.1.0-neoforge-1.21.1.jar",
+    "modId": "moped",
+    "version": "1.1.0"
   },
   "moreoverlays-1.23.2-mc1.21-neoforge.jar": {
     "jarName": "moreoverlays-1.23.2-mc1.21-neoforge.jar",

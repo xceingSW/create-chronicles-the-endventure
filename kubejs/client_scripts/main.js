@@ -128,6 +128,14 @@ RecipeViewerEvents.addInformation('item', item =>{
   //34 total
   item.add("hazennstuff:overgrown_bone", "Drops from Bogged Zombies")
   item.add("hazennstuff:excalibur_fragment", "Drops from Dead King")
+
+  item.add("garnished:vermilion_kelp", "Vermilion kelp be found in the Cold Ocean or Frozen Ocean")
+  item.add("garnished:bok_choy", "Bok Choy can be found in Jungle Temples")
+
+  // remove salt when fix recipe
+  item.add('garnished:crushed_salt',"You need to use Mechanical Grindstone using Limestone")
+  
+  item.add('biomeswevegone:yucca_fruit',"Yuca grows on trees and can be found in biomes, such as Badlands variants, or Desert variants.")
 })
 
 
@@ -150,6 +158,8 @@ let dics =[
   'gamediscs:game_disc_froggie',
   'gamediscs:game_disc_tnt_sweeper',
 ]
+
+
 // Tooltips with order
 ItemEvents.modifyTooltips(event => {
   global.EYES.forEach((eye, index) => {

@@ -44,15 +44,62 @@
 		{
 			dependencies: ["1FDE0EA030EC5D9B"]
 			id: "3BA810FF52DA9982"
-			rewards: [{
-				count: 5
-				id: "18AF536C5E2BE7CE"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 20
+					id: "18AF536C5E2BE7CE"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 5
+					id: "5AC6174CA7819106"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "489A9FDD61371F5C"
+					item: {
+						count: 1
+						id: "create:zinc_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "7A6CE7F3E6CB6D80"
+					item: {
+						count: 1
+						id: "create:brass_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "3FCC32F99B39634F"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "26C11695C55CD68B"
+					item: {
+						count: 1
+						id: "minecraft:copper_ingot"
+					}
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -66,15 +113,25 @@
 		{
 			dependencies: ["3BA810FF52DA9982"]
 			id: "4DC12AC740C52694"
-			rewards: [{
-				count: 5
-				id: "6264DC4BC83AA343"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "6264DC4BC83AA343"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "6788D185245D8CFE"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "339F9164DDFFBAD7"
 				item: { count: 1, id: "createaddition:straw" }
@@ -86,15 +143,25 @@
 		{
 			dependencies: ["2D412FE8D78F46FE"]
 			id: "66CF9B7A1C500A4E"
-			rewards: [{
-				count: 5
-				id: "0552C8C9B27E13AD"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "0552C8C9B27E13AD"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "3E5C83904E87F63D"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "42C71F4EE6DA2808"
@@ -107,8 +174,8 @@
 					type: "item"
 				}
 			]
-			x: -9.0d
-			y: -9.0d
+			x: -12.0d
+			y: -9.5d
 		}
 		{
 			dependencies: ["40270C32F09AD402"]
@@ -140,21 +207,31 @@
 				item: { count: 1, id: "create:wrench" }
 				type: "item"
 			}]
-			x: -17.55d
+			x: -23.55d
 			y: -7.800000000000001d
 		}
 		{
 			dependencies: ["462639C0EBA1209F"]
 			id: "1FDE0EA030EC5D9B"
-			rewards: [{
-				count: 5
-				id: "6907E4645094A00F"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "6907E4645094A00F"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "691DBA6D928E1E29"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -168,15 +245,33 @@
 		{
 			dependencies: ["1883DF46FCE478C7"]
 			id: "7495FD1A88E6A10B"
-			rewards: [{
-				count: 5
-				id: "787D5424E3AC291A"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "787D5424E3AC291A"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "29751E87BCEFD27E"
+					item: {
+						count: 1
+						id: "create:deployer"
+					}
+					type: "item"
+				}
+				{
+					id: "62A7C4A07808A176"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "40002984A4EA0D3B"
 				item: { count: 1, id: "create:deployer" }
@@ -186,57 +281,96 @@
 			y: -6.5d
 		}
 		{
-			dependencies: ["2D412FE8D78F46FE"]
+			dependencies: ["02E09ED80689775A"]
 			id: "6C7DDDC1123E208A"
-			rewards: [{
-				count: 5
-				id: "0DC978672468121A"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "0DC978672468121A"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "5C4F57FD6D812675"
+					item: {
+						count: 1
+						id: "create:belt_connector"
+					}
+					random_bonus: 5
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "64994610D6EF8EE5"
 				item: { count: 1, id: "create:belt_connector" }
 				type: "item"
 			}]
-			x: -7.0d
-			y: -9.5d
+			x: -10.5d
+			y: -10.5d
 		}
 		{
 			dependencies: ["0420DAF362EE2B37"]
 			id: "0D02CCFCDC80B85B"
-			rewards: [{
-				count: 5
-				id: "2F5E184CB89B0486"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "2F5E184CB89B0486"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "1CD428D1F2FEAD0B"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "01CE97BC5373A43F"
 				item: { count: 1, id: "create:mechanical_saw" }
 				type: "item"
 			}]
-			x: -14.0d
+			x: -20.0d
 			y: -3.5d
 		}
 		{
 			dependencies: ["1883DF46FCE478C7"]
 			id: "0DBA2118C58A9676"
-			rewards: [{
-				count: 5
-				id: "07566B94B8EE940A"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "07566B94B8EE940A"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "3CEB1975FDC377C9"
+					item: {
+						count: 1
+						id: "create:mechanical_press"
+					}
+					type: "item"
+				}
+				{
+					id: "39D1C798259CEE32"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3598FC2840B72B0C"
 				item: { count: 1, id: "create:mechanical_press" }
@@ -248,15 +382,33 @@
 		{
 			dependencies: ["1883DF46FCE478C7"]
 			id: "6A93F7AD37EEAAC5"
-			rewards: [{
-				count: 5
-				id: "72D5AE851BC2823E"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "72D5AE851BC2823E"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "1D20B7A7431831C9"
+					item: {
+						count: 1
+						id: "create:mechanical_mixer"
+					}
+					type: "item"
+				}
+				{
+					id: "1A20B26DC644D0E5"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6DBA717004F82ED0"
 				item: { count: 1, id: "create:mechanical_mixer" }
@@ -268,15 +420,33 @@
 		{
 			dependencies: ["1883DF46FCE478C7"]
 			id: "3BDFBBEFD0FB0B77"
-			rewards: [{
-				count: 5
-				id: "1B3EE9EE4AF67615"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "1B3EE9EE4AF67615"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "3B63FBE77F61D9F8"
+					item: {
+						count: 1
+						id: "create:portable_storage_interface"
+					}
+					type: "item"
+				}
+				{
+					id: "773FDB24D06C94BF"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "232DE2E81EEAFA9F"
 				item: { count: 1, id: "create:portable_storage_interface" }
@@ -288,15 +458,25 @@
 		{
 			dependencies: ["6C7DDDC1123E208A"]
 			id: "2843021F7F41ED01"
-			rewards: [{
-				count: 5
-				id: "220845D1CCD0C524"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "220845D1CCD0C524"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "0C852A0BD2ED1CC7"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "6A277AADEA0D8AC4"
@@ -309,21 +489,39 @@
 					type: "item"
 				}
 			]
-			x: -5.5d
-			y: -9.5d
+			x: -9.0d
+			y: -10.5d
 		}
 		{
 			dependencies: ["1883DF46FCE478C7"]
 			id: "30FDAAAA8784A842"
-			rewards: [{
-				count: 5
-				id: "7906DF25AEB758F4"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "7906DF25AEB758F4"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "69B55874D732EE20"
+					item: {
+						count: 1
+						id: "dndecor:amethyst_millstone"
+					}
+					type: "item"
+				}
+				{
+					id: "37A67D2B629D251E"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4C6733E73DADBC32"
 				item: { count: 1, id: "create:millstone" }
@@ -335,15 +533,33 @@
 		{
 			dependencies: ["1883DF46FCE478C7"]
 			id: "045A217971DF1258"
-			rewards: [{
-				count: 5
-				id: "4EE4E0DD4E0089C7"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "4EE4E0DD4E0089C7"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "62A054F0F25F7C98"
+					item: {
+						count: 1
+						id: "copycats:copycat_large_cogwheel"
+					}
+					type: "item"
+				}
+				{
+					id: "3172791A78820792"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "244E16CBB846670B"
 				item: { count: 1, id: "create:crushing_wheel" }
@@ -355,55 +571,93 @@
 		{
 			dependencies: ["0420DAF362EE2B37"]
 			id: "0513DE018AA2BB84"
-			rewards: [{
-				count: 5
-				id: "0509A68AEDE8E229"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "0509A68AEDE8E229"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "2894932D2A2C7A9C"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5CE8E4DB1D7095AE"
 				item: { count: 1, id: "create:cart_assembler" }
 				type: "item"
 			}]
-			x: -12.0d
+			x: -18.0d
 			y: -3.5d
 		}
 		{
 			dependencies: ["0420DAF362EE2B37"]
 			id: "05C4FF888D75423E"
-			rewards: [{
-				count: 5
-				id: "0FA16CDE2AC38BF0"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "0FA16CDE2AC38BF0"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "0744C0A38C15F28A"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0E70EFB0D9AA9433"
 				item: { count: 1, id: "create:mechanical_bearing" }
 				type: "item"
 			}]
-			x: -14.5d
+			x: -20.5d
 			y: -4.5d
 		}
 		{
 			dependencies: ["1883DF46FCE478C7"]
 			id: "4C4D1E34867B4AB7"
-			rewards: [{
-				count: 5
-				id: "72DB533B07C62115"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "72DB533B07C62115"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "06F3D28455420327"
+					item: {
+						count: 1
+						id: "create:encased_fan"
+					}
+					type: "item"
+				}
+				{
+					id: "7070BA74D186BA32"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "24106F1DE3A54498"
 				item: { count: 1, id: "create:encased_fan" }
@@ -415,41 +669,69 @@
 		{
 			dependencies: ["6C7DDDC1123E208A"]
 			id: "4C185EEB22774B36"
-			rewards: [{
-				count: 5
-				id: "46C9B8A1D63F0B5C"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "46C9B8A1D63F0B5C"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "74DD3097682472C5"
+					item: {
+						count: 1
+						id: "create:depot"
+					}
+					type: "item"
+				}
+				{
+					id: "57E5C62E45B8B940"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "18321234E355866B"
 				item: { count: 1, id: "create:depot" }
 				type: "item"
 			}]
-			x: -5.5d
-			y: -10.5d
+			x: -9.0d
+			y: -11.5d
 		}
 		{
 			dependencies: ["0420DAF362EE2B37"]
 			id: "1AC154CB94B7A0EA"
-			rewards: [{
-				count: 5
-				id: "1E16AB1F448498C2"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "1E16AB1F448498C2"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "691FD5BF32FB8BB8"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "34FA17D8CB3E7611"
 				item: { count: 1, id: "create:mechanical_drill" }
 				type: "item"
 			}]
-			x: -11.5d
+			x: -17.5d
 			y: -4.5d
 		}
 		{
@@ -474,6 +756,15 @@
 					}
 					type: "item"
 				}
+				{
+					count: 2
+					id: "3A5B42BA63AD3E23"
+					item: {
+						count: 1
+						id: "create:water_wheel"
+					}
+					type: "item"
+				}
 			]
 			tasks: [
 				{
@@ -487,41 +778,61 @@
 					type: "item"
 				}
 			]
-			x: -13.5d
+			x: -19.5d
 			y: -9.0d
 		}
 		{
 			dependencies: ["0420DAF362EE2B37"]
 			id: "10D6A1B9E23878A7"
-			rewards: [{
-				count: 5
-				id: "2F95121923B58969"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "2F95121923B58969"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "0274CB98E5047132"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "77CE1FA9B72FDABF"
 				item: { count: 1, id: "create:mechanical_harvester" }
 				type: "item"
 			}]
-			x: -13.0d
+			x: -19.0d
 			y: -3.0d
 		}
 		{
 			dependencies: ["3BA810FF52DA9982"]
 			id: "7946F9753F14977C"
-			rewards: [{
-				count: 5
-				id: "4D350139AD3715DD"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "4D350139AD3715DD"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "7C8AF6E03E9BD567"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "001618D428B50C34"
 				item: { count: 1, id: "create:mechanical_arm" }
@@ -533,15 +844,34 @@
 		{
 			dependencies: ["3BA810FF52DA9982"]
 			id: "7124A562FDF1A9A5"
-			rewards: [{
-				count: 5
-				id: "487713B9B1682A96"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "487713B9B1682A96"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 2
+					id: "6EA432F11C43AFEA"
+					item: {
+						count: 1
+						id: "create:mechanical_crafter"
+					}
+					type: "item"
+				}
+				{
+					id: "524C18310DE1A459"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "5A71A095578B0167"
@@ -560,15 +890,25 @@
 		{
 			dependencies: ["1883DF46FCE478C7"]
 			id: "5D2B02B408E67C99"
-			rewards: [{
-				count: 5
-				id: "20301F81EDC5B12E"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "20301F81EDC5B12E"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "0B2B215A014F78BC"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "691F57D7EC86606C"
 				item: { count: 1, id: "create:mechanical_pump" }
@@ -580,15 +920,33 @@
 		{
 			dependencies: ["1883DF46FCE478C7"]
 			id: "7EDA18B8420473E8"
-			rewards: [{
-				count: 5
-				id: "1364BDC37AC8ECA6"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "1364BDC37AC8ECA6"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "63D66416A40DF82C"
+					item: {
+						count: 1
+						id: "create:fluid_tank"
+					}
+					type: "item"
+				}
+				{
+					id: "7EE1A29712E74B51"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "00066456508F52BA"
 				item: { count: 1, id: "create:fluid_tank" }
@@ -600,15 +958,34 @@
 		{
 			dependencies: ["1883DF46FCE478C7"]
 			id: "0F7EFE6F208D4123"
-			rewards: [{
-				count: 5
-				id: "27E2399DCF5C49A8"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "27E2399DCF5C49A8"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 4
+					id: "55F76D3E35F1656A"
+					item: {
+						count: 1
+						id: "create:fluid_pipe"
+					}
+					type: "item"
+				}
+				{
+					id: "2DEEAA7CFEB9DD97"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "197AF7670CEF9FE3"
 				item: { count: 1, id: "create:fluid_pipe" }
@@ -639,6 +1016,15 @@
 					}
 					type: "item"
 				}
+				{
+					count: 2
+					id: "02E1BF8C9AFC7B1B"
+					item: {
+						count: 1
+						id: "create:fluid_tank"
+					}
+					type: "item"
+				}
 			]
 			tasks: [
 				{
@@ -653,21 +1039,31 @@
 					type: "item"
 				}
 			]
-			x: -11.5d
+			x: -17.5d
 			y: -9.0d
 		}
 		{
 			dependencies: ["6C7DDDC1123E208A"]
 			id: "6E691464A1D6FEEC"
-			rewards: [{
-				count: 5
-				id: "49351F8083DF7D85"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "49351F8083DF7D85"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "5AEF7B12D3EEDF58"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "0F92A1E887600035"
@@ -680,21 +1076,31 @@
 					type: "item"
 				}
 			]
-			x: -7.5d
-			y: -11.0d
+			x: -11.0d
+			y: -12.0d
 		}
 		{
 			dependencies: ["1883DF46FCE478C7"]
 			id: "5F9BEF8918186325"
-			rewards: [{
-				count: 5
-				id: "2EC204CB49BE9955"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "2EC204CB49BE9955"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "5BAAE740ABF2DEF9"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "20B2551662165DA3"
 				item: { count: 1, id: "create:spout" }
@@ -706,15 +1112,25 @@
 		{
 			dependencies: ["1883DF46FCE478C7"]
 			id: "77A0F8AC2BF086C5"
-			rewards: [{
-				count: 5
-				id: "0D84F32F1022BACF"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "0D84F32F1022BACF"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "3C3D833E5427DF9A"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4027E712F99E4B8F"
 				item: { count: 1, id: "create:hose_pulley" }
@@ -726,15 +1142,25 @@
 		{
 			dependencies: ["3BA810FF52DA9982"]
 			id: "0E36BE756DB549DE"
-			rewards: [{
-				count: 5
-				id: "06574B59D2E54BF2"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "06574B59D2E54BF2"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "54718B44E7BDEEB3"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "38A0953869E4F4EC"
 				item: { count: 1, id: "create:rotation_speed_controller" }
@@ -771,48 +1197,68 @@
 				item: { count: 1, id: "create:super_glue" }
 				type: "item"
 			}]
-			x: -13.0d
+			x: -19.0d
 			y: -6.0d
 		}
 		{
 			dependencies: ["2D412FE8D78F46FE"]
 			id: "08AA3590E20B7629"
-			rewards: [{
-				count: 5
-				id: "7A90BDD3B53EA33C"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "7A90BDD3B53EA33C"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "091C84EFE97CC4CD"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2DF0CCB16CDC70B1"
 				item: { count: 1, id: "create:gearshift" }
 				type: "item"
 			}]
-			x: -10.0d
-			y: -9.5d
+			x: -13.0d
+			y: -10.0d
 		}
 		{
 			dependencies: ["2D412FE8D78F46FE"]
 			id: "58D9CE68661256C8"
-			rewards: [{
-				count: 5
-				id: "62F8A7698768B66D"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "62F8A7698768B66D"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "3319B1247F0C4E62"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1F8BA6E2C9AE86FB"
 				item: { count: 1, id: "create:encased_chain_drive" }
 				type: "item"
 			}]
-			x: -9.0d
-			y: -10.0d
+			x: -14.0d
+			y: -9.0d
 		}
 		{
 			dependencies: ["3764CCC84F88A7B6"]
@@ -849,21 +1295,31 @@
 					type: "item"
 				}
 			]
-			x: -13.0d
+			x: -19.0d
 			y: -4.5d
 		}
 		{
 			dependencies: ["6C7DDDC1123E208A"]
 			id: "40EFE5B89FE6DBA1"
-			rewards: [{
-				count: 5
-				id: "1EC122E62AC3C3D1"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "1EC122E62AC3C3D1"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "00793A64A7923FD8"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "2B17C1D3B6E08DEE"
@@ -876,21 +1332,31 @@
 					type: "item"
 				}
 			]
-			x: -8.0d
-			y: -10.0d
+			x: -11.5d
+			y: -11.0d
 		}
 		{
 			dependencies: ["462639C0EBA1209F"]
 			id: "73E2BBF18A97E57F"
-			rewards: [{
-				count: 5
-				id: "0DE2092FFF63B4C3"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "0DE2092FFF63B4C3"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "25B65A0496C9155A"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "72797208FBFD1953"
 				item: { count: 1, id: "create:speedometer" }
@@ -902,15 +1368,25 @@
 		{
 			dependencies: ["462639C0EBA1209F"]
 			id: "110D42C0780D66BF"
-			rewards: [{
-				count: 5
-				id: "681B98A7ACE2E671"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "681B98A7ACE2E671"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "706B7FD5A3E39282"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0C8100572FADEE87"
 				item: { count: 1, id: "create:stressometer" }
@@ -947,7 +1423,7 @@
 				item: { count: 1, id: "create:hand_crank" }
 				type: "item"
 			}]
-			x: -14.5d
+			x: -20.5d
 			y: -9.0d
 		}
 		{
@@ -985,31 +1461,41 @@
 					type: "item"
 				}
 			]
-			x: -12.5d
+			x: -18.5d
 			y: -10.5d
 		}
 		{
 			dependencies: ["231D1BD8D2A930CF"]
 			id: "632E2AD859CE0BDE"
-			rewards: [{
-				count: 5
-				id: "13882AC51A8E8B84"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "13882AC51A8E8B84"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "293EC4CD355F00C7"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "158FD7D2D0CB3364"
 				item: { count: 1, id: "create:windmill_bearing" }
 				type: "item"
 			}]
-			x: -12.5d
+			x: -18.5d
 			y: -9.0d
 		}
 		{
-			dependencies: ["231D1BD8D2A930CF"]
+			dependencies: ["48FBEA846EE420D7"]
 			id: "2D412FE8D78F46FE"
 			rewards: [
 				{
@@ -1030,6 +1516,16 @@
 					}
 					type: "item"
 				}
+				{
+					count: 2
+					id: "4CA74EC898ACD6BD"
+					item: {
+						count: 1
+						id: "create:shaft"
+					}
+					random_bonus: 3
+					type: "item"
+				}
 			]
 			shape: "rsquare"
 			size: 1.3d
@@ -1038,21 +1534,31 @@
 				item: { count: 1, id: "create:shaft" }
 				type: "item"
 			}]
-			x: -7.600000000000001d
+			x: -11.600000000000001d
 			y: -7.800000000000001d
 		}
 		{
 			dependencies: ["2D412FE8D78F46FE"]
 			id: "6D46BA0F714FB56B"
-			rewards: [{
-				count: 5
-				id: "796BDBC6DA34948D"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "796BDBC6DA34948D"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "6B81925E4A65B6E9"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [
@@ -1067,21 +1573,32 @@
 					type: "item"
 				}
 			]
-			x: -4.550000000000001d
+			x: -8.4d
 			y: -7.800000000000001d
 		}
 		{
-			dependencies: ["6D46BA0F714FB56B"]
+			dependencies: ["1B5625F7E4626EEE"]
 			id: "1883DF46FCE478C7"
-			rewards: [{
-				count: 5
-				id: "367A8ED5C9B93261"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "367A8ED5C9B93261"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 10
+					id: "49BA90B7A89BADA4"
+					item: {
+						count: 1
+						id: "create:andesite_casing"
+					}
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -1095,15 +1612,25 @@
 		{
 			dependencies: ["1883DF46FCE478C7"]
 			id: "1605A9755E36BD61"
-			rewards: [{
-				count: 5
-				id: "4D535D0761E4C196"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "4D535D0761E4C196"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "186DE4F2DAB9C2FC"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3B4EE922E06ED105"
 				item: { count: 1, id: "create:rope_pulley" }
@@ -1115,15 +1642,25 @@
 		{
 			dependencies: ["1883DF46FCE478C7"]
 			id: "0FD95744FAD04B92"
-			rewards: [{
-				count: 5
-				id: "321DAE9952D66E65"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "321DAE9952D66E65"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "052260D12B02C006"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "19C140735E231C49"
 				item: { count: 1, id: "create:smart_fluid_pipe" }
@@ -1148,7 +1685,7 @@
 				id: "0E1D70CA3C79F6C0"
 				type: "checkmark"
 			}]
-			x: -16.5d
+			x: -22.5d
 			y: -9.0d
 		}
 		{
@@ -1167,28 +1704,38 @@
 				id: "3F5AC72562569158"
 				type: "checkmark"
 			}]
-			x: -17.5d
+			x: -23.5d
 			y: -9.0d
 		}
 		{
 			dependencies: ["2D412FE8D78F46FE"]
 			id: "263AD6F95DF0632D"
-			rewards: [{
-				count: 5
-				id: "6BF8D060E2B91915"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "6BF8D060E2B91915"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "16C894F0F8A55A8E"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "434B8BE9CFF6B391"
 				item: { count: 1, id: "create:sequenced_gearshift" }
 				type: "item"
 			}]
-			x: -10.0d
-			y: -8.5d
+			x: -13.0d
+			y: -9.0d
 		}
 		{
 			icon: {
@@ -1224,7 +1771,7 @@
 				id: "53FF188E9FBDDB27"
 				type: "checkmark"
 			}]
-			x: -19.5d
+			x: -25.5d
 			y: -7.800000000000001d
 		}
 		{
@@ -1256,41 +1803,61 @@
 				id: "0F8D9EC03AA50A1F"
 				type: "checkmark"
 			}]
-			x: -13.000000000000002d
+			x: -19.0d
 			y: -7.800000000000001d
 		}
 		{
 			dependencies: ["3FF93EB2C771B747"]
 			id: "2C4242CB2934DC57"
-			rewards: [{
-				count: 5
-				id: "6114DD66FD4A1E5B"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "6114DD66FD4A1E5B"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "1830C708EBBCB78F"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4ED27455E143F480"
 				item: { count: 1, id: "create:brown_toolbox" }
 				type: "item"
 			}]
-			x: -16.5d
+			x: -22.5d
 			y: -6.5d
 		}
 		{
 			dependencies: ["462639C0EBA1209F"]
 			id: "6144BAFB1269A066"
-			rewards: [{
-				count: 5
-				id: "2EE88E366468AE1E"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "2EE88E366468AE1E"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "6BB2461EA49B52FD"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "640E2736D8627F80"
@@ -1314,15 +1881,25 @@
 		{
 			dependencies: ["462639C0EBA1209F"]
 			id: "389858EF7FA936DC"
-			rewards: [{
-				count: 5
-				id: "2E299E9CEF29986D"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "2E299E9CEF29986D"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "0ACE712AF632A89B"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "6B0D80892827A199"
@@ -1351,15 +1928,25 @@
 		{
 			dependencies: ["3FF93EB2C771B747"]
 			id: "322078F5AA954906"
-			rewards: [{
-				count: 5
-				id: "2BBF63B077527AC4"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "2BBF63B077527AC4"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "540653C8C12C11B2"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "6E82F62C277646D0"
@@ -1372,61 +1959,91 @@
 					type: "item"
 				}
 			]
-			x: -17.5d
+			x: -23.5d
 			y: -5.5d
 		}
 		{
 			dependencies: ["322078F5AA954906"]
 			id: "5BB1EAC4730AD978"
-			rewards: [{
-				count: 5
-				id: "79ACFB6A835F651C"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "79ACFB6A835F651C"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "7FB8415C928C3212"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0DF5BB84045C4D01"
 				item: { count: 1, id: "create:schematicannon" }
 				type: "item"
 			}]
-			x: -17.5d
+			x: -23.5d
 			y: -4.0d
 		}
 		{
 			dependencies: ["3FF93EB2C771B747"]
 			id: "2D8A98F91CDD4318"
-			rewards: [{
-				count: 5
-				id: "068A597905972C65"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "068A597905972C65"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "05A046FFA0870A8F"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7CA2D4DE8593C556"
 				item: { count: 1, id: "create:crafting_blueprint" }
 				type: "item"
 			}]
-			x: -18.5d
+			x: -24.5d
 			y: -6.5d
 		}
 		{
 			dependencies: ["322078F5AA954906"]
 			id: "1C6E0659B6BB64D5"
-			rewards: [{
-				count: 5
-				id: "214DF976F8FE2CA6"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "214DF976F8FE2CA6"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "033F007DEA693776"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "10853ABACE354050"
@@ -1439,7 +2056,7 @@
 					type: "item"
 				}
 			]
-			x: -18.5d
+			x: -24.5d
 			y: -4.5d
 		}
 		{
@@ -1459,21 +2076,32 @@
 				item: { count: 1, id: "create:clipboard" }
 				type: "item"
 			}]
-			x: -18.5d
+			x: -24.5d
 			y: -9.0d
 		}
 		{
 			dependencies: ["2D412FE8D78F46FE"]
 			id: "3344885DD43E870C"
-			rewards: [{
-				count: 5
-				id: "17CE063BFDE6647A"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "17CE063BFDE6647A"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 2
+					id: "49EA7C9E18A0B371"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "6D6184D6F1E3232F"
@@ -1486,21 +2114,32 @@
 					type: "item"
 				}
 			]
-			x: -8.0d
+			x: -12.0d
 			y: -5.0d
 		}
 		{
 			dependencies: ["2D412FE8D78F46FE"]
 			id: "61666195C2F437BA"
-			rewards: [{
-				count: 5
-				id: "25E21F5B31A097C9"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "25E21F5B31A097C9"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 2
+					id: "5935BAF552144BC0"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "214FB680C6ED3E7C"
@@ -1523,7 +2162,7 @@
 					type: "item"
 				}
 			]
-			x: -7.0d
+			x: -11.0d
 			y: -5.0d
 		}
 		{
@@ -1549,6 +2188,14 @@
 					}
 					type: "item"
 				}
+				{
+					id: "5F35ABC80651A045"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
 			]
 			shape: "rsquare"
 			size: 1.3d
@@ -1563,15 +2210,25 @@
 		{
 			dependencies: ["7936CCA5490F1C60"]
 			id: "73866AF524F9F82F"
-			rewards: [{
-				count: 5
-				id: "18FBCDAF57D2D033"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "18FBCDAF57D2D033"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "653A6F1AD9C31056"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -1585,15 +2242,25 @@
 		{
 			dependencies: ["30C9759AD5ED60C9"]
 			id: "0A6B65C5893B9BD4"
-			rewards: [{
-				count: 5
-				id: "040C64A3CBBFEECB"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "040C64A3CBBFEECB"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "2BEB4DC7FD086DF2"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -1607,15 +2274,25 @@
 		{
 			dependencies: ["0A6B65C5893B9BD4"]
 			id: "785CEB5E417A45EF"
-			rewards: [{
-				count: 5
-				id: "4DA4B8A52417FFE0"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "4DA4B8A52417FFE0"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "15CD19ED1EE3BC3C"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "78710914FB8C5130"
 				item: { count: 1, id: "create:steam_whistle" }
@@ -1627,15 +2304,25 @@
 		{
 			dependencies: ["73866AF524F9F82F"]
 			id: "30C9759AD5ED60C9"
-			rewards: [{
-				count: 5
-				id: "5EB30BC8009339AC"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "5EB30BC8009339AC"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "35D25DDC7A386BA9"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -1649,15 +2336,25 @@
 		{
 			dependencies: ["0A6B65C5893B9BD4"]
 			id: "07297B0121A2DCF0"
-			rewards: [{
-				count: 5
-				id: "24706AC21C37F404"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "24706AC21C37F404"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "002B529312EF7093"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -1670,15 +2367,25 @@
 		{
 			dependencies: ["178F6215923BB915"]
 			id: "4BB82F98EE45B740"
-			rewards: [{
-				count: 5
-				id: "70D0C286F69D882E"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "70D0C286F69D882E"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "78DF0B66E43E48D6"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "38F9B02DF41D081E"
 				item: { count: 1, id: "create:track_observer" }
@@ -1709,6 +2416,14 @@
 					}
 					type: "item"
 				}
+				{
+					id: "263B745B43CC605D"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "44260B35DFB4DD14"
@@ -1721,15 +2436,25 @@
 		{
 			dependencies: ["07297B0121A2DCF0"]
 			id: "178F6215923BB915"
-			rewards: [{
-				count: 5
-				id: "21978CA9E4239D4E"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "21978CA9E4239D4E"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "466952228797636E"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [{
@@ -1743,15 +2468,25 @@
 		{
 			dependencies: ["178F6215923BB915"]
 			id: "21E5B83843A2DA2A"
-			rewards: [{
-				count: 5
-				id: "5872E887B6369EE7"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "5872E887B6369EE7"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "15F863F4441DFBD4"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "12AA8923400C9F29"
 				item: { count: 1, id: "create_things_and_misc:train_buffer" }
@@ -1763,242 +2498,380 @@
 		{
 			dependencies: ["0A88B9EAAA2A5B7D"]
 			id: "618CDE98123F2697"
-			rewards: [{
-				count: 5
-				id: "78BCDD08ECFDDF25"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "78BCDD08ECFDDF25"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "6DBD4FE393019663"
+					item: {
+						count: 1
+						id: "create:package_frogport"
+					}
+					type: "item"
+				}
+				{
+					id: "5E60C904DAF619A3"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4480A4FA3C99A96A"
 				item: { count: 1, id: "create:package_frogport" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: -14.5d
+			x: -7.5d
+			y: -15.5d
 		}
 		{
 			dependencies: ["239660F260DB37EA"]
 			id: "440CB7D81AEBB293"
-			rewards: [{
-				count: 5
-				id: "38435C4A113BCF60"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "38435C4A113BCF60"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "161F737EE4C6D784"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "77C386EA7B8BF15C"
 				item: { count: 1, id: "create:packager" }
 				type: "item"
 			}]
-			x: -6.5d
-			y: -13.5d
+			x: -10.0d
+			y: -14.5d
 		}
 		{
 			dependencies: ["440CB7D81AEBB293"]
 			id: "2BA2400B5F877FF7"
-			rewards: [{
-				count: 5
-				id: "11823EF36920D6AA"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "11823EF36920D6AA"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "54A1851794CB25CB"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4D7F38743E90BC8F"
 				item: { count: 1, id: "create:stock_link" }
 				type: "item"
 			}]
-			x: -8.0d
-			y: -13.5d
+			x: -11.5d
+			y: -14.5d
 		}
 		{
 			dependencies: ["2BA2400B5F877FF7"]
 			id: "51780FDDA226D4B7"
-			rewards: [{
-				count: 5
-				id: "6EAFB9631BDAC4A5"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "6EAFB9631BDAC4A5"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "4F66A5E58F90A9FB"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "41762217614B7193"
 				item: { count: 1, id: "create:stock_ticker" }
 				type: "item"
 			}]
-			x: -9.0d
-			y: -12.5d
+			x: -12.5d
+			y: -13.5d
 		}
 		{
 			dependencies: ["2BA2400B5F877FF7"]
 			id: "6E717B9C111DC98D"
-			rewards: [{
-				count: 5
-				id: "745B9F2364D36841"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "745B9F2364D36841"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "62E8595D1FAEF663"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "093CFEED2E681F9F"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(create:table_cloths))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -9.0d
-			y: -14.5d
+			x: -12.5d
+			y: -15.5d
 		}
 		{
 			dependencies: ["440CB7D81AEBB293"]
 			id: "4E86A025FBE306CE"
-			rewards: [{
-				count: 5
-				id: "1866031F22E21154"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "1866031F22E21154"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "1760660D1BDE5781"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "20D3853A431A2DCD"
 				item: { count: 1, id: "create:redstone_requester" }
 				type: "item"
 			}]
-			x: -5.5d
-			y: -14.5d
+			x: -9.0d
+			y: -15.5d
 		}
 		{
 			dependencies: ["440CB7D81AEBB293"]
 			id: "23A74B3AD73B9E08"
-			rewards: [{
-				count: 5
-				id: "290ED311777A4444"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "290ED311777A4444"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "2F2539E08A86AF0D"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3BD672EA98A5A090"
 				item: { count: 1, id: "create:factory_gauge" }
 				type: "item"
 			}]
-			x: -7.5d
-			y: -14.5d
+			x: -11.0d
+			y: -15.5d
 		}
 		{
 			dependencies: ["440CB7D81AEBB293"]
 			id: "0A88B9EAAA2A5B7D"
-			rewards: [{
-				count: 5
-				id: "44F27EFFCED58F33"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "44F27EFFCED58F33"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 6
+					id: "386E37D2D5FA79DB"
+					item: {
+						count: 1
+						id: "minecraft:chain"
+					}
+					random_bonus: 12
+					type: "item"
+				}
+				{
+					id: "5B85C3300542094F"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0526BE649F4CAE78"
 				item: { count: 1, id: "create:chain_conveyor" }
 				type: "item"
 			}]
-			x: -5.0d
-			y: -13.5d
+			x: -8.5d
+			y: -14.5d
 		}
 		{
 			dependencies: ["0A88B9EAAA2A5B7D"]
 			id: "350D1EDD54ABC16F"
-			rewards: [{
-				count: 5
-				id: "2615B6264C69502B"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "2615B6264C69502B"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "78E2C186D205EBE4"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "45AA97B8BA6B8CC3"
 				item: { components: { "ftbfiltersystem:filter": "or(item_tag(create:postboxes))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -4.0d
-			y: -12.5d
+			x: -7.5d
+			y: -13.5d
 		}
 		{
 			dependencies: ["440CB7D81AEBB293"]
 			id: "35F8FA0CA403F93C"
-			rewards: [{
-				count: 5
-				id: "040BCD354D9BFE55"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "040BCD354D9BFE55"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "27CADDC9651E243B"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1D12669217FC8190"
 				item: { count: 1, id: "create_mobile_packages:bee_port" }
 				type: "item"
 			}]
-			x: -6.5d
-			y: -15.5d
+			x: -10.0d
+			y: -16.5d
 		}
 		{
 			dependencies: ["35F8FA0CA403F93C"]
 			id: "7A9E360EE852C81F"
-			rewards: [{
-				count: 5
-				id: "642E0D3EFE84C8E0"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "642E0D3EFE84C8E0"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "72C95BDF35E3B4C2"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7E694C7630752395"
 				item: { count: 1, id: "create_mobile_packages:robo_bee" }
 				type: "item"
 			}]
-			x: -5.5d
-			y: -16.5d
+			x: -9.0d
+			y: -17.5d
 		}
 		{
 			dependencies: ["35F8FA0CA403F93C"]
 			id: "50495638B3A5C08D"
-			rewards: [{
-				count: 5
-				id: "01ACECAF033FEDF6"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "01ACECAF033FEDF6"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "6238B18E90EA8D07"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "437C5C94FC65AA8C"
 				item: { count: 1, id: "create_mobile_packages:portable_stock_ticker" }
 				type: "item"
 			}]
-			x: -7.5d
-			y: -16.5d
+			x: -11.0d
+			y: -17.5d
 		}
 		{
 			dependencies: ["231D1BD8D2A930CF"]
@@ -2045,148 +2918,232 @@
 					type: "item"
 				}
 			]
-			x: -11.5d
+			x: -17.5d
 			y: -6.5d
 		}
 		{
 			dependencies: ["2D412FE8D78F46FE"]
 			id: "747A045278FCCEE3"
-			rewards: [{
-				count: 5
-				id: "3F10415F93B3A7F2"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "3F10415F93B3A7F2"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 2
+					id: "36430F0FD98BEB46"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6E64F225082A0979"
 				item: { count: 1, id: "create_sa:portable_drill" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -10.0d
 			y: -5.0d
 		}
 		{
 			dependencies: ["2D412FE8D78F46FE"]
 			id: "2C45DD422CD02A68"
-			rewards: [{
-				count: 5
-				id: "3614C53FEF0CFD3A"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "3614C53FEF0CFD3A"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 2
+					id: "58E802CE63458E52"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5F4480D644A13ADC"
 				item: { count: 1, id: "create_sa:grapplin_whisk" }
 				type: "item"
 			}]
-			x: -9.0d
+			x: -13.0d
 			y: -5.0d
 		}
 		{
 			dependencies: ["2D412FE8D78F46FE"]
 			id: "3EA662C8DE5BF536"
-			rewards: [{
-				count: 5
-				id: "6D6172DB1B69279C"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "6D6172DB1B69279C"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 2
+					id: "3AC305B27EB21900"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "25A453AC08676902"
 				item: { count: 1, id: "create_integrated_farming:fishing_net" }
 				type: "item"
 			}]
-			x: -8.0d
+			x: -12.0d
 			y: -6.0d
 		}
 		{
 			dependencies: ["2D412FE8D78F46FE"]
 			id: "478E5BBB9F9592E1"
-			rewards: [{
-				count: 5
-				id: "00DA869F9619CA73"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "00DA869F9619CA73"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 2
+					id: "6B4AF263D78C820B"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1DD134B4E41818D6"
 				item: { count: 1, id: "create_integrated_farming:chicken_roost" }
 				type: "item"
 			}]
-			x: -9.0d
+			x: -13.0d
 			y: -6.0d
 		}
 		{
 			dependencies: ["2D412FE8D78F46FE"]
 			id: "71A3D03B6C04E703"
-			rewards: [{
-				count: 5
-				id: "0BE3211437A8269A"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "0BE3211437A8269A"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 2
+					id: "18771D7C108FFB6F"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "51BD51B35B7F11B0"
 				item: { count: 1, id: "mechanical_botany:mechanical_insolator" }
 				type: "item"
 			}]
-			x: -7.0d
+			x: -11.0d
 			y: -6.0d
 		}
 		{
 			dependencies: ["2D412FE8D78F46FE"]
 			id: "2B603051BF399205"
-			rewards: [{
-				count: 5
-				id: "575D6B41CBB5FDBD"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "575D6B41CBB5FDBD"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 2
+					id: "5F4E035FADC9B2DE"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "01694B4E3C2C8A4B"
 				item: { count: 1, id: "mechanical_botany:mechanical_composter" }
 				type: "item"
 			}]
-			x: -6.0d
+			x: -10.0d
 			y: -6.0d
 		}
 		{
 			dependencies: ["6C7DDDC1123E208A"]
 			id: "239660F260DB37EA"
-			rewards: [{
-				count: 5
-				id: "10F2CD68647C36C5"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "10F2CD68647C36C5"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "36CD3576AF252244"
+					item: {
+						count: 1
+						id: "create:item_vault"
+					}
+					type: "item"
+				}
+				{
+					id: "5D0F54B42D2CD212"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "64A307504D9C3C15"
 				item: { count: 1, id: "create:item_vault" }
 				type: "item"
 			}]
-			x: -6.5d
-			y: -11.0d
+			x: -10.0d
+			y: -12.0d
 		}
 		{
 			dependencies: ["73866AF524F9F82F"]
@@ -2241,6 +3198,14 @@
 					}
 					type: "item"
 				}
+				{
+					id: "48C98D266E3E182E"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "424F13CF5F0943F2"
@@ -2268,6 +3233,14 @@
 					item: {
 						count: 1
 						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					id: "50E1ABF5D8B55523"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
 					}
 					type: "item"
 				}
@@ -2300,122 +3273,182 @@
 		{
 			dependencies: ["440CB7D81AEBB293"]
 			id: "6C26AE94094E281C"
-			rewards: [{
-				count: 5
-				id: "4A434210CED15CB6"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "4A434210CED15CB6"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "1184952D5CEC62D8"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1A442F1F0F77A2D0"
 				item: { count: 1, id: "delivery_director:package_rewriter" }
 				type: "item"
 			}]
-			x: -5.5d
-			y: -12.5d
+			x: -9.0d
+			y: -13.5d
 		}
 		{
 			dependencies: ["440CB7D81AEBB293"]
 			id: "035F757245661554"
-			rewards: [{
-				count: 5
-				id: "180215BE676847C0"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "180215BE676847C0"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "3D832E25A5940D63"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "780F18E18AA967CC"
 				item: { count: 1, id: "create:repackager" }
 				type: "item"
 			}]
-			x: -7.5d
-			y: -12.5d
+			x: -11.0d
+			y: -13.5d
 		}
 		{
 			dependencies: ["23A74B3AD73B9E08"]
 			id: "4D5E1FD50E1F0F37"
-			rewards: [{
-				count: 5
-				id: "46784232FDE2ADE9"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "46784232FDE2ADE9"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "4D8D1CBFF7312F74"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "62A7F303506AB171"
 				item: { count: 1, id: "extra_gauges:logic_gauge" }
 				type: "item"
 			}]
-			x: -8.5d
-			y: -16.5d
+			x: -12.0d
+			y: -17.5d
 		}
 		{
 			dependencies: ["23A74B3AD73B9E08"]
 			id: "3145EBA8432E91DC"
-			rewards: [{
-				count: 5
-				id: "7F6789E923EFEDA0"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "7F6789E923EFEDA0"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "38589575A14D1877"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "77962A0844A56138"
 				item: { count: 1, id: "extra_gauges:integer_gauge" }
 				type: "item"
 			}]
-			x: -9.5d
-			y: -16.5d
+			x: -13.0d
+			y: -17.5d
 		}
 		{
 			dependencies: ["23A74B3AD73B9E08"]
 			id: "4538B3D27BC9E6C3"
-			rewards: [{
-				count: 5
-				id: "17D4FFDE47B160A0"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "17D4FFDE47B160A0"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "6447FCE45F0FEE1A"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "43BEC1FD204A5B46"
 				item: { count: 1, id: "extra_gauges:comparator_gauge" }
 				type: "item"
 			}]
-			x: -8.0d
-			y: -15.5d
+			x: -11.5d
+			y: -16.5d
 		}
 		{
 			dependencies: ["23A74B3AD73B9E08"]
 			id: "765618B293CCCFB2"
-			rewards: [{
-				count: 5
-				id: "63B11D117DF00241"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "63B11D117DF00241"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "30840F45914AB593"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "2F6DDFE8AFA7F510"
 				item: { count: 1, id: "extra_gauges:counter_gauge" }
 				type: "item"
 			}]
-			x: -9.0d
-			y: -15.5d
+			x: -12.5d
+			y: -16.5d
 		}
 		{
 			dependencies: ["1FDE0EA030EC5D9B"]
@@ -2458,15 +3491,25 @@
 		{
 			dependencies: ["5495DCB070D4777A"]
 			id: "32D8BF8E11599EA2"
-			rewards: [{
-				count: 5
-				id: "626CE86E14AABA18"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "626CE86E14AABA18"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "2397BCFC39534F0F"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "3253BA1DA0CAC160"
 				item: { count: 1, id: "create_connected:empty_fan_catalyst" }
@@ -2478,15 +3521,25 @@
 		{
 			dependencies: ["5495DCB070D4777A"]
 			id: "07886230AFA12159"
-			rewards: [{
-				count: 5
-				id: "2F4054199211F442"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "2F4054199211F442"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "234B6E152FF99C72"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6D123F3D9787F1A8"
 				item: { count: 1, id: "create_connected:item_silo" }
@@ -2498,15 +3551,25 @@
 		{
 			dependencies: ["5495DCB070D4777A"]
 			id: "2B98A8677B8CFE18"
-			rewards: [{
-				count: 5
-				id: "16854C73AC7A6DFF"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "16854C73AC7A6DFF"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "5B1A9E41C7B84113"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "62F32F8D78736CC9"
 				item: { count: 1, id: "create_connected:fluid_vessel" }
@@ -2518,15 +3581,25 @@
 		{
 			dependencies: ["5495DCB070D4777A"]
 			id: "1F4C29D48D135BE2"
-			rewards: [{
-				count: 5
-				id: "0B4B9544211CD059"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "0B4B9544211CD059"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "226D16C972FBDE22"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0BB299F89687DB2A"
 				item: { count: 1, id: "create_connected:six_way_gearbox" }
@@ -2569,6 +3642,14 @@
 					}
 					type: "item"
 				}
+				{
+					id: "189A9FE096C43C52"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [
 				{
@@ -2582,21 +3663,31 @@
 					type: "item"
 				}
 			]
-			x: -8.5d
-			y: -11.0d
+			x: -12.0d
+			y: -12.0d
 		}
 		{
 			dependencies: ["462639C0EBA1209F"]
 			id: "2F6A074C1F506CC3"
-			rewards: [{
-				count: 5
-				id: "0DD395C7AD375857"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "0DD395C7AD375857"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "550C3D2414D75081"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "6B96CEC54FDA2AA9"
@@ -2620,15 +3711,25 @@
 		{
 			dependencies: ["6D46BA0F714FB56B"]
 			id: "5E9E882D7F331693"
-			rewards: [{
-				count: 5
-				id: "2C331A193D916C6E"
-				item: {
-					count: 1
-					id: "create:experience_nugget"
+			rewards: [
+				{
+					count: 5
+					id: "2C331A193D916C6E"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "08EB99B6B6E0C629"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "6A6CA5397D8A5962"
@@ -2641,7 +3742,7 @@
 					type: "item"
 				}
 			]
-			x: -4.5d
+			x: -8.4d
 			y: -6.0d
 		}
 		{
@@ -2661,7 +3762,7 @@
 				item: { count: 1, id: "create_hypertube:hypertube_entrance" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 4.5d
 			y: -9.5d
 		}
 		{
@@ -2682,28 +3783,249 @@
 				item: { count: 1, id: "create_hypertube:hypertube" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 4.5d
 			y: -11.0d
 		}
 		{
 			dependencies: ["6C7DDDC1123E208A"]
 			id: "3A227C6AE5CB2F32"
-			rewards: [{
-				count: 2
-				id: "29B58BDAB9071D03"
-				item: {
-					count: 1
-					id: "dndecor:zinc_frontlight"
+			rewards: [
+				{
+					count: 2
+					id: "29B58BDAB9071D03"
+					item: {
+						count: 1
+						id: "dndecor:zinc_frontlight"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 4
+					id: "58C5A20822DB713E"
+					item: {
+						count: 1
+						id: "dndecor:belt_connector"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "1874D31025E4FBD9"
 				item: { count: 1, id: "dndecor:belt_connector" }
 				type: "item"
 			}]
-			x: -6.0d
-			y: -8.5d
+			x: -9.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["48FBEA846EE420D7"]
+			id: "2DE531FF769A86D5"
+			rewards: [
+				{
+					id: "05F421824032C20E"
+					item: {
+						count: 1
+						id: "moped:moped_sign_blue_block"
+					}
+					random_bonus: 5
+					type: "item"
+				}
+				{
+					id: "1A88CB55D9FA8D84"
+					item: {
+						count: 1
+						id: "moped:parking_sign_blue_block"
+					}
+					random_bonus: 5
+					type: "item"
+				}
+				{
+					id: "6EE710545DACF907"
+					item: {
+						count: 1
+						id: "moped:moped_sign_blue_trapdoor"
+					}
+					random_bonus: 5
+					type: "item"
+				}
+				{
+					count: 4
+					id: "2F4CBF619FF702DC"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "53177BE76ACAA27B"
+				item: { count: 1, id: "moped:copper_moped_item" }
+				type: "item"
+			}]
+			x: -15.7d
+			y: -6.0d
+		}
+		{
+			dependencies: ["2DE531FF769A86D5"]
+			id: "4234AC71B524B187"
+			rewards: [{
+				id: "6E24E684564A6EF1"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "37E2E913B71898D4"
+				item: { count: 1, id: "moped:moped_key" }
+				type: "item"
+			}]
+			x: -15.7d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4234AC71B524B187"]
+			id: "4E9F32354D6DCFA1"
+			rewards: [{
+				id: "6C058EE7CBACB381"
+				item: {
+					count: 1
+					id: "moped:moped_booster_item"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7AA333A628BB85A6"
+				item: { count: 1, id: "moped:moped_booster_item" }
+				type: "item"
+			}]
+			x: -15.7d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1FDE0EA030EC5D9B"]
+			id: "70723616C803AE96"
+			rewards: [{
+				id: "34AB88A54E46FA68"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6DB03316F26FBD14"
+				item: { count: 1, id: "create_aquatic_ambitions:mechanical_conduit" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -9.5d
+		}
+		{
+			dependencies: ["6D46BA0F714FB56B"]
+			id: "63BA37F707747719"
+			rewards: [{
+				count: 5
+				id: "4E31A7824BD789B4"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "7D9CFAEA8B454FC4"
+				type: "checkmark"
+			}]
+			x: -5.8500000000000005d
+			y: -7.800000000000001d
+		}
+		{
+			dependencies: ["231D1BD8D2A930CF"]
+			id: "48FBEA846EE420D7"
+			rewards: [{
+				count: 5
+				id: "68A55611871AA21E"
+				item: {
+					count: 1
+					id: "create:andesite_alloy"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "5A5236493C9B4756"
+				item: { count: 1, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+			x: -15.700000000000001d
+			y: -7.800000000000001d
+		}
+		{
+			dependencies: ["2D412FE8D78F46FE"]
+			id: "02E09ED80689775A"
+			rewards: [{
+				count: 4
+				id: "0E0A39E898EF96F6"
+				item: {
+					count: 1
+					id: "createmechanisms:rubber"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "44B2D5F304CE310F"
+				item: { count: 1, id: "minecraft:kelp" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["63BA37F707747719"]
+			id: "1B5625F7E4626EEE"
+			rewards: [
+				{
+					count: 5
+					id: "728C003C36584FCC"
+					item: {
+						count: 1
+						id: "create:experience_nugget"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "3DFF534CD002488B"
+					item: {
+						count: 1
+						id: "minecraft:lava_bucket"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "72891EE7FA9F36C8"
+					item: {
+						count: 1
+						id: "minecraft:cauldron"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "347B329CDA9457CA"
+				type: "checkmark"
+			}]
+			x: -3.9000000000000004d
+			y: -7.800000000000001d
 		}
 	]
 }

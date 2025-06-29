@@ -42,6 +42,11 @@ const removeRecipesById = [
   'garnished:crushing/zultanite/gold_from_zultanite',
   'garnished:crushing/zultanite/copper_from_zultanite',
   'garnished:crushing/materials_from_unstable_stone',
+  'garnished:milling/crushed_salt',
+  'garnished:crushing/crushed_salt',
+  'create_aquatic_ambitions:crushing/prismarine_bricks_to_lapis_and_copper',
+  'create_aquatic_ambitions:crushing/prismarine_to_lapis',
+  'create_aquatic_ambitions:smelting/veridium',
   'minecraft:andesite',
   'create:crushing/tuff_recycling',
   'create:crushing/tuff',
@@ -70,7 +75,8 @@ const removeRecipesById = [
   'simplyswords:iron_spear',
   'simplyswords:gold_spear',
   'simplyswords:diamond_spear',
-  'create_sa:vault_component_recipe'
+  'create_sa:vault_component_recipe',
+  'culturalrecipes:corn_dough'
 ];
 
 // === REMOVE BY MOD ID ===

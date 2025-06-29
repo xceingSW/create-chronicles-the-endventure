@@ -7,6 +7,7 @@ ServerEvents.recipes((event) => {
 
     //Mixing
     event.recipes.createMixing("createmechanisms:rubber", ["minecraft:kelp","minecraft:kelp","minecraft:kelp","minecraft:kelp", Fluid.of("water", 250)])
+    event.recipes.createMixing("culturaldelights:corn_dough", ["culturaldelights:corn_cob","culturaldelights:corn_cob","culturaldelights:corn_cob", Fluid.of("water", 250)])
     event.recipes.createMixing('2x minecraft:dirt',['minecraft:mud','minecraft:gravel','minecraft:clay_ball'])
     event.recipes.createMixing(('minecraft:warped_nylium'),['minecraft:netherrack','minecraft:warped_fungus'])
     event.recipes.createMixing(('minecraft:crimson_nylium'),['minecraft:netherrack','minecraft:crimson_fungus'])
@@ -39,6 +40,14 @@ ServerEvents.recipes((event) => {
       'irons_spellbooks:common_ink',
       withChance("irons_spellbooks:uncommon_ink", 0.5)
     ], Item.of('irons_spellbooks:scroll')) 
+
+    // mill
+    event.recipes.createMilling(
+        [
+           "garnished:small_chorus_plant"
+        ],
+        "minecraft:chorus_fruit"
+    ).id("end:chorusfruit");
     
     // Filing
     event.recipes.createFilling("minecraft:magma_block",  ["minecraft:netherrack",Fluid.of("lava", 250)]);

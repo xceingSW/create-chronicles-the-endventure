@@ -4,9 +4,9 @@
   "preset": "simple_journey:empty",
   "payment": {
     "ingredient": {
-      "item": "magic_coins:gold_coin"
+      "item": "magic_coins:silver_coin"
     },
-    "count": 2
+    "count": 42
   },
   "result": {
     "count": 1,
