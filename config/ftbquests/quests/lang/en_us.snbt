@@ -709,6 +709,17 @@
 	quest.0FFFB592D103B2BF.quest_subtitle: "Not repeatable"
 	quest.1045FB828F50B457.quest_desc: ["What could you do with this tools?"]
 	quest.1045FB828F50B457.title: "Let's Get Cooking"
+	quest.105811762A49F84F.quest_desc: [
+		"&nCrafting Process to get the block:&r"
+		""
+		"Red Mastic Resin"
+		"→ Compacting → Red Mastic Paste"
+		"→ Compacting → Block of Red Mastic Resin"
+		"→ Mixing → Liquefied Red Mastic Resin"
+		""
+		"Lava + Liquefied Red Mastic Resin"
+		"→ Interaction in-world → &c&lRed Zultanite&r&r"
+	]
 	quest.108EA49E8421CCC7.quest_desc: [""]
 	quest.109FBFA37FF99341.quest_desc: [
 		"AE2 provides devices to manage ME data and move stored items around the world. "
@@ -888,6 +899,17 @@
 	]
 	quest.17C488042DB187A3.quest_subtitle: "The wearer cannot be knocked back"
 	quest.17C649AD8C23444B.quest_subtitle: "Useful for spell resistance. "
+	quest.17F0FADB3DFB3001.quest_desc: [
+		"&nCrafting Process to get the block:&r"
+		""
+		"Blue Mastic Resin"
+		"→ Compacting → Blue Mastic Paste"
+		"→ Compacting → Block of Blue Mastic Resin"
+		"→ Mixing → Liquefied Blue Mastic Resin"
+		""
+		"Lava + Liquefied Blue Mastic Resin"
+		"→ Interaction in-world → &b&lBlue Zultanite&r&r"
+	]
 	quest.17F2A3CF50BDF095.quest_subtitle: "Slower, but with two seats. Quite easy to maneuver, with acceptable speed thanks to the engine in the back. Also comes in a bulkier cargo variant!"
 	quest.17F840E5ABDF3FD4.quest_desc: [
 		"&6The Alchemist Cauldron&r is a versatile tool used for various magical tasks. Here are its main functions:"
@@ -2805,6 +2827,17 @@
 		"Because of that, buying more than one map might point you to different spots. That randomness is part of the challenge!"
 	]
 	quest.485444C876FDECFF.title: "&aFinding Structures with Maps"
+	quest.488055D85AD88A2C.quest_desc: [
+		"&nCrafting Process to get the block:&r"
+		""
+		"Yellow Mastic Resin"
+		"→ Compacting → Yellow Mastic Paste"
+		"→ Compacting → Block of Yellow Mastic Resin"
+		"→ Mixing → Liquefied Yellow Mastic Resin"
+		""
+		"Lava + Liquefied Yellow Mastic Resin"
+		"→ Interaction in-world → &e&lYellow Zultanite&r&r"
+	]
 	quest.48FBEA846EE420D7.quest_desc: [
 		"&aAndesite&r is one of the most important block materials for the Create Mod. "
 		""
@@ -3147,7 +3180,7 @@
 		"&l&cKeep in mind that all of these bugs need to be fixed by the mod author, not the modpack itself."
 		"&r&r"
 	]
-	quest.4EE191C96F7DE687.quest_subtitle: "v1.2.0"
+	quest.4EE191C96F7DE687.quest_subtitle: "v1.2.1"
 	quest.4EE191C96F7DE687.title: "&l&cLIST OF KNOWN ISSUES (PLEASE READ!)&r&r"
 	quest.4F734FC470276106.quest_subtitle: "Applies a temporary haste effect after eating food"
 	quest.4FDAFBD64AA710A1.quest_subtitle: "Increases experience dropped by mobs"
@@ -3354,6 +3387,17 @@
 	]
 	quest.5495DCB070D4777A.title: "&6Create: Connected&r"
 	quest.54A602CE0328A07F.quest_subtitle: "Not repeatable"
+	quest.5502A204AF05E2DA.quest_desc: [
+		"&nCrafting Process to get the block:&r"
+		""
+		"Green Mastic Resin"
+		"→ Compacting → Green Mastic Paste"
+		"→ Compacting → Block of Green Mastic Resin"
+		"→ Mixing → Liquefied Green Mastic Resin"
+		""
+		"Lava + Liquefied Green Mastic Resin"
+		"→ Interaction in-world → &a&lGreen Zultanite&r&r&a"
+	]
 	quest.55058539E85F4186.quest_desc: [
 		"&6Fortune Upgrade&r applies a Fortune enchantment when the &cDestructor&r breaks blocks, increasing drop quantity."
 		""
@@ -4088,7 +4132,6 @@
 	]
 	quest.6B2BB3A3AAC179FE.title: "&l&6Disenchanting Your Equipment"
 	quest.6B7CFD3808AB7DB1.title: "&cAdvanced Pyromancer Outfit"
-	quest.6B95EF7446936BCD.quest_desc: ["To turn &eChromatic Compound&r into &cRefined Radiance&r, drop the compound into a &abeacon beam&r to transform it."]
 	quest.6B95EF7446936BCD.quest_subtitle: "You can repeat as many times you want!"
 	quest.6B9E13665837ECA1.quest_desc: [
 		"&6The item teleporter&r can teleport a stack of items to an&e item teleporter receiver&r. It uses &dtelejuice&r as fuel. "
@@ -4512,14 +4555,18 @@
 		""
 		"&9&lSee the list for the correct blocks to place:&r&r"
 		""
-		"&bAsurine&r = Organic Compost"
+		"&bAsurine&r = Blue Zultanite"
 		""
-		"&aViridium&r = Block of Mastic Resin"
+		"&aViridium&r = Green Zultanite"
 		""
-		"&cCrimsite&r = Chocolate Cake"
+		"&cCrimsite&r = Yellow Zultanite"
 		""
-		"&6Ochrum&r = Solidified Garnish block"
+		"&6Ochrum&r = Red Zultanite"
 		""
+		"&o&7You can combine Liquefied Mastic Resin and Lava by letting them interact in the world, similar to how a cobblestone generator works.&r&r"
+		""
+		"&o&7This creates the block version directly, so you're not required to use the Extruder — just letting you know!"
+		"&r&r"
 		""
 		"&n&lHarvesting Infinite Resources:&r&r"
 		"You can now break these newly created blocks. By crushing these harvested blocks, you'll be able to continuously obtain infinite resources from your Molten Vent."

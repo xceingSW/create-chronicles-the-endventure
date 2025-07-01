@@ -37,8 +37,8 @@
 			id: "17F0FADB3DFB3001"
 			shape: "rsquare"
 			tasks: [{
-				id: "264B41F57CCE9163"
-				item: { count: 1, id: "farmersdelight:organic_compost" }
+				id: "7B6B81C21170D996"
+				item: { count: 1, id: "garnished:blue_zultanite" }
 				type: "item"
 			}]
 			x: -2.5d
@@ -73,8 +73,8 @@
 			id: "488055D85AD88A2C"
 			shape: "rsquare"
 			tasks: [{
-				id: "34343BF05344F66B"
-				item: { count: 1, id: "garnished:solidified_garnish" }
+				id: "59B5FA4176FDC49D"
+				item: { count: 1, id: "garnished:yellow_zultanite" }
 				type: "item"
 			}]
 			x: -2.5d
@@ -97,8 +97,8 @@
 			id: "105811762A49F84F"
 			shape: "rsquare"
 			tasks: [{
-				id: "117F3D43C0A473B7"
-				item: { count: 1, id: "createaddition:chocolate_cake" }
+				id: "225CE7091042938E"
+				item: { count: 1, id: "garnished:red_zultanite" }
 				type: "item"
 			}]
 			x: -2.5d
@@ -109,8 +109,8 @@
 			id: "5502A204AF05E2DA"
 			shape: "rsquare"
 			tasks: [{
-				id: "69B0D71736D60C96"
-				item: { count: 1, id: "garnished:mastic_block" }
+				id: "3673A88A8CD74D88"
+				item: { count: 1, id: "garnished:green_zultanite" }
 				type: "item"
 			}]
 			x: -2.5d

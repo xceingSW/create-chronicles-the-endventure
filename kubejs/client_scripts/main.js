@@ -136,6 +136,9 @@ RecipeViewerEvents.addInformation('item', item =>{
   item.add('garnished:crushed_salt',"You need to use Mechanical Grindstone using Limestone")
   
   item.add('biomeswevegone:yucca_fruit',"Yuca grows on trees and can be found in biomes, such as Badlands variants, or Desert variants.")
+  item.add('eternal_starlight:lunaris_cactus_fruit',"Grows on top of Lunaris Cactus. Can be found in the Crystallized Desert biome, and also grows on Twilight Sand in the Eternal Starlight dimension.")
+  item.add('eternal_starlight:ether_bucket',"Found in Eternal Starlight dimension.")
+  item.add('minecraft:brown_mushroom',"Grow using Warped or Crimson Nylium (farmable)")
 })
 
 

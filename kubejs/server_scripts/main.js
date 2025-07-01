@@ -34,7 +34,7 @@ ServerEvents.recipes(event => {
 
   event.smoking('minecraft:andesite', 'minecraft:gravel').cookingTime(6000)
   event.smoking('minecraft:leather', 'minecraft:rotten_flesh').cookingTime(900)
-  event.custom({
+  /*event.custom({
     "type": "create_enchantment_industry:grinding",
     "ingredients": [
       {
@@ -44,22 +44,36 @@ ServerEvents.recipes(event => {
     "results": [
       {
         "amount": 1,
+        "id": "create_enchantment_industry:experience"
+      },
+      {
+        "amount": 1,
         "id": "minecraft:leather"
       }
     ]
-  })
+  })*/
 
   event.custom({
-    "type": "create_enchantment_industry:grinding",
+    "type": "mechanical_botany:insolating",
     "ingredients": [
       {
-        "item": "create:limestone"
+        "type": "fluid_stack",
+        "amount": 250,
+        "fluid": "eternal_starlight:ether"
+      },
+      {
+        "item": "eternal_starlight:lunaris_cactus"
       }
     ],
+    "processing_time": 3200,
     "results": [
       {
-        "amount": 1,
-        "id": "garnished:crushed_salt"
+        "count": 2,
+        "id": "eternal_starlight:lunaris_cactus_fruit"
+      },
+      {
+        "count": 1,
+        "id": "eternal_starlight:lunaris_cactus"
       }
     ]
   })
@@ -94,6 +108,25 @@ ServerEvents.recipes(event => {
       {
         "amount": 1,
         "id": "garnished:crushed_ender_pearl"
+      }
+    ]
+  })
+
+  event.custom({
+    "type": "create_enchantment_industry:grinding",
+    "ingredients": [
+      {
+        "item": "create:limestone"
+      }
+    ],
+    "results": [
+      {
+        "amount": 1,
+        "id": "create_enchantment_industry:experience"
+      },
+      {
+        "amount": 1,
+        "id": "garnished:crushed_salt"
       }
     ]
   })

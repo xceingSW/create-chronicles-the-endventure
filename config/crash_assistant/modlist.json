@@ -349,10 +349,10 @@
     "modId": "coroutil",
     "version": "1.21.0-1.3.8"
   },
-  "corpse-neoforge-1.21.1-1.1.7.jar": {
-    "jarName": "corpse-neoforge-1.21.1-1.1.7.jar",
+  "corpse-neoforge-1.21.1-1.1.10.jar": {
+    "jarName": "corpse-neoforge-1.21.1-1.1.10.jar",
     "modId": "corpse",
-    "version": "1.21.1-1.1.7"
+    "version": "1.21.1-1.1.10"
   },
   "cosmeticarmorreworked-1.21.1-v1-neoforge.jar": {
     "jarName": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
@@ -419,20 +419,20 @@
     "modId": "create_connected",
     "version": "1.1.6-mc1.21.1"
   },
-  "create_hypertube-0.2.0-NEOFORGE.jar": {
-    "jarName": "create_hypertube-0.2.0-NEOFORGE.jar",
+  "create_hypertube-0.2.1-NEOFORGE.jar": {
+    "jarName": "create_hypertube-0.2.1-NEOFORGE.jar",
     "modId": "create_hypertube",
-    "version": "0.2.0"
+    "version": "0.2.1"
   },
   "create_mechanical_extruder-1.21.1-2.1.2-6.0.6.jar": {
     "jarName": "create_mechanical_extruder-1.21.1-2.1.2-6.0.6.jar",
     "modId": "create_mechanical_extruder",
     "version": "1.21.1-2.1.1-6.0.4"
   },
-  "create_mobile_packages-1.21.1-0.5.2.jar": {
-    "jarName": "create_mobile_packages-1.21.1-0.5.2.jar",
+  "create_mobile_packages-1.21.1-0.5.3.jar": {
+    "jarName": "create_mobile_packages-1.21.1-0.5.3.jar",
     "modId": "create_mobile_packages",
-    "version": "0.5.2"
+    "version": "0.5.3"
   },
   "create_pattern_schematics-2.0.9.jar": {
     "jarName": "create_pattern_schematics-2.0.9.jar",
@@ -887,38 +887,38 @@
     "modId": "jmi",
     "version": "1.21.1-1.9"
   },
-  "journeymap-neoforge-1.21.1-6.0.0-beta.50.jar": {
-    "jarName": "journeymap-neoforge-1.21.1-6.0.0-beta.50.jar",
+  "journeymap-neoforge-1.21.1-6.0.0-beta.52.jar": {
+    "jarName": "journeymap-neoforge-1.21.1-6.0.0-beta.52.jar",
     "modId": "journeymap",
-    "version": "1.21.1-6.0.0-beta.50"
+    "version": "1.21.1-6.0.0-beta.52"
   },
   "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar": {
     "jarName": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
     "modId": "jeresources",
     "version": "1.6.0.17"
   },
-  "Kiwi-1.21.1-NeoForge-15.5.2.jar": {
-    "jarName": "Kiwi-1.21.1-NeoForge-15.5.2.jar",
+  "Kiwi-1.21.1-NeoForge-15.6.1.jar": {
+    "jarName": "Kiwi-1.21.1-NeoForge-15.6.1.jar",
     "modId": "kiwi",
-    "version": "15.5.2+neoforge"
+    "version": "15.6.1+neoforge"
   },
   "konkrete_neoforge_1.9.9_MC_1.21.jar": {
     "jarName": "konkrete_neoforge_1.9.9_MC_1.21.jar",
     "modId": "konkrete",
     "version": "1.9.9"
   },
-  "kotlinforforge-5.8.0-all.jar": {
-    "jarName": "kotlinforforge-5.8.0-all.jar"
+  "kotlinforforge-5.9.0-all.jar": {
+    "jarName": "kotlinforforge-5.9.0-all.jar"
   },
   "kubejs-neoforge-2101.7.1-build.181.jar": {
     "jarName": "kubejs-neoforge-2101.7.1-build.181.jar",
     "modId": "kubejs",
     "version": "2101.7.1-build.181"
   },
-  "L_Ender\u0027s Cataclysm 1.21.1-3.04.jar": {
-    "jarName": "L_Ender\u0027s Cataclysm 1.21.1-3.04.jar",
+  "L_Ender\u0027s Cataclysm 1.21.1-3.05.jar": {
+    "jarName": "L_Ender\u0027s Cataclysm 1.21.1-3.05.jar",
     "modId": "cataclysm",
-    "version": "3.04"
+    "version": "3.05"
   },
   "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar": {
     "jarName": "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
@@ -960,10 +960,10 @@
     "modId": "mr_lukis_grandcapitals",
     "version": "1.1.1"
   },
-  "magic_coins-1.0.6.jar": {
-    "jarName": "magic_coins-1.0.6.jar",
+  "magic_coins-1.0.7.jar": {
+    "jarName": "magic_coins-1.0.7.jar",
     "modId": "magic_coins",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "maptooltip-neoforge-1.21-4.0.1.jar": {
     "jarName": "maptooltip-neoforge-1.21-4.0.1.jar",
@@ -1095,10 +1095,10 @@
     "modId": "octolib",
     "version": "0.5.0.1"
   },
-  "Oh-The-Biomes-Weve-Gone-NeoForge-2.4.3.jar": {
-    "jarName": "Oh-The-Biomes-Weve-Gone-NeoForge-2.4.3.jar",
+  "Oh-The-Biomes-Weve-Gone-NeoForge-2.4.4.jar": {
+    "jarName": "Oh-The-Biomes-Weve-Gone-NeoForge-2.4.4.jar",
     "modId": "biomeswevegone",
-    "version": "2.4.3"
+    "version": "2.4.4"
   },
   "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.14.jar": {
     "jarName": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.14.jar",
@@ -1375,10 +1375,10 @@
     "modId": "supermartijn642corelib",
     "version": "1.1.18+a"
   },
-  "supplementaries-1.21-3.3.0-neoforge.jar": {
-    "jarName": "supplementaries-1.21-3.3.0-neoforge.jar",
+  "supplementaries-1.21-3.3.1-neoforge.jar": {
+    "jarName": "supplementaries-1.21-3.3.1-neoforge.jar",
     "modId": "supplementaries",
-    "version": "1.21-3.3.0"
+    "version": "1.21-3.3.1"
   },
   "takesapillage-neoforge-1.0.8+mc1.21.1.jar": {
     "jarName": "takesapillage-neoforge-1.0.8+mc1.21.1.jar",

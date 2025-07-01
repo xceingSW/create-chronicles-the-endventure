@@ -18,7 +18,7 @@ ServerEvents.tags('block', event => {
 
 ServerEvents.tags('item', event => {
     event.add("ftbchunks:right_click_whitelist", [
-        'create:shopping_list ',
+        'create:shopping_list',
     ]);  
     event.add("hazennstuff:armors/helmets", [
         'hazennstuff:miner_helmet',

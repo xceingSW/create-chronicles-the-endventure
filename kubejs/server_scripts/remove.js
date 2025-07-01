@@ -70,6 +70,8 @@ const removeRecipesById = [
   'supplementaries:sus_sand',
   'supplementaries:sus_gravel',
   // Recipe conflits
+  'garnished:haunting/dragon_breath',
+  'garnished:emptying/dragon_breath',
   'multibeds:feather_pile_uncraft',
   'create_sa:small_filling_tank_recipe',
   'simplyswords:iron_spear',
