@@ -182,7 +182,7 @@
 			id: "3FF93EB2C771B747"
 			rewards: [
 				{
-					count: 5
+					count: 10
 					id: "130B9F56F19F52EE"
 					item: {
 						count: 1
@@ -1747,20 +1747,20 @@
 			id: "40270C32F09AD402"
 			rewards: [
 				{
-					count: 5
-					id: "0F8B7CC807DF4232"
+					count: 3
+					id: "5CA907F4238A05B2"
 					item: {
 						count: 1
-						id: "create:andesite_alloy"
+						id: "create:golden_sheet"
 					}
 					type: "item"
 				}
 				{
-					count: 5
-					id: "6EA4BEE1A1300529"
+					count: 3
+					id: "541B3D29EB013170"
 					item: {
 						count: 1
-						id: "create:experience_nugget"
+						id: "create:golden_sheet"
 					}
 					type: "item"
 				}

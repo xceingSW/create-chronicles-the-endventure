@@ -32,26 +32,22 @@ ServerEvents.recipes(event => {
   event.replaceInput({id:'moped:copper_moped_item_recipe'}, 'minecraft:cut_copper_slab', 'create:copper_sheet')
   event.replaceInput({id:'moped:copper_moped_item_recipe'}, 'minecraft:copper_block', '#create:seats')
 
+  //conf
+  event.replaceInput({id:'another_furniture:cherry_table'}, 'minecraft:cherry_planks', 'minecraft:cherry_slab')
+  event.replaceInput({id:'another_furniture:warped_table'}, 'minecraft:warped_planks', 'minecraft:warped_slab')
+  event.replaceInput({id:'another_furniture:spruce_table'}, 'minecraft:spruce_planks', 'minecraft:spruce_slab')
+  event.replaceInput({id:'another_furniture:acacia_table'}, 'minecraft:acacia_planks', 'minecraft:acacia_slab')
+  event.replaceInput({id:'another_furniture:bamboo_table'}, 'minecraft:bamboo_planks', 'minecraft:bamboo_slab')
+  event.replaceInput({id:'another_furniture:jungle_table'}, 'minecraft:jungle_planks', 'minecraft:jungle_slab')
+  event.replaceInput({id:'another_furniture:mangrove_table'}, 'minecraft:mangrove_planks', 'minecraft:mangrove_slab')
+  event.replaceInput({id:'another_furniture:dark_oak_table'}, 'minecraft:dark_oak_planks', 'minecraft:dark_oak_slab')
+  event.replaceInput({id:'another_furniture:crimson_table'}, 'minecraft:crimson_planks', 'minecraft:crimson_slab')
+  event.replaceInput({id:'another_furniture:birch_table'}, 'minecraft:birch_planks', 'minecraft:birch_slab')
+  event.replaceInput({id:'another_furniture:oak_table'}, 'minecraft:oak_planks', 'minecraft:oak_slab')
+  event.replaceInput({id:'handcrafted:wood_plate'}, '#minecraft:wooden_slabs', '#minecraft:wooden_pressure_plates')
+
   event.smoking('minecraft:andesite', 'minecraft:gravel').cookingTime(6000)
   event.smoking('minecraft:leather', 'minecraft:rotten_flesh').cookingTime(900)
-  /*event.custom({
-    "type": "create_enchantment_industry:grinding",
-    "ingredients": [
-      {
-        "item": "minecraft:rotten_flesh"
-      }
-    ],
-    "results": [
-      {
-        "amount": 1,
-        "id": "create_enchantment_industry:experience"
-      },
-      {
-        "amount": 1,
-        "id": "minecraft:leather"
-      }
-    ]
-  })*/
 
   event.custom({
     "type": "mechanical_botany:insolating",
@@ -235,5 +231,13 @@ ServerEvents.recipes(event => {
       A: 'minecraft:stick',
       B: 'minecraft:diamond',
       C: 'createaddition:diamond_grit',
-  })   
+  }) 
+
+  event.shaped('handcrafted:terracotta_thin_pot', [
+      ' A ',
+      ' A ',
+      ' A '
+  ], {
+      A: 'minecraft:terracotta',
+  })     
 });

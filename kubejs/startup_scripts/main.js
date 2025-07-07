@@ -55,7 +55,7 @@ ItemEvents.modification(event => {
     { attribute: 'apothic_attributes:crit_damage', amount: 0.1, id: 'end:cen_head_critdamage', operation: 'add_value' },
   ]);
   applyModifiers(event, 'armoroftheages:quetzalcoatl_armor_head', 'head', [
-    { attribute: 'generic.max_health', amount: 0.05, id: 'end:q_head_maxh', operation: 'add_multiplied_base' },
+    { attribute: 'generic.max_health', amount: 0.1, id: 'end:q_head_maxh', operation: 'add_multiplied_base' },
     { attribute: 'generic.movement_speed', amount: 0.05, id: 'end:q_head_move', operation: 'add_multiplied_base' },
   ]);
   applyModifiers(event, 'armoroftheages:anubis_armor_head', 'head', [
@@ -92,7 +92,7 @@ ItemEvents.modification(event => {
     { attribute: 'apothic_attributes:crit_damage', amount: 0.1, id: 'end:cen_chest_critdamage', operation: 'add_value' },
   ]);
   applyModifiers(event, 'armoroftheages:quetzalcoatl_armor_chest', 'chest', [
-    { attribute: 'generic.max_health', amount: 0.05, id: 'end:cq_che_maxh', operation: 'add_multiplied_base' },
+    { attribute: 'generic.max_health', amount: 0.1, id: 'end:cq_che_maxh', operation: 'add_multiplied_base' },
     { attribute: 'generic.movement_speed', amount: 0.05, id: 'end:q_che_move', operation: 'add_multiplied_base' },
   ]);
   applyModifiers(event, 'armoroftheages:anubis_armor_chest', 'chest', [
@@ -129,7 +129,7 @@ ItemEvents.modification(event => {
     { attribute: 'apothic_attributes:crit_damage', amount: 0.1, id: 'end:cen_legs_critdamage', operation: 'add_value' },
   ]);
   applyModifiers(event, 'armoroftheages:quetzalcoatl_armor_legs', 'legs', [
-    { attribute: 'generic.max_health', amount: 0.05, id: 'end:q_legs_maxh', operation: 'add_multiplied_base' },
+    { attribute: 'generic.max_health', amount: 0.1, id: 'end:q_legs_maxh', operation: 'add_multiplied_base' },
     { attribute: 'generic.movement_speed', amount: 0.05, id: 'end:q_legs_move', operation: 'add_multiplied_base' },
   ]);
   applyModifiers(event, 'armoroftheages:anubis_armor_legs', 'legs', [
@@ -158,7 +158,7 @@ ItemEvents.modification(event => {
     { attribute: 'apothic_attributes:crit_damage', amount: 0.1, id: 'end:cen_feet_critdamage', operation: 'add_value' },
   ]);
   applyModifiers(event, 'armoroftheages:quetzalcoatl_armor_feet', 'feet', [
-    { attribute: 'generic.max_health', amount: 0.05, id: 'end:q_feet_maxh', operation: 'add_multiplied_base' },
+    { attribute: 'generic.max_health', amount: 0.1, id: 'end:q_feet_maxh', operation: 'add_multiplied_base' },
     { attribute: 'generic.movement_speed', amount: 0.05, id: 'end:q_feet_move', operation: 'add_multiplied_base' },
   ]);
   applyModifiers(event, 'armoroftheages:anubis_armor_feet', 'feet', [
@@ -198,6 +198,7 @@ StartupEvents.registry('item', event => {
     })
   })
 
+  event.create('chromatic_compound').rarity("EPIC")
   event.create('token_basic').displayName("§7Apprentice Token").rarity("UNCOMMON")
   event.create('token_medium').displayName("§fOperator Token").rarity("RARE")
   event.create('token_advanced').displayName("§eEngineer Token").rarity("EPIC")
@@ -225,5 +226,8 @@ StartupEvents.registry('item', event => {
   event.create('incomplete_roasted_mutton_chops')
   event.create('incomplete_shepherds_pie_block')
   event.create('incomplete_steak_and_potatoes')
-   
+})
+
+StartupEvents.registry("block", (event) => {
+  event.create('incomplete_blackstone')
 })

@@ -346,17 +346,5 @@
 			x: -2.0d
 			y: 2.0d
 		}
-		{
-			dependencies: ["66E127ED18F447AD"]
-			id: "3E6BC4114F26B28F"
-			shape: "rsquare"
-			size: 2.0d
-			tasks: [{
-				id: "14672A841E50A93A"
-				type: "checkmark"
-			}]
-			x: -6.0d
-			y: -2.5d
-		}
 	]
 }

@@ -8,7 +8,7 @@
 			"mobEffectId": "minecraft:slowness",
 			"mobEffectDuration": 100,
 			"mobEffectAmplifier": 4,
-			"damage": 53.0
+			"damage": 45.0
 		},
 		"comet": {
 			"explosionStrength": 4.0
@@ -37,7 +37,7 @@
 	"obsidilithConfig": {
 		"health": 1400.0,
 		"armor": 50.0,
-		"attack": 65.0,
+		"attack": 60.0,
 		"idleHealingPerTick": 0.5,
 		"experienceDrop": 4000,
 		"spawnPillarOnDeath": true,
@@ -46,7 +46,7 @@
 	"gauntletConfig": {
 		"health": 500.0,
 		"armor": 8.0,
-		"attack": 24.0,
+		"attack": 22.0,
 		"idleHealingPerTick": 0.5,
 		"experienceDrop": 1000,
 		"spawnAncientDebrisOnDeath": true,
@@ -56,7 +56,7 @@
 	"voidBlossomConfig": {
 		"health": 1400.0,
 		"armor": 50.0,
-		"attack": 68.0,
+		"attack": 55.0,
 		"idleHealingPerTick": 0.5,
 		"experienceDrop": 4000
 	},

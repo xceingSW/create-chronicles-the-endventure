@@ -4,6 +4,8 @@ ServerEvents.recipes((event) => {
     // THIS LINE IS IMPORTANT!
     // IT MUST BE THE FIRST LINE IN THE EVENT HANDLER
     addCreateRecipeHandler(event);
+    //Sandpaper = grindstone recipes
+    event.recipes.createSandpaperPolishing(["minecraft:leather"],"minecraft:rotten_flesh")
 
     //Mixing
     event.recipes.createMixing("createmechanisms:rubber", ["minecraft:kelp","minecraft:kelp","minecraft:kelp","minecraft:kelp", Fluid.of("water", 250)])
@@ -12,16 +14,15 @@ ServerEvents.recipes((event) => {
     event.recipes.createMixing(('minecraft:warped_nylium'),['minecraft:netherrack','minecraft:warped_fungus'])
     event.recipes.createMixing(('minecraft:crimson_nylium'),['minecraft:netherrack','minecraft:crimson_fungus'])
     event.recipes.createMixing(('9x minecraft:gunpowder'),['minecraft:wither_rose','biomeswevegone:blue_glowcane_powder','biomeswevegone:red_glowcane_powder','biomeswevegone:green_glowcane_powder','biomeswevegone:yellow_glowcane_powder']).superheated()
-    event.recipes.createMixing(('minecraft:lapis_lazuli'),['minecraft:glowstone_dust','minecraft:glowstone_dust','minecraft:blue_dye','minecraft:blue_dye','amethyst_shard',Fluid.of("create_enchantment_industry:experience", 250)]).superheated()
+    event.recipes.createMixing(('minecraft:lapis_lazuli'),['minecraft:glowstone_dust','minecraft:blue_dye','amethyst_shard',Fluid.of("create_enchantment_industry:experience", 100)]).superheated()
     event.recipes.createMixing(('minecraft:ender_pearl'),[Fluid.of("createaddition:bioethanol", 250),'createaddition:biomass_pellet','createaddition:biomass_pellet','createaddition:biomass_pellet','minecraft:prismarine_shard','minecraft:prismarine_shard','minecraft:prismarine_shard','minecraft:prismarine_crystals']).superheated()
     //event.recipes.createMixing(('3x createmechanisms:bronze'),['minecraft:copper_ingot','minecraft:copper_ingot','minecraft:copper_ingot','minecraft:iron_ingot']).heated()
-    event.recipes.createMixing("createcompounds:chromatic_compound", [ "#c:dusts/glowstone","#c:dusts/glowstone","#c:dusts/glowstone","create:cinder_flour","create:cinder_flour","create:cinder_flour", "create:powdered_obsidian","create:powdered_obsidian","create:polished_rose_quartz"]).superheated();
-    event.recipes.createMixing(('createaddition:electrum_nugget'),['minecraft:gold_nugget',"#c:dusts/glowstone","#c:gems/quartz"]).heated()
+    event.recipes.createMixing("kubejs:chromatic_compound", [ "#c:dusts/glowstone","#c:dusts/glowstone","#c:dusts/glowstone","create:cinder_flour","create:cinder_flour","create:cinder_flour", "create:powdered_obsidian","create:powdered_obsidian","create:polished_rose_quartz"]).superheated();
+    event.recipes.createMixing(('createaddition:electrum_ingot'),['minecraft:gold_ingot',"#c:dusts/glowstone","#c:gems/quartz"]).heated()
     
     // Deploy
     event.recipes.createDeploying('minecraft:shroomlight', ['minecraft:glowstone', '#c:mushrooms'])
     event.recipes.createDeploying('minecraft:glow_ink_sac', ['minecraft:ink_sac', 'minecraft:glow_berries'])
-    event.recipes.createDeploying('minecraft:gilded_blackstone', ['minecraft:blackstone','minecraft:gold_ingot'])
 
 
     // Compacting
@@ -50,7 +51,7 @@ ServerEvents.recipes((event) => {
         "minecraft:chorus_fruit"
     ).id("end:chorusfruit");
     
-    // Filing
+    // Filling
     event.recipes.createFilling("minecraft:magma_block",  ["minecraft:netherrack",Fluid.of("lava", 250)]);
     event.recipes.createFilling("create:rose_quartz",  ["#c:gems/quartz",Fluid.of("kubejs:fluid_redstone", 400)]);
     
@@ -76,6 +77,17 @@ ServerEvents.recipes((event) => {
     ]).transitionalItem(transitional)
       .loops(1)
       .id('end:wooden_mechanism')
+      
+    transitional = 'kubejs:incomplete_blackstone'
+    event.recipes.createSequencedAssembly([
+      'minecraft:gilded_blackstone',
+    ], 'minecraft:blackstone', [
+          event.recipes.createDeploying(transitional, [transitional, 'minecraft:gold_ingot']),
+          event.recipes.createDeploying(transitional, [transitional, 'minecraft:gold_ingot']),
+    ]).transitionalItem(transitional)
+      .loops(1)
+      .id('end:black')
+
 
     transitional = 'createmechanisms:incomplete_rubber_mechanism'
     event.recipes.createSequencedAssembly([
@@ -122,7 +134,7 @@ ServerEvents.recipes((event) => {
     transitional = 'createmechanisms:incomplete_advanced_precision_mechanism'
     event.recipes.createSequencedAssembly([
       'createmechanisms:advanced_precision_mechanism',
-    ], 'createcompounds:chromatic_compound', [
+    ], 'kubejs:chromatic_compound', [
           event.recipes.createDeploying(transitional, [transitional, 'createmechanisms:ender_mechanism']),
           event.recipes.createDeploying(transitional, [transitional, 'createmechanisms:heat_mechanism']),
           event.recipes.createDeploying(transitional, [transitional, 'create_things_and_misc:vibration_mechanism']),

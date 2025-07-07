@@ -1821,13 +1821,13 @@
 	quest.3052F9967211F448.quest_subtitle: "Kill the Ender Dragon"
 	quest.3052F9967211F448.title: "&4End of All Things"
 	quest.30A49F7BE86E7B7D.quest_desc: [
-		"The &6Blaze Forger&r works like an anvil and is &6sensitive to the order of item placement&r if a recipe isn’t working, try reversing the order. &cIt matters!&r"
+		"The &6Blaze Forger&r works like an anvil but with the extra of being able to extract an enchantment into a Template."
 		""
 		""
 		"To &aapply an enchantment&r from a book or template to an item, place the item first, then the enchanted book or template."
 		""
 		""
-		"To &bextract an enchantment&r into a template, place the &eEmpty Enchanting Template&r first, then the enchanted item."
+		"To &bextract an enchantment&r item or book into a template, place the item/book first, then the &eEmpty Enchanting Template&r."
 	]
 	quest.30A49F7BE86E7B7D.title: "&dPlacement Order Affects Results"
 	quest.30B4AA1B5916FC72.quest_desc: [
@@ -2428,13 +2428,6 @@
 		"&d@handcrafted&r"
 	]
 	quest.3E5AC888381F061B.title: "&6Handcrafted  Mod"
-	quest.3E6BC4114F26B28F.quest_desc: [
-		"{image:kubejs:textures/grindstone/gr1.png width:150 height:72 align:center}"
-		"{image:kubejs:textures/grindstone/gr2.png width:150 height:72 align:center}"
-		"{image:kubejs:textures/grindstone/gr3.png width:150 height:72 align:center}"
-		"{image:kubejs:textures/grindstone/gr4.png width:150 height:72 align:center}"
-	]
-	quest.3E6BC4114F26B28F.title: "&l&a!!!LIST OF RECIPES!!!&r&r"
 	quest.3E6E9C53FBE836FB.quest_desc: [
 		"&6The Scroll Forge&r is a new crafting station that allows the player to &ecraft scrolls&r by using &bink, paper, and a focus. &r"
 		""
@@ -3156,11 +3149,7 @@
 	quest.4EE191C96F7DE687.quest_desc: [
 		"&aBefore posting, please check this list of known issues and possible workarounds.&r"
 		""
-		"-> Simply Swords Runes Effect can't be rerolled."
-		""
 		"-> Craft and Additions recipes are broken in JEI, but they still work — just input the correct materials manually. Check the &eElectricity chapter&r in the quest book for images with the full recipe list."
-		""
-		"-> Mechanical Grindstone recipes don’t appear in JEI. Please check the &eEnchantment Industry chapter&r in the quest book for the full list of recipes."
 		""
 		"-> [Multiplayer Only] The market does not hide the mod's original trades and seed tabs by default."
 		""
@@ -3180,7 +3169,7 @@
 		"&l&cKeep in mind that all of these bugs need to be fixed by the mod author, not the modpack itself."
 		"&r&r"
 	]
-	quest.4EE191C96F7DE687.quest_subtitle: "v1.2.1"
+	quest.4EE191C96F7DE687.quest_subtitle: "v1.3.0"
 	quest.4EE191C96F7DE687.title: "&l&cLIST OF KNOWN ISSUES (PLEASE READ!)&r&r"
 	quest.4F734FC470276106.quest_subtitle: "Applies a temporary haste effect after eating food"
 	quest.4FDAFBD64AA710A1.quest_subtitle: "Increases experience dropped by mobs"
@@ -4559,9 +4548,9 @@
 		""
 		"&aViridium&r = Green Zultanite"
 		""
-		"&cCrimsite&r = Yellow Zultanite"
+		"&cCrimsite&r = Red Zultanite"
 		""
-		"&6Ochrum&r = Red Zultanite"
+		"&6Ochrum&r = Yellow Zultanite"
 		""
 		"&o&7You can combine Liquefied Mastic Resin and Lava by letting them interact in the world, similar to how a cobblestone generator works.&r&r"
 		""

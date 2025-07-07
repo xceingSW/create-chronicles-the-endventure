@@ -15,7 +15,6 @@ const removeRecipesById = [
   'irons_spellbooks:amethyst_rapier',  
   'irons_spellbooks:citadel_map',  
   'gamediscs:gaming_console',
-  'measurements:tape_measure',
   'constructionstick:template_unbreakable',
   'multibeds:feather_pile',
   'cataclysm:storm_eye',
@@ -78,7 +77,12 @@ const removeRecipesById = [
   'simplyswords:gold_spear',
   'simplyswords:diamond_spear',
   'create_sa:vault_component_recipe',
-  'culturalrecipes:corn_dough'
+  'culturalrecipes:corn_dough',
+  'farmersdelight:bread_from_smelting',
+  'farmersdelight:bread_from_smoking',
+  'hazennstuff:smelting/blasting/raw_zenalite_from_blasting',
+  'minecraft:cake',
+  'handcrafted:terracotta_thin_pot'
 ];
 
 // === REMOVE BY MOD ID ===

@@ -66,7 +66,7 @@
       "gem_class": { "key": "helmet", "types": ["apotheosis:helmet"] },
       "attribute": "apothic_attributes:healing_received",
       "operation": "ADD_MULTIPLIED_BASE",
-      "values": { "cracked": 0.005, "chipped": 0.01, "flawed": 0.03, "normal": 0.03, "flawless": 0.04, "perfect": 0.5 }
+      "values": { "cracked": 0.005, "chipped": 0.01, "flawed": 0.03, "normal": 0.03, "flawless": 0.04, "perfect": 0.05 }
     },
     {
       "type": "apotheosis:enchantment",

@@ -150,7 +150,7 @@
 	#Wither Homing Missile's Damage
 	# Default: 3.0
 	# Range: 0.0 ~ 1000000.0
-	WitherHomingMissiledamage = 60.0
+	WitherHomingMissiledamage = 3.0
 	#Abyss Blast's Damage
 	# Default: 10.0
 	# Range: 0.0 ~ 1000000.0
@@ -204,11 +204,11 @@
 	#EnderGuardian's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	EnderGuardianHealthMultiplier = 25.0
+	EnderGuardianHealthMultiplier = 30.0
 	#EnderGuardian's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	EnderGuardianDamageMultiplier = 6.0
+	EnderGuardianDamageMultiplier = 4.0
 	#EnderGuardian's DamageCap
 	# Default: 22.0
 	# Range: 0.0 ~ 1000000.0
@@ -342,7 +342,7 @@
 	#Ignis's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	IgnisDamageMultiplier = 2.4
+	IgnisDamageMultiplier = 2.1
 	#Ignis's Healing with out target
 	# Default: 25.0
 	# Range: 0.0 ~ 1000000.0
@@ -398,7 +398,7 @@
 	#Harbinger's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	HarbingerDamageMultiplier = 1.9
+	HarbingerDamageMultiplier = 1.7
 	#Harbinger's Healing Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
@@ -406,11 +406,11 @@
 	#Harbinger's Wither Missile's Damage
 	# Default: 8.0
 	# Range: 0.0 ~ 1000000.0
-	"Harbinger's WitherMissiledamage" = 60.0
+	"Harbinger's WitherMissiledamage" = 40.0
 	#Harbinger's laser's Damage
 	# Default: 5.0
 	# Range: 0.0 ~ 1000000.0
-	"Harbinger's laser damage" = 60.0
+	"Harbinger's laser damage" = 40.0
 	#Harbinger's Immune to Long distance attack range.
 	# Default: 35.0
 	# Range: 1.0 ~ 1000000.0
@@ -610,7 +610,7 @@
 	#Maledictus's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	MaledictusDamageMultiplier = 2.4
+	MaledictusDamageMultiplier = 2.1
 	#Maledictus's Immune to Long distance attack range.
 	# Default: 12.0
 	# Range: 1.0 ~ 1000000.0

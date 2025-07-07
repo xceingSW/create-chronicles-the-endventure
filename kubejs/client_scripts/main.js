@@ -3,6 +3,28 @@ RecipeViewerEvents.removeEntriesCompletely('item', item =>{
   global.REMOVE_ITEMS.forEach(id => {
     item.remove(id)
   })
+
+  const itemsToRemove = [
+    'incomplete_barbecue_stick',
+    'incomplete_cod_roll',
+    'incomplete_kelp_roll',
+    'incomplete_melon_popsicle',
+    'incomplete_mutton_wrap',
+    'incomplete_salmon_roll',
+    'incomplete_stuffed_potato',
+    'incomplete_bacon_and_eggs',
+    'incomplete_grilled_salmon',
+    'incomplete_rice_roll_medley_block',
+    'incomplete_roast_chicken_block',
+    'incomplete_roasted_mutton_chops',
+    'incomplete_shepherds_pie_block',
+    'incomplete_steak_and_potatoes',
+    'incomplete_blackstone'
+  ]
+
+  itemsToRemove.forEach(id => {
+    item.remove(`kubejs:${id}`)
+  })
 })
 
 // Hide Categories 
@@ -41,8 +63,8 @@ RecipeViewerEvents.addInformation('item', item =>{
   item.add("hazennstuff:refined", rit)
 
   //other
-  item.add("irons_spellbooks:decrepit_key", "Drops from The Citadel's trial spawners occur when you complete them under the Ominous effect, and Tyros drops the Decrepit Key.")
-  item.add("hazennstuff:decrepit_key", "Drops from The Citadel's trial spawners occur when you complete them under the Ominous effect, and Tyros drops the Decrepit Key.")
+  item.add("irons_spellbooks:decrepit_key", "Unlocks Citadel Vaults. Drops from Tyros boss.")
+  item.add("irons_spellbooks:pyrium_ingot", "Can be found in Citadel vaults.")
   item.add("hazennstuff:fireblossom", " Found in Crimson Forests in the Nether.")
   item.add("irons_spellbooks:divine_soulshard", "Drops from Tyros, a tier-5 boss.")
  

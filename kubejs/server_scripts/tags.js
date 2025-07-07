@@ -14,6 +14,16 @@ ServerEvents.tags('block', event => {
         '#lootr:containers',
         'farmingforblockheads:market',
     ]);
+    event.add("buildinggadgets2:deny", [
+        'molten_vents:dormant_molten_asurine',
+        'molten_vents:active_molten_asurine',
+        'molten_vents:dormant_molten_veridium',
+        'molten_vents:active_molten_veridium',
+        'molten_vents:dormant_molten_crimsite',
+        'molten_vents:active_molten_crimsite',
+        'molten_vents:dormant_molten_ochrum',
+        'molten_vents:active_molten_ochrum',
+    ]);
 })
 
 ServerEvents.tags('item', event => {
