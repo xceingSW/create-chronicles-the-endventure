@@ -45,7 +45,7 @@
 	#Alternator efficiency relative to base conversion rate.
 	# Default: 0.75
 	# Range: 0.01 ~ 1.0
-	generator_efficiency = 0.90
+	generator_efficiency = 0.9
 
 #Rolling Mill
 [rolling_mill]
@@ -92,6 +92,10 @@
 	connector_ignore_face_check = true
 	#Allows blocks attached to a connector to freely pass energy to and from the connector network.
 	connector_allow_passive_io = true
+	#The maximum stored amount in the connector network internal buffer.
+	# Default: 80000
+	# Range: > 80000
+	connector_network_internal_buffer = 80000
 
 #Accumulator
 [accumulator]

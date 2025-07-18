@@ -1041,7 +1041,7 @@
 				consume_items: true
 				count: 256L
 				id: "47D76C44A3C1DBB1"
-				item: { count: 1, id: "garnished:wrapped_sepia_tangle" }
+				item: { count: 1, id: "supplementaries:lapis_bricks_slab" }
 				type: "item"
 			}]
 			x: -4.5d

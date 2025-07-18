@@ -142,8 +142,9 @@
 				xp: 10
 			}]
 			tasks: [{
-				id: "25FDE76149E932B2"
-				type: "checkmark"
+				id: "556B9A1598F323B6"
+				item: { components: { "patchouli:book": "simplyswords:runic_grimoire" }, count: 1, id: "patchouli:guide_book" }
+				type: "item"
 			}]
 			x: -25.0d
 			y: 21.5d

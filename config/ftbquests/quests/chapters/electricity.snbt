@@ -133,28 +133,6 @@
 			y: -3.5d
 		}
 		{
-			dependencies: ["2192D2F22A2C17FD"]
-			id: "2356D84F2F81D384"
-			tasks: [{
-				id: "2AC9D24723302ECE"
-				item: { count: 1, id: "charginggadgets:charging_station" }
-				type: "item"
-			}]
-			x: 4.5d
-			y: -3.0d
-		}
-		{
-			id: "2137AADBD1F1D32B"
-			shape: "rsquare"
-			size: 3.0d
-			tasks: [{
-				id: "39814DA91C36E869"
-				type: "checkmark"
-			}]
-			x: -4.5d
-			y: -4.5d
-		}
-		{
 			id: "513AB7EE426B5AD1"
 			rewards: [{
 				count: 2

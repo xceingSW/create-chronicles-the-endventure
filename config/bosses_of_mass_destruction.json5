@@ -8,7 +8,7 @@
 			"mobEffectId": "minecraft:slowness",
 			"mobEffectDuration": 100,
 			"mobEffectAmplifier": 4,
-			"damage": 45.0
+			"damage": 47.0
 		},
 		"comet": {
 			"explosionStrength": 4.0
@@ -37,7 +37,7 @@
 	"obsidilithConfig": {
 		"health": 1400.0,
 		"armor": 50.0,
-		"attack": 60.0,
+		"attack": 65.0,
 		"idleHealingPerTick": 0.5,
 		"experienceDrop": 4000,
 		"spawnPillarOnDeath": true,

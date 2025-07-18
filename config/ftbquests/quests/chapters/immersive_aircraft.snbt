@@ -349,5 +349,32 @@
 			x: 0.5d
 			y: 5.5d
 		}
+		{
+			dependencies: ["669470AF4A543CB7"]
+			id: "2E156E1D6BA5517A"
+			rewards: [{
+				id: "78EC194DA9CC2A45"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "64D877664573D2EF"
+				item: { count: 1, id: "immersive_aircraft:enhanced_propeller" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["74453E3420E1AD73"]
+			id: "6A15D90E95F4E03A"
+			tasks: [{
+				id: "588D68D0634BF64D"
+				item: { count: 1, id: "immersive_aircraft:bamboo_hopper" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
 	]
 }

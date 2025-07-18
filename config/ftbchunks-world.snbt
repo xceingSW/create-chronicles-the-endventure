@@ -193,7 +193,7 @@
 		
 		# Default PvP setting in claimed chunks
 		# Default: true
-		def_pvp: true
+		def_pvp: false
 	}
 	waypoint_sharing: {
 		# Allow players to share waypoints with their party.

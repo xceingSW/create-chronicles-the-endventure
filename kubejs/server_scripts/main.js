@@ -127,17 +127,55 @@ ServerEvents.recipes(event => {
     ]
   })
 
+
   event.custom({
     "type": "createaddition:charging",
-    "energy": 200,
-    "ingredient": {
-      "item": "minecraft:copper_ingot"
-    },
+    "energy": 4000,
+    "ingredients": [
+      {
+        "item": "minecraft:copper_ingot"
+      }
+    ],
     "max_charge_rate": 200,
+    "results": [
+      {
+        "id": "createmechanisms:bronze"
+      }
+    ]
+  })
+
+  // Simply Swords book
+  event.custom({
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:book"
+      },
+      {
+        "item": "simplyswords:runic_tablet"
+      }
+    ],
     "result": {
-      "count": 1,
-      "id": "createmechanisms:bronze"
+      "id": "patchouli:guide_book",
+      "components": {
+        "patchouli:book": "simplyswords:runic_grimoire"
+      },
+      "count": 1
     }
+  });
+
+  event.custom({
+    "type": "createaddition:liquid_burning",
+    "burn_time": 3380,
+    "ingredients": [
+      {
+        "type": "fluid_tag",
+        "amount": 1000,
+        "fluid_tag": "garnished:peanut_oil"
+      }
+    ],
+    "results": [],
+    "superheated": true
   })
 
   event.shaped('2x create:belt_connector', [

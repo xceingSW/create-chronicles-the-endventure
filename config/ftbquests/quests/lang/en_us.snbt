@@ -698,7 +698,7 @@
 		""
 		"&bThe leaves of these trees randomly drop one of nine nut varieties&r: Almonds, Cashews, Pistachios, Macadamias, Pecans, Walnuts, Hazelnuts, Chestnuts, and Peanuts. Each nut type has its own unique uses, adding variety and utility to your harvest."
 		""
-		"You can use the nuts to replant the tree and this way making an automated farm."
+		"&aTo replant the tree, you need to crush the Ungarnished nuts with either a Millstone or Crushing Wheels. After they are turned into the crushed variant, you can replant them and make an automated farm.&r"
 		""
 		""
 		"&d@garnished"
@@ -1236,28 +1236,6 @@
 	quest.20CE45C10A58D357.title: "&6Immersive Aircraft&r"
 	quest.20EAD0D76E8C2683.quest_subtitle: "When used for Upgrade: &6+50 Max Mana"
 	quest.2136A142781BBE2B.quest_subtitle: "Not repeatable"
-	quest.2137AADBD1F1D32B.quest_desc: [
-		"&cJEI doesn’t show the recipes&r — this is a known issue, but the &arecipes still work if you manually input the correct materials.&r"
-		""
-		"To craft rods or wires, you’ll need to craft a &l&6Rolling Mill&r&r first."
-		""
-		"Unfortunately, this is something only the mod author can fix — there’s nothing we can do about it."
-		""
-		"You can find the full list of working recipes below:"
-		""
-		""
-		"{image:kubejs:textures/ca/1.png width:120 height:45 align:center}"
-		"{image:kubejs:textures/ca/2.png width:120 height:45 align:center}"
-		"{image:kubejs:textures/ca/3.png width:120 height:45 align:center}"
-		"{image:kubejs:textures/ca/4.png width:120 height:45 align:center}"
-		"{image:kubejs:textures/ca/5.png width:120 height:45 align:center}"
-		"{image:kubejs:textures/ca/6.png width:120 height:45 align:center}"
-		"{image:kubejs:textures/ca/7.png width:120 height:45 align:center}"
-		"{image:kubejs:textures/ca/9.png width:120 height:45 align:center}"
-		"{image:kubejs:textures/ca/10.png width:120 height:45 align:center}"
-	]
-	quest.2137AADBD1F1D32B.quest_subtitle: "!!IMPORTANT READ!!"
-	quest.2137AADBD1F1D32B.title: "&l&c!!IMPORTANT READ!!&r&r"
 	quest.216E2ED7D793F72A.quest_subtitle: "Rare random drop from Evokers or Archevokers."
 	quest.2192D2F22A2C17FD.quest_desc: [
 		"An &eEmpty Spool&r can be crafted into four different wire types using their respective materials:"
@@ -1322,12 +1300,6 @@
 		""
 		"Once generated, this energy can be transferred through shafts, gears, and other mechanical components to operate your creations."
 	]
-	quest.2356D84F2F81D384.quest_desc: [
-		"&l&ctemporary solution &r&r"
-		""
-		"use coal on it"
-	]
-	quest.2356D84F2F81D384.quest_subtitle: "&l&ctemporary solution &r&r"
 	quest.2393A0DC1A59CDEC.quest_desc: [
 		"When applied as an upgrade to any supported device such as an Interface or Export Bus, the &bCrafting Card&f allows the device in question to automatically send out its own crafting requests for a required (filtered) item. Crafting CPUs can be set to respond only to these requests to prevent taking up CPUs meant for player-requested crafts."
 		""
@@ -1720,6 +1692,7 @@
 		"&d@moped&r"
 	]
 	quest.2DE531FF769A86D5.quest_subtitle: " vroom!  vroom!  vroom!"
+	quest.2E156E1D6BA5517A.quest_subtitle: "-75% air friction"
 	quest.2E3B821A8A402B3E.quest_desc: [
 		"You can claim chunks to protect your base and prevent others from modifying your builds."
 		""
@@ -1748,8 +1721,7 @@
 		"Additionally, the &eTesla Coil&r can damage nearby players and mobs with electricity. This effect can be activated using a redstone signal."
 		""
 	]
-	quest.2E4DA361722CB9D0.quest_subtitle: "&l&cCreate 6.0.6 break it&r&r"
-	quest.2E4DA361722CB9D0.title: "&e⚡ Tesla Coil - &l&cCreate 6.0.6 break it&r&r"
+	quest.2E4DA361722CB9D0.title: "&e⚡ Tesla Coil"
 	quest.2E9E011F51858EF2.quest_desc: [
 		"&cFireclay Ball&r comes from a block called &cFireclay&r. "
 		""
@@ -1767,8 +1739,6 @@
 		"There are two socket types: &bNetherfused&r and &3Runefused&r."
 		"To socket a weapon, left-click the gem, then left-click the matching weapon."
 		"&c⚠Note: Socketing is permanent — gems cannot be removed.&r"
-		""
-		"&a🛈 This mod includes its own in-game guide. Just press &eK&r to open it and learn all the details!&r"
 		""
 		"It’s the best way to understand the mechanics, weapon types, and upgrade systems Simply Swords has to offer."
 	]
@@ -3149,8 +3119,6 @@
 	quest.4EE191C96F7DE687.quest_desc: [
 		"&aBefore posting, please check this list of known issues and possible workarounds.&r"
 		""
-		"-> Craft and Additions recipes are broken in JEI, but they still work — just input the correct materials manually. Check the &eElectricity chapter&r in the quest book for images with the full recipe list."
-		""
 		"-> [Multiplayer Only] The market does not hide the mod's original trades and seed tabs by default."
 		""
 		"-> [Multiplayer Only] Rituals doesn't show on JEI. If you enter a singleplayer world first and them join multiplayer the recipes will work. (Alshanex's Familiars mod issue)"
@@ -3169,7 +3137,7 @@
 		"&l&cKeep in mind that all of these bugs need to be fixed by the mod author, not the modpack itself."
 		"&r&r"
 	]
-	quest.4EE191C96F7DE687.quest_subtitle: "v1.3.0"
+	quest.4EE191C96F7DE687.quest_subtitle: "v1.4.0"
 	quest.4EE191C96F7DE687.title: "&l&cLIST OF KNOWN ISSUES (PLEASE READ!)&r&r"
 	quest.4F734FC470276106.quest_subtitle: "Applies a temporary haste effect after eating food"
 	quest.4FDAFBD64AA710A1.quest_subtitle: "Increases experience dropped by mobs"
@@ -3267,6 +3235,8 @@
 		"If you're using Automatic Lock Mode, you can sneak to avoid being pulled into the tube"
 		""
 		"&eHypertube Entrance&r &aneed rotational power to work.&r"
+		""
+		"&o&7Did you know you can fish using Hyper Tubes? Just place one entrance in the ocean.&r&r"
 	]
 	quest.52CD60BB56B17A39.title: "&6Welcome to Create: Hypertubes!"
 	quest.52E5DCC3089180F3.quest_subtitle: "Use to reduce the cooldown"

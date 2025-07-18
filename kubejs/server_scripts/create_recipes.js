@@ -51,6 +51,7 @@ ServerEvents.recipes((event) => {
         "minecraft:chorus_fruit"
     ).id("end:chorusfruit");
     
+    
     // Filling
     event.recipes.createFilling("minecraft:magma_block",  ["minecraft:netherrack",Fluid.of("lava", 250)]);
     event.recipes.createFilling("create:rose_quartz",  ["#c:gems/quartz",Fluid.of("kubejs:fluid_redstone", 400)]);
@@ -106,7 +107,7 @@ ServerEvents.recipes((event) => {
     event.recipes.createSequencedAssembly([
       'createmechanisms:heat_mechanism',
     ], 'createmechanisms:rubber_mechanism', [
-          //event.recipes.createDeploying(transitional, [transitional, 'createmechanisms:bronze']),
+          event.recipes.createDeploying(transitional, [transitional, 'createmechanisms:bronze']),
           event.recipes.createDeploying(transitional, [transitional, 'minecraft:gunpowder']),
           event.recipes.createDeploying(transitional, [transitional, 'garnished:baklava']),
           event.recipes.createDeploying(transitional, [transitional, 'create_things_and_misc:crushed_magma']),
