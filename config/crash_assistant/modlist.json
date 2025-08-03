@@ -424,11 +424,6 @@
     "modId": "create_mechanical_extruder",
     "version": "1.21.1-2.1.1-6.0.4"
   },
-  "create_mobile_packages-1.21.1-0.5.4.jar": {
-    "jarName": "create_mobile_packages-1.21.1-0.5.4.jar",
-    "modId": "create_mobile_packages",
-    "version": "0.5.4"
-  },
   "create_pattern_schematics-2.0.9.jar": {
     "jarName": "create_pattern_schematics-2.0.9.jar",
     "modId": "create_pattern_schematics",

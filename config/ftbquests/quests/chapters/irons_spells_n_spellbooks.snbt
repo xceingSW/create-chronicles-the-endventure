@@ -1700,19 +1700,28 @@
 			rewards: [
 				{
 					count: 2
-					id: "54A00D52452ACD89"
+					id: "222CCFEBD26F3103"
 					item: {
 						count: 1
-						id: "minecraft:netherite_ingot"
+						id: "irons_spellbooks:legendary_ink"
 					}
 					type: "item"
 				}
 				{
 					count: 2
-					id: "222CCFEBD26F3103"
+					id: "738EACB0BBFD08CC"
 					item: {
 						count: 1
-						id: "irons_spellbooks:legendary_ink"
+						id: "irons_spellbooks:mithril_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4DE030C5E5984D17"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
 					}
 					type: "item"
 				}
@@ -3050,15 +3059,25 @@
 		{
 			dependencies: ["6AFEDCF1CF22972F"]
 			id: "73CF950C7A30C0E8"
-			rewards: [{
-				count: 15
-				id: "6B9A36CC36DDC120"
-				item: {
-					count: 1
-					id: "irons_spellbooks:arcane_essence"
+			rewards: [
+				{
+					count: 15
+					id: "6B9A36CC36DDC120"
+					item: {
+						count: 1
+						id: "irons_spellbooks:arcane_essence"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "42688276D68E5A4A"
+					item: {
+						count: 1
+						id: "irons_spellbooks:mithril_ingot"
+					}
+					type: "item"
+				}
+			]
 			shape: "rsquare"
 			size: 1.3d
 			tasks: [

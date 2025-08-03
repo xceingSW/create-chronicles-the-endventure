@@ -29,7 +29,7 @@
 			linked_quest: "54480115AF9A1DAD"
 			shape: "rsquare"
 			x: 3.5d
-			y: 0.5d
+			y: 0.0d
 		}
 		{
 			id: "3AFCED97697F3CC8"
@@ -87,6 +87,13 @@
 			x: 1.5d
 			y: 0.0d
 		}
+		{
+			id: "1B76D9BBDCD5FB9F"
+			linked_quest: "54D89CD1278E6F68"
+			shape: "rsquare"
+			x: 3.5d
+			y: 1.0d
+		}
 	]
 	quests: [{
 		dependencies: [
@@ -101,6 +108,7 @@
 			"3DD814B346F1B543"
 			"54480115AF9A1DAD"
 			"5D0DCD2B1AB653BB"
+			"54D89CD1278E6F68"
 		]
 		dependency_requirement: "all_started"
 		hide_dependency_lines: true
@@ -133,7 +141,7 @@
 			id: "71A9354EB2EA19C7"
 			type: "checkmark"
 		}]
-		x: 0.5d
+		x: 1.15d
 		y: -2.5d
 	}]
 }
