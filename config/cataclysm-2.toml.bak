@@ -760,7 +760,7 @@
 	#Scylla's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	ScyllaDamageMultiplier = 1.7
+	ScyllaDamageMultiplier = 1.8
 	#Scylla's Immune to Long distance attack range.
 	# Default: 12.0
 	# Range: 1.0 ~ 1000000.0

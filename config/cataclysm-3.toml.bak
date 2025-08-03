@@ -370,11 +370,11 @@
 	#Revenant's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	RevenantHealthMultiplier = 1.0
+	RevenantHealthMultiplier = 2.0
 	#Revenant's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	RevenantDamageMultiplier = 1.0
+	RevenantDamageMultiplier = 2.0
 
 ["The Prowler"]
 	#The Prowler's Immune to Long distance attack range.
@@ -506,7 +506,7 @@
 	#Amethyst Crab's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	AmethystCrabHealthMultiplier = 1.0
+	AmethystCrabHealthMultiplier = 1.6
 	#Amethyst Crab's EarthQuake Damage
 	# Default: 5.0
 	# Range: 0.0 ~ 1000000.0
@@ -514,7 +514,7 @@
 	#Amethyst Crab's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	AmethystCrabDamageMultiplier = 1.0
+	AmethystCrabDamageMultiplier = 1.6
 
 ["Ancient Remnant"]
 	#Ancient Remnant's Health Multiplier
@@ -572,31 +572,31 @@
 	#Kobolediator's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	KobolediatorHealthMultiplier = 1.0
+	KobolediatorHealthMultiplier = 1.6
 	#Kobolediator's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	KobolediatorDamageMultiplier = 1.0
+	KobolediatorDamageMultiplier = 1.6
 
 [Wadjet]
 	#Wadjet's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	WadjetHealthMultiplier = 1.0
+	WadjetHealthMultiplier = 1.6
 	#Wadjet's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	WadjetDamageMultiplier = 1.0
+	WadjetDamageMultiplier = 1.6
 
 [Aptrgangr]
 	#Aptrgangr's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	AptrgangrHealthMultiplier = 1.0
+	AptrgangrHealthMultiplier = 1.6
 	#Aptrgangr's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	AptrgangrDamageMultiplier = 1.0
+	AptrgangrDamageMultiplier = 1.6
 	#Axe Blade's Damage
 	# Default: 8.0
 	# Range: 0.0 ~ 1000000.0
@@ -746,11 +746,11 @@
 	#Clawdian's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	ClawdianHealthMultiplier = 1.4
+	ClawdianHealthMultiplier = 1.6
 	#Clawdian's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	ClawdianDamageMultiplier = 1.
+	ClawdianDamageMultiplier = 1.6
 
 [Scylla]
 	#Scylla's Health Multiplier

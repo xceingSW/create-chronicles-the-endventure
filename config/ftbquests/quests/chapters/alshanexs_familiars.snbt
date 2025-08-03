@@ -400,7 +400,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "506A6BB4004B8A33"
-				item: { count: 1, id: "alshanex_familiars:base_soul_curio" }
+				item: { components: { "ftbquests:missing_item": "alshanex_familiars:base_soul_curio" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -9.0d
@@ -412,7 +412,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "013C670BE1AE3D24"
-				item: { count: 1, id: "alshanex_familiars:complete_soul_curio" }
+				item: { components: { "ftbquests:missing_item": "alshanex_familiars:complete_soul_curio" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -8.0d

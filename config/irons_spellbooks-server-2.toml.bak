@@ -63,13 +63,15 @@
 [Worldgen]
 	#The weight of the priest house spawning in a village. Default: 4
 	priestHouseWeight = 4
+	#Whether to prevent aquifers from intersecting designated underground structures. May affect performance. Default: true
+	aquiferDetection = true
 
 	#Configure Boss Stats
 	["Boss Config".Tyros]
 		#Additional Health
 		additionalHealth = 400.0
 		#Additional Melee Attack Damage
-		additionalAttackDamage = 10.0
+		additionalAttackDamage = 7.0
 		#Additional Spell Power (additive percent)
 		additionalSpellPower = 0.0
 
@@ -415,7 +417,7 @@
 		MaxLevel = 5
 		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
 		MinRarity = "UNCOMMON"
-		ManaCostMultiplier = 1.6
+		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
 		CooldownInSeconds = 2.0
 		AllowCrafting = true
@@ -1305,4 +1307,37 @@
 		ManaCostMultiplier = 1.6
 		SpellPowerMultiplier = 1.0
 		CooldownInSeconds = 2.0
+		AllowCrafting = true
+
+	[Spells."irons_spellbooks:pocket_dimension"]
+		Enabled = true
+		School = "irons_spellbooks:eldritch"
+		MaxLevel = 1
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "LEGENDARY"
+		ManaCostMultiplier = 1.3
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 60.0
+		AllowCrafting = false
+
+	[Spells."irons_spellbooks:ice_tomb"]
+		Enabled = true
+		School = "irons_spellbooks:ice"
+		MaxLevel = 8
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "UNCOMMON"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 30.0
+		AllowCrafting = true
+
+	[Spells."irons_spellbooks:snowball"]
+		Enabled = true
+		School = "irons_spellbooks:ice"
+		MaxLevel = 5
+		#Allowed Values: COMMON, UNCOMMON, RARE, EPIC, LEGENDARY
+		MinRarity = "UNCOMMON"
+		ManaCostMultiplier = 1.0
+		SpellPowerMultiplier = 1.0
+		CooldownInSeconds = 12.0
 		AllowCrafting = true

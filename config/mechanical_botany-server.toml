@@ -9,10 +9,16 @@
 	"Processing Time Multiplier" = 1
 	#.
 	#Controls the tank size of the Mechanical Insolator.
-	#Requires you to break and replace the block in order to update the tank size.
+	#Requires you to break and replace the block in order to update blockstate.
 	# Default: 1000
 	# Range: 1000 ~ 16000
 	"Tank Size" = 1000
+	#.
+	#The kinetic stress impact value
+	#Requires you to break and replace the block in order to update blockstate.
+	# Default: 64
+	# Range: > 2
+	"Kinetic Stress Impact" = 64
 
 #.
 #Control certain aspects of the Mechanical Composter
@@ -23,3 +29,9 @@
 	# Default: 1
 	# Range: > 1
 	"Processing Time Multiplier" = 1
+	#.
+	#The kinetic stress impact value
+	#Requires you to break and replace the block in order to update blockstate.
+	# Default: 16
+	# Range: > 2
+	"Kinetic Stress Impact" = 16
