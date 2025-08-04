@@ -584,22 +584,22 @@
 			id: "244D55FC22B55A11"
 			tasks: [
 				{
-					id: "4C392CC5B3BD508B"
+					id: "757794F68E38780B"
 					item: { count: 1, id: "alshanex_familiars:bard_helmet" }
 					type: "item"
 				}
 				{
-					id: "77B48E505170AA0B"
+					id: "60DE80E287BA21A4"
 					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "alshanex_familiars:bard_chestplate" }
 					type: "item"
 				}
 				{
-					id: "15C4EA0458006C7E"
+					id: "5687532A0E136A53"
 					item: { count: 1, id: "alshanex_familiars:bard_leggings" }
 					type: "item"
 				}
 				{
-					id: "0BE9B758240295A2"
+					id: "087CB67778AB8C43"
 					item: { count: 1, id: "alshanex_familiars:bard_boots" }
 					type: "item"
 				}

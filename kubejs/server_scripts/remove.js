@@ -43,6 +43,7 @@ const removeRecipesById = [
   'garnished:crushing/materials_from_unstable_stone',
   'garnished:milling/crushed_salt',
   'garnished:crushing/crushed_salt',
+  'garnished:integration/create_aquatic_ambitions/crushed_salt_crushing',
   'create_aquatic_ambitions:crushing/prismarine_bricks_to_lapis_and_copper',
   'create_aquatic_ambitions:crushing/prismarine_to_lapis',
   'create_aquatic_ambitions:smelting/veridium',

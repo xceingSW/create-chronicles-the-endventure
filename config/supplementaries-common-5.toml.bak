@@ -218,9 +218,6 @@
 		# Range: 0 ~ 500
 		cooldown = 60
 		music_disc_heave_ho = true
-		#Makes TNT-like block shot from a cannon explode on impact
-		#Allowed Values: IGNITE, IGNITE_ON_IMPACT, NONE
-		explode_tnt = "IGNITE"
 
 		[functional.cannon.cannonball]
 			enabled = true
@@ -232,13 +229,6 @@
 			# Default: 1.1
 			# Range: 0.0 ~ 10.0
 			break_radius = 1.1
-
-		[functional.cannon.cannon_boat]
-			enabled = true
-			#Cannon boat recoil multiplier. Higher values will make the cannon boat recoil more when firing a cannonball
-			# Default: 0.5
-			# Range: 0.0 ~ 5.0
-			recoil_multiplier = 0.5
 
 	[functional.present]
 		enabled = true
@@ -387,8 +377,6 @@
 	[building.globe]
 		enabled = true
 		sepia_globe = true
-		#Displays current coordinates when using a globe
-		show_coordinates = true
 
 	[building.way_sign]
 		enabled = true
@@ -516,8 +504,6 @@
 		# Default: 64
 		# Range: 0 ~ 500
 		bound_distance = 64
-		#Allows flute to be unbound. Unbound flutes will search for pets in a radius and teleport them to the player
-		unbound = false
 
 	[tools.bomb]
 		enabled = true
@@ -684,6 +670,8 @@
 	[tweaks.placeable_books]
 		#Allow books and enchanted books to be placed on the ground
 		enabled = true
+		#Allows written books to be placed down. Requires shift clicking
+		written_books = true
 		#Allow all books to be placed both vertically and horizontally
 		mixed_books = false
 
@@ -721,6 +709,8 @@
 		enabled = true
 		#Allow slimeballs to be thrown
 		throwable_slimeballs = true
+		#Show a slime overlay when you hit an entity with a slimeball
+		overlay = true
 		#Thrown slimeballs will shortly nerf the player jump height. Disable if you don't want this effect as it can be quite powerful
 		#Allowed Values: NEVER, ALWAYS, NORMAL_DIFFICULTY, HARD_DIFFICULTY
 		hinders_jump = "NORMAL_DIFFICULTY"
@@ -732,9 +722,3 @@
 		# Default: 0.15
 		# Range: 0.0 ~ 1.0
 		chance_per_slime_size = 0.15
-
-	[tweaks.clock_and_compass]
-		#Allow to right click with a clock to display current time in numerical form
-		clock_right_click = true
-		#Allow to right click with a compass to display current coordinates in numerical form
-		compass_right_click = false

@@ -43,24 +43,6 @@ RecipeViewerEvents.removeCategories(event => {
 
 RecipeViewerEvents.addInformation('item', item =>{
   let fromMarket="Purchased from Market using Boss Tokens"
-  let rit ="This item is obtained through a ritual. If you're playing multiplayer and can't see the recipe, please check the Alshanex's Familiars chapter in the quest book for an image list of the recipes. Alternatively, you can load a singleplayer world first, and then join the multiplayer server to view the recipes."
-  item.add("crystal_chronicles:ice_shard", rit)
-  item.add("crystal_chronicles:voidstone_shard", rit)
-  item.add("crystal_chronicles:hemalite_shard", rit)
-  item.add("crystal_chronicles:floralite_shard", rit)
-  item.add("crystal_chronicles:voltite_shard", rit)
-  item.add("crystal_chronicles:divinite_shard", rit)
-  item.add("crystal_chronicles:volcanite_shard", rit)  
-  item.add("alshanex_familiars:summoner_shard", rit)
-  item.add("alshanex_familiars:archmage_shard", rit)
-  item.add("alshanex_familiars:hunter_shard", rit)  
-  item.add("alshanex_familiars:truth_mirror", rit)
-  item.add("alshanex_familiars:druid_shard", rit)  
-  item.add("alshanex_familiars:lightning_mage_shard", rit)  
-  item.add("alshanex_familiars:mysterious_orb", rit)  
-  item.add("hazennstuff:reinforced", rit)  
-  item.add("hazennstuff:divine_mold", rit)
-  item.add("hazennstuff:refined", rit)
 
   //other
   item.add("irons_spellbooks:decrepit_key", "Unlocks Citadel Vaults. Drops from Tyros boss.")
