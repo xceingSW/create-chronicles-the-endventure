@@ -14,11 +14,14 @@
 	# Range: 1000 ~ 16000
 	"Tank Size" = 1000
 	#.
-	#The kinetic stress impact value
+	#The kinetic stress impact value.
 	#Requires you to break and replace the block in order to update blockstate.
 	# Default: 64
 	# Range: > 2
 	"Kinetic Stress Impact" = 64
+	#.
+	#Whether or not items tagged #minecraft:saplings can be processed.
+	"Can Process Saplings" = true
 
 #.
 #Control certain aspects of the Mechanical Composter

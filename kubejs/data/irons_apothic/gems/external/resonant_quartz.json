@@ -21,7 +21,7 @@
           "irons_apothic:staff"
         ]
       },
-      "attribute": "alshanex_familiars:sound_spell_power",
+      "attribute": "familiarslib:sound_spell_power",
       "operation": "ADD_MULTIPLIED_BASE",
       "values": {
         "cracked": 0.005,
@@ -40,7 +40,7 @@
           "apotheosis:melee_weapon"
         ]
       },
-      "attribute": "alshanex_familiars:sound_magic_resist",
+      "attribute": "familiarslib:sound_magic_resist",
       "operation": "ADD_MULTIPLIED_BASE",
       "values": {
         "cracked": 0.01,

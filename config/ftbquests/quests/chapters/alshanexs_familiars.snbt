@@ -520,6 +520,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["627A25524F94FB34"]
 			id: "40E256F7660DF8A9"
 			shape: "rsquare"
 			tasks: [{

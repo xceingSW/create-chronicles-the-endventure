@@ -8,6 +8,7 @@ searchBoxAutoSelected = false
 autocraftingNotification = true
 #Allowed Values: LIST, TREE
 autocraftingPreviewStyle = "LIST"
+debug = false
 
 [cable]
 	# Default: 0
