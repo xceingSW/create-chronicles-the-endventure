@@ -1668,7 +1668,7 @@
 				type: "item"
 			}]
 			shape: "rsquare"
-			size: 1.5d
+			size: 1.3d
 			tasks: [
 				{
 					id: "7CD09931BAFC9CDA"
@@ -1695,18 +1695,9 @@
 			y: -9.25d
 		}
 		{
-			dependencies: ["6AFEDCF1CF22972F"]
+			dependencies: ["73CF950C7A30C0E8"]
 			id: "494585CCA8720FB2"
 			rewards: [
-				{
-					count: 2
-					id: "54A00D52452ACD89"
-					item: {
-						count: 1
-						id: "minecraft:netherite_ingot"
-					}
-					type: "item"
-				}
 				{
 					count: 2
 					id: "222CCFEBD26F3103"
@@ -1716,9 +1707,27 @@
 					}
 					type: "item"
 				}
+				{
+					count: 2
+					id: "738EACB0BBFD08CC"
+					item: {
+						count: 1
+						id: "irons_spellbooks:mithril_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4DE030C5E5984D17"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
 			]
 			shape: "rsquare"
-			size: 1.5d
+			size: 1.3d
 			tasks: [
 				{
 					id: "14AB7E8EE1225B15"
@@ -1742,7 +1751,7 @@
 				}
 			]
 			x: -23.0d
-			y: -11.5d
+			y: -13.7d
 		}
 		{
 			dependencies: ["6AFEDCF1CF22972F"]
@@ -3046,6 +3055,67 @@
 			}]
 			x: -27.5d
 			y: -13.0d
+		}
+		{
+			dependencies: ["6AFEDCF1CF22972F"]
+			id: "73CF950C7A30C0E8"
+			rewards: [
+				{
+					count: 15
+					id: "6B9A36CC36DDC120"
+					item: {
+						count: 1
+						id: "irons_spellbooks:arcane_essence"
+					}
+					type: "item"
+				}
+				{
+					id: "42688276D68E5A4A"
+					item: {
+						count: 1
+						id: "irons_spellbooks:mithril_ingot"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [
+				{
+					id: "00A69DA0B7A75CFC"
+					item: { count: 1, id: "irons_spellbooks:wizard_helmet" }
+					type: "item"
+				}
+				{
+					id: "328AB6F070BD2977"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:wizard_chestplate" }
+					type: "item"
+				}
+				{
+					id: "6FC482276E255AF4"
+					item: { count: 1, id: "irons_spellbooks:wizard_leggings" }
+					type: "item"
+				}
+				{
+					id: "10223DE723708637"
+					item: { count: 1, id: "irons_spellbooks:wizard_boots" }
+					type: "item"
+				}
+			]
+			x: -23.0d
+			y: -11.5d
+		}
+		{
+			dependencies: ["53C9B66BEC667ED0"]
+			id: "2109EF6D9005AD03"
+			shape: "rsquare"
+			tasks: [{
+				id: "19442D989B02FA82"
+				item: { count: 1, id: "irons_spellbooks:greater_conjurers_talisman" }
+				type: "item"
+			}]
+			x: -34.0d
+			y: 2.5d
 		}
 	]
 }

@@ -255,7 +255,7 @@
 		""
 		"To \"unmount\" the contraption, place it back at the Cart Assembler and turn off the redstone signal."
 	]
-	quest.0560F717010F1833.quest_subtitle: "right click into a tamed familiar to give him a stack of enraged (when getting hit, has a chance to consume a stack of enraged to gain heartstop for some seconds), limit 10 per familiar, dropped from Mooshrooms."
+	quest.0560F717010F1833.quest_subtitle: "Dropped from Mooshrooms."
 	quest.0562F21AA82B2961.quest_subtitle: "Craft any Diamond Chest type."
 	quest.05A39ED901BC6569.quest_subtitle: "Reduces the time of debuffs"
 	quest.05B32DE12868C6DE.quest_desc: [
@@ -433,7 +433,6 @@
 	]
 	quest.0819B8A983F38919.title: "&l&5Tips for teleporting&r&r"
 	quest.08277642FD16A56E.quest_subtitle: "You can find corundum in caves or by trading with Ribbits."
-	quest.0842349EE8879544.quest_subtitle: "right click into a scorcher familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Pyromancer Towers."
 	quest.086223FF8861479F.quest_desc: [
 		"If you're planning to go to space, you'll need a new set of gear for the journey."
 		""
@@ -488,7 +487,7 @@
 		"&dUse a wrench to cycle each connector between Push, Pull, and None modes.&r"
 	]
 	quest.091D25B58FD2D1A3.title: "&e🔌 Connectors Overview"
-	quest.093BE9C3E8D400D3.quest_subtitle: "used to heal familiars stored in a familiar tome over time."
+	quest.093BE9C3E8D400D3.quest_subtitle: "Link one familiar to the bed. It will sleep and recover its health when near its bed."
 	quest.0964C5C4D8D33E5F.quest_subtitle: "+25% Engine Power, +50% fuel requirement."
 	quest.098A7DE12CAFAE30.quest_subtitle: "Preliminary Nucleus can be dropped by Endermites when using the Ravaging enchantment on a Hatchet."
 	quest.098D99FBDE0DA69B.quest_desc: [
@@ -498,6 +497,7 @@
 		""
 		"It supports different placement modes (default, round-robin, random), can launch fireworks, and works with redstone signals."
 	]
+	quest.09A1D7358EAB6139.quest_subtitle: "Can be used to store familiars and let wander freely"
 	quest.09C33BB3342632B4.quest_desc: [
 		"In &eThe End&r, you'll find the final boss of Vanilla Minecraft: The &5Ender Dragon&r."
 		""
@@ -670,7 +670,6 @@
 		""
 		"&eSneak + right-click&r to break the block and keep its settings, or just &eright-click&r to rotate it. "
 	]
-	quest.0EC55B2CACD070C2.quest_subtitle: "right click into a hunter familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Evoker Forts."
 	quest.0F38D68C1DDEEEB3.quest_desc: [
 		"&6The Configuration Card&r is a useful tool that allows you to copy and paste the settings and upgrades of a network device."
 		""
@@ -928,7 +927,6 @@
 		""
 		"&2Important:&r Keep a Campfire below the cauldron to keep it heated."
 	]
-	quest.182280CF12911D30.quest_subtitle: "used to store and release a single familiar of any kind, and can be put into a familiar bed to heal the stored familiar over time."
 	quest.1844549B34A9E167.quest_subtitle: "+40 engine power +30% fuel requirement."
 	quest.184B9A5F983FA7A5.quest_desc: ["Although it shows a Honey Bottle, you need to actually use a&n Honey Bucket with filling by spout.&r&c "]
 	quest.1883DF46FCE478C7.quest_desc: [
@@ -952,7 +950,6 @@
 	quest.1888BBCB9A54D6FD.quest_subtitle: "&5☠ Tier 2"
 	quest.18E0360F9A93DD58.quest_subtitle: "+100% Durability"
 	quest.1912B53794E7EB02.quest_desc: ["These doors can be opened with hand but NOT redstone signals."]
-	quest.192C9C5B4F236448.quest_subtitle: "right click into a plague doctor familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Impaled Shipwrecks."
 	quest.192EE909C57F390A.quest_subtitle: "Rare chance of spawning after breaking an &8Ancient Vase&r."
 	quest.193B6128E25C5FE5.quest_desc: [
 		"The &l&6Steam Engine&r&r is a powerful block that generates Rotational Force, offering the highest Stress Unit (SU) output among generator types like Water Wheels and Windmills."
@@ -1090,7 +1087,6 @@
 	]
 	quest.1DDD74A012CDE699.quest_desc: ["The &6iron backpack&r is the upgrade of the basic &ebackpack&r. It has 54 slots and can hold 2 upgrades"]
 	quest.1DDD74A012CDE699.quest_subtitle: "Bigger storage on the go"
-	quest.1DDDE80A3D76DD30.quest_subtitle: "right click into a necromancer familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Ancient Battlegrounds."
 	quest.1E3C1257A1048B85.quest_desc: [
 		"Travel the desert"
 		""
@@ -1107,7 +1103,6 @@
 	quest.1E6F5EB0D07001C1.quest_subtitle: "Move selection frame with W, S, A and D. Dig with SPACE, and place/remove flag with ENTER"
 	quest.1E6F5EB0D07001C1.title: "&cTNTsweeper"
 	quest.1E7A8CADBC6BF73C.quest_subtitle: "Human-powered primitive dual-seater. Trusty, yet neither the fastest nor the easiest to fly. Needs a good initial push to get the rotor spinning."
-	quest.1F149DB505D3BC7D.quest_subtitle: "right click into a summoner familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Ancient Cities."
 	quest.1F4AE081014800B4.quest_desc: ["It was lost by a demon in the battle between the Aether and the Nether"]
 	quest.1F4AE081014800B4.quest_subtitle: "Found in Nether Fortresses"
 	quest.1F4AE081014800B4.title: "Nether Eye"
@@ -1235,6 +1230,7 @@
 	]
 	quest.20CE45C10A58D357.title: "&6Immersive Aircraft&r"
 	quest.20EAD0D76E8C2683.quest_subtitle: "When used for Upgrade: &6+50 Max Mana"
+	quest.2109EF6D9005AD03.quest_subtitle: "&6+15% Summon Damage"
 	quest.2136A142781BBE2B.quest_subtitle: "Not repeatable"
 	quest.216E2ED7D793F72A.quest_subtitle: "Rare random drop from Evokers or Archevokers."
 	quest.2192D2F22A2C17FD.quest_desc: [
@@ -1390,7 +1386,6 @@
 	]
 	quest.250E32D632A506B2.quest_subtitle: "A Cushion that makes you let out a loud fart. Totally useless... or is it?"
 	quest.256C0855A1AD720B.quest_desc: ["When placed, the &9Dread Lamp&r prevents all passive mobs from naturally spawning in a &d96 block radius&r."]
-	quest.25C81EB613F46A69.quest_subtitle: "right click into a lightning mage familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Mountain Towers."
 	quest.25F281C3D8849819.quest_desc: [
 		"By default, an ME network on its own only has an internal buffer of 800AE without an ME Controller, with the controller adding an extra 8kAE per block. For large enough networks, this can be insufficient and may cause a network to power off intermittently when trying to recoup power for any connected devices."
 		""
@@ -1587,7 +1582,7 @@
 	]
 	quest.2AB224DCCC535411.title: "&l&aKeeping resources in stock&r&r"
 	quest.2ADE6153313B3D37.quest_subtitle: "Obtained from market with operator tokens"
-	quest.2AEF1BFD3C4C0F7A.quest_subtitle: "+20% spell resist, when equipped tamed familiars that fall below half health will get oakskin effect, crafted."
+	quest.2AEF1BFD3C4C0F7A.quest_subtitle: "+5% spell resist, when equipped tamed familiars that fall below half health will get oakskin effect, crafted."
 	quest.2B4E5F59E5625ADF.quest_subtitle: "Craft any Iron Shulker Box type."
 	quest.2B603051BF399205.quest_desc: [
 		"The &6Mechanical Composter &rprocesses compostable items—such as flowers—into Compost."
@@ -1629,7 +1624,6 @@
 		"&l&cThe recipe uses stripped wood, so double-check that you’re using the correct type if it’s not working.&r&r"
 	]
 	quest.2C0A86D7F9D1A0D8.quest_subtitle: "You can repeat as many times you want!"
-	quest.2C1C7767F66A6453.quest_subtitle: "right click into a cleric familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Priest Towers."
 	quest.2C203D19752E2E2A.quest_desc: ["The &eLesser Spell Slot Improvement&r can be applied to a spellbook multiple times, up to a maximum of 12 slots."]
 	quest.2C4242CB2934DC57.quest_desc: [
 		"Especially useful while building new contraptions, the&6 Toolbox&r keeps your pockets free of clutter. Simply take the toolbox from your workshop and bring it with you. "
@@ -1868,7 +1862,6 @@
 		""
 		"Storage buses can be filtered and given specific priorities such that specific items will try to go to the attached storage first, however it will not retroactively move any filtered items from anywhere else in the network to its attached storage."
 	]
-	quest.3252CBA260461444.quest_subtitle: "right click into an archmage familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Mountain Towers."
 	quest.325C7701BB3E3F73.quest_desc: [
 		"The &6Starlight Golem&r can be found in the underground forge known as &bThe Golem Forge.&r"
 		""
@@ -1892,7 +1885,7 @@
 		""
 		"&aThese delicate beings can be captured using Empty Bottles and are essential for performing powerful Rituals on the island.&r"
 		""
-		"&eRituals are carried out at the heart of the island, using the pedestals found there in specific crafting recipes.&r &l&cThe order you place the items matter!!!&r&r"
+		"&eRituals are carried out at the heart of the island, using the pedestals found there in specific crafting recipes."
 		""
 		"To find this island, you’ll first need a &6Sniffer&r. Occasionally, &6Sniffers&r will dig up rare &bCrystal Berries&r. "
 		""
@@ -1982,6 +1975,7 @@
 	quest.34AB7EB1F6BF5457.quest_desc: ["Move your paddle, and don't let the ball get past you&f&9"]
 	quest.34AB7EB1F6BF5457.quest_subtitle: "Move the paddle with W and S"
 	quest.34AB7EB1F6BF5457.title: "&f Pong"
+	quest.34FC687BC6B1EEDD.quest_subtitle: "Defeat the Dead King to become able to revive Familiars upon death"
 	quest.35029D28522C7A28.quest_desc: [
 		"Each individual cell has a certain capacity dictated by the &ecomponent&f that the cell has been crafted with."
 		""
@@ -2118,21 +2112,6 @@
 		"2- Add a &6Wireless Transmitter&r to your network."
 		""
 		"You can now access storage wirelessly within the transmitter’s range."
-	]
-	quest.35F8FA0CA403F93C.quest_desc: [
-		"&6The Robo Bee Port &rautomates the wireless delivery of &eCardboard Packages&r—either to players or to other Robo Bee Ports—using Robo Bees."
-		""
-		"Unlike Frogports, which rely on the Chain Conveyor system, Robo Bee Ports use a wireless system, delivering packages via flying Robo Bees."
-		""
-		"So send a Package to a Player, first, place a Cardboard Package into the Robo Bee Port with an Address that matches the target player’s name."
-		""
-		"Insert a Robo Bee into the Robo Bee Slot."
-		""
-		"The Robo Bee will fly to the Player matching the Address and deliver the package."
-		""
-		"If storage (like a chest) is placed next to the Robo Bee Port, it will automatically pull packages from the inventory and send them to the matching Address."
-		""
-		"The entire process can be fully automated and the Robo Bee Port also responds to Redstone signals."
 	]
 	quest.35FDE052B50EFAAF.quest_desc: ["The &bME Import Bus&f periodically sucks items in from whatever external storage the bus is facing. It can optionally be filtered to only take in certain items from said inventory."]
 	quest.36032C287CC77A74.quest_subtitle: "Mechanical Crafting"
@@ -2333,7 +2312,6 @@
 		""
 		"There are tons of different sets you can choose from across various mods."
 	]
-	quest.3D23B7E2B837EA28.quest_subtitle: "+10% mana regen, when equipped allows tamed familiars to escape death at the cost of your own mana, crafted."
 	quest.3D2DDC65DED45F4A.quest_desc: [
 		"The last piece of the puzzle for any large ME network is the &bME Controller&f."
 		""
@@ -2563,28 +2541,6 @@
 		"&aCompatible with:&r"
 		"Exporter, Constructor, Interface (1 per device)"
 	]
-	quest.41CFC641485FE331.quest_desc: [
-		"&aIn multiplayer, you won't be able to see the list of recipes, so here is the full list. You can also fix this issue by joining a singleplayer world first and then joining the multiplayer world.&r"
-		""
-		"{image:kubejs:textures/rituals/ritual1.png width:130 height:113 align:center}"
-		"{image:kubejs:textures/rituals/ritual2.png width:130 height:113 align:center}"
-		"{image:kubejs:textures/rituals/ritual3.png width:130 height:113 align:center}"
-		"{image:kubejs:textures/rituals/ritual4.png width:130 height:113 align:center}"
-		"{image:kubejs:textures/rituals/ritual5.png width:130 height:113 align:center}"
-		"{image:kubejs:textures/rituals/ritual6.png width:130 height:113 align:center}"
-		"{image:kubejs:textures/rituals/ritual7.png width:130 height:113 align:center}"
-		"{image:kubejs:textures/rituals/ritual8.png width:130 height:113 align:center}"
-		"{image:kubejs:textures/rituals/ritual9.png width:130 height:113 align:center}"
-		"{image:kubejs:textures/rituals/ritual10.png width:130 height:113 align:center}"
-		"{image:kubejs:textures/rituals/ritual11.png width:130 height:113 align:center}"
-		"{image:kubejs:textures/rituals/ritual12.png width:130 height:113 align:center}"
-		"{image:kubejs:textures/rituals/ritual13.png width:130 height:113 align:center}"
-		"{image:kubejs:textures/rituals/ritual14.png width:130 height:113 align:center}"
-		"{image:kubejs:textures/rituals/ritual15.png width:130 height:113 align:center}"
-		"{image:kubejs:textures/rituals/ritual16.png width:130 height:113 align:center}"
-		"{image:kubejs:textures/rituals/ritual17.png width:130 height:113 align:center}"
-	]
-	quest.41CFC641485FE331.title: "Multiplayer Rituals Recipes"
 	quest.41E439ED3FAAAA94.quest_subtitle: "Craft any Netherite Shulker Box type."
 	quest.4229C599AF11A4F4.quest_desc: [
 		"&l&6Windmill Sails&r&r generate power when attached to a rotating structure on a Windmill Bearing, offering the same efficiency as Wool blocks. A minimum of 8 sails is required to start rotation."
@@ -2988,7 +2944,6 @@
 		"The &8sky stone block&r can be duplicated once obtained one."
 	]
 	quest.4CCA16E6E4070E37.quest_subtitle: "Explore the moon"
-	quest.4CCA4CC40699E202.quest_subtitle: "right click into a druid familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Jungle Temples."
 	quest.4CCAD1EBB977DF2E.quest_subtitle: "Press CTRL while airborne to perform a short and slow glide"
 	quest.4CED308848726E28.quest_desc: [
 		"Using EITHER the &6Magnet Upgrade&r or the &6Pickup Upgrade&r, you can make it so any item you pick up goes straight into your backpack!"
@@ -3121,8 +3076,6 @@
 		""
 		"-> [Multiplayer Only] The market does not hide the mod's original trades and seed tabs by default."
 		""
-		"-> [Multiplayer Only] Rituals doesn't show on JEI. If you enter a singleplayer world first and them join multiplayer the recipes will work. (Alshanex's Familiars mod issue)"
-		""
 		"-> Dropping Unique Simply Swords items into Refined Storage makes them unremovable."
 		""
 		"🛠 Workarounds:"
@@ -3137,7 +3090,7 @@
 		"&l&cKeep in mind that all of these bugs need to be fixed by the mod author, not the modpack itself."
 		"&r&r"
 	]
-	quest.4EE191C96F7DE687.quest_subtitle: "v1.4.0"
+	quest.4EE191C96F7DE687.quest_subtitle: "v1.4.1"
 	quest.4EE191C96F7DE687.title: "&l&cLIST OF KNOWN ISSUES (PLEASE READ!)&r&r"
 	quest.4F734FC470276106.quest_subtitle: "Applies a temporary haste effect after eating food"
 	quest.4FDAFBD64AA710A1.quest_subtitle: "Increases experience dropped by mobs"
@@ -3155,11 +3108,6 @@
 		"&l&a📝Tip:&r&r &oYou can buy a map in the Market to locate one -&e Cursed Pyramid&r.&r"
 	]
 	quest.5037AA2541E439E5.quest_subtitle: "&3☠ Tier 6"
-	quest.50495638B3A5C08D.quest_desc: [
-		"The &6Portable Stock Ticker&r is a handheld device that connects to a Logistics Network, allowing you to remotely request packages."
-		""
-		"Once linked to a Stock Ticker or Stock Link, it opens a Stock Keeper interface, letting you request items on the go—no need for direct access to a stationary Stock Keeper"
-	]
 	quest.509BB6BF39848F5B.quest_desc: [
 		"Once you've explored the Moon and gathered enough Desh, you will be able to create &dSpace Stations&r around planets!"
 		""
@@ -3346,6 +3294,18 @@
 	]
 	quest.5495DCB070D4777A.title: "&6Create: Connected&r"
 	quest.54A602CE0328A07F.quest_subtitle: "Not repeatable"
+	quest.54D89CD1278E6F68.quest_desc: [
+		""
+		"&l&6Battle:&r&r soon"
+		""
+		"&6&lAbilities:&r&r"
+		"->abi a: soon"
+		""
+		"&l&6Spawn:&r&r soon"
+		""
+		"&l&6Food:&r&r soon"
+	]
+	quest.54D89CD1278E6F68.quest_subtitle: "Tame one Frostling Familiar"
 	quest.5502A204AF05E2DA.quest_desc: [
 		"&nCrafting Process to get the block:&r"
 		""
@@ -3473,6 +3433,7 @@
 		"Default cast key is &6\"V\"&r"
 	]
 	quest.594A8459AD944A3B.quest_subtitle: "Your first Spellbook"
+	quest.594C7C998C98F2EC.quest_subtitle: "used to make disguised illusionist familiars reveal themselves, can be obtained via ritual."
 	quest.594EDA0BA8DFB743.quest_subtitle: "The Priest mob will trade one for a written book that can be found in the Evoker Fort. The written book must be translated by a captive wandering trader from the Evoker Fort first."
 	quest.59753336427A57A6.quest_desc: ["Let's get the basic parts ready to head to space."]
 	quest.59753336427A57A6.quest_subtitle: "Craft a rocket nose cone."
@@ -3834,7 +3795,11 @@
 	quest.627A25524F94FB34.quest_desc: [
 		"&aAlshanex's Familiars&r adds magical creatures called &eFamiliars&r that can be found scattered around the world and &n&lthey can be tamed with &dArcane Essence.&r&r&r They follow you and fight using powerful spells.&m"
 		""
-		"These &efamiliars&r can also be transported by using a &6Familiar Tome&r, and these tomes can be put in a &cFamiliar Bed&r to recover the health of the pet contained in the tome."
+		"You can summon, unsummon, or release them in the selection menu, which can be accessed via keybind. &6The default key is H.&r"
+		""
+		"To summon or unsummon a creature, &6press H&r to open the selection menu, choose your creature, close the menu, and then &6press the summon key (which by default is X).&r"
+		""
+		"You can carry up to 10 familiars."
 	]
 	quest.627A25524F94FB34.title: "&aAlshanex's Familiars&r"
 	quest.629831A093BC1F03.quest_subtitle: "Melee attacks have a chance to inflict Wither."
@@ -4039,7 +4004,6 @@
 	quest.67FA8896AD563A77.title: "&eWaystones"
 	quest.681E258AB577FF73.quest_subtitle: " Increases Lure and Luck of the Sea by 1 level"
 	quest.6831FF0CBA2E0FD2.quest_subtitle: "Not repeatable"
-	quest.6907C5959F72930E.quest_subtitle: "+5% mana regen. Found in Catacombs."
 	quest.692451647E98D133.quest_subtitle: "Not repeatable"
 	quest.692D79D601534A2E.quest_desc: [
 		"{image:kubejs:textures/familiars/summoner.png width:100 height:105 align:center}"
@@ -4653,7 +4617,6 @@
 		""
 		"To use it, place it down wherever you want to launch from with a clear view of the sky. Once you have a Rocket, you can place it down in the middle of the Launch Pad."
 	]
-	quest.75F8A5AAEB67C3AA.quest_subtitle: "right click into an illusionist familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, found in Woodland Mansions."
 	quest.761D029F52BA267B.quest_desc: ["This &6Stack Upgrade&r allows each slot in your Sophisticated Storage to hold &6double&r its normal capacity, accommodating &62 stacks&r of items per slot."]
 	quest.761D029F52BA267B.quest_subtitle: "x2"
 	quest.763F1FB0C55F702F.quest_desc: ["It has seen many warriors drown into the depths of the sea"]
@@ -4767,7 +4730,6 @@
 		""
 		"Note: Adding a Note Block with a Disk makes the Mechanical Arm Dance and the Mechanicle Arm can algo wear the Engineer Goggles."
 	]
-	quest.79604D7C48A2B350.quest_subtitle: "right click into a bard familiar to bind him, equip in the necklace slot to be able to summon/unsummon the bound familiar with its keybind, obtained from the Mysterious Orb."
 	quest.797410E5DF1F96E5.quest_subtitle: "Not repeatable"
 	quest.79A7417475A593C6.quest_desc: [
 		"Most of an ME network uses its own dedicated power system called AE. "
@@ -4803,11 +4765,6 @@
 		"Place it on any Sophisticated Storage multiblock, then use the &bStorage Tool&r to establish a connection to your&d Storage Controller&r. "
 		""
 		"By right-clicking the &dController&r with the &bTool&r and then the Link, you seamlessly connect separate storage units into one cohesive network."
-	]
-	quest.7A9E360EE852C81F.quest_desc: [
-		"&6The Robo Bee&r is an entity that delivers Cardboard Packages to their assigned Addresses. "
-		""
-		"It follows the address on each package, delivering directly to players or between Robo Bee Ports."
 	]
 	quest.7AAC9B89708E9C7E.quest_subtitle: "+50% Takeoff speed."
 	quest.7AC7072BAD19700C.quest_subtitle: "Obtained from market with apprentice tokens"

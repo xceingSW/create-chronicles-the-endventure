@@ -277,5 +277,34 @@ ServerEvents.recipes(event => {
       ' A '
   ], {
       A: 'minecraft:terracotta',
-  })     
+  })
+
+  // weird bug idk why lost recipe with kubejson
+  event.smithing(
+    'alshanex_familiars:bard_helmet',
+    'alshanex_familiars:sound_rune',
+    'irons_spellbooks:wizard_helmet',
+    'irons_spellbooks:arcane_essence'
+  )
+
+  event.smithing(
+    'alshanex_familiars:bard_chestplate',
+    'alshanex_familiars:sound_rune',
+    'irons_spellbooks:wizard_chestplate',
+    'irons_spellbooks:arcane_essence'
+  )  
+
+  event.smithing(
+    'alshanex_familiars:bard_leggings',
+    'alshanex_familiars:sound_rune',
+    'irons_spellbooks:wizard_leggings',
+    'irons_spellbooks:arcane_essence'
+  )  
+
+  event.smithing(
+    'alshanex_familiars:bard_boots',
+    'alshanex_familiars:sound_rune',
+    'irons_spellbooks:wizard_boots',
+    'irons_spellbooks:arcane_essence'
+  )       
 });

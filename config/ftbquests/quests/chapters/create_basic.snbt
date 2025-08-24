@@ -2710,8 +2710,8 @@
 				item: { count: 1, id: "create:factory_gauge" }
 				type: "item"
 			}]
-			x: -11.0d
-			y: -15.5d
+			x: -10.5d
+			y: -16.0d
 		}
 		{
 			dependencies: ["440CB7D81AEBB293"]
@@ -2782,96 +2782,6 @@
 			}]
 			x: -7.5d
 			y: -13.5d
-		}
-		{
-			dependencies: ["440CB7D81AEBB293"]
-			id: "35F8FA0CA403F93C"
-			rewards: [
-				{
-					count: 5
-					id: "040BCD354D9BFE55"
-					item: {
-						count: 1
-						id: "create:experience_nugget"
-					}
-					type: "item"
-				}
-				{
-					id: "27CADDC9651E243B"
-					item: {
-						count: 1
-						id: "magic_coins:silver_coin"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "1D12669217FC8190"
-				item: { count: 1, id: "create_mobile_packages:bee_port" }
-				type: "item"
-			}]
-			x: -10.0d
-			y: -16.5d
-		}
-		{
-			dependencies: ["35F8FA0CA403F93C"]
-			id: "7A9E360EE852C81F"
-			rewards: [
-				{
-					count: 5
-					id: "642E0D3EFE84C8E0"
-					item: {
-						count: 1
-						id: "create:experience_nugget"
-					}
-					type: "item"
-				}
-				{
-					id: "72C95BDF35E3B4C2"
-					item: {
-						count: 1
-						id: "magic_coins:silver_coin"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "7E694C7630752395"
-				item: { count: 1, id: "create_mobile_packages:robo_bee" }
-				type: "item"
-			}]
-			x: -9.0d
-			y: -17.5d
-		}
-		{
-			dependencies: ["35F8FA0CA403F93C"]
-			id: "50495638B3A5C08D"
-			rewards: [
-				{
-					count: 5
-					id: "01ACECAF033FEDF6"
-					item: {
-						count: 1
-						id: "create:experience_nugget"
-					}
-					type: "item"
-				}
-				{
-					id: "6238B18E90EA8D07"
-					item: {
-						count: 1
-						id: "magic_coins:silver_coin"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "437C5C94FC65AA8C"
-				item: { count: 1, id: "create_mobile_packages:portable_stock_ticker" }
-				type: "item"
-			}]
-			x: -11.0d
-			y: -17.5d
 		}
 		{
 			dependencies: ["231D1BD8D2A930CF"]
@@ -3357,8 +3267,8 @@
 				item: { count: 1, id: "extra_gauges:logic_gauge" }
 				type: "item"
 			}]
-			x: -12.0d
-			y: -17.5d
+			x: -9.5d
+			y: -17.0d
 		}
 		{
 			dependencies: ["23A74B3AD73B9E08"]
@@ -3387,7 +3297,7 @@
 				item: { count: 1, id: "extra_gauges:integer_gauge" }
 				type: "item"
 			}]
-			x: -13.0d
+			x: -11.5d
 			y: -17.5d
 		}
 		{
@@ -3417,8 +3327,8 @@
 				item: { count: 1, id: "extra_gauges:comparator_gauge" }
 				type: "item"
 			}]
-			x: -11.5d
-			y: -16.5d
+			x: -10.5d
+			y: -17.5d
 		}
 		{
 			dependencies: ["23A74B3AD73B9E08"]
@@ -3447,7 +3357,7 @@
 				item: { count: 1, id: "extra_gauges:counter_gauge" }
 				type: "item"
 			}]
-			x: -12.5d
+			x: -12.0d
 			y: -16.5d
 		}
 		{
