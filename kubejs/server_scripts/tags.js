@@ -52,3 +52,14 @@ ServerEvents.tags('item', event => {
         'hazennstuff:arbitrium_robes_boots'
     ]);
 })
+
+ServerEvents.tags('item', event => {
+    event.add("c:stripped_woods",[
+        'hazennstuff:stripped_wisewood_wood',
+        'biomeswevegone:stripped_palo_verde_wood',
+        'deeperdarker:stripped_echo_wood',
+        'garnished:stripped_nut_wood',
+        'arts_and_crafts:stripped_cork_wood',
+        'phantasm:stripped_pream_wood'
+    ])
+})
